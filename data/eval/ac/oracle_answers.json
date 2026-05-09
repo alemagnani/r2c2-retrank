@@ -1,0 +1,834 @@
+{
+ "0001": {
+  "question": "What did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016?",
+  "answer": "A Bor Gullet (a tentacled creature that reads minds)",
+  "key_entities": [
+   "Saw Gerrera",
+   "Bor Gullet",
+   "Rogue One",
+   "2016"
+  ],
+  "confidence": 90,
+  "reason": "In Rogue One: A Star Wars Story (2016), Saw Gerrera used Bor Gullet, a telepathic tentacled creature, to interrogate/torture Bodhi Rook by extracting his memories.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0002": {
+  "question": "What was Scarlett Johansson's superhero name in the Marvel Cinematic Universe?",
+  "answer": "Black Widow",
+  "key_entities": [
+   "Scarlett Johansson",
+   "Black Widow",
+   "Marvel Cinematic Universe",
+   "Natasha Romanoff"
+  ],
+  "confidence": 99,
+  "reason": "Scarlett Johansson played Natasha Romanoff, known as Black Widow, throughout the MCU starting with Iron Man 2 (2010).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0003": {
+  "question": "In the movie \"I, Robot\" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say?",
+  "answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm.",
+  "key_entities": [
+   "Zeroth Law",
+   "Isaac Asimov",
+   "robotics",
+   "humanity"
+  ],
+  "confidence": 85,
+  "reason": "Asimov's Zeroth Law supersedes the other three laws and places humanity's overall welfare above that of any individual human.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0004": {
+  "question": "Who played James Bond in the movie in which the climax take place in outer space?",
+  "answer": "Roger Moore",
+  "key_entities": [
+   "Roger Moore",
+   "James Bond",
+   "Moonraker",
+   "outer space"
+  ],
+  "confidence": 99,
+  "reason": "Moonraker (1979) is the James Bond film whose climax takes place in outer space, and Roger Moore played Bond in that film.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0005": {
+  "question": "Actor George Lazenby played James Bond in how many movies?",
+  "answer": "1",
+  "key_entities": [
+   "George Lazenby",
+   "James Bond",
+   "On Her Majesty's Secret Service"
+  ],
+  "confidence": 99,
+  "reason": "George Lazenby played James Bond in only one film, 'On Her Majesty's Secret Service' (1969).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0006": {
+  "question": "In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone?",
+  "answer": "The Soul Stone",
+  "key_entities": [
+   "Natasha Romanoff",
+   "Soul Stone",
+   "Vormir",
+   "Avengers: Endgame"
+  ],
+  "confidence": 99,
+  "reason": "Natasha Romanoff (Black Widow) sacrificed herself on Vormir so that Hawkeye could obtain the Soul Stone.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0007": {
+  "question": "\"Love, Actually\" features a cover song called \"Christmas is All Around.\" What was the original song title?",
+  "answer": "Wet Wet Wet's \"Love Is All Around\"",
+  "key_entities": [
+   "Love Is All Around",
+   "Wet Wet Wet",
+   "Christmas is All Around",
+   "Love Actually"
+  ],
+  "confidence": 95,
+  "reason": "In Love Actually, Bill Nighy's character records a Christmas version of 'Love Is All Around' by Wet Wet Wet, retitled 'Christmas Is All Around.'",
+  "model": "claude-sonnet-4-6"
+ },
+ "0008": {
+  "question": "Name the actor who played Green Lantern in the DCEU and then played Deadpool in the MCU.",
+  "answer": "Ryan Reynolds",
+  "key_entities": [
+   "Ryan Reynolds",
+   "Green Lantern",
+   "Deadpool"
+  ],
+  "confidence": 97,
+  "reason": "Ryan Reynolds played Hal Jordan/Green Lantern in the 2011 DC film and Wade Wilson/Deadpool in the Marvel films, though technically Green Lantern was not part of the DCEU continuity.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0009": {
+  "question": "In Bean the movie, Mr Bean works for which gallery?",
+  "answer": "The Royal National Gallery",
+  "key_entities": [
+   "Bean",
+   "Royal National Gallery",
+   "Mr Bean"
+  ],
+  "confidence": 85,
+  "reason": "In the 1997 film Bean, Mr Bean is a security guard/attendant at the Royal National Gallery in London.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0010": {
+  "question": "Who plays the Wizard of Oz in Wicked the movie?",
+  "answer": "Jeff Goldblum",
+  "key_entities": [
+   "Jeff Goldblum",
+   "Wizard of Oz",
+   "Wicked",
+   "2024"
+  ],
+  "confidence": 92,
+  "reason": "Jeff Goldblum was cast as the Wizard in the 2024 Universal Pictures film adaptation of Wicked.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0011": {
+  "question": "In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba?",
+  "answer": "Zeniba",
+  "key_entities": [
+   "Zeniba",
+   "Yubaba",
+   "Spirited Away",
+   "Miyazaki"
+  ],
+  "confidence": 99,
+  "reason": "Zeniba is Yubaba's twin sister in Spirited Away, appearing identical to her but with a gentler, kinder personality.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0012": {
+  "question": "In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie?",
+  "answer": "Gareth",
+  "key_entities": [
+   "Gareth",
+   "Four Weddings and a Funeral",
+   "Hamish",
+   "Carrie"
+  ],
+  "confidence": 95,
+  "reason": "Gareth, played by Simon Callow, dies of a heart attack at the third wedding (Hamish and Carrie's), which is the 'funeral' of the film's title.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0013": {
+  "question": "In Back To The Future Part Two, who plays Marlene McFly?",
+  "answer": "Michael J. Fox",
+  "key_entities": [
+   "Marlene McFly",
+   "Michael J. Fox",
+   "Back to the Future Part II"
+  ],
+  "confidence": 90,
+  "reason": "Michael J. Fox played multiple roles in Back to the Future Part II, including Marty McFly's daughter Marlene McFly, in addition to Marty himself and Marty Jr.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0014": {
+  "question": "Of the Star Wars sequel trilogy, which movie was NOT directed by J. J. Abrams?",
+  "answer": "The Last Jedi (Episode VIII)",
+  "key_entities": [
+   "The Last Jedi",
+   "Rian Johnson",
+   "Star Wars sequel trilogy",
+   "J. J. Abrams"
+  ],
+  "confidence": 99,
+  "reason": "The Last Jedi was directed by Rian Johnson, while J. J. Abrams directed The Force Awakens (Episode VII) and The Rise of Skywalker (Episode IX).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0015": {
+  "question": "Who plays a blind person in both John Wick 4 and Rogue One, the Star Wars spinoff?",
+  "answer": "Donnie Yen",
+  "key_entities": [
+   "Donnie Yen",
+   "John Wick 4",
+   "Rogue One",
+   "blind"
+  ],
+  "confidence": 97,
+  "reason": "Donnie Yen played the blind warrior Chirrut Îmwe in Rogue One and the blind assassin Caine in John Wick: Chapter 4.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0016": {
+  "question": "Which movie was released earlier, Avengers: Infinity War or 1917 ?",
+  "answer": "Avengers: Infinity War",
+  "key_entities": [
+   "Avengers: Infinity War",
+   "1917",
+   "2018",
+   "2019"
+  ],
+  "confidence": 99,
+  "reason": "Avengers: Infinity War was released in April 2018, while 1917 was released in December 2019.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0017": {
+  "question": "Which movie had a higher initial gross, Avatar or Zootopia?",
+  "answer": "Avatar",
+  "key_entities": [
+   "Avatar",
+   "Zootopia",
+   "opening weekend gross"
+  ],
+  "confidence": 85,
+  "reason": "Avatar (2009) had a massive opening weekend of approximately $77 million domestically, while Zootopia (2016) opened to about $75 million, making Avatar's initial gross slightly higher, though they are very close.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0018": {
+  "question": "How many long films did Christopher Nolan direct between 2000 and 2010?",
+  "answer": "6",
+  "key_entities": [
+   "Christopher Nolan",
+   "Memento",
+   "The Dark Knight",
+   "Inception"
+  ],
+  "confidence": 90,
+  "reason": "Nolan directed Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, and Inception between 2000 and 2010 inclusive.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0020": {
+  "question": "How many movies did Leelee Sobieski act in between 2000 and 2010?",
+  "answer": "Approximately 10 to 12 movies",
+  "key_entities": [
+   "Leelee Sobieski",
+   "2000-2010",
+   "filmography"
+  ],
+  "confidence": 35,
+  "reason": "Leelee Sobieski had a moderately active career in this period but exact count depends on whether TV movies and direct-to-video releases are included, and my recall of her complete filmography is uncertain.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0021": {
+  "question": "Who was born earlier? Natalie Portman or Leelee Sobieski",
+  "answer": "Natalie Portman",
+  "key_entities": [
+   "Natalie Portman",
+   "Leelee Sobieski",
+   "1981",
+   "1983"
+  ],
+  "confidence": 92,
+  "reason": "Natalie Portman was born on June 9, 1981, while Leelee Sobieski was born on June 10, 1983, making Portman nearly two years older.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0022": {
+  "question": "Who won the Academy Award for Best Actress more times, Katharine Hepburn or Audrey Hepburn?",
+  "answer": "Katharine Hepburn",
+  "key_entities": [
+   "Katharine Hepburn",
+   "Audrey Hepburn",
+   "Academy Award for Best Actress"
+  ],
+  "confidence": 99,
+  "reason": "Katharine Hepburn won 4 Best Actress Oscars, while Audrey Hepburn won only 1.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0023": {
+  "question": "Who won the Academy Award for Best Actress more times, Grace Kelly or Ingrid Bergman?",
+  "answer": "Ingrid Bergman",
+  "key_entities": [
+   "Ingrid Bergman",
+   "Grace Kelly",
+   "Academy Award for Best Actress"
+  ],
+  "confidence": 97,
+  "reason": "Ingrid Bergman won Best Actress twice (Gaslight 1945, Anastasia 1957) plus one Best Supporting Actress, while Grace Kelly won only once (The Country Girl 1955).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0024": {
+  "question": "How many films in the Pirates of the Caribbean series were released between 2000 and 2010?",
+  "answer": "3",
+  "key_entities": [
+   "Pirates of the Caribbean",
+   "The Curse of the Black Pearl (2003)",
+   "Dead Man's Chest (2006)",
+   "At World's End (2007)"
+  ],
+  "confidence": 99,
+  "reason": "The first three Pirates of the Caribbean films were released in 2003, 2006, and 2007, all within the 2000–2010 window.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0025": {
+  "question": "Which movie had a higher box office, May 18 (Hwaryeohan Hyooga) or 12.12: The Day (Seourui bom)?",
+  "answer": "12.12: The Day (Seourui bom)",
+  "key_entities": [
+   "12.12: The Day",
+   "Seourui bom",
+   "May 18",
+   "Hwaryeohan Hyooga"
+  ],
+  "confidence": 82,
+  "reason": "12.12: The Day (2023) was a massive box office hit in South Korea, grossing over 13 million admissions, while May 18 (2007) had a much smaller theatrical run with approximately 2-3 million admissions.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0026": {
+  "question": "In Gladiator (2000), who plays the Roman emperor Commodus?",
+  "answer": "Joaquin Phoenix",
+  "key_entities": [
+   "Gladiator",
+   "Commodus",
+   "Joaquin Phoenix",
+   "2000"
+  ],
+  "confidence": 99,
+  "reason": "Joaquin Phoenix portrayed the villainous Emperor Commodus in Ridley Scott's Gladiator (2000), earning an Academy Award nomination for Best Supporting Actor.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0027": {
+  "question": "In The Silence of the Lambs (1991), what food is Hannibal Lecter famously associated with when he describes eating a census taker?",
+  "answer": "fava beans and a nice Chianti",
+  "key_entities": [
+   "Hannibal Lecter",
+   "The Silence of the Lambs",
+   "fava beans",
+   "Chianti"
+  ],
+  "confidence": 99,
+  "reason": "Hannibal Lecter's iconic line describes eating a census taker's liver with fava beans and a nice Chianti.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0028": {
+  "question": "In Finding Nemo (2003), what kind of fish is Dory?",
+  "answer": "Blue tang (regal blue tang / palette surgeonfish)",
+  "key_entities": [
+   "Dory",
+   "Finding Nemo",
+   "blue tang"
+  ],
+  "confidence": 99,
+  "reason": "Dory is explicitly identified as a regal blue tang (Paracanthurus hepatus) in the film and its sequel.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0029": {
+  "question": "In The Shawshank Redemption (1994), Andy Dufresne escapes from prison through what object in his cell wall?",
+  "answer": "A poster-concealed tunnel he dug through the cell wall",
+  "key_entities": [
+   "Andy Dufresne",
+   "The Shawshank Redemption",
+   "tunnel",
+   "poster"
+  ],
+  "confidence": 99,
+  "reason": "Andy spent nearly 20 years digging a tunnel through his cell wall, hidden behind a series of posters, to escape Shawshank prison.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0030": {
+  "question": "Which actor played both Magneto in the X-Men films and Gandalf in The Lord of the Rings trilogy?",
+  "answer": "Ian McKellen",
+  "key_entities": [
+   "Ian McKellen",
+   "Magneto",
+   "Gandalf",
+   "X-Men",
+   "The Lord of the Rings"
+  ],
+  "confidence": 99,
+  "reason": "Ian McKellen famously portrayed Magneto in the X-Men film series and Gandalf in Peter Jackson's Lord of the Rings trilogy.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0031": {
+  "question": "In Casablanca (1942), Rick Blaine owns a nightclub. What is the name of the actor who portrayed this nightclub owner?",
+  "answer": "Humphrey Bogart",
+  "key_entities": [
+   "Humphrey Bogart",
+   "Rick Blaine",
+   "Casablanca",
+   "1942"
+  ],
+  "confidence": 99,
+  "reason": "Humphrey Bogart famously portrayed Rick Blaine, the nightclub owner, in the 1942 classic film Casablanca.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0032": {
+  "question": "How many Academy Awards did Slumdog Millionaire (2008) win?",
+  "answer": "8 Academy Awards",
+  "key_entities": [
+   "Slumdog Millionaire",
+   "Academy Awards",
+   "2008",
+   "8"
+  ],
+  "confidence": 99,
+  "reason": "Slumdog Millionaire won 8 Oscars at the 81st Academy Awards ceremony in 2009, including Best Picture and Best Director.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0033": {
+  "question": "Actor Bill Paxton appeared in both Titanic and Aliens. Which film featured him as Brock Lovett?",
+  "answer": "Titanic",
+  "key_entities": [
+   "Bill Paxton",
+   "Brock Lovett",
+   "Titanic"
+  ],
+  "confidence": 99,
+  "reason": "Bill Paxton played Brock Lovett, the treasure hunter searching for the Heart of the Ocean diamond, in James Cameron's 1997 film Titanic.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0034": {
+  "question": "In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?",
+  "answer": "14 players (7 per team)",
+  "key_entities": [
+   "Quidditch",
+   "Harry Potter",
+   "7 players per team"
+  ],
+  "confidence": 95,
+  "reason": "Each Quidditch team has 7 players (1 Keeper, 2 Beaters, 3 Chasers, 1 Seeker), so two teams means 14 players total on the field.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0035": {
+  "question": "How many years apart were the theatrical releases of Avatar and Avengers: Endgame?",
+  "answer": "10 years",
+  "key_entities": [
+   "Avatar",
+   "Avengers: Endgame",
+   "2009",
+   "2019"
+  ],
+  "confidence": 99,
+  "reason": "Avatar was released in December 2009 and Avengers: Endgame was released in April 2019, making them 10 years apart.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0036": {
+  "question": "What is the nickname of Lots-o'-Huggin' Bear from Toy Story?",
+  "answer": "Lotso",
+  "key_entities": [
+   "Lots-o'-Huggin' Bear",
+   "Lotso",
+   "Toy Story 3"
+  ],
+  "confidence": 97,
+  "reason": "Lots-o'-Huggin' Bear is commonly referred to by his nickname 'Lotso' throughout Toy Story 3.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0037": {
+  "question": "What is the slogan of Monsters, Inc. in the movie?",
+  "answer": "We Scare Because We Care",
+  "key_entities": [
+   "Monsters, Inc.",
+   "slogan",
+   "Pixar"
+  ],
+  "confidence": 95,
+  "reason": "This is the official company slogan used by Monsters, Inc. in the 2001 Pixar film.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0038": {
+  "question": "How many of the first five Pixar feature films were directed by John Lasseter?",
+  "answer": "3",
+  "key_entities": [
+   "John Lasseter",
+   "Toy Story",
+   "A Bug's Life",
+   "Toy Story 2"
+  ],
+  "confidence": 90,
+  "reason": "John Lasseter directed the first three Pixar features (Toy Story, A Bug's Life, Toy Story 2), while Monsters, Inc. and Finding Nemo were directed by Pete Docter and Andrew Stanton respectively.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0040": {
+  "question": "In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth?",
+  "answer": "Directive A-113",
+  "key_entities": [
+   "A-113",
+   "AUTO",
+   "WALL-E",
+   "Axiom"
+  ],
+  "confidence": 97,
+  "reason": "In WALL-E, the secret directive given to AUTO by the CEO of Buy-N-Large is coded A-113, instructing the autopilot to never allow humans to return to Earth.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0041": {
+  "question": "Who voiced Fillmore in Cars 2?",
+  "answer": "Lloyd Sherr",
+  "key_entities": [
+   "Lloyd Sherr",
+   "Fillmore",
+   "Cars 2",
+   "George Carlin"
+  ],
+  "confidence": 85,
+  "reason": "Lloyd Sherr took over the role of Fillmore after George Carlin, the original voice actor, died in 2008 before Cars 2 was made.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0042": {
+  "question": "What was the first movie produced by Studio Ghibli?",
+  "answer": "Castle in the Sky (Laputa: Castle in the Sky)",
+  "key_entities": [
+   "Castle in the Sky",
+   "Studio Ghibli",
+   "Hayao Miyazaki",
+   "1986"
+  ],
+  "confidence": 90,
+  "reason": "Castle in the Sky (Tenkū no Shiro Rapyuta) was released in 1986 as the first film produced by Studio Ghibli, which was founded that same year.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0043": {
+  "question": "What Ghibli movie character made a cameo appearance in Toy Story 3?",
+  "answer": "Totoro",
+  "key_entities": [
+   "Totoro",
+   "My Neighbor Totoro",
+   "Toy Story 3",
+   "Studio Ghibli"
+  ],
+  "confidence": 95,
+  "reason": "A Totoro plush toy appears in Toy Story 3, serving as a cameo nod to the Studio Ghibli film My Neighbor Totoro, reflecting the friendship between Pixar and Ghibli.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0044": {
+  "question": "What was the first animated movie to win the Golden Bear (Goldener Bär)?",
+  "answer": "Spirited Away (Sen to Chihiro no Kamikakushi) by Hayao Miyazaki, which won the Golden Bear at the 2002 Berlin International Film Festival",
+  "key_entities": [
+   "Spirited Away",
+   "Hayao Miyazaki",
+   "Golden Bear",
+   "2002"
+  ],
+  "confidence": 82,
+  "reason": "Spirited Away won the Golden Bear at the 52nd Berlinale in 2002, and is widely recognized as the first animated film to win this award.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0045": {
+  "question": "How many movies produced by Studio Ghibli since 2000 have been directed by Hayao Miyazaki?",
+  "answer": "5",
+  "key_entities": [
+   "Studio Ghibli",
+   "Hayao Miyazaki",
+   "Spirited Away",
+   "The Boy and the Heron"
+  ],
+  "confidence": 95,
+  "reason": "Miyazaki directed Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), and The Boy and the Heron (2023) for Studio Ghibli since 2000.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0046": {
+  "question": "By the end of August 2025, how many Marvel Avengers series movies are there?",
+  "answer": "4 Avengers movies",
+  "key_entities": [
+   "The Avengers",
+   "Age of Ultron",
+   "Infinity War",
+   "Endgame"
+  ],
+  "confidence": 95,
+  "reason": "The four Avengers-titled films were released in 2012, 2015, 2018, and 2019; the next installments are scheduled for 2026.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0047": {
+  "question": "In the movie, the day after tomorrow, how many helicopters were sent to rescue the British royal family from Balmoral Castle?",
+  "answer": "",
+  "key_entities": [
+   "The Day After Tomorrow",
+   "Balmoral Castle",
+   "British royal family",
+   "helicopters"
+  ],
+  "confidence": 0,
+  "reason": "I do not recall a specific scene in The Day After Tomorrow involving helicopters sent to rescue the British royal family from Balmoral Castle.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0048": {
+  "question": "In which movie of The Fast & the Furious series, did the \"God's Eye\" first appear?",
+  "answer": "Furious 7",
+  "key_entities": [
+   "Furious 7",
+   "God's Eye",
+   "Fast & Furious",
+   "device"
+  ],
+  "confidence": 95,
+  "reason": "The God's Eye, a device capable of hacking any camera to locate anyone, was introduced as a central plot element in Furious 7 (2015).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0049": {
+  "question": "How many mainline films of The Fast & the Furious series did Justin Lin work as a screenwriter?",
+  "answer": "2",
+  "key_entities": [
+   "Justin Lin",
+   "F9",
+   "Fast X",
+   "Fast & Furious"
+  ],
+  "confidence": 72,
+  "reason": "Justin Lin received screenwriting credits on F9 (2021) and Fast X (2023), giving him 2 mainline screenwriting credits in the franchise.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0050": {
+  "question": "Which The Fast & the Furious movie had the higher worldwide box office, F9 or Fast X?",
+  "answer": "F9",
+  "key_entities": [
+   "F9",
+   "Fast X",
+   "worldwide box office"
+  ],
+  "confidence": 85,
+  "reason": "F9 (2021) grossed approximately $726 million worldwide, while Fast X (2023) grossed approximately $704 million worldwide, making F9 the higher earner.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0051": {
+  "question": "In Interstellar, what is the full name of Joseph Cooper's daughter?",
+  "answer": "Murph Cooper (Murphy Cooper)",
+  "key_entities": [
+   "Interstellar",
+   "Murphy Cooper",
+   "Joseph Cooper",
+   "Murph"
+  ],
+  "confidence": 90,
+  "reason": "In Interstellar, Cooper's daughter is called Murph, short for Murphy Cooper, named after Murphy's Law.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0052": {
+  "question": "In Interstellar, what is the nick name of Joseph Cooper's daughter?",
+  "answer": "Murph",
+  "key_entities": [
+   "Interstellar",
+   "Joseph Cooper",
+   "Murphy Cooper",
+   "Murph"
+  ],
+  "confidence": 99,
+  "reason": "In Interstellar, Cooper's daughter Murphy is nicknamed 'Murph' throughout the film.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0053": {
+  "question": "In Interstellar, how old is Joseph Cooper's daughter before Joseph started his mission?",
+  "answer": "10 years old",
+  "key_entities": [
+   "Interstellar",
+   "Joseph Cooper",
+   "Murph",
+   "10"
+  ],
+  "confidence": 85,
+  "reason": "In Interstellar, Murph (Cooper's daughter) is established to be around 10 years old when Cooper departs on his mission.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0054": {
+  "question": "By the end of August 2025, what is the most recent movie directed by the director of Interstellar?",
+  "answer": "The Dark Knight Rises (2012) — wait, more recent: Dunkirk (2017), Tenet (2020), Oppenheimer (2023)",
+  "key_entities": [
+   "Christopher Nolan",
+   "Oppenheimer",
+   "2023"
+  ],
+  "confidence": 97,
+  "reason": "Christopher Nolan directed Interstellar, and his most recent film as of August 2025 is Oppenheimer, released in July 2023.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0055": {
+  "question": "What is the first film to be released in Dolby Vision format in Dolby Cinema?",
+  "answer": "The Martian (2015)",
+  "key_entities": [
+   "The Martian",
+   "Dolby Vision",
+   "Dolby Cinema",
+   "2015"
+  ],
+  "confidence": 45,
+  "reason": "Dolby Cinema launched around 2015-2016 and The Martian is often cited as an early Dolby Vision release, but I'm not fully certain it was the absolute first.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0056": {
+  "question": "In The Empire Strikes Back, on which planet did the Rebel Alliance first establish their base?",
+  "answer": "Hoth",
+  "key_entities": [
+   "Hoth",
+   "Rebel Alliance",
+   "Echo Base",
+   "The Empire Strikes Back"
+  ],
+  "confidence": 99,
+  "reason": "The Empire Strikes Back opens with the Rebel Alliance's Echo Base established on the ice planet Hoth.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0057": {
+  "question": "In the Star Wars universe, who first discovered the Jedi that wields two white lightsabers and brought her to the Jedi Temple?",
+  "answer": "Plo Koon",
+  "key_entities": [
+   "Plo Koon",
+   "Ahsoka Tano",
+   "Jedi Temple",
+   "white lightsabers"
+  ],
+  "confidence": 85,
+  "reason": "Plo Koon discovered Ahsoka Tano on her homeworld of Shili and brought her to the Jedi Temple; she later became known for wielding two white lightsabers.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0058": {
+  "question": "In Rogue One, what was Chirrut Îmwe repeating before he died?",
+  "answer": "I am one with the Force, and the Force is with me.",
+  "key_entities": [
+   "Chirrut Îmwe",
+   "Rogue One",
+   "the Force",
+   "mantra"
+  ],
+  "confidence": 98,
+  "reason": "Chirrut Îmwe repeatedly chanted this mantra throughout the film, including as his dying words after being fatally struck.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0059": {
+  "question": "Name the actor who played a Jedi in Star Wars: Episode III – Revenge of the Sith and then played in Avengers of MCU.",
+  "answer": "Samuel L. Jackson",
+  "key_entities": [
+   "Samuel L. Jackson",
+   "Mace Windu",
+   "Star Wars: Episode III – Revenge of the Sith",
+   "Nick Fury",
+   "Avengers"
+  ],
+  "confidence": 92,
+  "reason": "Samuel L. Jackson played Jedi Master Mace Windu in Episode III and Nick Fury in the MCU Avengers films.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0060": {
+  "question": "In Star Wars, on which planet did Han Solo die?",
+  "answer": "Starkiller Base",
+  "key_entities": [
+   "Han Solo",
+   "Starkiller Base",
+   "The Force Awakens",
+   "Kylo Ren"
+  ],
+  "confidence": 99,
+  "reason": "Han Solo was killed by Kylo Ren on Starkiller Base in Star Wars: The Force Awakens (2015).",
+  "model": "claude-sonnet-4-6"
+ },
+ "0061": {
+  "question": "In the first three MCU Spider-Man movies, what is the common word in their subtitles?",
+  "answer": "Home",
+  "key_entities": [
+   "Homecoming",
+   "Far From Home",
+   "No Way Home",
+   "Spider-Man"
+  ],
+  "confidence": 99,
+  "reason": "All three MCU Spider-Man film subtitles (Homecoming, Far From Home, No Way Home) contain the word 'Home'.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0062": {
+  "question": "In Rogue One, what is Jyn Erso's nickname?",
+  "answer": "Stardust",
+  "key_entities": [
+   "Jyn Erso",
+   "Stardust",
+   "Rogue One",
+   "Galen Erso"
+  ],
+  "confidence": 97,
+  "reason": "Galen Erso gave his daughter Jyn the nickname 'Stardust,' which also became the codename for the Death Star plans.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0063": {
+  "question": "In The Empire Strikes Back, what kind of giant vehicle did the empire use to attack the rebel base?",
+  "answer": "AT-AT walkers (All Terrain Armored Transport)",
+  "key_entities": [
+   "AT-AT walkers",
+   "The Empire Strikes Back",
+   "Battle of Hoth",
+   "rebel base"
+  ],
+  "confidence": 99,
+  "reason": "The Empire used massive four-legged AT-AT walkers to attack the Rebel Alliance's Echo Base on the ice planet Hoth in The Empire Strikes Back.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0064": {
+  "question": "Which Star Wars spinoff movie is more successful, Solo or Rogue One?",
+  "answer": "Rogue One",
+  "key_entities": [
+   "Rogue One",
+   "Solo",
+   "Star Wars",
+   "box office"
+  ],
+  "confidence": 97,
+  "reason": "Rogue One grossed approximately $1.06 billion worldwide compared to Solo's roughly $393 million, making it significantly more successful both critically and commercially.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0065": {
+  "question": "In the most successful Star Wars spinoff movie, who killed the characters that are played by Chinese actors?",
+  "answer": "Imperial forces (stormtroopers and death troopers) killed both Chirrut Îmwe (Donnie Yen) and Baze Malbus (Jiang Wen) during the Battle of Scarif",
+  "key_entities": [
+   "Rogue One",
+   "Donnie Yen",
+   "Jiang Wen",
+   "Imperial stormtroopers"
+  ],
+  "confidence": 82,
+  "reason": "In Rogue One, the most successful Star Wars spinoff, both Chinese actors Donnie Yen and Jiang Wen's characters were killed by Imperial forces during the climactic battle.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0019": {
+  "question": "How many movies did Kazunari Ninomiya act in between 2000 and 2010?",
+  "answer": "4",
+  "key_entities": [
+   "Kazunari Ninomiya",
+   "Letters from Iwo Jima",
+   "Ao no Honoo",
+   "Yatterman",
+   "Gantz"
+  ],
+  "confidence": 45,
+  "reason": "Ninomiya appeared in several films in this period including Letters from Iwo Jima.",
+  "model": "claude-sonnet-4-6"
+ },
+ "0039": {
+  "question": "How many days passed between the US premiere of \"Toy Story\" and the US premiere of \"Toy Story 4\"?",
+  "answer": "8607",
+  "key_entities": [
+   "Toy Story",
+   "Toy Story 4",
+   "US premiere"
+  ],
+  "confidence": 82,
+  "reason": "Toy Story premiered Nov 22, 1995; Toy Story 4 premiered Jun 21, 2019.",
+  "model": "claude-sonnet-4-6"
+ }
+}

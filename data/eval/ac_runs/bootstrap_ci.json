@@ -1,0 +1,195 @@
+{
+  "n_iter": 2000,
+  "per_candidate": {
+    "ensemble_top1": {
+      "hmr": 0.9743589743589743,
+      "ci_lo": 0.9743589743589743,
+      "ci_hi": 0.9743589743589743,
+      "ci_width": 0.0
+    },
+    "ensemble_top3": {
+      "hmr": 0.9691943528616113,
+      "ci_lo": 0.9613384484228473,
+      "ci_hi": 0.9743589743589743,
+      "ci_width": 0.013020525936127014
+    },
+    "bitem_only_refined_sonnet_A": {
+      "hmr": 0.9626170611271921,
+      "ci_lo": 0.9581551927284968,
+      "ci_hi": 0.9666694922437907,
+      "ci_width": 0.008514299515293922
+    },
+    "bitem_only_broad_A": {
+      "hmr": 0.9367718425028886,
+      "ci_lo": 0.8871129394166044,
+      "ci_hi": 0.9654019183430949,
+      "ci_width": 0.07828897892649045
+    },
+    "refined_sonnet_A": {
+      "hmr": 0.9114285714285714,
+      "ci_lo": 0.841794847598377,
+      "ci_hi": 0.9603619236489835,
+      "ci_width": 0.11856707605060657
+    },
+    "refined_ce_A": {
+      "hmr": 0.8024080427194893,
+      "ci_lo": 0.5686390811831341,
+      "ci_hi": 0.9421792144761676,
+      "ci_width": 0.3735401332930335
+    },
+    "refined_lexical_A": {
+      "hmr": 0.833207999201411,
+      "ci_lo": 0.5652435357787132,
+      "ci_hi": 0.9581551927284968,
+      "ci_width": 0.3929116569497836
+    },
+    "broad_A": {
+      "hmr": 0.8262867902090972,
+      "ci_lo": 0.4691564147627417,
+      "ci_hi": 0.959513148253684,
+      "ci_width": 0.4903567334909422
+    },
+    "bitem_only_s1_haiku_A": {
+      "hmr": 0.8360805860805861,
+      "ci_lo": 0.6644697573755554,
+      "ci_hi": 0.9302835358589467,
+      "ci_width": 0.2658137784833914
+    },
+    "bitem_only_s4_haiku_A": {
+      "hmr": 0.9131634046426946,
+      "ci_lo": 0.8447993447993448,
+      "ci_hi": 0.9602842740269399,
+      "ci_width": 0.11548492922759512
+    },
+    "bitem_only_all_haiku_A": {
+      "hmr": 0.7923598570610219,
+      "ci_lo": 0.6341109365558912,
+      "ci_hi": 0.883098216116465,
+      "ci_width": 0.24898727956057376
+    },
+    "bitem_only_opus_A": {
+      "hmr": 0.7867146736642969,
+      "ci_lo": 0.5929674311359987,
+      "ci_hi": 0.8885640431410999,
+      "ci_width": 0.29559661200510123
+    },
+    "retrank_plus_error404_refined_sonnet_A": {
+      "hmr": 0.7377239872247436,
+      "ci_lo": 0.4221500740940321,
+      "ci_hi": 0.9386518847006652,
+      "ci_width": 0.516501810606633
+    }
+  },
+  "pairwise": {
+    "RQ2 (BITEM vs Tier-1, broad)": {
+      "delta": -0.11048505229379135,
+      "ci_lo": -0.45818063663854924,
+      "ci_hi": 0.04421348705362671,
+      "significant": false,
+      "comparison": [
+        "bitem_only_broad_A",
+        "broad_A"
+      ]
+    },
+    "RQ6 (Sonnet refinement vs broad on Tier-1)": {
+      "delta": 0.08514178121947413,
+      "ci_lo": -0.0452879067139611,
+      "ci_hi": 0.43868181093278213,
+      "significant": false,
+      "comparison": [
+        "broad_A",
+        "refined_sonnet_A"
+      ]
+    },
+    "RQ6b (CE vs broad on Tier-1)": {
+      "delta": -0.023878747489607943,
+      "ci_lo": -0.30902865761031484,
+      "ci_hi": 0.3132678457786402,
+      "significant": false,
+      "comparison": [
+        "broad_A",
+        "refined_ce_A"
+      ]
+    },
+    "RQ6b (lexical vs broad on Tier-1)": {
+      "delta": 0.006921208992313743,
+      "ci_lo": -0.04062338945460098,
+      "ci_hi": 0.11022448491537029,
+      "significant": false,
+      "comparison": [
+        "broad_A",
+        "refined_lexical_A"
+      ]
+    },
+    "RQ9 (top-1 ensemble vs BITEM baseline)": {
+      "delta": 0.011741913231782197,
+      "ci_lo": 0.008109495844164205,
+      "ci_hi": 0.01628305482358161,
+      "significant": true,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "ensemble_top1"
+      ]
+    },
+    "RQ9 (top-3 ensemble vs BITEM baseline)": {
+      "delta": 0.006577291734419122,
+      "ci_lo": -0.002314923462517049,
+      "ci_hi": 0.0142142386780989,
+      "significant": false,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "ensemble_top3"
+      ]
+    },
+    "RQ10 (s1-Haiku vs all-Sonnet)": {
+      "delta": -0.12653647504660603,
+      "ci_lo": -0.2958013641652817,
+      "ci_hi": -0.03360486457962053,
+      "significant": true,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "bitem_only_s1_haiku_A"
+      ]
+    },
+    "RQ10 (s4-Haiku vs all-Sonnet)": {
+      "delta": -0.04945365648449751,
+      "ci_lo": -0.11766795198554891,
+      "ci_hi": -0.0035669932087561973,
+      "significant": true,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "bitem_only_s4_haiku_A"
+      ]
+    },
+    "RQ10 (all-Haiku vs all-Sonnet)": {
+      "delta": -0.1702572040661703,
+      "ci_lo": -0.3340373050666865,
+      "ci_hi": -0.079887612722773,
+      "significant": true,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "bitem_only_all_haiku_A"
+      ]
+    },
+    "RQ7-improvement #7 (Opus pipeline vs Sonnet)": {
+      "delta": -0.17590238746289522,
+      "ci_lo": -0.3723375170803418,
+      "ci_hi": -0.07548345313191185,
+      "significant": true,
+      "comparison": [
+        "bitem_only_refined_sonnet_A",
+        "bitem_only_opus_A"
+      ]
+    },
+    "CASE (retrank+E404+sonnet vs broad)": {
+      "delta": -0.1721142359724046,
+      "ci_lo": -0.46354487957690765,
+      "ci_hi": 0.00973834517993677,
+      "significant": false,
+      "comparison": [
+        "retrank_plus_error404_broad_A",
+        "retrank_plus_error404_refined_sonnet_A"
+      ]
+    }
+  }
+}

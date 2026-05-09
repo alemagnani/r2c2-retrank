@@ -1,0 +1,228 @@
+<D0001>Bor Gullet;95
+1;retrank-PG-1;2;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts
+2;retrank-PG-1;2;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha
+3;retrank-PG-3;12;Saw Gerrera appeared in Rogue One: A Star Wars Story
+</D0001>
+<D0002>Black Widow;99
+1;retrank-PG-3;1;Scarlett Johansson portrayed Natasha Romanoff / Black Widow in the Marvel Cinematic Universe
+2;retrank-PG-1;3;Johansson appeared as Black Widow in the MCU superhero film Captain America
+</D0002>
+<D0003>;5
+</D0003>
+<D0004>Roger Moore;95
+1;retrank-PG-1;4;Roger Moore starred as James Bond in Moonraker
+2;retrank-PG-1;3;Roger Moore played Commander James Bond '007' in Moonraker
+3;retrank-PG-3;5;Moonraker involves a space programme called 'Moonraker'
+</D0004>
+<D0005>one;97
+1;retrank-PG-1;1;George Lazenby played James Bond in one film
+2;retrank-PG-1;3;George Lazenby played James Bond in On Her Majesty's Secret Service (1969)
+</D0005>
+<D0006>;5
+</D0006>
+<D0007>;5
+</D0007>
+<D0008>Ryan Reynolds;95
+1;retrank-PG-1;1;Ryan Reynolds portrayed Deadpool in the Marvel Cinematic Universe (MCU).
+2;retrank-PG-1;5;Ryan Reynolds was cast as Hal Jordan/Green Lantern.
+3;retrank-PG-1;4;Reynolds took the lead role in Green Lantern before Deadpool.
+</D0008>
+<D0009>;5
+</D0009>
+<D0010>;5
+</D0010>
+<D0011>;5
+</D0011>
+<D0012>;5
+</D0012>
+<D0013>Michael J. Fox;62
+1;retrank-PG-1;1;In Back to the Future Part II (TV Asahi edition), Michael J. Fox played Marlene McFly
+</D0013>
+<D0014>Star Wars: Episode VIII The Last Jedi;99
+1;retrank-PG-1;1;Star Wars: Episode VIII The Last Jedi was written and directed by Rian Johnson
+2;retrank-PG-3;10;Star Wars: Episode VII The Force Awakens was directed by J.J. Abrams
+3;retrank-PG-1;11;Star Wars: Episode IX The Rise of Skywalker was directed by J.J. Abrams
+4;retrank-PG-1;1;Star Wars: Episode VIII The Last Jedi is a sequel trilogy film released in 2017
+</D0014>
+<D0015>Donnie Yen;97
+1;retrank-PG-1;1;Donnie Yen's character Chirrut Îmwe is blind in Rogue One
+</D0015>
+<D0016>;5
+</D0016>
+<D0017>;5
+</D0017>
+<D0018>6;82
+1;retrank-PG-1;2;Memento (2000) is a film directed by Christopher Nolan
+2;retrank-PG-3;9;Insomnia (2002) is a film directed by Christopher Nolan
+3;retrank-PG-3;3;Batman Begins (2005) is a film directed by Christopher Nolan
+4;retrank-PG-3;17;The Prestige (2006) is a film directed by Christopher Nolan
+5;retrank-PG-1;9;The Dark Knight (2008) is a film directed by Christopher Nolan
+6;retrank-PG-1;3;Inception (2010) is a film directed by Christopher Nolan
+</D0018>
+<D0019>;5
+</D0019>
+<D0020>10 movies (Here on Earth, The Glass House, Max, Heavens Fall, Lying, The Wicker Man, Walk All Over Me, 88 Minutes, In the Name of the King: A Dungeon Siege Tale, Night Train);52
+1;retrank-PG-1;2;Leelee Sobieski appeared in Here on Earth (2000)
+2;retrank-PG-1;6;Leelee Sobieski appeared in The Glass House (2001)
+3;retrank-PG-3;17;Leelee Sobieski appeared in Max (2002)
+4;retrank-PG-1;7;Leelee Sobieski appeared in Heavens Fall (2006)
+5;retrank-PG-3;20;Leelee Sobieski appeared in Lying (2006)
+6;retrank-PG-1;18;Leelee Sobieski appeared in The Wicker Man (2006)
+7;retrank-PG-1;3;Leelee Sobieski appeared in Walk All Over Me (2007)
+8;retrank-PG-1;8;Leelee Sobieski appeared in Night Train (2009)
+</D0020>
+<D0021>Natalie Portman;97
+1;retrank-PG-3;2;Natalie Portman was born on June 9, 1981
+2;retrank-PG-1;1;Leelee Sobieski was born on June 10, 1983
+3;retrank-PG-3;3;Natalie Portman was born in 1981, which is earlier than 1983
+</D0021>
+<D0022>Katharine Hepburn;25
+1;retrank-PG-3;6;Katharine Hepburn had 12 Academy Award nominations.
+2;retrank-PG-1;8;Audrey Hepburn was a British actress recognized as a film and fashion icon.
+</D0022>
+<D0023>Ingrid Bergman (won Best Actress twice: for Gaslight and Anastasia);72
+1;retrank-PG-1;5;Ingrid Bergman won the Academy Award for Best Actress for Gaslight (1944)
+2;retrank-PG-1;5;Ingrid Bergman won the Academy Award for Best Actress for Anastasia (1956)
+3;retrank-PG-1;5;Ingrid Bergman won three Academy Awards total
+</D0023>
+<D0024>3;85
+1;retrank-PG-1;5;Pirates of the Caribbean: The Curse of the Black Pearl was released on July 9, 2003
+2;retrank-PG-1;13;Pirates of the Caribbean: Dead Man's Chest was released in 2006
+3;retrank-PG-1;7;Pirates of the Caribbean: At World's End was released in 2007
+4;retrank-PG-1;13;Pirates of the Caribbean: On Stranger Tides was released in 2011
+</D0024>
+<D0025>;5
+</D0025>
+<D0026>Joaquin Phoenix;97
+1;retrank-PG-3;10;In the film Gladiator (2000), Joaquin Phoenix plays the character Commodus.
+</D0026>
+<D0027>;5
+</D0027>
+<D0028>Regal blue tang;90
+1;retrank-PG-2;20;Dory is a regal blue tang fish
+</D0028>
+<D0029>a false pipe;72
+1;retrank-PG-2;11;The false pipe through which Andy escapes is among the props remaining at the filming site
+</D0029>
+<D0030>Ian McKellen;98
+1;retrank-PG-1;1;Ian McKellen portrayed Magneto in the X-Men film series
+2;retrank-PG-1;4;Ian McKellen played Gandalf the Grey in The Lord of the Rings trilogy
+3;retrank-PG-1;8;McKellen became Peter Jackson's first choice for Gandalf
+</D0030>
+<D0031>Humphrey Bogart;97
+1;retrank-PG-1;6;Humphrey Bogart played Rick Blaine in Casablanca (1942)
+2;retrank-PG-1;5;Casablanca is a 1942 film starring Humphrey Bogart
+3;retrank-PG-1;8;Humphrey Bogart received his first Academy Award for Best Actor nomination for Casablanca (1942)
+</D0031>
+<D0032>8;25
+1;retrank-PG-3;1;Slumdog Millionaire won the Academy Award for Best Picture
+</D0032>
+<D0033>Titanic;99
+1;retrank-PG-1;1;Brock Lovett is a character played by Bill Paxton
+2;retrank-PG-1;4;Brock Lovett is a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic
+3;retrank-PG-3;4;Bill Paxton played Private First Class William L. Hudson in the 1986 science fiction film Aliens
+</D0033>
+<D0034>;5
+</D0034>
+<D0035>10 years;95
+1;retrank-PG-1;4;Avatar was released in 2009
+2;retrank-PG-1;3;Avengers: Endgame was released in 2019
+</D0035>
+<D0036>Lotso;72
+1;retrank-PG-1;1;Lots-o'-Huggin' Bear is referred to as 'Lotso'
+2;retrank-PG-1;1;Lotso is a plush, pink, strawberry-scented Southern-accented teddy bear in Toy Story 3
+</D0036>
+<D0037>;5
+</D0037>
+<D0038>3;72
+1;retrank-PG-1;1;Toy Story, A Bug's Life, Toy Story 2, and Cars were Lasseter's first four directorial efforts at Pixar
+2;retrank-PG-1;3;Monsters, Inc. was the first Pixar film not directed by Lasseter
+3;retrank-PG-1;5;Toy Story 2 was directed by John Lasseter for Pixar Animation Studios
+4;retrank-PG-3;9;Pete Docter made his directorial debut with Monsters, Inc., the first Pixar film not directed by Lasseter
+</D0038>
+<D0039>;5
+</D0039>
+<D0040>A113;72
+1;retrank-PG-1;1;The A113 order bans all Axiom starliner ships from returning to Earth.
+2;retrank-PG-1;1;The A113 order is announced in the context of WALL-E's plot about mankind fleeing Earth due to garbage overflooding.
+</D0040>
+<D0041>;5
+</D0041>
+<D0042>Castle in the Sky (Laputa: Castle in the Sky, 1986);35
+1;retrank-PG-1;12;Castle in the Sky (also known as Laputa: Castle in the Sky) is a 1986 Japanese animated film
+2;retrank-PG-1;12;Castle in the Sky was animated by Studio Ghibli
+3;retrank-PG-1;12;Castle in the Sky was written and directed by Hayao Miyazaki
+4;retrank-PG-1;12;Castle in the Sky was produced by Isao Takahata
+</D0042>
+<D0043>Totoro;95
+1;retrank-PG-3;4;The forest spirit Totoro from My Neighbor Totoro makes an appearance as a plush toy in Toy Story 3 (2010).
+2;retrank-PG-1;14;My Neighbor Totoro is a Studio Ghibli film.
+</D0043>
+<D0044>;5
+</D0044>
+<D0045>5 (Spirited Away 2001, Howl's Moving Castle 2004, Ponyo 2008, The Wind Rises 2013, The Boy and the Heron 2023);82
+1;retrank-PG-1;1;Spirited Away (2001) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+2;retrank-PG-1;6;Howl's Moving Castle (2004) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+3;retrank-PG-1;11;Ponyo (2008) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+4;retrank-PG-1;7;The Wind Rises (2013) is a Japanese animated film written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+5;retrank-PG-1;2;The Boy and the Heron (2023) is a Japanese animated film written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+</D0045>
+<D0046>4 (The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019));25
+1;retrank-PG-4;13;Avengers: Age of Ultron (2015) is a Marvel Avengers series movie
+2;retrank-PG-4;17;Avengers: Infinity War (2018) is a Marvel Avengers series movie
+3;retrank-PG-1;6;Avengers: Endgame (2019) is a Marvel Avengers series movie
+4;retrank-PG-1;1;Avengers: Doomsday is scheduled to be released on December 18, 2026, which is after August 2025
+</D0046>
+<D0047>;5
+</D0047>
+<D0048>Furious 7;25
+1;retrank-PG-4;11;Furious 7 is a 2015 action film in the Fast & Furious franchise
+2;retrank-PG-3;2;God's Eye is a mass surveillance computer program created by Ramsey
+</D0048>
+<D0049>2;25
+1;retrank-PG-1;3;Justin Lin co-wrote the screenplay for F9 with Daniel Casey.
+</D0049>
+<D0050>;5
+</D0050>
+<D0051>;5
+</D0051>
+<D0052>;5
+</D0052>
+<D0053>;5
+</D0053>
+<D0054>;5
+</D0054>
+<D0055>;5
+</D0055>
+<D0056>Hoth;90
+1;retrank-PG-1;4;The Rebel Alliance established a new base on the ice planet Hoth
+2;retrank-PG-1;14;The Rebel Alliance's base on Hoth was called Echo Base
+3;retrank-PG-1;5;The Rebels decided to establish their new base of operations on the ice planet Hoth
+</D0056>
+<D0057>;5
+</D0057>
+<D0058>;5
+</D0058>
+<D0059>;5
+</D0059>
+<D0060>;5
+</D0060>
+<D0061>Home;25
+1;retrank-PG-1;17;The first MCU Spider-Man movie is titled Spider-Man: Homecoming (2017)
+</D0061>
+<D0062>Stardust;98
+1;retrank-PG-1;20;Jyn Erso was nicknamed 'Stardust' by her father.
+2;retrank-PG-1;1;Jyn Erso is the main protagonist in the 2016 film Rogue One: A Star Wars Story.
+</D0062>
+<D0063>All Terrain Armored Transport (AT-AT) walkers;85
+1;retrank-PG-1;8;The Empire used All Terrain Armored Transport walkers to attack the Rebel base
+2;retrank-PG-1;16;All Terrain Armored Transports (AT-ATs) were used by the Galactic Empire during the Battle of Hoth
+3;retrank-PG-3;3;An AT-AT vehicle was released as a toy related to The Empire Strikes Back
+</D0063>
+<D0064>Rogue One;85
+1;retrank-PG-1;1;Solo was less successful than other Star Wars films at the box office
+2;retrank-PG-1;2;Rogue One performed well commercially and critically
+3;retrank-PG-1;1;After Solo's mixed box office performance, Disney slowed down release of new Star Wars films
+</D0064>
+<D0065>;5
+</D0065>

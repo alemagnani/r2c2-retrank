@@ -1,0 +1,33 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+texput.log
+
+# Large / regenerable data
+data/raw/
+data/processed/
+data/autoresearch/
+data/synthetic_autoresearch/
+data/synthetic_autoresearch_val65/
+data/synthetic_val/
+data/pipeline_exploration/
+data/watchdog.log
+data/runs/phase2/
+data/runs/pool_*.txt
+data/eval/phase2/
+data/eval/eval_cache.json
+data/eval/final_submission_eval.json
+data/eval/all_team_ce_scores.pkl
+data/eval/sonnet_relevance_*.pkl
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.bbl
+docs/*.blg
+docs/*.log
+docs/*.out
+docs/*.toc
+
+# Backup files
+*.bak

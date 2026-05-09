@@ -1,0 +1,110 @@
+{
+ "0001:Bor Gullet (a Mairan):A Bor Gullet (a tentacled creature that reads minds)": {
+  "match": true,
+  "reason": "Both answers identify the same torturing device (Bor Gullet) used by Saw Gerrera in Rogue One (2016), with minor differences in description detail."
+ },
+ "0009:The National Gallery in London:The Royal National Gallery": {
+  "match": true,
+  "reason": "Both answers refer to the same institution; Answer B is a shortened/paraphrased version of Answer A's 'National Gallery in London.'"
+ },
+ "0019:8:4": {
+  "match": false,
+  "reason": "The two answers provide different numerical counts (8 vs 4) for the number of movies Kazunari Ninomiya acted in between 2000 and 2010."
+ },
+ "0020:19 movies:Approximately 10 to 12 movies": {
+  "match": false,
+  "reason": "Answer A claims 19 movies while Answer B claims approximately 10-12 movies, which are significantly different quantities with no overlap."
+ },
+ "0028:Regal blue tang (Pacific regal blue tang):Blue tang (regal blue tang / palette surgeonfish)": {
+  "match": true,
+  "reason": "Both answers identify Dory as a regal blue tang, with Answer B providing additional common names for the same fish species."
+ },
+ "0029:A tunnel hidden behind a poster (of Raquel Welch) on his cell wall:A poster-concealed tunnel he dug through the cell wall": {
+  "match": true,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a poster in the cell wall, with only minor wording differences."
+ },
+ "0034:14 players (7 per team, 2 teams):14 players (7 per team)": {
+  "match": true,
+  "reason": "Both answers correctly state 14 total players on the field; Answer B omits the team breakdown but the core fact is identical."
+ },
+ "0040:A113:Directive A-113": {
+  "match": true,
+  "reason": "Both answers refer to the same directive with only formatting differences (A113 vs A-113)."
+ },
+ "0042:Castle in the Sky (Laputa: Castle in the Sky, 1986):Castle in the Sky (Laputa: Castle in the Sky)": {
+  "match": true,
+  "reason": "Both answers identify the same movie as Studio Ghibli's first production, with only minor formatting differences in how the year is presented."
+ },
+ "0051:Murphy \"Murph\" Cooper:Murph Cooper (Murphy Cooper)": {
+  "match": true,
+  "reason": "Both answers provide the same full name (Murphy Cooper) with the nickname Murph, just formatted differently."
+ },
+ "0055:Tomorrowland:The Martian (2015)": {
+  "match": false,
+  "reason": "The Martian (2015) was the first film released in Dolby Vision format in Dolby Cinema, not Tomorrowland."
+ },
+ "0058:\"I am one with the Force, and the Force is with me\":I am one with the Force, and the Force is with me.": {
+  "match": true,
+  "reason": "Both answers contain the identical quote that Chirrut Îmwe repeats before his death, with only minor formatting differences (quotation marks)."
+ },
+ "0063:AT-AT walkers (All Terrain Armored Transports):AT-AT walkers (All Terrain Armored Transport)": {
+  "match": true,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with only a minor difference in the expansion of the acronym (Transports vs Transport)."
+ },
+ "0001:Bor Gullet, a Mairan:A Bor Gullet (a tentacled creature that reads minds)": {
+  "match": true,
+  "reason": "Both answers correctly identify Bor Gullet as the creature used by Saw Gerrera, with minor differences in description detail."
+ },
+ "0009:the National Gallery in London:The Royal National Gallery": {
+  "match": true,
+  "reason": "Both answers refer to the same institution - the National Gallery in London, with Answer B using a slightly different word order that includes 'Royal' which is sometimes used in its full formal name."
+ },
+ "0029:A tunnel hidden behind a poster (of Raquel Welch) on the cell wall:A poster-concealed tunnel he dug through the cell wall": {
+  "match": true,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a poster on the cell wall, with only minor wording differences."
+ },
+ "0034:14 players (seven per team, two teams):14 players (7 per team)": {
+  "match": true,
+  "reason": "Both answers correctly state there are 14 total players on the field, with only minor differences in how the explanation is formatted."
+ },
+ "0046:4 (The Avengers, Avengers: Age of Ultron, Avengers: Infinity War, and Avengers: :4 Avengers movies": {
+  "match": true,
+  "reason": "Both answers state there are 4 Marvel Avengers series movies by the end of August 2025, with Answer A providing specific titles and Answer B giving a summary count."
+ },
+ "0001:Bor Gullet (a Mairan creature):A Bor Gullet (a tentacled creature that reads minds)": {
+  "match": true,
+  "reason": "Both answers identify the same torture device (Bor Gullet) used by Saw Gerrera in Rogue One (2016), with only minor descriptive differences."
+ },
+ "0029:A tunnel hidden behind a poster (of Raquel Welch):A poster-concealed tunnel he dug through the cell wall": {
+  "match": true,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a poster in the cell wall, with only minor wording differences."
+ },
+ "0005:one:1": {
+  "match": true,
+  "reason": "Both answers convey the same numerical value (1 movie) using different formats - one as a word and one as a numeral."
+ },
+ "0014:Star Wars: Episode VIII The Last Jedi:The Last Jedi (Episode VIII)": {
+  "match": true,
+  "reason": "Both answers refer to the same film, Episode VIII, with only minor formatting and naming differences."
+ },
+ "0020:10 movies (Here on Earth, The Glass House, Max, Heavens Fall, Lying, The Wicker :Approximately 10 to 12 movies": {
+  "match": true,
+  "reason": "Both answers indicate approximately 10 movies from the period 2000-2010, with Answer B's range of 10-12 encompassing Answer A's specific count of 10."
+ },
+ "0029:a false pipe:A poster-concealed tunnel he dug through the cell wall": {
+  "match": false,
+  "reason": "Answer A refers to a pipe while Answer B refers to a tunnel behind a poster, which are different methods of escape in the film."
+ },
+ "0046:4 (The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (:4 Avengers movies": {
+  "match": true,
+  "reason": "Both answers state there are 4 Marvel Avengers series movies, with Answer A providing additional details through examples."
+ },
+ "0063:All Terrain Armored Transport (AT-AT) walkers:AT-AT walkers (All Terrain Armored Transport)": {
+  "match": true,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with identical full name, only differing in word order of the acronym expansion."
+ },
+ "0055:Tomorrowland (2015):The Martian (2015)": {
+  "match": false,
+  "reason": "These are two different films released in 2015, and only one can be the first film in Dolby Vision format in Dolby Cinema."
+ }
+}

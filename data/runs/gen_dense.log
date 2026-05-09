@@ -1,0 +1,25 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading BM25S index ...
+  1,231,364 passages
+Loading FAISS index ...
+Loading dense model: sentence-transformers/msmarco-MiniLM-L6-cos-v5 ...
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 13907.65it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/msmarco-MiniLM-L6-cos-v5
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+  Dense retriever ready
+Loading cross-encoder: cross-encoder/ms-marco-MiniLM-L-12-v2 ...
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 9777.50it/s]
+[1mBertForSequenceClassification LOAD REPORT[0m from: cross-encoder/ms-marco-MiniLM-L-12-v2
+Key                          | Status     |  | 
+-----------------------------+------------+--+-
+bert.embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+  Cross-encoder ready
+Saved data/runs/dense_pool200_val65.txt, topics=65

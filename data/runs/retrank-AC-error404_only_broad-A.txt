@@ -1,0 +1,338 @@
+<D0001>Bor Gullet (a Mairan);99
+1;Error404-PO-2;1;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha
+2;Error404-PO-2;1;Bor Gullet is a Mairan with the ability to read thoughts
+3;Error404-PO-2;1;Bor Gullet first appeared in the 2016 Star Wars Anthology film Rogue One: A Star Wars Story
+4;Error404-PG-3;2;Saw Gerrera had Bodhi Rook tortured by a Mairan in order to see if he was telling the truth about the Death Star
+</D0001>
+<D0002>Black Widow;100
+1;Error404-PG-3;1;Scarlett Johansson played Black Widow in the Marvel Cinematic Universe
+2;Error404-PG-3;2;Scarlett Johansson's character's superhero alias in the MCU is Black Widow
+3;Error404-PG-3;5;Scarlett Johansson signed on to play Natasha Romanoff / Black Widow in the MCU
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm.;95
+1;Error404-PG-3;1;Asimov's Zeroth Law of Robotics states: 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm.'
+</D0003>
+<D0004>Roger Moore;99
+1;Error404-PG-3;3;Moonraker is a James Bond film in which the climax takes place in outer space
+2;Error404-PG-3;1;Roger Moore starred as James Bond in Moonraker
+3;Error404-PO-1;5;In Moonraker, Bond follows the mystery into outer space to prevent a plot to wipe out the world population
+</D0004>
+<D0005>1;99
+1;Error404-PG-3;1;George Lazenby played James Bond in only one film: On Her Majesty's Secret Service (1969).
+2;Error404-PG-3;12;Lazenby is the only actor to play James Bond just once.
+3;Error404-PG-3;1;Lazenby's tenure as Bond is the shortest among the actors in the series.
+4;Error404-PG-3;1;Lazenby declined to return for subsequent Bond films after On Her Majesty's Secret Service.
+</D0005>
+<D0006>The Soul Stone;100
+1;Error404-PO-1;1;Scarlett Johansson portrays Natasha Romanoff / Black Widow in Avengers: Endgame.
+2;Error404-PO-2;1;Natasha Romanoff sacrifices herself to obtain the Soul Stone.
+3;Error404-PG-4;4;Romanoff and Barton travel to Vormir, where the Soul Stone's keeper reveals it can only be acquired by sacrificing a loved one.
+4;Error404-PG-4;4;Romanoff sacrifices herself, allowing Barton to get the Soul Stone.
+5;Error404-PO-1;1;Joe Russo confirmed the decision for Romanoff to sacrifice herself was so Barton could acquire the Soul Stone to bring everyone back.
+</D0006>
+<D0007>Love Is All Around;99
+1;Error404-PG-3;3;"Christmas Is All Around" in Love Actually is a Christmas version of the Troggs' song "Love Is All Around"
+2;Error404-PG-3;2;The original song "Love Is All Around" was by The Troggs
+3;Error404-PG-3;2;"Love Is All Around" was later adapted into "Christmas Is All Around" for the film Love Actually
+</D0007>
+<D0008>Ryan Reynolds;25
+1;Error404-PG-4;1;Ryan Reynolds portrays Wade Wilson / Deadpool in the Marvel Cinematic Universe.
+</D0008>
+<D0009>the National Gallery in London;99
+1;Error404-PG-3;1;Mr. Bean works as a security guard at the National Gallery in London
+2;Error404-PG-3;2;The National Gallery is located in London
+</D0009>
+<D0010>Jeff Goldblum;90
+1;Error404-PG-3;1;Jeff Goldblum appears in a supporting role in the 2024 film Wicked.
+2;Error404-PO-1;1;The 2024 film Wicked stars Cynthia Erivo as Elphaba and Ariana Grande as Glinda, with Jeff Goldblum in a supporting role.
+</D0010>
+<D0011>Zeniba;99
+1;Error404-PG-3;6;Zeniba is Yubaba's twin sister in Spirited Away.
+2;Error404-PG-3;4;Suzanne Pleshette provided the voices of both Yubaba and Zeniba in the English dub of Spirited Away.
+3;Error404-PG-3;8;Mari Natsuki reprised her roles of Yubaba and Zeniba for the stage production of Spirited Away.
+4;Error404-PG-3;3;Sen travels to meet Zeniba, who reveals that Yubaba used a slug to control Haku.
+</D0011>
+<D0012>Gareth;99
+1;Error404-PG-3;1;During Hamish's speech at the wedding, Gareth suffers a fatal heart attack.
+2;Error404-PG-3;1;Gareth's funeral follows the wedding of Hamish and Carrie.
+3;Error404-PG-3;1;Gareth and Matthew were partners (like a 'married' couple).
+</D0012>
+<D0013>Michael J. Fox;99
+1;Error404-PG-3;2;Marlene McFly is portrayed by Michael J. Fox in Back to the Future Part II.
+2;Error404-PO-1;6;Marlene McFly is one of Marty McFly and Jennifer Parker's future children in 2015 in Part II.
+3;Error404-PG-3;4;Both Marty Jr. and Marlene McFly are played by Michael J. Fox in Back to the Future Part II.
+</D0013>
+<D0014>The Last Jedi;100
+1;Error404-PO-2;9;The Last Jedi was written and directed by Rian Johnson
+2;Error404-PO-2;9;The Last Jedi is the second installment of the Star Wars sequel trilogy
+3;Error404-PO-1;3;The Force Awakens was directed by J. J. Abrams
+4;Error404-PG-3;16;The Rise of Skywalker was directed by J. J. Abrams
+5;Error404-PG-3;11;J. J. Abrams executive produced The Last Jedi but did not direct it
+</D0014>
+<D0015>Donnie Yen;99
+1;Error404-PG-3;3;Donnie Yen plays Caine, a blind assassin, in John Wick: Chapter 4
+2;Error404-PG-4;5;Donnie Yen plays Chirrut Îmwe, a blind warrior, in Rogue One: A Star Wars Story
+3;Error404-PG-3;5;Chirrut Îmwe's blindness in Rogue One was a trait created by Donnie Yen for the character
+4;Error404-PG-3;2;Rogue One: A Star Wars Story is a Star Wars spinoff (anthology) film
+</D0015>
+<D0016>Avengers: Infinity War (2018);90
+1;Error404-PG-4;2;Avengers: Infinity War was released on April 27, 2018.
+2;Error404-PO-1;1;Avengers: Infinity War is a 2018 film.
+</D0016>
+<D0017>Avatar;97
+1;Error404-PG-4;6;Avatar grossed a worldwide total of $2,922,917,914 (approximately $2.923 billion).
+2;Error404-PO-1;4;Zootopia grossed a worldwide total of $1.024 billion.
+3;Error404-PG-4;1;Avatar became the highest-grossing film of all time worldwide.
+4;Error404-PO-1;4;Zootopia was the second-highest-grossing original film of all time, behind Avatar.
+</D0017>
+<D0018>6;97
+1;Error404-PG-4;2;Christopher Nolan directed Memento in 2000
+2;Error404-PG-4;2;Christopher Nolan directed Insomnia in 2002
+3;Error404-PG-4;2;Christopher Nolan directed Batman Begins in 2005
+4;Error404-PG-4;2;Christopher Nolan directed The Prestige in 2006
+5;Error404-PG-4;2;Christopher Nolan directed The Dark Knight in 2008
+6;Error404-PG-4;2;Christopher Nolan directed Inception in 2010
+</D0018>
+<D0019>8;90
+1;Error404-PG-4;1;Ninomiya appeared in 'Pikanchi Life is Hard Dakedo Happy' in 2002
+2;Error404-PG-4;1;Ninomiya appeared in 'The Blue Light' in 2003 as Shuichi Kushimori in a lead role
+3;Error404-PG-4;1;Ninomiya appeared in 'Pikanchi Life Is Hard Dakara Happy' in 2004
+4;Error404-PG-4;1;Ninomiya appeared in both 'Letters from Iwo Jima' and 'Tekkon Kinkreet' in 2006
+5;Error404-PG-4;1;Ninomiya appeared in 'Kiiroi Namida' in 2007
+6;Error404-PG-4;1;Ninomiya appeared in 'Heaven's Door' in 2009 as a guest appearance
+7;Error404-PG-4;1;Ninomiya appeared in 'Ōoku' in 2010 as Yunoshin Mizuno in a lead role
+</D0019>
+<D0020>19;25
+1;Error404-PG-3;3;In 2000, Sobieski appeared in Here on Earth
+2;Error404-PG-3;3;In 2002, Sobieski appeared in L'Idole and Max
+3;Error404-PG-3;3;In 2006, Sobieski appeared in five films: Lying, Heavens Fall, In a Dark Place, and two others
+4;Error404-PG-3;3;In 2007, Sobieski appeared in Walk All over Me, In the Name of the King: A Dungeon Siege Tale, and 88 Minutes
+5;Error404-PG-3;3;In 2009, Sobieski appeared in Finding Bliss, Night Train, and Public Enemies
+</D0020>
+<D0021>Natalie Portman;99
+1;Error404-PG-3;5;Natalie Portman was born on June 9, 1981
+2;Error404-PO-1;2;Leelee Sobieski was born on June 10, 1983
+</D0021>
+<D0022>Katharine Hepburn;100
+1;Error404-PG-4;1;Katharine Hepburn won four Academy Awards for Best Actress, a record for any performer.
+2;Error404-PG-3;4;Audrey Hepburn won one Academy Award for Best Actress, for her performance in Roman Holiday.
+3;Error404-PG-3;1;The record for most wins in the Best Actress category is four, held by Katharine Hepburn.
+4;Error404-PG-4;4;Katharine Hepburn's four Best Actress wins came in 1933, 1967, 1968, and 1981.
+5;Error404-PO-1;18;Audrey Hepburn was five-times nominated for an Academy Award but won only once.
+</D0022>
+<D0023>Ingrid Bergman;99
+1;Error404-PG-3;14;Ingrid Bergman won the Academy Award for Best Actress twice, for Gaslight (1944) and Anastasia (1956).
+2;Error404-PG-3;2;Grace Kelly won the Academy Award for Best Actress once, for her performance in The Country Girl (1954).
+3;Error404-PG-3;3;Ingrid Bergman won two Academy Awards for Best Actress, and one for Best Supporting Actress, for a total of three acting Oscars.
+4;Error404-PG-3;5;In the list of multiple Best Actress winners, Ingrid Bergman has 2 wins while Grace Kelly does not appear on the list.
+</D0023>
+<D0024>3;99
+1;Error404-PG-4;2;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+2;Error404-PG-4;2;Pirates of the Caribbean: Dead Man's Chest was released in 2006.
+3;Error404-PG-4;2;Pirates of the Caribbean: At World's End was released in 2007.
+4;Error404-PG-4;2;Pirates of the Caribbean: On Stranger Tides was released in 2011.
+</D0024>
+<D0025>12.12: The Day (Seourui bom);72
+1;Error404-PG-4;1;12.12: The Day grossed $97 million worldwide
+2;Error404-PG-4;1;12.12: The Day became the highest-grossing South Korean film of 2023
+3;Error404-PG-4;6;12.12: The Day drew over 13.12 million viewers in South Korea
+4;Error404-PG-3;4;May 18 achieved excellent box office results but Lee Joon-gi's films had 'either fallen short of expectations at the box office or cast Lee in minor roles'
+5;Error404-PO-1;2;12.12: The Day became the fourth-highest-grossing South Korean film of all time
+</D0025>
+<D0026>Joaquin Phoenix;100
+1;Error404-PG-3;2;Joaquin Phoenix plays Commodus in Gladiator (2000)
+2;Error404-PG-3;2;Commodus is the amoral and power-hungry son of Marcus Aurelius in the film
+3;Error404-PG-3;6;Phoenix portrayed a fictionalized version of Roman Emperor Commodus in Ridley Scott's Gladiator
+4;Error404-PG-4;3;Jude Law auditioned for Commodus, but Joaquin Phoenix was offered the part after sending in a 'knockout' audition tape
+5;Error404-PG-3;6;Phoenix earned his first nominations for an Academy Award, Golden Globe Award and BAFTA Award in the Best Supporting Actor category for his role in Gladiator
+</D0026>
+<D0027>liver, with some fava beans and a nice Chianti;99
+1;Error404-PG-3;1;Hannibal Lecter famously admitted to eating a census taker's liver 'with some fava beans and a nice Chianti'
+2;Error404-PG-3;2;The quote 'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti' is ranked No. 21 on AFI's 100 Years...100 Movie Quotes
+3;Error404-PG-3;1;Hannibal Lecter is frequently depicted preparing gourmet meals from his victims' flesh
+</D0027>
+<D0028>Regal blue tang (Pacific regal blue tang);99
+1;Error404-PG-3;1;Dory is a regal blue tang in Finding Nemo (2003)
+2;Error404-PG-3;4;Dory is specifically a Pacific regal blue tang
+3;Error404-PG-3;2;The regal blue tang is Dory's species
+</D0028>
+<D0029>A tunnel hidden behind a poster (of Raquel Welch);99
+1;Error404-PG-3;1;Andy escaped through a tunnel hidden behind a poster on his cell wall
+2;Error404-PG-3;1;The poster concealing the tunnel was a poster of Raquel Welch
+3;Error404-PG-3;1;Andy dug the tunnel with his rock hammer over 19 years
+4;Error404-PG-3;14;In the 1994 film, a large poster of Welch is used by Andy Dufresne to conceal his tunnel digging
+5;Error404-PG-3;3;Andy passes through a hole in his cell hidden by a movie poster to escape Shawshank
+</D0029>
+<D0030>Ian McKellen;100
+1;Error404-PG-3;1;Ian McKellen played Magneto in the X-Men films, including X-Men (2000), X2 (2003), and X-Men: The Last Stand (2006).
+2;Error404-PG-3;4;Ian McKellen played Gandalf in Peter Jackson's The Lord of the Rings film trilogy (2001–2003).
+3;Error404-PG-3;2;Ian McKellen achieved worldwide fame for playing both Magneto in the X-Men films and Gandalf in The Lord of the Rings trilogies.
+</D0030>
+<D0031>Humphrey Bogart;100
+1;Error404-PG-3;4;Humphrey Bogart played Rick Blaine in Casablanca (1942)
+2;Error404-PG-3;5;Rick Blaine is an expatriate nightclub owner in Casablanca (1942)
+3;Error404-PG-4;2;Casablanca (1942) stars Humphrey Bogart
+4;Error404-PG-3;5;Humphrey Bogart's first romantic lead role was as Rick Blaine in Casablanca (1942)
+</D0031>
+<D0032>8;99
+1;Error404-PG-3;2;Slumdog Millionaire won 8 Academy Awards
+2;Error404-PO-2;1;Slumdog Millionaire was nominated for 10 Academy Awards in 2009
+3;Error404-PG-3;7;Slumdog Millionaire won eight out of ten Academy Awards for which it was nominated, including Best Picture and Best Director
+4;Error404-PG-3;2;Slumdog Millionaire's 8 Academy Awards were the most of any 2008 film
+5;Error404-PG-4;11;The eight Academy Awards won by Slumdog Millionaire included Best Picture, Best Director, Best Adapted Screenplay, Best Cinematography, Best Film Editing, Best Original Score, Best Original Song 'Jai Ho', and Best Sound Mixing
+</D0032>
+<D0033>Titanic;100
+1;Error404-PG-3;3;Bill Paxton played Brock Lovett in the 1997 film Titanic.
+2;Error404-PG-3;20;Brock Lovett is a treasure hunter exploring the wreck of RMS Titanic.
+3;Error404-PG-3;1;Bill Paxton appeared in James Cameron's Titanic (1997).
+4;Error404-PG-3;1;Bill Paxton also appeared in Aliens (1986), directed by James Cameron.
+</D0033>
+<D0034>14;99
+1;Error404-PG-3;1;Each Quidditch team has seven players
+2;Error404-PG-3;1;A Quidditch match is played between two opposing teams
+</D0034>
+<D0035>10;97
+1;Error404-PG-3;1;Avatar was released in the United States on December 18, 2009.
+2;Error404-PG-3;2;Avengers: Endgame was released in the United States on April 26, 2019.
+3;Error404-PG-3;2;Avatar (2009) was the previous record-holder for highest-grossing film of all time before being surpassed by Avengers: Endgame.
+</D0035>
+<D0036>Lotso;100
+1;Error404-PG-3;4;Lots-o'-Huggin' Bear is often shortened to Lotso
+2;Error404-PG-3;2;Ned Beatty voices Lots-o'-Huggin' Bear / 'Lotso' in Toy Story 3
+</D0036>
+<D0037>We Scare Because We Care;90
+1;Error404-PO-2;1;The slogan of Monsters, Inc. in the movie is 'We Scare Because We Care'
+2;Error404-PG-3;1;The Monsters, Inc. scare factory's original slogan was 'We Scare Because We Care'
+</D0037>
+<D0038>3;97
+1;Error404-PG-3;1;John Lasseter personally directed Toy Story (1995), A Bug's Life (1998), and Toy Story 2 (1999).
+2;Error404-PG-3;1;Monsters, Inc. (2001) was not directed by John Lasseter.
+3;Error404-PG-3;1;Finding Nemo (2003) was not directed by John Lasseter.
+</D0038>
+<D0039>8605;25
+1;Error404-PG-4;6;Toy Story premiered at the El Capitan Theatre in Los Angeles on November 19, 1995
+2;Error404-PG-3;2;Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles
+</D0039>
+<D0040>A113;99
+1;Error404-PG-3;1;AUTO's secret no-return directive is called A113
+2;Error404-PG-3;1;Directive A113 orders them not to return to Earth on account of toxicity levels making Earth unlivable
+3;Error404-PG-3;2;A113 is a directive that prevents anyone from returning to Earth
+4;Error404-PO-1;3;AUTO is loyal only to directive A113
+</D0040>
+<D0041>Lloyd Sherr;99
+1;Error404-PG-3;2;Lloyd Sherr voiced Fillmore in Cars 2
+2;Error404-PG-3;1;George Carlin originally voiced Fillmore in Cars but died in June 2008
+</D0041>
+<D0042>Castle in the Sky (1986);92
+1;Error404-PG-4;2;Castle in the Sky was the first film to be animated by Studio Ghibli.
+2;Error404-PG-4;5;Castle in the Sky was released in 1986.
+3;Error404-PG-3;3;Studio Ghibli was founded in 1985 by Hayao Miyazaki, Isao Takahata, and Toshio Suzuki.
+</D0042>
+<D0043>Totoro;99
+1;Error404-PG-3;1;Totoro makes a cameo appearance in Toy Story 3
+2;Error404-PO-1;5;Totoro is the titular character from Studio Ghibli's My Neighbor Totoro
+3;Error404-PG-3;8;Totoro serves as the mascot for Studio Ghibli
+</D0043>
+<D0044>Spirited Away;98
+1;Error404-PG-3;1;Spirited Away was the first animated film to win the Golden Bear at the Berlin International Film Festival.
+2;Error404-PG-3;2;Spirited Away won the Golden Bear at the 2002 Berlin International Film Festival.
+3;Error404-PG-3;1;Spirited Away's Golden Bear win was tied with Bloody Sunday.
+</D0044>
+<D0045>5;25
+1;Error404-PG-4;13;The Wind Rises (2013) was directed by Hayao Miyazaki and produced by Studio Ghibli.
+2;Error404-PG-4;14;The Boy and the Heron (2023) was written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+</D0045>
+<D0046>;5
+</D0046>
+<D0047>Three;99
+1;Error404-PG-3;1;Three helicopters were sent to rescue the British royal family from Balmoral Castle in Scotland.
+2;Error404-PG-3;1;The helicopters crashed after flying into a superstorm's eye.
+</D0047>
+<D0048>Furious 7;99
+1;Error404-PO-2;1;Furious 7 is the seventh installment in the Fast & Furious franchise.
+2;Error404-PO-2;1;In Furious 7, Dom's team is recruited to prevent Mose Jakande from obtaining a hacking program known as God's Eye.
+3;Error404-PG-3;3;Mr. Nobody offers Dom a way to hunt Shaw through a software named 'God's Eye' in Furious 7.
+</D0048>
+<D0049>2;90
+1;Error404-PG-3;2;F9 (2021) is a mainline Fast & Furious film for which Justin Lin co-wrote the screenplay with Daniel Casey.
+2;Error404-PO-2;5;Fast X (2023) is a mainline Fast & Furious film for which Justin Lin co-wrote the screenplay with Dan Mazeau.
+3;Error404-PO-2;5;Justin Lin retained writing credits on Fast X after leaving as director.
+</D0049>
+<D0050>F9 ($726.2 million) had a higher worldwide box office than Fast X ($714.4 million);97
+1;Error404-PO-1;4;F9 grossed $726.2 million worldwide
+2;Error404-PO-1;5;Fast X grossed $714.4 million worldwide
+</D0050>
+<D0051>Murphy "Murph" Cooper;97
+1;Error404-PG-3;1;Joseph Cooper's daughter is named Murphy 'Murph' Cooper
+2;Error404-PG-3;1;Murphy Cooper goes by the nickname 'Murph'
+</D0051>
+<D0052>Murph;99
+1;Error404-PG-3;1;Joseph Cooper's daughter is named Murphy Cooper
+2;Error404-PG-3;1;Murphy Cooper's nickname is 'Murph'
+</D0052>
+<D0053>10 years old;95
+1;Error404-PG-3;1;Mackenzie Foy plays 10-year-old Murph in Interstellar
+2;Error404-PG-3;1;Murph (Murphy) Cooper is Joseph Cooper's daughter in Interstellar
+3;Error404-PG-3;2;Cooper accepts the Endurance mission and leaves Murph behind before departing
+</D0053>
+<D0054>Oppenheimer (2023);95
+1;Error404-PO-1;1;Interstellar (2014) was directed by Christopher Nolan.
+2;Error404-PG-4;2;Oppenheimer (2023) won the Academy Award for Best Picture and Nolan won Best Director.
+3;Error404-PO-1;5;After Oppenheimer, Nolan is currently directing The Odyssey (2026), which has not yet been released.
+</D0054>
+<D0055>Tomorrowland;99
+1;Error404-PG-3;1;Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;Error404-PG-3;1;Tomorrowland was released on May 22, 2015, in theaters and IMAX.
+</D0055>
+<D0056>Hoth;99
+1;Error404-PG-3;1;In The Empire Strikes Back, the Rebel Alliance established their base on the ice planet Hoth.
+2;Error404-PG-3;4;The Rebel Alliance was forced to flee its base on Yavin 4 and establish a new one on the ice planet of Hoth.
+3;Error404-PG-3;16;The Rebel Alliance's base on Hoth was called Echo Base.
+4;Error404-PO-2;2;An Imperial probe droid discovered the Rebel base on Hoth and transmitted its location to the Empire.
+</D0056>
+<D0057>Plo Koon;95
+1;Error404-PO-2;13;Ahsoka Tano wields two white lightsabers
+2;Error404-PO-2;1;Plo Koon was the Jedi that found Ahsoka Tano and brought her to the Jedi Temple
+3;Error404-PO-2;1;Plo Koon affectionately nicknamed Ahsoka Tano 'Little Soka'
+</D0057>
+<D0058>I am one with the Force, and the Force is with me;99
+1;Error404-PG-3;2;Chirrut Îmwe's mantra is 'I am one with the Force, and the Force is with me'
+2;Error404-PG-3;1;Before he died, Îmwe heard Malbus repeat his mantra
+</D0058>
+<D0059>Samuel L. Jackson;25
+1;Error404-PG-3;2;Samuel L. Jackson played Mace Windu, a Jedi Master, in Star Wars: Episode III – Revenge of the Sith.
+2;Error404-PG-3;2;Mace Windu is a senior member of the Jedi Council in Star Wars: Episode III – Revenge of the Sith.
+</D0059>
+<D0060>Starkiller Base;97
+1;Error404-PG-4;20;Han Solo was killed by his son, Kylo Ren, during the Battle of Starkiller Base.
+2;Error404-PO-1;6;Han Solo was fatally impaled by Kylo Ren with his lightsaber on Starkiller Base.
+3;Error404-PO-1;6;After being impaled, Han Solo fell down a shaft towards the core of Starkiller Base to his death.
+</D0060>
+<D0061>Home;99
+1;Error404-PG-3;6;The first MCU Spider-Man film is titled Spider-Man: Homecoming (2017)
+2;Error404-PG-3;6;The second MCU Spider-Man film is titled Spider-Man: Far From Home (2019)
+3;Error404-PG-3;6;The third MCU Spider-Man film is titled Spider-Man: No Way Home (2021)
+4;Error404-PO-1;2;All three MCU Spider-Man films starring Tom Holland were Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home
+</D0061>
+<D0062>Stardust;99
+1;Error404-PG-3;1;Galen Erso affectionately referred to his daughter Jyn as 'Stardust'
+2;Error404-PG-3;8;Jyn Erso is the main protagonist in the 2016 film Rogue One: A Star Wars Story
+3;Error404-PG-3;7;The Heroes of Rogue One lists 'Stardust' as Jyn Erso's subtitle/nickname
+</D0062>
+<D0063>AT-AT walkers;99
+1;Error404-PG-3;1;The Empire attacked the Rebel base using AT-AT walkers in The Empire Strikes Back.
+2;Error404-PG-3;2;AT-AT stands for All Terrain Armored Transport.
+</D0063>
+<D0064>Rogue One;98
+1;Error404-PG-4;5;Solo received mixed responses and underperformed at the box office
+2;Error404-PG-4;5;Rogue One performed well commercially and critically
+3;Error404-PG-4;2;Rogue One grossed $1 billion worldwide, becoming the second-highest-grossing film of 2016
+4;Error404-PG-3;10;Lucasfilm released critical and commercial successes like Rogue One, alongside the less successful Solo
+</D0064>
+<D0065>Han Solo (Harrison Ford);25
+1;Error404-PG-4;4;Liang Yang is a Chinese actor who played a stormtrooper (FN-2199) in Star Wars: The Force Awakens
+2;Error404-PO-2;1;Liang Yang's character in Star Wars: The Force Awakens was shot by Han Solo (Harrison Ford)
+3;Error404-PG-3;1;Jiang Wen, a Chinese filmmaker, played Baze Malbus in Rogue One: A Star Wars Story
+4;Error404-PO-2;3;Rogue One: A Star Wars Story is a 2016 anthology/spinoff film in the Star Wars franchise
+5;Error404-PG-3;4;Donnie Yen played Chirrut Imwe in Rogue One: A Star Wars Story
+</D0065>

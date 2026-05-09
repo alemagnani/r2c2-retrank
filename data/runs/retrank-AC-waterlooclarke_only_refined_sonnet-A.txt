@@ -1,0 +1,313 @@
+<D0001>Bor Gullet, a Mairan (a sentient multi-tentacled creature capable of reading minds);99
+1;WaterlooClarke-PO-1;1;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha
+2;WaterlooClarke-PO-1;1;Bor Gullet is a purple-skinned Mairan with the ability to read thoughts
+3;WaterlooClarke-PO-1;6;Mairans are a sentient multi-tentacled multipod species with the unique ability to read minds
+4;WaterlooClarke-PO-1;1;Bor Gullet first appeared in the 2016 Star Wars Anthology film Rogue One: A Star Wars Story
+5;WaterlooClarke-PO-1;1;Saw Gerrera used Bor Gullet to ascertain the truth behind Bodhi Rook's claim of being in contact with Galen Erso
+</D0001>
+<D0002>Black Widow;100
+1;WaterlooClarke-PO-1;1;Scarlett Johansson portrayed Natasha Romanoff / Black Widow in the Marvel Cinematic Universe.
+2;WaterlooClarke-PO-1;1;Natasha Romanoff adopted the alias Black Widow after being recruited by Clint Barton to join S.H.I.E.L.D.
+3;WaterlooClarke-PO-1;6;Scarlett Johansson signed on in March 2009 to play Natasha Romanoff / Black Widow in the MCU.
+</D0002>
+<D0003>;5
+</D0003>
+<D0004>Roger Moore;99
+1;WaterlooClarke-PO-1;1;Moonraker is a James Bond film in which the climax takes place in outer space
+2;WaterlooClarke-PO-1;2;Roger Moore starred as James Bond in Moonraker
+3;WaterlooClarke-PO-1;6;Roger Moore played Commander James Bond '007' in Moonraker
+</D0004>
+<D0005>1;100
+1;WaterlooClarke-PO-1;2;George Lazenby played James Bond in only one film: On Her Majesty's Secret Service (1969).
+2;WaterlooClarke-PO-1;2;Lazenby's tenure as Bond is the shortest among the actors in the series.
+3;WaterlooClarke-PO-1;3;Lazenby declined to return for subsequent Bond films after On Her Majesty's Secret Service.
+4;WaterlooClarke-PO-1;6;Lazenby was offered a contract for seven Bond films but declined and left after just one.
+</D0005>
+<D0006>Soul Stone;100
+1;WaterlooClarke-PO-1;20;Romanoff and Barton traveled to the planet Vormir to retrieve the Soul Stone
+2;WaterlooClarke-PO-1;3;The Red Skull revealed that obtaining the Soul Stone requires a life sacrifice
+3;WaterlooClarke-PO-1;20;Romanoff jumped over the cliff at Vormir, allowing Barton to obtain the Soul Stone
+4;WaterlooClarke-PO-1;1;Joe Russo stated Romanoff understood the only way to bring the community back was for her to sacrifice herself at the Soul Stone scene
+</D0006>
+<D0007>Love Is All Around;25
+1;WaterlooClarke-PO-1;2;Billy Mack's song in Love Actually is called 'Christmas Is All Around'
+</D0007>
+<D0008>Ryan Reynolds;99
+1;WaterlooClarke-PO-1;1;Ryan Reynolds played the titular character Hal Jordan / Green Lantern in the 2011 superhero film Green Lantern.
+2;WaterlooClarke-PO-1;4;Ryan Reynolds portrays Wade Wilson / Deadpool in the Marvel Cinematic Universe.
+</D0008>
+<D0009>The National Gallery;99
+1;WaterlooClarke-PO-1;1;In the film Bean, Mr. Bean works as a security guard at the National Gallery in London.
+2;WaterlooClarke-PO-1;1;Bean is a 1997 British comedy film starring Rowan Atkinson as Mr. Bean.
+3;WaterlooClarke-PO-1;1;The board of directors sends Bean on a sabbatical to represent the National Gallery at an unveiling ceremony in Los Angeles.
+</D0009>
+<D0010>Jeff Goldblum;99
+1;WaterlooClarke-PO-2;15;Jeff Goldblum was in final talks to play the Wizard in the two-part film adaptation of the musical Wicked in October 2022.
+2;WaterlooClarke-PO-2;15;Jeff Goldblum's role as the Wizard in the Wicked film was confirmed on December 8, 2022.
+3;WaterlooClarke-PO-1;1;Jeff Goldblum appears in a supporting role in the 2024 film Wicked.
+</D0010>
+<D0011>Zeniba;99
+1;WaterlooClarke-PO-1;7;Zeniba is Yubaba's twin sister in Spirited Away
+2;WaterlooClarke-PO-1;10;Suzanne Pleshette provided the voices of both Yubaba and Zeniba in the English dub of Spirited Away
+3;WaterlooClarke-PO-1;5;Mari Natsuki voiced both Yubaba and Zeniba in the Japanese version of Spirited Away
+</D0011>
+<D0012>Gareth;99
+1;WaterlooClarke-PO-1;1;The wedding at which Gareth dies is the wedding of Carrie and Hamish.
+</D0012>
+<D0013>Michael J. Fox;99
+1;WaterlooClarke-PO-1;3;Marty Jr. and Marlene McFly are both portrayed by Michael J. Fox in Back to the Future Part II.
+2;WaterlooClarke-PO-1;1;In the future witnessed in Back to the Future Part II, Marlene and Marty Jr. are both played by Michael J. Fox.
+3;WaterlooClarke-PO-1;7;Michael J. Fox played Marlene McFly in the TV Asahi edition of Back to the Future Part II.
+</D0013>
+<D0014>The Last Jedi;99
+1;WaterlooClarke-PO-2;12;The Last Jedi was written and directed by Rian Johnson
+2;WaterlooClarke-PO-1;4;J.J. Abrams directed The Force Awakens (Episode VII)
+3;WaterlooClarke-PO-2;5;J.J. Abrams directed The Rise of Skywalker (Episode IX)
+4;WaterlooClarke-PO-1;3;J.J. Abrams served only as executive producer for The Last Jedi, not as director
+</D0014>
+<D0015>Donnie Yen;99
+1;WaterlooClarke-PO-1;3;Donnie Yen plays Caine, a blind High Table assassin, in John Wick: Chapter 4.
+2;WaterlooClarke-PO-2;1;Donnie Yen plays the blind warrior monk Chirrut Îmwe in Rogue One.
+3;WaterlooClarke-PO-1;13;Rogue One is a Star Wars spinoff (the first Star Wars anthology film).
+4;WaterlooClarke-PO-1;1;The blind assassin role played by Donnie Yen in John Wick: Chapter 4 references the blind swordsman Zatoichi.
+</D0015>
+<D0016>Avengers: Infinity War;99
+1;WaterlooClarke-PO-1;3;Avengers: Infinity War is a 2018 film.
+2;WaterlooClarke-PO-2;4;1917 is a 2019 British war film.
+3;WaterlooClarke-PO-1;9;Avengers: Infinity War was released on April 27, 2018.
+4;WaterlooClarke-PO-2;4;1917 premiered in the UK on 4 December 2019.
+</D0016>
+<D0017>Avatar;90
+1;WaterlooClarke-PO-1;4;Zootopia grossed a worldwide total of $1.024 billion.
+2;WaterlooClarke-PO-1;10;Avatar's worldwide gross was US$241.6 million after just five days, the largest opening for a non-franchise, non-sequel original film.
+3;WaterlooClarke-PO-1;15;Zootopia's opening weekend gross was $75 million, which set the record for the highest weekend debut for a Walt Disney Animation Studios film.
+4;WaterlooClarke-PO-1;12;Avatar became the highest-grossing film of all time, surpassing Titanic on January 25, 2010.
+</D0017>
+<D0018>6;25
+1;WaterlooClarke-PO-1;1;Christopher Nolan directed Memento in 2000
+2;WaterlooClarke-PO-1;1;Christopher Nolan directed Insomnia in 2002
+3;WaterlooClarke-PO-1;1;Christopher Nolan directed Batman Begins in 2005
+4;WaterlooClarke-PO-1;1;Christopher Nolan directed The Prestige in 2006
+</D0018>
+<D0019>5;60
+1;WaterlooClarke-PO-1;2;Kazunari Ninomiya made his motion picture debut in 2002 in Arashi's first movie together
+2;WaterlooClarke-PO-1;2;In 2004, Arashi came together for the sequel Pikanchi Life Is Hard Dakedo Happy
+3;WaterlooClarke-PO-2;13;Kazunari Ninomiya played Saigo in Clint Eastwood's Letters from Iwo Jima (2006)
+</D0019>
+<D0020>;5
+</D0020>
+<D0021>Natalie Portman;99
+1;WaterlooClarke-PO-1;3;Natalie Portman was born on June 9, 1981
+2;WaterlooClarke-PO-1;1;Leelee Sobieski was born on June 10, 1983
+</D0021>
+<D0022>Katharine Hepburn;99
+1;WaterlooClarke-PO-1;8;Katharine Hepburn won four Academy Awards for Best Actress, a record for any performer.
+2;WaterlooClarke-PO-1;12;Audrey Hepburn won one Academy Award for Best Actress, for her performance in Roman Holiday (1953).
+3;WaterlooClarke-PO-1;1;The record for most wins in the Best Actress category is four, held by Katharine Hepburn.
+4;WaterlooClarke-PO-1;6;Katharine Hepburn won the Best Actress award in 1933, 1967, 1968, and 1981.
+</D0022>
+<D0023>Ingrid Bergman;99
+1;WaterlooClarke-PO-1;9;Grace Kelly won the Academy Award for Best Actress once, for The Country Girl (1954)
+2;WaterlooClarke-PO-1;1;Ingrid Bergman won two Academy Awards for Best Actress and one for Best Supporting Actress, totaling three acting Oscars
+</D0023>
+<D0024>3;97
+1;WaterlooClarke-PO-1;5;Pirates of the Caribbean: The Curse of the Black Pearl was released on July 9, 2003
+2;WaterlooClarke-PO-1;5;Pirates of the Caribbean: Dead Man's Chest was released on July 7, 2006
+3;WaterlooClarke-PO-1;5;Pirates of the Caribbean: At World's End was released worldwide on May 25, 2007
+4;WaterlooClarke-PO-1;5;Pirates of the Caribbean: On Stranger Tides was released in 2011
+5;WaterlooClarke-PO-1;5;Pirates of the Caribbean: Dead Men Tell No Tales was released in 2017
+</D0024>
+<D0025>12.12: The Day (Seourui bom);97
+1;WaterlooClarke-PO-2;2;12.12: The Day grossed $97 million worldwide.
+2;WaterlooClarke-PO-2;2;12.12: The Day became the highest-grossing South Korean film of 2023.
+3;WaterlooClarke-PO-1;4;May 18 grossed $35,838,135 at the domestic box office in 2007.
+4;WaterlooClarke-PO-2;2;12.12: The Day is the fourth-highest-grossing South Korean film of all time.
+</D0025>
+<D0026>Joaquin Phoenix;99
+1;WaterlooClarke-PO-1;7;Joaquin Phoenix played the role of Roman Emperor Commodus in Gladiator (2000).
+2;WaterlooClarke-PO-1;1;Gladiator (2000) stars Joaquin Phoenix alongside Russell Crowe.
+</D0026>
+<D0027>A census taker's liver, eaten with fava beans and a nice Chianti;25
+1;WaterlooClarke-PO-1;6;Lecter is depicted as a cannibalistic serial killer in The Silence of the Lambs
+</D0027>
+<D0028>Regal blue tang (Pacific regal blue tang);99
+1;WaterlooClarke-PO-1;2;Dory is a regal blue tang fish
+2;WaterlooClarke-PO-1;11;Dory is listed as a Pacific regal blue tang in the fictional fish list
+3;WaterlooClarke-PO-1;1;Dory's species (regal blue tang) cannot be bred in captivity and must be caught in the wild
+</D0028>
+<D0029>A tunnel hidden behind a movie poster (poster of Raquel Welch);25
+1;WaterlooClarke-PO-1;18;The Raquel Welch poster used in the film was the famous pinup image from One Million Years B.C.
+</D0029>
+<D0030>Ian McKellen;100
+1;WaterlooClarke-PO-1;2;Ian McKellen played Magneto in the X-Men films
+2;WaterlooClarke-PO-1;1;While filming the first X-Men film in 1999, McKellen was cast as Gandalf in Peter Jackson's Lord of the Rings trilogy
+</D0030>
+<D0031>Humphrey Bogart;100
+1;WaterlooClarke-PO-1;13;Humphrey Bogart played Rick Blaine in Casablanca (1942)
+2;WaterlooClarke-PO-1;1;Rick Blaine is an expatriate nightclub owner in Casablanca (1942)
+3;WaterlooClarke-PO-2;11;Casablanca (1942) is a film starring Humphrey Bogart
+</D0031>
+<D0032>8;99
+1;WaterlooClarke-PO-1;1;Slumdog Millionaire won 8 Academy Awards
+2;WaterlooClarke-PO-1;1;Slumdog Millionaire's 8 Academy Awards were the most of any 2008 film
+3;WaterlooClarke-PO-1;10;Following its success at the 81st Academy Awards where it won eight Oscars, the film returned to No. 1 at the UK box office
+</D0032>
+<D0033>Titanic;100
+1;WaterlooClarke-PO-1;5;Bill Paxton played Brock Lovett in the 1997 film Titanic.
+2;WaterlooClarke-PO-1;1;Brock Lovett is a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic.
+3;WaterlooClarke-PO-1;3;Bill Paxton collaborated with James Cameron on Titanic (1997).
+4;WaterlooClarke-PO-2;17;Titanic is a 1997 American epic romantic disaster film directed by James Cameron.
+</D0033>
+<D0034>14;99
+1;WaterlooClarke-PO-1;1;Each Quidditch team has seven players.
+2;WaterlooClarke-PO-1;1;Two teams of seven players each compete in a Quidditch match, totaling 14 players on the field.
+</D0034>
+<D0035>10;97
+1;WaterlooClarke-PO-1;9;Avatar was released theatrically in 2009
+2;WaterlooClarke-PO-1;5;Avengers: Endgame is a 2019 film
+</D0035>
+<D0036>Lotso;99
+1;WaterlooClarke-PO-1;5;Lots-o'-Huggin' Bear is referred to as 'Lotso' in Toy Story 3
+</D0036>
+<D0037>We Scare Because We Care;90
+1;WaterlooClarke-PO-1;1;The slogan of Monsters, Inc. in the film is 'We Scare Because We Care'
+2;WaterlooClarke-PO-1;1;Monsters, Inc. is a 2001 Disney·Pixar film featuring a scare factory
+</D0037>
+<D0038>3;90
+1;WaterlooClarke-PO-1;1;John Lasseter directed Toy Story (1995).
+2;WaterlooClarke-PO-1;1;John Lasseter directed A Bug's Life (1998).
+3;WaterlooClarke-PO-1;1;John Lasseter directed Toy Story 2 (1999).
+4;WaterlooClarke-PO-1;6;Monsters, Inc. was the first Pixar film not directed by Lasseter.
+</D0038>
+<D0039>;5
+</D0039>
+<D0040>A113;99
+1;WaterlooClarke-PO-1;2;AUTO's secret directive is named A113
+2;WaterlooClarke-PO-1;2;Directive A113 orders the Axiom not to return to Earth
+3;WaterlooClarke-PO-1;3;AUTO is the Axiom's autopilot
+4;WaterlooClarke-PO-1;3;AUTO is loyal only to directive A113
+5;WaterlooClarke-PO-1;4;A113 was issued because Earth had become too toxic to support life
+</D0040>
+<D0041>Lloyd Sherr;99
+1;WaterlooClarke-PO-1;1;George Carlin, who originally voiced Fillmore in Cars, died in June 2008
+2;WaterlooClarke-PO-1;1;Fillmore was voiced by Lloyd Sherr in Cars 2 due to George Carlin's death
+</D0041>
+<D0042>Castle in the Sky (Laputa: Castle in the Sky, 1986);99
+1;WaterlooClarke-PO-1;4;Castle in the Sky was the first film to be animated by Studio Ghibli.
+2;WaterlooClarke-PO-1;4;Castle in the Sky is also known as Laputa: Castle in the Sky.
+3;WaterlooClarke-PO-1;4;Castle in the Sky was released in 1986.
+4;WaterlooClarke-PO-1;2;Laputa: Castle in the Sky was the first film by Studio Ghibli.
+</D0042>
+<D0043>Totoro (from My Neighbor Totoro);99
+1;WaterlooClarke-PO-1;1;Totoro is a plush toy of the titular character from Studio Ghibli's My Neighbor Totoro that appears in Toy Story 3.
+2;WaterlooClarke-PO-1;2;Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010).
+3;WaterlooClarke-PO-2;3;The forest spirit Totoro from My Neighbor Totoro makes an appearance as a plush toy in Toy Story 3 (2010).
+</D0043>
+<D0044>Spirited Away;99
+1;WaterlooClarke-PO-1;7;Spirited Away was the first animated film to win the Golden Bear at the Berlin International Film Festival.
+2;WaterlooClarke-PO-1;7;Spirited Away won the Golden Bear tied with Bloody Sunday.
+3;WaterlooClarke-PO-1;1;The Golden Bear is the highest prize awarded for the best film at the Berlin International Film Festival.
+</D0044>
+<D0045>4;25
+1;WaterlooClarke-PO-2;4;Spirited Away (2001) was written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+2;WaterlooClarke-PO-2;10;Howl's Moving Castle (2004) was written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+3;WaterlooClarke-PO-1;8;Ponyo (2008) was written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+4;WaterlooClarke-PO-2;6;The Wind Rises (2013) was written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+5;WaterlooClarke-PO-2;3;The Boy and the Heron (2023) was written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+</D0045>
+<D0046>4;90
+1;WaterlooClarke-PO-1;16;Avengers: Doomsday and Avengers: Secret Wars are respectively the fifth and sixth installments in the Avengers film series following Avengers: Endgame (2019).
+2;WaterlooClarke-PO-1;10;Avengers: Doomsday is scheduled to be released on December 18, 2026, after August 2025.
+</D0046>
+<D0047>;5
+</D0047>
+<D0048>Furious 7;99
+1;WaterlooClarke-PO-1;1;Furious 7 features a hacking program known as God's Eye as a central plot element.
+2;WaterlooClarke-PO-1;1;Furious 7 is the seventh installment in the Fast & Furious franchise.
+3;WaterlooClarke-PO-1;1;In Furious 7, Dominic Toretto and his team are recruited to prevent terrorist Mose Jakande from obtaining the God's Eye.
+</D0048>
+<D0049>2;90
+1;WaterlooClarke-PO-1;1;F9 (2021) was co-written by Justin Lin and Daniel Casey
+2;WaterlooClarke-PO-1;3;Fast X (2023) has a screenplay written by Dan Mazeau and Justin Lin
+3;WaterlooClarke-PO-1;1;F9 is the ninth mainline installment in the Fast & Furious franchise
+4;WaterlooClarke-PO-1;3;Fast X is the tenth main installment in the Fast & Furious franchise
+</D0049>
+<D0050>F9;97
+1;WaterlooClarke-PO-1;2;F9 grossed $726.2 million worldwide
+2;WaterlooClarke-PO-2;13;F9's worldwide gross of $726,229,501 exceeded Fast X's worldwide gross of $704,875,015
+</D0050>
+<D0051>Murphy "Murph" Cooper;97
+1;WaterlooClarke-PO-1;1;Murphy 'Murph' Cooper is Joseph Cooper's daughter in Interstellar
+2;WaterlooClarke-PO-1;1;The character is referred to by both the full name Murphy and the nickname 'Murph'
+3;WaterlooClarke-PO-2;8;In Interstellar, the young version of Murphy 'Murph' Cooper is played by Mackenzie Foy
+</D0051>
+<D0052>Murph;99
+1;WaterlooClarke-PO-1;1;Joseph Cooper's daughter is named Murphy, nicknamed 'Murph'
+2;WaterlooClarke-PO-2;9;The nickname of Joseph Cooper's daughter in Interstellar is 'Murph'
+</D0052>
+<D0053>10 years old;97
+1;WaterlooClarke-PO-1;1;Murphy 'Murph' Cooper is Joseph Cooper's daughter in Interstellar
+2;WaterlooClarke-PO-1;1;Mackenzie Foy plays the 10-year-old Murph in Interstellar
+3;WaterlooClarke-PO-2;3;Murphy 'Murph' Cooper (young) in Interstellar is played by Mackenzie Foy
+</D0053>
+<D0054>Oppenheimer (2023);90
+1;WaterlooClarke-PO-1;1;Interstellar (2014) was directed by Christopher Nolan.
+2;WaterlooClarke-PO-1;2;Christopher Nolan's next feature film after Tenet was Oppenheimer (2023).
+3;WaterlooClarke-PO-1;2;Oppenheimer (2023) is a biopic centered on J. Robert Oppenheimer, with Cillian Murphy starring as the titular character.
+4;WaterlooClarke-PO-1;2;Oppenheimer won the Academy Award for Best Picture and Nolan won Best Director.
+5;WaterlooClarke-PO-1;2;Nolan's next project after Oppenheimer is The Odyssey (2026), which had not yet been released by the time of the question.
+</D0054>
+<D0055>Tomorrowland;95
+1;WaterlooClarke-PO-1;14;Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;WaterlooClarke-PO-1;14;Tomorrowland was released on May 22, 2015, in theaters and IMAX.
+3;WaterlooClarke-PO-1;14;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+</D0055>
+<D0056>Hoth;99
+1;WaterlooClarke-PO-1;19;The Rebel Alliance established a base on the ice planet Hoth in The Empire Strikes Back.
+2;WaterlooClarke-PO-1;1;The Rebel base on Hoth was called Echo Base.
+3;WaterlooClarke-PO-1;1;Hoth was chosen as the new Rebel command headquarters in The Empire Strikes Back.
+4;WaterlooClarke-PO-1;19;An Imperial probe droid discovered the Rebel base on Hoth and transmitted its location to the Empire.
+</D0056>
+<D0057>Jedi Master Plo Koon;99
+1;WaterlooClarke-PO-2;8;Ahsoka Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon
+2;WaterlooClarke-PO-2;8;Jedi Master Plo Koon brought Ahsoka Tano to the Jedi Temple on Coruscant
+3;WaterlooClarke-PO-2;11;Ahsoka Tano wields two white lightsabers
+4;WaterlooClarke-PO-2;16;In 33 BBY, a young Ahsoka was discovered by Jedi Master Plo Koon and taken to the Jedi Temple on Coruscant
+</D0057>
+<D0058>I am one with the Force, and the Force is with me;25
+1;WaterlooClarke-PO-1;1;Îmwe heard Malbus repeat his mantra before he died
+</D0058>
+<D0059>;5
+</D0059>
+<D0060>Starkiller Base;97
+1;WaterlooClarke-PO-1;4;Han Solo was killed by his son Kylo Ren during the Battle of Starkiller Base
+2;WaterlooClarke-PO-1;5;Han Solo was fatally impaled by Kylo Ren with his lightsaber on Starkiller Base
+3;WaterlooClarke-PO-1;5;Han Solo fell down a shaft towards the core of Starkiller Base after being impaled
+</D0060>
+<D0061>Home;97
+1;WaterlooClarke-PO-1;5;The first MCU Spider-Man film is titled 'Spider-Man: Homecoming' (2017)
+2;WaterlooClarke-PO-1;5;The second MCU Spider-Man film is titled 'Spider-Man: Far From Home' (2019)
+3;WaterlooClarke-PO-1;5;The third MCU Spider-Man film is titled 'Spider-Man: No Way Home' (2021)
+</D0061>
+<D0062>Stardust;99
+1;WaterlooClarke-PO-1;1;Galen Erso affectionately referred to his daughter Jyn as 'Stardust'
+2;WaterlooClarke-PO-1;6;Jyn Erso is nicknamed 'Stardust'
+</D0062>
+<D0063>AT-AT (All Terrain Armored Transport) walkers;98
+1;WaterlooClarke-PO-1;20;The Empire used AT-AT walkers to attack the Rebel base on Hoth in The Empire Strikes Back
+2;WaterlooClarke-PO-2;9;AT-AT stands for All Terrain Armored Transport
+3;WaterlooClarke-PO-2;19;AT-ATs are giant walking vehicles (walkers)
+4;WaterlooClarke-PO-2;19;General Veers commanded the AT-AT ground forces during the Battle of Hoth
+5;WaterlooClarke-PO-2;9;The AT-ATs were described as approximately fifty feet tall armored exoskeletons
+</D0063>
+<D0064>Rogue One;98
+1;WaterlooClarke-PO-1;2;Rogue One performed well commercially and critically, while Solo received mixed responses and underperformed at the box office.
+2;WaterlooClarke-PO-2;8;Rogue One grossed $155.1 million in its opening weekend, the third-biggest debut of 2016.
+3;WaterlooClarke-PO-1;15;After Solo's poor box-office performance, Bob Iger announced a slowdown in Star Wars film releases.
+</D0064>
+<D0065>Han Solo (Harrison Ford) killed Liang Yang's character (a stormtrooper), and Darth Vader/the Empire's forces killed Baze Malbus (Jiang Wen) on Scarif in Rogue One;25
+1;WaterlooClarke-PO-1;5;Liang Yang played a stormtrooper in Star Wars: The Force Awakens
+2;WaterlooClarke-PO-1;5;Liang Yang's stormtrooper character was shot by Han Solo (Harrison Ford) in Star Wars: The Force Awakens
+3;WaterlooClarke-PO-2;12;Jiang Wen played Baze Malbus in Rogue One: A Star Wars Story
+4;WaterlooClarke-PO-2;12;Rogue One: A Star Wars Story is a Star Wars anthology/spinoff film
+</D0065>

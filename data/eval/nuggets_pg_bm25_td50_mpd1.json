@@ -1,0 +1,672 @@
+{
+  "pg_bm25_td50_mpd1_ovlp": {
+    "summary": {
+      "mean_nuggets": 2.262,
+      "total_topics": 65,
+      "min": 0,
+      "max": 5,
+      "dist": {
+        "0": 2,
+        "1": 13,
+        "2": 29,
+        "3": 11,
+        "4": 7,
+        "5": 3
+      }
+    },
+    "topics": {
+      "L0019": {
+        "nuggets": [
+          "Jaws is a 1975 shark thriller film",
+          "The sequel to Jaws (1975) is the second installment set on Amity Island"
+        ],
+        "count": 2,
+        "reasoning": "The passages confirm Jaws is the 1975 shark thriller and that a sequel exists, but no passage explicitly states the release year of the first sequel (Jaws 2, which was 1978), making it impossible to calculate the exact number of years from the passages alone.",
+        "topic_id": "L0019",
+        "question": "How many years passed between the release of the 1975 shark thriller and its fir"
+      },
+      "L0037": {
+        "nuggets": [
+          "Judas and the Black Messiah is a 2021 American biographical historical crime drama film directed by Shaka King",
+          "Judas and the Black Messiah is about the assassination of a Black Panther Party activist"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly answers the question by identifying Shaka King as the director of 'Judas and the Black Messiah,' a 2021 biographical historical crime drama about a Black Panther Party activist's assassination; these are the only two relevant atomic facts needed to answer the question.",
+        "topic_id": "L0037",
+        "question": "Who directed the 2021 biographical historical crime drama about the assassinatio"
+      },
+      "L0061": {
+        "nuggets": [
+          "Dunkirk wrapped on 2 September 2016",
+          "Dunkirk wrapped after sixty-eight days"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly answers both parts of the question: the conclusion date (2 September 2016) and the number of days of filming (sixty-eight days) for Dunkirk, Christopher Nolan's 2017 war film.",
+        "topic_id": "L0061",
+        "question": "How many days did the production of Christopher Nolan's 2017 war film wrap after"
+      },
+      "L0064": {
+        "nuggets": [
+          "The Lion King 1\u00bd was directed by Bradley Raymond",
+          "Pocahontas II: Journey to a New World is a 1998 American direct-to-video animated film and sequel to the 1995 Disney film Pocahontas"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] confirms Bradley Raymond directed The Lion King 1\u00bd, and passage [10] confirms Pocahontas II exists as a direct-to-video sequel, but no passage explicitly states that Bradley Raymond previously directed Pocahontas II, so only these two partial nuggets relevant to the question are present.",
+        "topic_id": "L0064",
+        "question": "Who directed 'The Lion King 1\u00bd', having previously directed 'Pocahontas II'?"
+      },
+      "L0073": {
+        "nuggets": [
+          "The 2017 Luca Guadagnino film is 'Call Me by Your Name'",
+          "The screenplay of 'Call Me by Your Name' was written by James Ivory"
+        ],
+        "count": 2,
+        "reasoning": "The passages only confirm that 'Call Me by Your Name' is the 2017 Luca Guadagnino film with a screenplay by James Ivory, but provide no information about the numbered editions of the Critics' Choice Awards, BAFTA Awards, or Writers Guild Awards at which it won.",
+        "topic_id": "L0073",
+        "question": "The screenplay of the 2017 Luca Guadagnino film won at the Critics' Choice Award"
+      },
+      "L0120": {
+        "nuggets": [],
+        "count": 1,
+        "reasoning": "parse_error",
+        "topic_id": "L0120",
+        "question": "A romantic comedy from 1941 bearing the same title as Eastwood's boxing drama fe"
+      },
+      "L0122": {
+        "nuggets": [
+          "Milchan reinstated New Regency's financial backing",
+          "The final production budget was $63\u201365 million"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly answers the question by stating that Milchan (of New Regency) reinstated financial backing and that the final production budget for Fincher's 1999 feature (Fight Club) was $63\u201365 million, which are the only two nuggets relevant to answering the question about the monetary range after the reversal of withdrawal.",
+        "topic_id": "L0122",
+        "question": "After New Regency reversed its withdrawal of funds, within what monetary range d"
+      },
+      "L0182": {
+        "nuggets": [
+          "Nashville is a 1975 film directed by Robert Altman about the country and gospel music industry",
+          "The motel in the film was constructed over a six-week period, designed by Altman and production designer Steve Altman (his son)"
+        ],
+        "count": 2,
+        "reasoning": "The question asks about a structure used as a filming location for Altman's 1975 country music drama (Nashville); passage [1] confirms Nashville is that film, and passage [7] mentions a motel was constructed for the film, which is the only structural/location detail relevant to the question present in these passages.",
+        "topic_id": "L0182",
+        "question": "What kind of structure did Robert Altman use as a filming location associated wi"
+      },
+      "L0185": {
+        "nuggets": [
+          "Psycho (1960) is a critical influence on the slasher genre",
+          "A 'Best Films of the Century' list was published in 1999 based on a poll of critics",
+          "Psycho appears on the 'Best Films of the Century' list (Top 250) from 1999",
+          "Jonathan Rosenbaum published an alternative list in response to the AFI list of 100 greatest American movies published in 1998"
+        ],
+        "count": 4,
+        "reasoning": "The question asks about an alternative publication's turn-of-the-millennium ranking (Top 250) and where Psycho (1960) placed; the passages confirm Psycho's role in the slasher genre, the existence of a 1999 'Best Films of the Century' Top 250 list, Psycho's appearance on that list, and Rosenbaum's alternative list, but no passage specifies the exact ranking position of Psycho on that list.",
+        "topic_id": "L0185",
+        "question": "Where did the influential alternative publication's turn-of-the-millennium ranki"
+      },
+      "L0191": {
+        "nuggets": [
+          "The Critics' Choice Movie Award for Best Ensemble nomination for Selma occurred in 2015"
+        ],
+        "count": 1,
+        "reasoning": "Only one nugget directly answers the question: passage [1] states that the Critics' Choice Movie Award for Best Ensemble nomination for Selma (the film about the Selma to Montgomery march) occurred in 2015.",
+        "topic_id": "L0191",
+        "question": "In what year did the Critics' Choice Movie Award for Best Ensemble nomination fo"
+      },
+      "L0199": {
+        "nuggets": [
+          "Four days before the 2024 election, Moore released a movie on his YouTube channel for free viewing",
+          "The film released was Fahrenheit 11/9",
+          "Fahrenheit 11/9 was originally made in 2018"
+        ],
+        "count": 3,
+        "reasoning": "Passage [1] provides all three key facts needed to answer the question: the timing (four days before the 2024 election), the action (released on YouTube for free), the film title (Fahrenheit 11/9), and the original year (2018).",
+        "topic_id": "L0199",
+        "question": "Four days before the 2024 election, Michael Moore released a documentary for fre"
+      },
+      "L0200": {
+        "nuggets": [
+          "The 2000 Nolan memory-loss thriller (Memento) earned a total domestic gross of $25 million in its box-office run"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [1] contains a directly relevant fact about the domestic box-office total for a Nolan film, referencing $25 million and mentioning Jonathan Nolan's short story on which the film was based, consistent with Memento (2000); all other passages refer to different films.",
+        "topic_id": "L0200",
+        "question": "What was the total domestic box-office gross earned by the 2000 Nolan memory-los"
+      },
+      "L0203": {
+        "nuggets": [
+          "Central Station is a 1998 film directed by Walter Salles",
+          "Central Station's screenplay was written by Jo\u00e3o Emanuel Carneiro and Marcos Bernstein",
+          "Central Station is set in Brazil (it is a Brazilian road drama film)",
+          "Central Station was based on an original idea by Salles"
+        ],
+        "count": 4,
+        "reasoning": "Passage [2] directly identifies the 1998 Salles-directed film as Central Station and names the screenplay writers (Jo\u00e3o Emanuel Carneiro and Marcos Bernstein), plus notes it was based on Salles's original idea, which are the facts relevant to answering who crafted the written narrative.",
+        "topic_id": "L0203",
+        "question": "Who crafted the written narrative behind the 1998 Salles-directed feature set in"
+      },
+      "L0204": {
+        "nuggets": [
+          "Nicholas Van Orton is a character in a film with visual elements suggesting wealthy lifestyle, directed by Fincher with cinematographer Harris Savides"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [3] contains any relevant information about Nicholas Van Orton as a character in a film, mentioning Fincher as director and the character's wealthy lifestyle, but none of the passages name the performer/actor who played Nicholas Van Orton, which is what the question asks.",
+        "topic_id": "L0204",
+        "question": "The performer who embodied the solitary tycoon Nicholas Van Orton in a late-1990"
+      },
+      "L0206": {
+        "nuggets": [
+          "The Good, the Bad and the Ugly was released in Italy on 23 December 1966"
+        ],
+        "count": 1,
+        "reasoning": "The question asks about the Leone film featuring Blondie the bounty-hunter (The Good, the Bad and the Ugly, where Blondie is Eastwood's character) and which country released it first and on what date; only passage [1] contains the directly relevant fact that Italy released it on 23 December 1966.",
+        "topic_id": "L0206",
+        "question": "Which country released the Leone film featuring Blondie the bounty-hunter first,"
+      },
+      "L0212": {
+        "nuggets": [
+          "Davy Jones in Pirates of the Caribbean: At World's End was portrayed by Bill Nighy",
+          "The same actor who dubbed Bill Nighy's role as Davy Jones in Pirates of the Caribbean: At World's End also voiced Anton Ego in Ratatouille",
+          "Anton Ego is a villain character in Ratatouille"
+        ],
+        "count": 3,
+        "reasoning": "Passage [2] directly states that the same actor provided voiceover for Bill Nighy as Davy Jones in Pirates of the Caribbean: At World's End and also voiced Anton Ego in Ratatouille, while passage [1] confirms Davy Jones was portrayed by Bill Nighy, together providing the key facts needed to answer the question.",
+        "topic_id": "L0212",
+        "question": "Which villain character from Ratatouille was voiced by the same actor who dubbed"
+      },
+      "L0221": {
+        "nuggets": [
+          "The film received a 'Best Buddy' award category from AARP Movies for Grownups Awards on January 19, 2020"
+        ],
+        "count": 1,
+        "reasoning": "Passage [2] is the only one that connects a 2019 Le Mans racing film to a specific AARP Movies for Grownups Awards category ('Best Buddy') on January 19, 2020, which directly answers the question.",
+        "topic_id": "L0221",
+        "question": "Which award category did the 2019 Le Mans racing film receive from the AARP Movi"
+      },
+      "L0223": {
+        "nuggets": [
+          "The Exorcist did for the horror film what 2001 did for science fiction",
+          "2001 refers to Stanley Kubrick's science fiction film (2001: A Space Odyssey)"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly contains the critic's quote comparing The Exorcist to 2001, and passage [18] confirms that '2001: A Space Odyssey' is the full title of Kubrick's science fiction film made in 1968, together answering which specific Kubrick sci-fi film was cited in the comparison.",
+        "topic_id": "L0223",
+        "question": "A critic writing about The Exorcist stated it did for horror what a specific Sta"
+      },
+      "L0264": {
+        "nuggets": [
+          "Willem Dafoe played a gas station owner named Gas in David Cronenberg's eXistenZ (1999)",
+          "eXistenZ (1999) is a David Cronenberg science fiction thriller",
+          "eXistenZ involves virtual reality and reality-blurring themes"
+        ],
+        "count": 3,
+        "reasoning": "The question asks for Willem Dafoe's character's on-screen identity in Cronenberg's 1999 reality-blurring film (eXistenZ), and the relevant nuggets are: his character's name (Gas), the film's director and genre, and the film's reality-blurring nature \u2014 all drawn directly from passages 1 and 6.",
+        "topic_id": "L0264",
+        "question": "What was the on-screen identity of Willem Dafoe's character in the reality-blurr"
+      },
+      "L0268": {
+        "nuggets": [
+          "Ilfenesh Hadera appeared in Oldboy (2013)",
+          "Ilfenesh Hadera appeared in Chi-Raq (2015)",
+          "Oldboy (2013) is a remake directed by Spike Lee",
+          "Oldboy (2013) is a remake of a South Korean film",
+          "Chi-Raq (2015) is a film directed by Spike Lee"
+        ],
+        "count": 5,
+        "reasoning": "These nuggets collectively identify Ilfenesh Hadera as the actress who appeared in both the 2013 American remake (Oldboy) of a South Korean thriller and Spike Lee's 2015 film Chi-Raq, establishing the key facts needed to answer the question.",
+        "topic_id": "L0268",
+        "question": "Which actress appeared in both the 2013 American remake of a South Korean thrill"
+      },
+      "L0318": {
+        "nuggets": [
+          "Killers of the Flower Moon is a 2023 film directed by Martin Scorsese",
+          "Killers of the Flower Moon is based on a 2017 nonfiction book"
+        ],
+        "count": 2,
+        "reasoning": "None of the retrieved passages contain information about the specific year in which initial talks about adapting the Grann nonfiction work were held; only basic facts about the film (its 2023 release and the 2017 source book) are present and relevant to the question.",
+        "topic_id": "L0318",
+        "question": "The development of Scorsese's 2023 Osage-set film traces back to early discussio"
+      },
+      "L0356": {
+        "nuggets": [
+          "A critic from Firstpost (Ranjani Krishnakumar) gave one star and called a 2023 Pixar film 'confused' and 'self-indulgent'",
+          "The storytelling of Elemental (2023 Pixar film) was not considered up to Pixar's standards",
+          "A 2023 film's element was described as 'overstuffed' and 'cliche-ridden'"
+        ],
+        "count": 3,
+        "reasoning": "Passage [4] contains the 'confused' descriptor from a critic's review of a Pixar film, passage [3] references Elemental's storytelling criticism, and passage [7] contains 'overstuffed' but in context of a horror film rather than clearly the Pixar film, so these are the closest relevant nuggets available in the passages, though none fully and unambiguously connects both 'confused' and 'overstuffed' to the same narrative element of the same 2023 Pixar film.",
+        "topic_id": "L0356",
+        "question": "According to a critic's review, what narrative element of the 2023 Pixar film wa"
+      },
+      "L0365": {
+        "nuggets": [
+          "The ancient city implied to be Carthage in the film was shot in Volubilis, Morocco",
+          "Volubilis is an ancient Roman Mauretanian city in Morocco"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly answers the question by stating the Carthage scene was filmed at Volubilis, Morocco, and identifies it as an ancient Roman Mauretanian city, which are the only facts directly relevant to answering the question about the filming location.",
+        "topic_id": "L0365",
+        "question": "In the 1970 George C. Scott war epic, what location in Morocco was used to film "
+      },
+      "L0395": {
+        "nuggets": [
+          "Mandy (2018) is described as a surrealist action horror film",
+          "Mandy (2018) is directed by Panos Cosmatos"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly identifies Mandy as a '2018 surrealist action horror film' directed by Panos Cosmatos, providing the two additional genre descriptors beyond 'horror': 'surrealist' and 'action'.",
+        "topic_id": "L0395",
+        "question": "Apart from being categorized simply as horror, Cosmatos's 2018 feature carries t"
+      },
+      "L0419": {
+        "nuggets": [
+          "Yoo Yeon-seok's birth name is Ahn Yeon-seok",
+          "Yoo Yeon-seok made his acting debut in 2003 with a small role in Oldboy"
+        ],
+        "count": 2,
+        "reasoning": "The question asks for Yoo Yeon-seok's birth name as credited in his 2003 debut film; passage [1] provides both his birth name (Ahn Yeon-seok) and confirms his debut was in Oldboy (2003), which is a Korean revenge picture, giving us the two atomic facts needed to answer the question.",
+        "topic_id": "L0419",
+        "question": "The performer now recognized under the moniker Yoo Yeon-seok got his start in a "
+      },
+      "L0421": {
+        "nuggets": [
+          "Herbert Knaup was born on 23 March 1956",
+          "Herbert Knaup is a German film and television actor",
+          "Herbert Knaup is best known to international audiences for his supporting role in Run Lola Run (1998)",
+          "Herbert Knaup appeared in The Lives of Others"
+        ],
+        "count": 4,
+        "reasoning": "All four nuggets come directly from passage [1] and collectively identify the person (Herbert Knaup), his nationality/profession, his birth date, and his two internationally notable roles that match the question's criteria.",
+        "topic_id": "L0421",
+        "question": "Which German actor, best known internationally for a supporting role in a 1998 t"
+      },
+      "L0459": {
+        "nuggets": [
+          "A Bittersweet Life is a 2005 South Korean action film written and directed by Kim Jee-woon"
+        ],
+        "count": 1,
+        "reasoning": "Only one nugget is relevant: that Kim Jee-woon's sole-authored 2005 Korean crime feature is 'A Bittersweet Life' (2005); the passages contain no information about a Marathi-language Indian drama that premiered at the 2020 Busan International Film Festival, so the gap cannot be calculated from these passages alone.",
+        "topic_id": "L0459",
+        "question": "What is the numerical gap in years between Kim Jee-woon's sole-authored 2005 Kor"
+      },
+      "L0463": {
+        "nuggets": [
+          "High Noon (1952) is a western directed by Fred Zinnemann",
+          "High Noon defeated films such as The Quiet Man, Ivanhoe, and Moulin Rouge for Best Picture",
+          "High Noon is listed by Empire as the third-worst Best Picture winner"
+        ],
+        "count": 3,
+        "reasoning": "The relevant nuggets identify High Noon as the 1952 Fred Zinnemann western that won Best Picture over The Quiet Man, Ivanhoe, and Moulin Rouge, which directly answers the question; the Empire ranking detail is marginally relevant context about the win.",
+        "topic_id": "L0463",
+        "question": "Which Best Picture winner at a major awards ceremony defeated the 1952 Fred Zinn"
+      },
+      "L0469": {
+        "nuggets": [
+          "Malone was fined $10,000 alongside his suspension"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [1] directly addresses the question, stating that the NBA fined Malone $10,000 alongside his suspension for the game on November 29, 1990 against the Golden State Warriors.",
+        "topic_id": "L0469",
+        "question": "How much was the NBA fine imposed on Malone alongside his suspension?"
+      },
+      "L0490": {
+        "nuggets": [
+          "Ravi Cabot-Conyers voiced Antonio Madrigal in Disney's Encanto"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [6] directly states that Ravi Cabot-Conyers voiced Antonio Madrigal in Disney's Encanto, which is the specific fact needed to answer the question; all other passages mention different characters, unrelated Madrigal references, or irrelevant information.",
+        "topic_id": "L0490",
+        "question": "Which actor voiced the character Antonio Madrigal in the 2021 Disney animated fi"
+      },
+      "L0497": {
+        "nuggets": [
+          "Alfonso Cuar\u00f3n won Best Cinematography for Roma (2018)",
+          "In 2019, Portrait of a Lady on Fire won the award in the same Best Cinematography category where Roma had previously been recognized"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] confirms Cuar\u00f3n won Best Cinematography for Roma in 2018, and passage [15] shows that in 2019 (the year following Roma), 'Portrait of a Lady on Fire' won in the same cinematography category, directly answering the question.",
+        "topic_id": "L0497",
+        "question": "In the year following 'Roma', which film won the award for best cinematography i"
+      },
+      "L0502": {
+        "nuggets": [
+          "Caitlin Carver played Nancy Kerrigan in I, Tonya (2017)",
+          "Caitlin Carver was born in Monrovia, Alabama"
+        ],
+        "count": 2,
+        "reasoning": "Only two facts are directly relevant: who played Nancy Kerrigan in I, Tonya (Caitlin Carver, from passage 1) and where she was born (Monrovia, Alabama, from passage 1), which together fully answer the question.",
+        "topic_id": "L0502",
+        "question": "The actress who played Nancy Kerrigan in I, Tonya was born in which Alabama city"
+      },
+      "L0515": {
+        "nuggets": [
+          "William Goldman wrote the screenplay for Butch Cassidy and the Sundance Kid",
+          "Three of Goldman's scripts have been voted into the Writers Guild of America hall-of-fame"
+        ],
+        "count": 2,
+        "reasoning": "The passages identify William Goldman as the author of Butch Cassidy and the Sundance Kid and mention that three of his scripts were voted into the WGA hall-of-fame, which are the only facts directly relevant to answering the question, though the passages do not specifically name which three scripts were honored.",
+        "topic_id": "L0515",
+        "question": "What screenplay by the author of Butch Cassidy and the Sundance Kid was collecti"
+      },
+      "L0524": {
+        "nuggets": [
+          "Looper's blend of time travel, gritty action, and romance was described as a 'thrilling and cerebral mind-bender'",
+          "This description caused moviegoers to gather outside the theater"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly answers the question by identifying the film as 'Looper' (2012 sci-fi), the critic's description as a 'thrilling and cerebral mind-bender,' and the effect of moviegoers gathering outside the theater; all other passages are irrelevant to this specific question.",
+        "topic_id": "L0524",
+        "question": "A critic described a 2012 sci-fi film's blend of time travel, gritty action, and"
+      },
+      "L0532": {
+        "nuggets": [
+          "The Thing is a fictional shapeshifting and telepathic alien",
+          "The Thing first appeared in the novella 'Who Goes There?' by John W. Campbell",
+          "The novella 'Who Goes There?' has been adapted into various films",
+          "The film is based on the 1938 John W. Campbell Jr. novella 'Who Goes There?'"
+        ],
+        "count": 4,
+        "reasoning": "These four nuggets collectively answer the question by identifying the creature (The Thing), its characteristics (shapeshifting and telepathic), its origin (John W. Campbell's novella 'Who Goes There?'), and its film adaptation, all directly drawn from passages [1] and [6].",
+        "topic_id": "L0532",
+        "question": "What fictional alien creature, described as both shapeshifting and telepathic, o"
+      },
+      "L0558": {
+        "nuggets": [
+          "Frank Langella received a SAG Award nomination for Best Actor for portraying Richard Nixon in Frost/Nixon (2009)",
+          "The SAG Award nomination was for Outstanding Performance by a Male Actor in a Leading Role (Best Actor category)"
+        ],
+        "count": 2,
+        "reasoning": "Passage [10] directly states that Frank Langella received a SAG nomination for Best Actor for portraying Richard Nixon in the film Frost/Nixon in 2009, which is the core answer to the question.",
+        "topic_id": "L0558",
+        "question": "For portraying which specific historical political figure did Frank Langella rec"
+      },
+      "L0580": {
+        "nuggets": [
+          "Spotlight is a 2015 American biographical drama film directed by Tom McCarthy",
+          "Spotlight follows The Boston Globe 'Spotlight' team",
+          "Spotlight was written by McCarthy and Josh Singer"
+        ],
+        "count": 3,
+        "reasoning": "Passage [1] is the only one directly relevant to the question about the 2015 feature film dramatizing a metropolitan daily newspaper's specialized team exposing widespread institutional wrongdoing (Spotlight), providing the director's name, the subject matter, and the writers.",
+        "topic_id": "L0580",
+        "question": "Who helmed the 2015 feature film that dramatizes a metropolitan daily newspaper'"
+      },
+      "L0600": {
+        "nuggets": [
+          "Martin Pensa was nominated for the Academy Award for Best Film Editing for the 2013 film Dallas Buyers Club",
+          "Jean-Marc Vall\u00e9e was nominated alongside Martin Pensa for Best Film Editing for Dallas Buyers Club",
+          "Jean-Marc Vall\u00e9e was credited under the pseudonym John Mac McMurphy for Dallas Buyers Club"
+        ],
+        "count": 3,
+        "reasoning": "Passage [1] directly answers all parts of the question: it identifies Jean-Marc Vall\u00e9e as the fellow film editor nominated alongside Martin Pensa, and specifies the pseudonym 'John Mac McMurphy' under which he was credited.",
+        "topic_id": "L0600",
+        "question": "Which film editor received an Academy Award nomination for Best Film Editing alo"
+      },
+      "L0631": {
+        "nuggets": [
+          "Gamora is described as the team's 'voice of reason' in Guardians of the Galaxy Vol. 2",
+          "Gamora is surrounded by male teammates (dudes) in the Guardians ensemble",
+          "Zoe Salda\u00f1a described Gamora's role in Vol. 2 as 'the voice of reason'"
+        ],
+        "count": 3,
+        "reasoning": "Passage [1] directly answers the question by identifying Gamora as the character described as the team's 'voice of reason' who is surrounded by male teammates, with Salda\u00f1a providing this description for Vol. 2.",
+        "topic_id": "L0631",
+        "question": "Which character in the Guardians ensemble is described as the team's 'voice of r"
+      },
+      "L0664": {
+        "nuggets": [
+          "The building used for the pizza restaurant was a converted home in Stonington Borough at 70 Water St",
+          "After the film's release, the real-life Mystic Pi[zza] was affected"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] directly addresses the question by identifying the venue at 70 Water St in Stonington Borough as a pizza restaurant (specifically the real-life Mystic Pizza), which is the key fact needed to answer what category of commercial venue it was.",
+        "topic_id": "L0664",
+        "question": "A waterfront business in Stonington Borough found its fortunes altered following"
+      },
+      "L0700": {
+        "nuggets": [
+          "DuVernay said Selma is a work of art about the people of Selma, not a documentary",
+          "DuVernay said she did not see herself as 'a custodian of anyone's' [viewpoint/legacy]"
+        ],
+        "count": 2,
+        "reasoning": "Only passages [1] and [2] contain directly relevant nuggets about how DuVernay articulated her creative authority when defending interpretive choices about actual persons from the civil rights era; the remaining passages are largely irrelevant to this specific question.",
+        "topic_id": "L0700",
+        "question": "How did DuVernay articulate her creative authority when defending the film's int"
+      },
+      "L0729": {
+        "nuggets": [],
+        "count": 0,
+        "reasoning": "parse_error",
+        "topic_id": "L0729",
+        "question": "In which calendar year did the Sicilian-born auteur responsible for the internat"
+      },
+      "L0743": {
+        "nuggets": [
+          "Pietro Scalia won the Best Film Editing award at the 64th Academy Awards for his work on JFK",
+          "JFK is a 1991 film edited by Pietro Scalia (shared with Joe Hutshing)"
+        ],
+        "count": 2,
+        "reasoning": "Only passage [1] contains directly relevant information \u2014 identifying Pietro Scalia as the editor who won Best Film Editing for JFK (Stone's 1991 political thriller); no passage mentions the subsequent Stone production for which he earned a nomination six years later, so that part of the answer cannot be found in the retrieved passages.",
+        "topic_id": "L0743",
+        "question": "The editor whose Oscar win for Best Film Editing came from his work on Stone's 1"
+      },
+      "L0766": {
+        "nuggets": [
+          "Anderson felt the studio did not do a decent enough job on Boogie Nights",
+          "Anderson did not like the studio's poster for Magnolia",
+          "Anderson did not like the studio's trailer for Magnolia"
+        ],
+        "count": 3,
+        "reasoning": "Passage [1] contains the only directly relevant information: Anderson's specific complaint was that the studio had not done a decent enough job marketing his prior film Boogie Nights, and he also objected to their poster and trailer for Magnolia (though the poster/trailer complaints relate to Magnolia itself, not the prior film handling).",
+        "topic_id": "L0766",
+        "question": "Paul Thomas Anderson clashed with his studio over the marketing of Magnolia. Wha"
+      },
+      "L0770": {
+        "nuggets": [
+          "Robert George Wahlberg appeared in both Mystic River and The Departed",
+          "Robert George Wahlberg was born in the Dorchester neighborhood of Boston"
+        ],
+        "count": 2,
+        "reasoning": "Passage [1] provides both key facts needed to answer the question: that Robert Wahlberg appeared in both films and that he was born in Dorchester, making these the only two relevant nuggets directly supporting the answer.",
+        "topic_id": "L0770",
+        "question": "The actor who appeared in both Mystic River and The Departed was born in which B"
+      },
+      "L0786": {
+        "nuggets": [
+          "Captain America: The Winter Soldier was nominated for Best Action Movie at the Critics' Choice Movie Awards"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [1] contains a relevant nugget directly connecting Captain America: The Winter Soldier to a Best Action Movie nomination at the Critics' Choice Movie Awards, though it does not explicitly state the year 2015; no other passages provide additional distinct facts relevant to answering the question about the specific 2015 awards ceremony.",
+        "topic_id": "L0786",
+        "question": "At what awards ceremony in 2015 was Captain America: The Winter Soldier nominate"
+      },
+      "L0808": {
+        "nuggets": [
+          "Richard Aiello appeared in both Do the Right Thing and Jungle Fever",
+          "Do the Right Thing was released in 1989",
+          "Jungle Fever was released in 1991"
+        ],
+        "count": 3,
+        "reasoning": "The question asks which film was released earlier, so the relevant nuggets are that Richard Aiello appeared in both films and the release years of each film (1989 for Do the Right Thing and 1991 for Jungle Fever).",
+        "topic_id": "L0808",
+        "question": "Which of the two Spike Lee films featuring Richard Aiello was released earlier \u2014"
+      },
+      "L0859": {
+        "nuggets": [],
+        "count": 1,
+        "reasoning": "parse_error",
+        "topic_id": "L0859",
+        "question": "Which award category did the Boston Society of Film Critics use when honoring th"
+      },
+      "L0924": {
+        "nuggets": [
+          "Mamma Mia! received a nomination at the British Academy Film Awards on February 8, 2009 for Outstanding British Film"
+        ],
+        "count": 1,
+        "reasoning": "Only passage [1] contains directly relevant information, identifying that Mamma Mia! (the jukebox musical directed by Phyllida Lloyd) was nominated for Outstanding British Film at the BAFTA ceremony on February 8, 2009, which is the non-musical award category asked about in the question.",
+        "topic_id": "L0924",
+        "question": "At the British Academy of Film and Television Arts ceremony on 8 February 2009, "
+      },
+      "L0938": {
+        "nuggets": [],
+        "count": 2,
+        "reasoning": "parse_error",
+        "topic_id": "L0938",
+        "question": "In the mid-1960s cinematic retelling of Jones's Guadalcanal chronicle, which per"
+      },
+      "L0943": {
+        "nuggets": [
+          "Pulp Fiction's poster cites winning the Palme d'Or at the Cannes Film Festival",
+          "The Plump Fiction parody poster parodies this as 'Winner of the Palm d'Hors d'oeuvre, Canned Food Festivals'",
+          "Plump Fiction is a parody of Pulp Fiction",
+          "Pulp Fiction is a 1994 crime film directed by Quentin Tarantino"
+        ],
+        "count": 4,
+        "reasoning": "These nuggets directly address the question about what major Cannes award appears on Pulp Fiction's poster (Palme d'Or) and how it is referenced/parodied in the Plump Fiction parody, along with confirming the film's identity.",
+        "topic_id": "L0943",
+        "question": "What major Cannes award is cited on the poster of the 1994 Tarantino crime film,"
+      },
+      "L0948": {
+        "nuggets": [
+          "A Bittersweet Life is a 2005 South Korean action film written and directed by Kim Jee-woon"
+        ],
+        "count": 1,
+        "reasoning": "Only one nugget is directly relevant: the identification of the 2005 South Korean action film written and directed by Kim Jee-woon as 'A Bittersweet Life'; no passage identifies a 2020 Indian Marathi-language drama that premiered at the Busan International Film Festival (passage 13 mentions a 2020 South Korean drama at Busan, not an Indian Marathi-language film).",
+        "topic_id": "L0948",
+        "question": "How many years separate the release of the 2005 South Korean action film written"
+      },
+      "L0950": {
+        "nuggets": [],
+        "count": 2,
+        "reasoning": "parse_error",
+        "topic_id": "L0950",
+        "question": "Scholars and archivists often attach a secondary generic label rooted in French "
+      },
+      "L0961": {
+        "nuggets": [
+          "Mamma Mia! Here We Go Again is a 2018 film written and directed by Ol Parker",
+          "Mamma Mia! Here We Go Again is the sequel to the Mamma Mia! film directed by Phyllida Lloyd",
+          "The first Mamma Mia! film was directed by Phyllida Lloyd and written by Catherine Johnson, based on the 1999 musical",
+          "Mamma Mia! Here We Go Again is based on the songs of ABBA and serves as both a prequel and a sequel"
+        ],
+        "count": 4,
+        "reasoning": "The relevant nuggets identify the two Mamma Mia! films \u2014 the first directed by Phyllida Lloyd (based on the ABBA-catalogue musical) and the sequel (2018) written and directed by Ol Parker \u2014 which are the two installments the question asks about, allowing us to determine which reached audiences earlier.",
+        "topic_id": "L0961",
+        "question": "Between Phyllida Lloyd's ABBA-catalogue musical and the follow-up chapter penned"
+      },
+      "L0975": {
+        "nuggets": [
+          "Tom Glynn-Carney appeared in Christopher Nolan's war film Dunkirk (2017)",
+          "Tom Glynn-Carney won a Drama Desk Award in 2019",
+          "Tom Glynn-Carney is an English actor",
+          "Tom Glynn-Carney won the Drama Desk Award for his performance in a play"
+        ],
+        "count": 4,
+        "reasoning": "Passage [1] contains all directly relevant facts: Tom Glynn-Carney is a British (English) performer who appeared in Dunkirk (2017) and won a Drama Desk Award in 2019, though the passage is cut off before naming the specific play, so the play title is not fully captured as a nugget.",
+        "topic_id": "L0975",
+        "question": "Which British performer, having appeared in Nolan's 2017 wartime picture, subseq"
+      },
+      "L0980": {
+        "nuggets": [
+          "The Storm Riders (1998) is directed by Andrew Lau and based on the manhua series Fung Wan by Ma Wing-shing",
+          "A Man Called Hero (1999) is directed by Andrew Lau and loosely based on the manhua series Chinese Hero: Tales of the Blood Sword by Ma Wing-shing"
+        ],
+        "count": 2,
+        "reasoning": "The question asks which Ma Wing-shing manhua Andrew Lau loosely modeled his late-1990s martial arts film on; passages [1] and [2] both provide directly relevant facts identifying two different films and their source manhua, and since the question likely refers to The Storm Riders (1998) based on Fung Wan, both nuggets are included as candidates.",
+        "topic_id": "L0980",
+        "question": "On which Ma Wing-shing illustrated sequential art publication did Andrew Lau loo"
+      },
+      "L1028": {
+        "nuggets": [],
+        "count": 2,
+        "reasoning": "parse_error",
+        "topic_id": "L1028",
+        "question": "Which television series from 2023 and which other film from 2023 are mentioned a"
+      },
+      "L1087": {
+        "nuggets": [],
+        "count": 0,
+        "reasoning": "None of the retrieved passages contain specific information about the 2006 I\u00f1\u00e1rritu ensemble drama (Babel) and its North American versus international box office figures, so no relevant nuggets can be extracted to answer the question.",
+        "topic_id": "L1087",
+        "question": "Which of the two box office figures was larger for the 2006 I\u00f1\u00e1rritu ensemble dr"
+      },
+      "L1147": {
+        "nuggets": [
+          "Mandy (1952) is a British drama film about a family's struggle to give their deaf daughter a better life",
+          "Earwig (2021) is a body horror drama film that is a co-production of Britain and Belgium"
+        ],
+        "count": 2,
+        "reasoning": "The question asks which came first: a British drama film about a deaf girl's family (Mandy, 1952) or a surrealist horror co-produced with Belgium (Earwig, 2021), so only the identity and dates of these two specific films are relevant nuggets.",
+        "topic_id": "L1147",
+        "question": "Which came first: the British drama film about a deaf girl's family, or the surr"
+      },
+      "L1178": {
+        "nuggets": [
+          "Selma received the Black Film Critics Circle Award for Best Ensemble",
+          "Selma is a 2014 film about the Selma to Montgomery voting rights marches"
+        ],
+        "count": 2,
+        "reasoning": "Passage [4] directly states that Selma won the Black Film Critics Circle Award for Best Ensemble, which is the prize recognizing the full acting company; passage [3] confirms Selma is the 2014 film about the Selma marches.",
+        "topic_id": "L1178",
+        "question": "From the Black Film Critics Circle, which prize recognizing the full acting comp"
+      },
+      "L1187": {
+        "nuggets": [
+          "The 33rd Annual Academy Awards honored achievements in film for the year 1960",
+          "The 33rd Annual Academy Awards ceremony took place on April 17, 1961",
+          "The 33rd Annual Academy Awards was the last ceremony at which the Honorary Juvenile Award was presented",
+          "Charlton Heston appeared in Ben-Hur",
+          "Charlton Heston played a character in Ben-Hur (implied enslaved Jewish prince role)"
+        ],
+        "count": 5,
+        "reasoning": "The passages contain limited directly relevant information: the 33rd Academy Awards honored 1960 films and was the last to present the Honorary Juvenile Award, and Charlton Heston is associated with Ben-Hur, but no passage explicitly states the specific acting honor classification (e.g., Best Actor) that Heston received for his role in Ben-Hur.",
+        "topic_id": "L1187",
+        "question": "Under what acting honor classification did the Academy of Motion Picture Arts an"
+      },
+      "L1249": {
+        "nuggets": [
+          "The Tale of the Princess Kaguya (2013) is an adaptation of The Tale of the Bamboo Cutter, a 10th-century Japanese literary tale",
+          "The Tale of the Princess Kaguya (2013) was co-written and directed by Isao Takahata"
+        ],
+        "count": 2,
+        "reasoning": "None of the retrieved passages contain any scholarly analysis or symbolic interpretation of the Moon in the 2013 Ghibli film; only basic identifying facts about the film are present, so only those minimally relevant nuggets are counted.",
+        "topic_id": "L1249",
+        "question": "What symbolic interpretation is offered for the Moon in the 2013 Ghibli retellin"
+      },
+      "L1256": {
+        "nuggets": [
+          "James Northcote was born James Walker on 10 October 1987",
+          "James Northcote is an English actor",
+          "James Northcote appeared in Anna Karenina (2012)",
+          "James Northcote appeared in Nymphomaniac (2013)",
+          "James Northcote appeared in The Imitation Game (2014)"
+        ],
+        "count": 5,
+        "reasoning": "Passage [1] contains all the directly relevant facts about James Northcote (born James Walker) that help answer the question, including his birth name, nationality, and film appearances including The Imitation Game which is the 2014 film being asked about.",
+        "topic_id": "L1256",
+        "question": "The English actor born James Walker on October 10, 1987, who appeared in Anna Ka"
+      },
+      "L1263": {
+        "nuggets": [
+          "High Noon (1952) was produced by Stanley Kramer",
+          "High Noon stars Gary Cooper and Grace Kelly"
+        ],
+        "count": 2,
+        "reasoning": "The question asks who produced the 1952 American Western starring Gary Cooper and Grace Kelly (High Noon), and the relevant nuggets are that Stanley Kramer produced it and that it stars Gary Cooper and Grace Kelly, both confirmed in passages [1] and [10].",
+        "topic_id": "L1263",
+        "question": "Who produced the 1952 American Western film starring Gary Cooper and Grace Kelly"
+      },
+      "L1283": {
+        "nuggets": [
+          "The Northman is a 2022 Amleth-inspired Viking epic film",
+          "The Northman was directed by Robert Eggers",
+          "Robert Eggers co-wrote the screenplay for The Northman with Sj\u00f3n"
+        ],
+        "count": 3,
+        "reasoning": "The relevant nuggets identify the film in question (The Northman, 2022, Amleth-inspired), its director (Robert Eggers), and the co-writer of the screenplay (Sj\u00f3n), which directly answers who co-wrote the screenplay with the director.",
+        "topic_id": "L1283",
+        "question": "Who co-wrote the screenplay for the 2022 Amleth-inspired Viking epic with its di"
+      }
+    }
+  }
+}

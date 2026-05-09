@@ -1,0 +1,360 @@
+<D0001>Bor Gullet;95
+1;BITEM-PG-1;1;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha
+2;BITEM-PG-1;1;Bor Gullet is a purple-skinned Mairan with the ability to read thoughts
+3;BITEM-PG-2;1;Bor Gullet first appeared in the 2016 Star Wars Anthology film Rogue One: A Star Wars Story
+4;BITEM-PG-2;13;Saw Gerrera subjected Bodhi Rook to the torturous creature Bor Gullet to discover if Rook was being truthful
+5;BITEM-PG-2;1;Bor Gullet can read thoughts and no lie is safe from it, but its use causes one to lose one's mind
+</D0001>
+<D0002>Black Widow;99
+1;BITEM-PG-1;1;Scarlett Johansson portrayed Natasha Romanoff / Black Widow in the Marvel Cinematic Universe.
+2;BITEM-PG-1;1;Natasha Romanoff adopted the alias 'Black Widow' after being recruited by Clint Barton to join S.H.I.E.L.D.
+3;BITEM-PG-1;3;Scarlett Johansson first portrayed Black Widow in Iron Man 2 (2010).
+4;BITEM-PG-1;2;Scarlett Johansson's superhero character in the MCU was known as Black Widow.
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm.;95
+1;BITEM-PG-1;1;The Zeroth Law of Robotics states: 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm.'
+2;BITEM-PG-1;1;The Zeroth Law was developed by Asimov as a generalization of the first law to refer to humankind as a whole.
+3;BITEM-PG-1;3;The Zeroth Law of Robotics was developed by R. Daneel Olivaw in Asimov's Robot series.
+</D0003>
+<D0004>Roger Moore;99
+1;BITEM-PG-1;2;Moonraker (1979) is a James Bond film in which the climax takes place in outer space
+2;BITEM-PG-1;2;Roger Moore starred as James Bond in Moonraker (1979)
+3;BITEM-PG-1;4;Roger Moore played James Bond in seven Eon Productions films, including Moonraker
+4;BITEM-PG-1;2;In Moonraker, Bond and Holly Goodhead go into outer space to stop Hugo Drax's plot to repopulate humanity with a master race
+</D0004>
+<D0005>1;99
+1;BITEM-PG-1;1;George Lazenby played James Bond in only one film, On Her Majesty's Secret Service (1969).
+2;BITEM-PG-1;2;Lazenby declined to return for subsequent Bond films after On Her Majesty's Secret Service.
+3;BITEM-PG-1;2;Lazenby's tenure as Bond is the shortest among the actors in the series.
+</D0005>
+<D0006>Soul Stone;95
+1;BITEM-PG-2;2;Romanoff jumped over a cliff at Vormir, allowing Barton to obtain the Soul Stone
+2;BITEM-PG-2;3;The Soul Stone's keeper Red Skull said it could only be acquired by sacrificing a loved one
+3;BITEM-PG-2;7;Scarlett Johansson portrays the character Natasha Romanoff / Black Widow in the MCU
+4;BITEM-PG-1;1;Romanoff's sacrifice for the Soul Stone was part of her journey to bring the Avengers community back
+</D0006>
+<D0007>Love Is All Around;95
+1;BITEM-PG-1;2;"Christmas Is All Around" is a cover version of The Troggs' "Love Is All Around"
+2;BITEM-PG-1;1;Billy Mack records a Christmas version of the Troggs' 1967 song "Love Is All Around", titling it "Christmas Is All Around"
+</D0007>
+<D0008>Ryan Reynolds;95
+1;BITEM-PG-1;1;Ryan Reynolds starred as Hal Jordan / Green Lantern in the 2011 film Green Lantern.
+2;BITEM-PG-1;1;Green Lantern (2011) was a DC Comics film.
+3;BITEM-PG-1;3;Ryan Reynolds stars as Deadpool in the Marvel Cinematic Universe film Deadpool & Wolverine (2024).
+4;BITEM-PG-2;10;Ryan Reynolds achieved his greatest commercial success with the Deadpool franchise.
+</D0008>
+<D0009>the National Gallery in London;95
+1;BITEM-PG-1;1;In the film Bean, Mr. Bean works as a security guard at the National Gallery in London
+2;BITEM-PG-1;1;The National Gallery is located in London
+3;BITEM-PG-1;2;Mr. Bean is a security guard at the National Gallery in London
+</D0009>
+<D0010>Jeff Goldblum;95
+1;BITEM-PG-1;1;Jeff Goldblum plays the Wonderful Wizard of Oz in Wicked (2024).
+2;BITEM-PG-2;4;Jeff Goldblum was in final talks to star as the Wizard in Wicked in October 2022.
+3;BITEM-PG-1;2;Jeff Goldblum is listed in Wicked's supporting cast alongside Cynthia Erivo and Ariana Grande.
+4;BITEM-PG-2;5;Jeff Goldblum played the role of the Wonderful Wizard of Oz in the 2024 film Wicked.
+5;BITEM-PG-2;2;Jeff Goldblum is known for playing the Wizard of Oz in Wicked (2024) and Wicked: For Good (2025).
+</D0010>
+<D0011>Zeniba;85
+1;BITEM-PG-1;1;Zeniba is Yubaba's twin sister
+2;BITEM-PG-1;7;Sen travels to meet Zeniba to return the seal and apologize
+3;BITEM-PG-1;7;Zeniba appears in Spirited Away as a character distinct from Yubaba
+4;BITEM-PG-2;2;Mari Natsuki provided the voice of both Yubaba and Zeniba in Spirited Away
+</D0011>
+<D0012>Gareth;99
+1;BITEM-PG-1;1;During Hamish's speech at Carrie and Hamish's wedding, Gareth suffers a fatal heart attack.
+2;BITEM-PG-1;2;Gareth is a character in Four Weddings and a Funeral, played by Simon Callow.
+</D0012>
+<D0013>Michael J. Fox;95
+1;BITEM-PG-2;6;Marlene McFly is portrayed by Michael J. Fox in Back to the Future Part II.
+2;BITEM-PG-2;4;Michael J. Fox played three separate characters in Part II: Marty Sr., Marty Jr., and Marlene.
+3;BITEM-PG-1;2;Marlene McFly is the future daughter of Marty McFly and Jennifer Parker in 2015.
+4;BITEM-PG-1;2;Both Marty Jr. and Marlene McFly are portrayed by Michael J. Fox.
+</D0013>
+<D0014>The Last Jedi;95
+1;BITEM-PG-2;1;The Star Wars sequel trilogy consists of three films: The Force Awakens, The Last Jedi, and The Rise of Skywalker.
+2;BITEM-PG-2;2;J.J. Abrams directed Star Wars: The Force Awakens.
+3;BITEM-PG-1;1;J.J. Abrams directed Star Wars: The Rise of Skywalker.
+4;BITEM-PG-2;1;Star Wars: The Last Jedi was written and directed by Rian Johnson, not J.J. Abrams.
+5;BITEM-PG-2;12;J.J. Abrams served only as executive producer on The Last Jedi, not as director.
+</D0014>
+<D0015>Donnie Yen;95
+1;BITEM-PG-1;1;Donnie Yen plays Chirrut Îmwe, a blind warrior, in Rogue One: A Star Wars Story.
+2;BITEM-PG-1;2;Donnie Yen plays Caine, a blind High Table assassin, in John Wick: Chapter 4.
+3;BITEM-PG-2;18;Rogue One: A Star Wars Story is a Star Wars anthology (spinoff) film.
+4;BITEM-PG-2;1;Chirrut Îmwe's blindness in Rogue One was one of the traits created by Donnie Yen for the character.
+</D0015>
+<D0016>Avengers: Infinity War;99
+1;BITEM-PG-1;1;1917 was released theatrically in the United States on 25 December 2019.
+2;BITEM-PG-1;3;Avengers: Infinity War is a 2018 film.
+3;BITEM-PG-1;1;1917 is a 2019 British war film.
+</D0016>
+<D0017>Avatar;95
+1;BITEM-PG-1;5;Avatar had an opening weekend gross of $77,025,481 in North America.
+2;BITEM-PG-1;1;Zootopia had an opening weekend gross of $75.1 million in the United States and Canada.
+</D0017>
+<D0018>5;25
+1;BITEM-PG-2;3;Christopher Nolan directed Memento in 2000.
+2;BITEM-PG-2;2;Christopher Nolan directed Insomnia in 2002.
+3;BITEM-PG-1;17;Christopher Nolan directed Batman Begins in 2005.
+4;BITEM-PG-2;5;Christopher Nolan directed The Prestige in 2006.
+5;BITEM-PG-1;1;Christopher Nolan directed The Dark Knight in 2008.
+6;BITEM-PG-1;8;Christopher Nolan directed Inception in 2010.
+</D0018>
+<D0019>6;85
+1;BITEM-PG-1;1;Kazunari Ninomiya made his motion picture debut in 2002 in Pikanchi Life Is Hard Dakedo Happy
+2;BITEM-PG-2;8;Kazunari Ninomiya starred in Ao no Honō (The Blue Flame), a 2003 Japanese film
+3;BITEM-PG-1;2;Kazunari Ninomiya starred in Letters from Iwo Jima, a 2006 film
+4;BITEM-PG-1;1;In October 2006, Ninomiya lent his voice to main character Black in the animated film Tekkon Kinkreet
+5;BITEM-PG-1;1;In 2007, all members of Arashi co-starred in Kiiroi Namida (Yellow Tears), with Ninomiya playing the main role
+6;BITEM-PG-1;1;On October 1, 2010, the live-action adaptation of Ōoku: The Inner Chambers, starring Ninomiya and Kou Shibasaki, was released into theaters in Japan
+</D0019>
+<D0020>;5
+</D0020>
+<D0021>Natalie Portman;99
+1;BITEM-PG-1;5;Natalie Portman was born on June 9, 1981.
+2;BITEM-PG-1;3;Leelee Sobieski was born on June 10, 1983.
+</D0021>
+<D0022>Katharine Hepburn;99
+1;BITEM-PG-1;3;Katharine Hepburn holds the record for most Academy Award wins for Best Actress with four wins.
+2;BITEM-PG-2;2;Katharine Hepburn won the Academy Award for Best Actress in 1933, 1967, 1968, and 1981.
+3;BITEM-PG-1;2;Audrey Hepburn won one Academy Award for Best Actress for her performance in Roman Holiday.
+4;BITEM-PG-1;4;Katharine Hepburn won four Academy Awards, the record number for a performer.
+5;BITEM-PG-2;3;Katharine Hepburn is the only person to win four acting Oscars.
+</D0022>
+<D0023>Ingrid Bergman;95
+1;BITEM-PG-1;5;Ingrid Bergman won the Academy Award for Best Actress twice, for Gaslight (1944) and Anastasia (1956).
+2;BITEM-PG-1;9;Grace Kelly won the Academy Award for Best Actress once, for The Country Girl (1954).
+3;BITEM-PG-1;12;Ingrid Bergman won the Academy Award for Best Actress for a second time for her role in Anastasia.
+4;BITEM-PG-1;1;Grace Kelly received one Academy Award (total) in her career.
+5;BITEM-PG-1;4;Ingrid Bergman won two Academy Awards for Best Actress and one for Best Supporting Actress, for a total of three acting Oscars.
+</D0023>
+<D0024>3;95
+1;BITEM-PG-2;2;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003
+2;BITEM-PG-2;3;Pirates of the Caribbean: Dead Man's Chest was released in 2006
+3;BITEM-PG-1;9;Pirates of the Caribbean: At World's End was released in 2007
+4;BITEM-PG-2;13;Pirates of the Caribbean: On Stranger Tides was released in 2011
+</D0024>
+<D0025>;5
+</D0025>
+<D0026>Joaquin Phoenix;99
+1;BITEM-PG-1;2;Joaquin Phoenix plays Commodus in Gladiator (2000)
+2;BITEM-PG-1;2;Commodus is the amoral and power-hungry son of Marcus Aurelius in Gladiator
+3;BITEM-PG-1;1;Phoenix earned a nomination for the Academy Award for Best Supporting Actor for his role as Commodus in Gladiator
+4;BITEM-PG-1;3;Gladiator is a 2000 historical epic film directed by Ridley Scott
+5;BITEM-PG-1;4;In Gladiator, Phoenix portrayed a fictionalized version of Roman Emperor Commodus
+</D0026>
+<D0027>fava beans and a nice Chianti;95
+1;BITEM-PG-1;1;Hannibal Lecter admits to eating a census taker's liver with some fava beans and a nice Chianti
+2;BITEM-PG-1;2;The quote 'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.' is ranked No. 21 on AFI's 100 Years...100 Movie Quotes list
+3;BITEM-PG-1;1;In the novel, the drink mentioned is a 'big Amarone' rather than a 'nice Chianti'
+</D0027>
+<D0028>regal blue tang;99
+1;BITEM-PG-2;2;Dory is a regal blue tang fish
+2;BITEM-PG-1;1;Dory is voiced by Ellen DeGeneres in Finding Nemo
+3;BITEM-PG-2;4;Dory is a Pacific regal blue tang in Finding Nemo
+4;BITEM-PG-1;3;Dory's species is regal blue tang, which cannot be bred in captivity
+</D0028>
+<D0029>a poster (of Raquel Welch);95
+1;BITEM-PG-1;1;Andy Dufresne used a poster hanging on his cell wall to conceal his escape tunnel
+2;BITEM-PG-1;1;The poster on Andy's cell wall was of Raquel Welch
+3;BITEM-PG-1;1;Andy had dug the tunnel with his rock hammer over 19 years
+4;BITEM-PG-1;9;In The Shawshank Redemption, a large poster of Welch is used by Andy Dufresne to conceal his tunnel digging
+5;BITEM-PG-1;17;The poster in Andy Dufresne's cell that hid his escape tunnel was the famous pinup image of Welch in One Million Years B.C.
+</D0029>
+<D0030>Ian McKellen;99
+1;BITEM-PG-2;5;Ian McKellen played Magneto in the X-Men films.
+2;BITEM-PG-2;5;Ian McKellen played Gandalf in The Lord of the Rings trilogy.
+3;BITEM-PG-1;1;McKellen was cast as Magneto in the 2000 film X-Men and its sequels X2 and X-Men: The Last Stand.
+4;BITEM-PG-1;1;While filming X-Men in 1999, McKellen was cast as Gandalf in Peter Jackson's Lord of the Rings film trilogy.
+5;BITEM-PG-2;1;Ian McKellen as Gandalf the Grey appeared in The Lord of the Rings film trilogy.
+</D0030>
+<D0031>Humphrey Bogart;99
+1;BITEM-PG-1;2;Humphrey Bogart played Rick Blaine, an expatriate nightclub owner, in Casablanca (1942).
+2;BITEM-PG-1;1;Casablanca (1942) starred Humphrey Bogart as the lead actor.
+3;BITEM-PG-2;4;Humphrey Bogart is top-billed as Rick Blaine in Casablanca.
+</D0031>
+<D0032>8;95
+1;BITEM-PG-1;6;Slumdog Millionaire won eight Academy Awards
+2;BITEM-PG-2;9;Slumdog Millionaire was nominated for ten Academy Awards
+3;BITEM-PG-2;9;Slumdog Millionaire's eight Academy Awards were the most of any 2008 film
+4;BITEM-PG-1;6;Slumdog Millionaire's Academy Awards included Best Picture and Best Director
+</D0032>
+<D0033>Titanic;99
+1;BITEM-PG-1;2;Bill Paxton played the character Brock Lovett in Titanic
+2;BITEM-PG-1;2;Brock Lovett is a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic
+3;BITEM-PG-1;3;Bill Paxton appeared in both Aliens (1986) and Titanic (1997)
+4;BITEM-PG-1;1;In Titanic, Brock Lovett leads an expedition exploring the wreck of RMS Titanic hoping to find the Heart of the Ocean necklace
+</D0033>
+<D0034>14 players;95
+1;BITEM-PG-1;1;Each Quidditch team consists of seven players.
+2;BITEM-PG-1;1;A Quidditch match is played between two opposing teams.
+3;BITEM-PG-1;3;With two teams of seven players each, there are 14 total players on the field.
+</D0034>
+<D0035>10 years;95
+1;BITEM-PG-1;7;Avatar was released in the United States on December 18, 2009.
+2;BITEM-PG-1;8;Avengers: Endgame was released in the United States on April 26, 2019.
+3;BITEM-PG-1;3;Avatar is a 2009 film.
+4;BITEM-PG-1;1;Avengers: Endgame is a 2019 film.
+</D0035>
+<D0036>Lotso;99
+1;BITEM-PG-1;1;Lots-o'-Huggin' Bear is often shortened to Lotso
+2;BITEM-PG-1;1;Lotso is the main antagonist of Toy Story 3
+3;BITEM-PG-1;8;Andy's toys are welcomed at Sunnyside Daycare by Lots-O'-Huggin' Bear, referred to as 'Lotso'
+</D0036>
+<D0037>We Scare Because We Care;85
+1;BITEM-PG-1;1;The slogan of Monsters, Inc. is 'We Scare Because We Care'
+</D0037>
+<D0038>3;95
+1;BITEM-PG-1;6;Toy Story (1995) was directed by John Lasseter
+2;BITEM-PG-1;3;A Bug's Life (1998) was directed by John Lasseter
+3;BITEM-PG-1;1;Toy Story 2 (1999) was directed by John Lasseter
+4;BITEM-PG-2;6;Monsters, Inc. was the first Pixar film not directed by Lasseter
+5;BITEM-PG-1;8;Finding Nemo (2003) was the fifth Pixar film
+6;BITEM-PG-1;9;Finding Nemo was directed by Andrew Stanton, not Lasseter
+</D0038>
+<D0039>8766 days;25
+1;BITEM-PG-1;5;Toy Story premiered in the US on November 22, 1995
+2;BITEM-PG-1;2;Toy Story 4 was released in the United States on June 21, 2019
+3;BITEM-PG-1;13;Toy Story 4 had its US premiere on June 21, 2019
+</D0039>
+<D0040>A113;95
+1;BITEM-PG-1;1;AUTO's secret no-return directive is named A113
+2;BITEM-PG-1;1;Directive A113 orders the Axiom not to return to Earth due to toxicity levels making Earth unlivable
+3;BITEM-PG-1;7;Directive A113 was issued by Buy n Large CEO Shelby Forthright because Earth had become too toxic to support life
+</D0040>
+<D0041>Rakan Rushaidat;95
+1;BITEM-PG-2;3;Rakan Rushaidat voiced Fillmore in Cars 2 (2011)
+2;BITEM-PG-1;1;Lloyd Sherr voiced Fillmore in Cars 2
+</D0041>
+<D0042>Laputa: Castle in the Sky;95
+1;BITEM-PG-1;1;Castle in the Sky was the first film to be animated by Studio Ghibli.
+2;BITEM-PG-1;3;Laputa: Castle in the Sky is the first film by Studio Ghibli.
+3;BITEM-PG-1;3;Laputa: Castle in the Sky was released on August 2, 1986.
+4;BITEM-PG-1;1;Castle in the Sky was written and directed by Hayao Miyazaki.
+</D0042>
+<D0043>Totoro;99
+1;BITEM-PG-1;1;Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010).
+2;BITEM-PG-1;1;Totoro is a character from Studio Ghibli.
+3;BITEM-PG-1;1;Totoro did not appear in Toy Story 4 due to licensing problems.
+4;BITEM-PG-1;3;Totoro's appearance in Toy Story 3 was partly due to Disney's role in dubbing Studio Ghibli films for English-language releases.
+</D0043>
+<D0044>Spirited Away;95
+1;BITEM-PG-1;2;Spirited Away was the first animated film to win the Golden Bear at the Berlin International Film Festival.
+2;BITEM-PG-1;5;The Golden Bear (Goldener Bär) is the highest prize awarded for the best film at the Berlin International Film Festival.
+3;BITEM-PG-1;17;Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki.
+4;BITEM-PG-2;4;At the 2002 Berlin International Film Festival, the Golden Bear was awarded to Spirited Away and Bloody Sunday.
+</D0044>
+<D0045>;5
+</D0045>
+<D0046>4;95
+1;BITEM-PG-2;13;The Avengers series has four films on the list of films selling at least 50 million tickets.
+2;BITEM-PG-2;7;The four Avengers series films are: The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), and Avengers: Endgame (2019).
+3;BITEM-PG-2;3;Avengers: Infinity War (2018) is a sequel to The Avengers (2012) and Avengers: Age of Ultron (2015).
+4;BITEM-PG-1;17;Avengers: Endgame (2019) is the direct sequel to Avengers: Infinity War (2018).
+</D0046>
+<D0047>Three helicopters;95
+1;BITEM-PG-1;2;Three helicopters were sent to rescue the British royal family from Balmoral Castle.
+2;BITEM-PG-1;2;The helicopters crashed in Scotland after flying into a superstorm's eye.
+3;BITEM-PG-1;1;The helicopter crash was caused by the siphoned air from the upper troposphere freezing the fuel on board.
+</D0047>
+<D0048>Furious 7;95
+1;BITEM-PG-1;1;Furious 7 features a hacking program known as God's Eye
+2;BITEM-PG-1;6;Ramsey is the creator of God's Eye, a program capable of tracking a specific person through digital services
+3;BITEM-PG-1;1;In Furious 7, the team must prevent terrorist Mose Jakande from obtaining God's Eye
+</D0048>
+<D0049>2;85
+1;BITEM-PG-2;1;F9 (the ninth mainline installment) was co-written by Justin Lin and Daniel Casey
+2;BITEM-PG-1;3;Fast X (the tenth main installment) has a screenplay written by Dan Mazeau and Justin Lin
+</D0049>
+<D0050>F9;95
+1;BITEM-PG-1;5;F9 grossed $726.2 million worldwide.
+2;BITEM-PG-1;4;Fast X grossed $714.4 million worldwide.
+3;BITEM-PG-1;3;F9's worldwide gross ($726,229,501) exceeded Fast X's worldwide gross ($704,875,015).
+</D0050>
+<D0051>Murphy Cooper;85
+1;BITEM-PG-1;2;Murphy Cooper is Joseph Cooper's daughter
+2;BITEM-PG-1;2;Murphy Cooper's nickname is 'Murph'
+</D0051>
+<D0052>Murph;95
+1;BITEM-PG-1;1;Joseph Cooper's daughter is named Murphy, nicknamed 'Murph'
+2;BITEM-PG-1;2;Murphy Cooper goes by the nickname 'Murph'
+3;BITEM-PG-1;4;The character Murphy Cooper is nicknamed 'Murph' in Interstellar
+</D0052>
+<D0053>10 years old;85
+1;BITEM-PG-1;1;Mackenzie Foy plays 10-year-old Murph in Interstellar
+2;BITEM-PG-1;1;Murph Cooper is Joseph Cooper's daughter
+</D0053>
+<D0054>Oppenheimer;92
+1;BITEM-PG-1;2;Interstellar was directed by Christopher Nolan.
+2;BITEM-PG-1;3;Oppenheimer (2023) was directed by Christopher Nolan.
+3;BITEM-PG-2;7;Oppenheimer was released in 2023, after Interstellar (2014).
+4;BITEM-PG-1;1;Nolan's next film after Oppenheimer is The Odyssey, scheduled for 2026.
+5;BITEM-PG-1;1;As of February 2025, The Odyssey had not yet been released, being scheduled for July 2026.
+</D0054>
+<D0055>Tomorrowland;95
+1;BITEM-PG-1;1;Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;BITEM-PG-1;1;Tomorrowland held its world premiere on May 9, 2015, at the Disneyland Resort in Anaheim, California.
+</D0055>
+<D0056>Hoth;95
+1;BITEM-PG-1;1;The Rebel Alliance established Echo Base on the planet Hoth
+2;BITEM-PG-1;2;Echo Base was the Rebel Alliance's secret headquarters during the Galactic Civil War
+3;BITEM-PG-2;5;In The Empire Strikes Back, the rebel base is located on the ice planet Hoth
+4;BITEM-PG-2;4;Mon Mothma agreed to establish the new Rebel command headquarters at Echo Base on Hoth
+</D0056>
+<D0057>Plo Koon;95
+1;BITEM-PG-2;6;Ahsoka Tano was discovered by Jedi Master Plo Koon on her homeworld of Shili.
+2;BITEM-PG-2;6;Plo Koon brought Ahsoka Tano to the Jedi Temple on Coruscant to receive Jedi training.
+3;BITEM-PG-1;2;Ahsoka Tano wields two white lightsabers.
+4;BITEM-PG-2;19;Ahsoka Tano herself confirmed it was Master Plo Koon who found her and brought her to the Temple.
+</D0057>
+<D0058>"I am one with the Force, and the Force is with me.";95
+1;BITEM-PG-2;6;Chirrut Îmwe repeated the mantra 'I am one with the Force, and the Force is with me' as he walked toward the master switch during the Battle of Scarif.
+2;BITEM-PG-1;3;Before Chirrut Îmwe died, Baze Malbus repeated Chirrut's mantra 'The Force is with me...and I am one with the Force.'
+3;BITEM-PG-2;1;Both Chirrut Îmwe and Baze Malbus spoke the Guardian's Mantra in their final moments during the Battle of Scarif.
+</D0058>
+<D0059>Samuel L. Jackson;95
+1;BITEM-PG-1;2;Samuel L. Jackson played Mace Windu, a Jedi Master, in Star Wars: Episode III – Revenge of the Sith.
+2;BITEM-PG-1;2;Mace Windu is a Jedi character in Star Wars: Episode III – Revenge of the Sith.
+3;BITEM-PG-1;3;Samuel L. Jackson appeared as Nick Fury in The Avengers (2012).
+4;BITEM-PG-2;3;Samuel L. Jackson gained widespread recognition as Jedi Mace Windu in the Star Wars prequel trilogy and as Nick Fury in 11 Marvel Cinematic Universe films.
+</D0059>
+<D0060>Starkiller Base;60
+1;BITEM-PG-1;1;Han Solo died on Starkiller Base
+2;BITEM-PG-1;1;Kylo Ren fatally impaled Han Solo with his lightsaber on Starkiller Base
+3;BITEM-PG-2;1;Starkiller Base was built into the ice planet of Ilum
+4;BITEM-PG-2;6;Han Solo attended a confrontation with his son on Starkiller Base before being stabbed through the torso
+5;BITEM-PG-2;3;After Han Solo's death, a funeral was held by the Resistance for Han Solo who died at Starkiller at the hands of Kylo Ren
+</D0060>
+<D0061>Home;95
+1;BITEM-PG-1;14;The first MCU Spider-Man film is titled 'Spider-Man: Homecoming' (2017)
+2;BITEM-PG-1;1;The second MCU Spider-Man film is titled 'Spider-Man: Far From Home' (2019)
+3;BITEM-PG-1;4;The third MCU Spider-Man film is titled 'Spider-Man: No Way Home' (2021)
+4;BITEM-PG-2;4;The title 'No Way Home' continues the naming convention of the past two films of featuring 'home' in the title
+</D0061>
+<D0062>Stardust;95
+1;BITEM-PG-1;3;Jyn Erso's father affectionately referred to her as 'Stardust'
+2;BITEM-PG-1;1;Jyn Erso is nicknamed 'Stardust' by her father
+3;BITEM-PG-1;2;The name 'Project Stardust' resulted from scientist Galen Walton Erso calling his daughter Jyn 'stardust'
+4;BITEM-PG-2;5;Jyn recognized the Death Star plans file labeled 'Stardust' as the same nickname her father gave her
+</D0062>
+<D0063>AT-AT walkers;95
+1;BITEM-PG-1;1;The Empire used AT-AT walkers to attack the Rebel base on Hoth in The Empire Strikes Back.
+2;BITEM-PG-2;1;AT-AT stands for All Terrain Armored Transport, a four-legged combat walker used by the Galactic Empire.
+3;BITEM-PG-2;2;The AT-AT walkers were also known as 'Imperial walkers'.
+4;BITEM-PG-1;9;The AT-ATs in The Empire Strikes Back attacked the Rebel base on Hoth.
+5;BITEM-PG-2;3;General Maximilian Veers led his AT-ATs during the Battle of Hoth to knock out the shield generator protecting Echo Base.
+</D0063>
+<D0064>Rogue One;95
+1;BITEM-PG-1;2;Rogue One grossed $1.059 billion worldwide
+2;BITEM-PG-1;1;Solo grossed $393.2 million worldwide
+3;BITEM-PG-1;4;Solo was the first Star Wars film to be a commercial failure
+4;BITEM-PG-1;1;Solo lost the studio approximately $76.9 million when factoring all expenses and revenues
+5;BITEM-PG-1;3;Rogue One became the second-highest-grossing film of 2016
+6;BITEM-PG-1;6;Rogue One surpassed the one billion dollar mark for global box office receipts on January 22, 2017
+</D0064>
+<D0065>Tarkin (via the Death Star);25
+1;BITEM-PG-1;3;Donnie Yen, a Hong Kong martial arts film actor, portrayed Chirrut Îmwe in Rogue One: A Star Wars Story.
+2;BITEM-PG-2;3;Tarkin ordered the Death Star to target and destroy the Scarif base, killing any survivors of the ground battle.
+3;BITEM-PG-2;4;The Death Star fired a blast at the Citadel Tower on Scarif, killing all forces at the Imperial surface installation.
+</D0065>

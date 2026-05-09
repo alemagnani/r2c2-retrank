@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Always refuse (conf=0.05, empty answer, no nuggets)",
+    "accuracy": 0.0,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.95,
+    "R_U": 1.0,
+    "HMR": 0.9743589743589743,
+    "n_questions": 65
+  },
+  {
+    "name": "Always answer with conf=1.0, all wrong",
+    "accuracy": 0.0,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.0,
+    "R_U": 1.0,
+    "HMR": 0.0,
+    "n_questions": 65
+  },
+  {
+    "name": "Always answer with conf=0.5, all wrong",
+    "accuracy": 0.0,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.5,
+    "R_U": 1.0,
+    "HMR": 0.6666666666666666,
+    "n_questions": 65
+  },
+  {
+    "name": "Always answer with conf=1.0, all RIGHT (oracle)",
+    "accuracy": 1.0,
+    "mean_nugget_precision": 0.0,
+    "R_O": 1.0,
+    "R_U": 1.0,
+    "HMR": 1.0,
+    "n_questions": 65
+  },
+  {
+    "name": "Always answer with conf=0.5, all RIGHT (oracle)",
+    "accuracy": 1.0,
+    "mean_nugget_precision": 0.0,
+    "R_O": 1.0,
+    "R_U": 0.5,
+    "HMR": 0.6666666666666666,
+    "n_questions": 65
+  },
+  {
+    "name": "Random guess: 50% accuracy, conf=0.5",
+    "accuracy": 0.49230769230769234,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.5,
+    "R_U": 0.5,
+    "HMR": 0.5,
+    "n_questions": 65
+  },
+  {
+    "name": "Random guess: 50% accuracy, conf=0.05 (very humble)",
+    "accuracy": 0.49230769230769234,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.95,
+    "R_U": 0.050000000000000044,
+    "HMR": 0.09500000000000008,
+    "n_questions": 65
+  },
+  {
+    "name": "Random guess: 50% accuracy, conf=1.0 (very confident)",
+    "accuracy": 0.49230769230769234,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.0,
+    "R_U": 1.0,
+    "HMR": 0.0,
+    "n_questions": 65
+  },
+  {
+    "name": "90% accurate (like our best), conf=0.95",
+    "accuracy": 0.8923076923076924,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.050000000000000044,
+    "R_U": 0.95,
+    "HMR": 0.09500000000000008,
+    "n_questions": 65
+  },
+  {
+    "name": "90% accurate, conf=0.50 (under-confident)",
+    "accuracy": 0.8923076923076924,
+    "mean_nugget_precision": 0.0,
+    "R_O": 0.5,
+    "R_U": 0.5,
+    "HMR": 0.5,
+    "n_questions": 65
+  }
+]

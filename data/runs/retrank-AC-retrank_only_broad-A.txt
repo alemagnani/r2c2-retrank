@@ -1,0 +1,229 @@
+<D0001>Bor Gullet;95
+1;retrank-PG-1;2;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts
+2;retrank-PG-1;2;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha
+3;retrank-PG-1;2;Bor Gullet was used to ascertain the truth behind Bodhi Rook's claim of being in contact with Galen Erso
+</D0001>
+<D0002>Black Widow;99
+1;retrank-PG-3;1;Scarlett Johansson portrayed Natasha Romanoff / Black Widow in the Marvel Cinematic Universe
+2;retrank-PG-1;3;Johansson appeared as Black Widow in the MCU superhero film Captain America
+3;retrank-PG-1;4;Scarlett Johansson played Natasha Romanoff / Black Widow and her deal included options for multiple films
+</D0002>
+<D0003>;5
+</D0003>
+<D0004>Roger Moore;95
+1;retrank-PG-1;4;Moonraker is a 1979 spy-fi film in the James Bond series that stars Roger Moore as James Bond.
+2;retrank-PG-1;3;Roger Moore played Commander James Bond '007' in Moonraker, assigned to look into the theft of a shuttle from the 'Moonraker' space programme.
+</D0004>
+<D0005>one;97
+1;retrank-PG-1;1;George Lazenby played James Bond in one film.
+2;retrank-PG-1;13;George Lazenby's Bond film was On Her Majesty's Secret Service, released in 1969.
+</D0005>
+<D0006>;5
+</D0006>
+<D0007>;5
+</D0007>
+<D0008>Ryan Reynolds;95
+1;retrank-PG-1;1;Ryan Reynolds portrays Deadpool in the Marvel Cinematic Universe (MCU)
+2;retrank-PG-1;5;Reynolds was cast as Hal Jordan/Green Lantern
+3;retrank-PG-1;4;Reynolds took the lead role in Green Lantern before the Deadpool film
+</D0008>
+<D0009>;5
+</D0009>
+<D0010>;5
+</D0010>
+<D0011>;5
+</D0011>
+<D0012>;5
+</D0012>
+<D0013>Michael J. Fox;62
+1;retrank-PG-1;1;In the TV Asahi edition of Back to the Future Part II, Michael J. Fox voiced Marty McFly Senior, Marty McFly Junior, and Marlene McFly
+</D0013>
+<D0014>Star Wars: Episode VIII The Last Jedi;99
+1;retrank-PG-1;1;Star Wars: Episode VIII The Last Jedi was written and directed by Rian Johnson
+2;retrank-PG-1;2;Star Wars: Episode VII The Force Awakens was directed by J. J. Abrams
+3;retrank-PG-1;11;Star Wars: Episode IX The Rise of Skywalker was directed by J.J. Abrams
+4;retrank-PG-1;1;The Last Jedi is a 2017 sequel trilogy film
+</D0014>
+<D0015>Donnie Yen;97
+1;retrank-PG-1;1;Donnie Yen's character Chirrut Îmwe in Rogue One is blind
+2;retrank-PG-1;11;Donnie Yen joined the cast of John Wick: Chapter 4
+</D0015>
+<D0016>;5
+</D0016>
+<D0017>;5
+</D0017>
+<D0018>6;82
+1;retrank-PG-1;2;Memento is a 2000 film written and directed by Christopher Nolan
+2;retrank-PG-3;9;Insomnia is a 2002 film directed by Christopher Nolan
+3;retrank-PG-3;3;Batman Begins (2005) was directed by Christopher Nolan
+4;retrank-PG-3;17;The Prestige is a 2006 film directed by Christopher Nolan
+5;retrank-PG-1;9;The Dark Knight is a 2008 film directed by Christopher Nolan
+6;retrank-PG-1;3;Inception is a 2010 film written and directed by Christopher Nolan
+</D0018>
+<D0019>;5
+</D0019>
+<D0020>10 movies (Here on Earth, The Glass House, Max, Heavens Fall, Lying, The Wicker Man, Walk All Over Me, 88 Minutes, In the Name of the King: A Dungeon Siege Tale, Night Train);52
+1;retrank-PG-1;2;Leelee Sobieski appeared in Here on Earth (2000)
+2;retrank-PG-1;6;Leelee Sobieski appeared in The Glass House (2001)
+3;retrank-PG-3;17;Leelee Sobieski appeared in Max (2002)
+4;retrank-PG-1;7;Leelee Sobieski appeared in Heavens Fall (2006)
+5;retrank-PG-3;20;Leelee Sobieski appeared in Lying (2006)
+6;retrank-PG-1;18;Leelee Sobieski appeared in The Wicker Man (2006)
+7;retrank-PG-1;3;Leelee Sobieski appeared in Walk All Over Me (2007)
+8;retrank-PG-1;8;Leelee Sobieski appeared in Night Train (2009)
+</D0020>
+<D0021>Natalie Portman;97
+1;retrank-PG-3;2;Natalie Portman was born on June 9, 1981
+2;retrank-PG-1;1;Leelee Sobieski was born on June 10, 1983
+</D0021>
+<D0022>Katharine Hepburn;82
+1;retrank-PG-1;5;Katharine Hepburn won four Academy Awards for Best Actress.
+2;retrank-PG-3;7;Katharine Hepburn appears four times on the list of Big Five Academy Award winners.
+3;retrank-PG-3;6;Katharine Hepburn received 12 Academy Award nominations.
+</D0022>
+<D0023>Ingrid Bergman (won Best Actress twice: for Gaslight and Anastasia);72
+1;retrank-PG-1;5;Ingrid Bergman won the Academy Award for Best Actress for Gaslight (1944)
+2;retrank-PG-1;5;Ingrid Bergman won the Academy Award for Best Actress for Anastasia (1956)
+3;retrank-PG-1;5;Ingrid Bergman won three Academy Awards in total
+</D0023>
+<D0024>3;85
+1;retrank-PG-1;5;Pirates of the Caribbean: The Curse of the Black Pearl was released on July 9, 2003
+2;retrank-PG-1;13;Pirates of the Caribbean: Dead Man's Chest was released in 2006
+3;retrank-PG-1;7;Pirates of the Caribbean: At World's End was released in 2007
+4;retrank-PG-1;13;Pirates of the Caribbean: On Stranger Tides was released in 2011
+</D0024>
+<D0025>;5
+</D0025>
+<D0026>Joaquin Phoenix;97
+1;retrank-PG-3;10;In the film Gladiator (2000), Joaquin Phoenix played the role of Commodus.
+2;retrank-PG-1;2;Gladiator is a 2000 film starring Joaquin Phoenix.
+</D0026>
+<D0027>;5
+</D0027>
+<D0028>Regal blue tang;90
+1;retrank-PG-2;20;Dory is a regal blue tang
+</D0028>
+<D0029>;5
+</D0029>
+<D0030>Ian McKellen;98
+1;retrank-PG-1;1;Ian McKellen primarily portrays Magneto in 20th Century Fox's X-Men film series
+2;retrank-PG-3;1;Ian McKellen plays Gandalf the Grey in The Lord of the Rings film trilogy
+</D0030>
+<D0031>Humphrey Bogart;97
+1;retrank-PG-1;6;Humphrey Bogart played Rick Blaine in Casablanca
+2;retrank-PG-1;5;Casablanca (1942) stars Humphrey Bogart
+</D0031>
+<D0032>8;25
+1;retrank-PG-3;1;Slumdog Millionaire won the Academy Award for Best Picture
+</D0032>
+<D0033>Titanic;99
+1;retrank-PG-1;1;Bill Paxton played the character Brock Lovett
+2;retrank-PG-1;4;Brock Lovett is a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic
+</D0033>
+<D0034>;5
+</D0034>
+<D0035>10 years;95
+1;retrank-PG-1;4;Avatar was released in 2009
+2;retrank-PG-1;3;Avengers: Endgame was released in 2019
+</D0035>
+<D0036>Lotso;72
+1;retrank-PG-1;1;Lots-o'-Huggin' Bear is referred to as 'Lotso'
+2;retrank-PG-1;1;Lotso is a plush, pink, strawberry-scented Southern-accented teddy bear in Toy Story 3
+3;retrank-PG-3;1;Lotso is voiced by Ned Beatty in Toy Story 3
+</D0036>
+<D0037>;5
+</D0037>
+<D0038>3;25
+1;retrank-PG-1;1;Lasseter's first four directorial efforts were Toy Story, A Bug's Life, Toy Story 2, and Cars
+2;retrank-PG-1;3;Monsters, Inc. was the first Pixar film not directed by Lasseter
+3;retrank-PG-1;5;Toy Story 2 was directed by John Lasseter
+</D0038>
+<D0039>;5
+</D0039>
+<D0040>A113;72
+1;retrank-PG-1;1;The A113 order bans all Axiom starliner ships from returning to Earth
+2;retrank-PG-3;2;The A113 order is announced as a directive related to the Axiom in WALL-E
+</D0040>
+<D0041>;5
+</D0041>
+<D0042>Castle in the Sky (Laputa: Castle in the Sky, 1986);35
+1;retrank-PG-1;12;Castle in the Sky (also known as Laputa: Castle in the Sky) is a 1986 Japanese animated film
+2;retrank-PG-1;12;Castle in the Sky was animated by Studio Ghibli
+3;retrank-PG-1;12;Castle in the Sky was written and directed by Hayao Miyazaki
+4;retrank-PG-1;12;Castle in the Sky was produced by Isao Takahata
+</D0042>
+<D0043>Totoro;95
+1;retrank-PG-3;3;Totoro from My Neighbor Totoro makes an appearance as a plush toy in Toy Story 3 (2010)
+</D0043>
+<D0044>;5
+</D0044>
+<D0045>5 (Spirited Away 2001, Howl's Moving Castle 2004, Ponyo 2008, The Wind Rises 2013, The Boy and the Heron 2023);82
+1;retrank-PG-1;1;Spirited Away (2001) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+2;retrank-PG-1;6;Howl's Moving Castle (2004) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+3;retrank-PG-1;11;Ponyo (2008) is a Japanese animated film written and directed by Hayao Miyazaki and animated by Studio Ghibli.
+4;retrank-PG-1;7;The Wind Rises (2013) is a Japanese animated film written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+5;retrank-PG-1;2;The Boy and the Heron (2023) is a Japanese animated film written and directed by Hayao Miyazaki and produced by Studio Ghibli.
+</D0045>
+<D0046>4 (The Avengers (2012), Avengers: Age of Ultron (2015), Avengers: Infinity War (2018), Avengers: Endgame (2019));25
+1;retrank-PG-1;2;Avengers: Age of Ultron (2015) is a Marvel Avengers series film
+2;retrank-PG-4;17;Avengers: Infinity War (2018) is a Marvel Avengers series film
+3;retrank-PG-1;6;Avengers: Endgame (2019) is a Marvel Avengers series film
+4;retrank-PG-1;1;Avengers: Doomsday is scheduled to be released on December 18, 2026
+</D0046>
+<D0047>;5
+</D0047>
+<D0048>Furious 7;25
+1;retrank-PG-3;2;God's Eye is a mass surveillance computer program
+2;retrank-PG-4;11;Furious 7 is a 2015 action film and the sequel to Fast & Furious 6
+</D0048>
+<D0049>2;85
+1;retrank-PG-1;3;F9 (2021) is a film directed by Justin Lin, who co-wrote the screenplay with Daniel Casey.
+2;retrank-PG-1;2;Fast X (2023) has a screenplay by Dan Mazeau and Justin Lin.
+3;retrank-PG-2;9;Fast Five (2011) is directed by Justin Lin but written by Chris Morgan.
+4;retrank-PG-2;6;Fast & Furious 6 (2013) is directed by Justin Lin and written by Chris Morgan.
+</D0049>
+<D0050>;5
+</D0050>
+<D0051>;5
+</D0051>
+<D0052>;5
+</D0052>
+<D0053>;5
+</D0053>
+<D0054>;5
+</D0054>
+<D0055>;5
+</D0055>
+<D0056>Hoth;90
+1;retrank-PG-1;4;The Rebel Alliance established a new base on the ice planet Hoth
+2;retrank-PG-1;5;The Rebels decided to establish their new base of operations on the ice planet Hoth
+3;retrank-PG-1;14;Echo Base was the Rebel Alliance's base on the planet Hoth
+4;retrank-PG-3;6;The Empire Strikes Back involves the Rebel Alliance's efforts to establish Echo Base
+</D0056>
+<D0057>;5
+</D0057>
+<D0058>;5
+</D0058>
+<D0059>;5
+</D0059>
+<D0060>;5
+</D0060>
+<D0061>Home;25
+1;retrank-PG-1;17;Spider-Man: Homecoming (2017) is an MCU Spider-Man film
+2;retrank-PG-3;5;Spider-Man: Far From Home is an MCU Spider-Man film
+</D0061>
+<D0062>Stardust;98
+1;retrank-PG-1;20;Jyn Erso was nicknamed 'Stardust' by her father
+2;retrank-PG-1;20;Stardust refers to Jyn Erso
+</D0062>
+<D0063>All Terrain Armored Transport (AT-AT) walkers;85
+1;retrank-PG-1;8;The Empire used All Terrain Armored Transport walkers to attack the Rebel base
+2;retrank-PG-3;3;AT-AT is a vehicle used by the Galactic Empire
+3;retrank-PG-1;16;Rebels used Attack Pattern Delta against All Terrain Armored Transports during the Battle of Hoth
+</D0063>
+<D0064>Rogue One;85
+1;retrank-PG-1;1;After Solo's mixed box office performance, Disney CEO Bob Iger confirmed a slowdown in release of new Star Wars films
+2;retrank-PG-1;2;Rogue One, The Force Awakens, and The Last Jedi performed well commercially and critically
+</D0064>
+<D0065>;5
+</D0065>

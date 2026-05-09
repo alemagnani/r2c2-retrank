@@ -1,0 +1,406 @@
+{
+ "27bb061539acea6f5f4efd96": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) with consistent descriptive details about its species and abilities."
+ },
+ "c5da71b185e5e020cbde7ae6": {
+  "match_score": 2,
+  "reason": "Both answers contain the identical three food/drink items (liver, fava beans, Chianti) with only formatting and presentation differences."
+ },
+ "f7066e0e005e8494caf7de4f": {
+  "match_score": 2,
+  "reason": "Both answers identify the same fish species (regal blue tang) with only formatting and phrasing differences."
+ },
+ "34ed67178807ee7707f2bf1b": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a poster) with Answer A simply including the additional detail of which poster without changing the core answer."
+ },
+ "120fba0e1c0e5631eca1365c": {
+  "match_score": 2,
+  "reason": "Both answers identify the same film (Castle in the Sky/Laputa: Castle in the Sky) as Studio Ghibli's first movie; the only difference is Answer A includes the release year (1986) while Answer B omits it."
+ },
+ "bdd23cf57adbd8abb5d6b62c": {
+  "match_score": 2,
+  "reason": "Both answers identify F9 as the higher-grossing film with identical box office figures ($726.2M vs $714.4M), differing only in phrasing."
+ },
+ "80acd65ac809b6db24a4b27e": {
+  "match_score": 2,
+  "reason": "Both answers refer to the same character; Answer B is simply less detailed than Answer A but not contradictory."
+ },
+ "160300952a05df2c3c56df12": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with only a minor difference in the expansion of the acronym (Transports vs Transport), which is a negligible formatting variation."
+ },
+ "ccf1a47c62d718e4ca551299": {
+  "match_score": 2,
+  "reason": "Both answers identify Bor Gullet as the torture device, with Answer B providing additional descriptive details that are semantically equivalent."
+ },
+ "fba7a3c3866d1fa7b9b7a998": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (8 vs 7), which are not semantically equivalent."
+ },
+ "2b56788406b84a3d5c2ad49a": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (19 vs 14 movies) with no semantic equivalence."
+ },
+ "75c46d34814d9cdaaa3534bc": {
+  "match_score": 2,
+  "reason": "Both answers identify the same food items (liver, fava beans, and Chianti) that Lecter is associated with, just presented in different formats."
+ },
+ "c1bf0f82184f205d0ba6961a": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang (Pacific regal blue tang), with only formatting and phrasing differences."
+ },
+ "a10546c8515b25e5dbe1c8d0": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with identical acronym expansion, with Answer B providing additional descriptive detail."
+ },
+ "b637655ee1946e7b640feb1c": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) with identical species classification (Mairan), differing only in formatting and grammar."
+ },
+ "0021e030f64f5b1b9000da7b": {
+  "match_score": 0,
+  "reason": "Answer A provides a specific count (19 movies) while Answer B only accounts for 11 films and explicitly states the data is incomplete."
+ },
+ "4873e6129062e1e130f500fa": {
+  "match_score": 1,
+  "reason": "Both answers agree 12.12: The Day had higher box office, but differ on its gross ($97M vs $90.5M)"
+ },
+ "d49660dc47a7bc510f50e085": {
+  "match_score": 2,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a Raquel Welch poster, with only minor wording differences."
+ },
+ "2d1b1436d5f908d0fbc14943": {
+  "match_score": 2,
+  "reason": "Both answers identify the same movie as Studio Ghibli's first production, with equivalent naming and formatting variations."
+ },
+ "f37e6d6974ccf6e8f97e023d": {
+  "match_score": 0,
+  "reason": "Answer A lists 5 movies while Answer B states 4, representing contradictory numerical claims."
+ },
+ "147e5ad961006f1f1c0dd2c5": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with equivalent expansions of the acronym, with Answer B including additional descriptive details."
+ },
+ "ff9738ff4f38cd716f6b21bf": {
+  "match_score": 2,
+  "reason": "Both answers identify the same movie with the same box office figure as having the higher gross, with minor formatting/detail differences."
+ },
+ "5ab258df3dff4c137f3e6aaa": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a Raquel Welch poster) with only minor formatting/detail differences."
+ },
+ "e674d086797d2b6c100dc507": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) with identical descriptive information, differing only in punctuation and formatting."
+ },
+ "641b8a79faed163ed9e5f003": {
+  "match_score": 0,
+  "reason": "Answer A claims 8 movies while Answer B claims 5 movies, representing a direct factual contradiction."
+ },
+ "fda2c179cf7769903b0af826": {
+  "match_score": 2,
+  "reason": "Both answers identify the same iconic food pairing (fava beans and Chianti) with only minor formatting/phrasing differences in how the liver is described."
+ },
+ "df718d997f863261ae54164a": {
+  "match_score": 2,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a Raquel Welch poster, with only minor wording differences."
+ },
+ "29097abacf0fba7375e1ac0d": {
+  "match_score": 2,
+  "reason": "Both answers provide the same full name with identical quotation marks being the only formatting difference."
+ },
+ "6942b2eb6ced1f569d2c6f2a": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with equivalent expanded names, with Answer B providing additional descriptive details."
+ },
+ "5ed30ee9435f1a8975fd6644": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) with equivalent descriptive details about its species origin, with Answer B providing additional physical description."
+ },
+ "a26440e632a667c1d8150128": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang, with only formatting and phrasing differences."
+ },
+ "580c49ca73acdb681ec18b4c": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a poster) with only minor differences in specificity about the poster subject."
+ },
+ "09ebc8cf3b01cc736e05b50d": {
+  "match_score": 2,
+  "reason": "Both answers identify the same location using equivalent names in different order—Starkiller Base and Ilum refer to the identical planet where Han Solo died."
+ },
+ "8d9a0c4f4192e6f095a94d4e": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with identical expansion of the acronym, with Answer B providing additional descriptive details."
+ },
+ "71549441e0bd0e460b42ebaf": {
+  "match_score": 0,
+  "reason": "Answer A states 4 Avengers movies while Answer B states 3, which are numerically different values."
+ },
+ "68628c726910d2b64e898fe5": {
+  "match_score": 2,
+  "reason": "Both answers convey the same numerical value (1 movie) using different formats (word vs. numeral)."
+ },
+ "22854a8ba8a73b35dc2583e4": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (2 vs 1) with no semantic equivalence."
+ },
+ "f084b165bef8f3c154296564": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (19 vs 14 movies) with no explanation for the discrepancy."
+ },
+ "2355f22050631ff212c90999": {
+  "match_score": 2,
+  "reason": "Both answers identify the same foods (liver, fava beans, and Chianti) associated with Lecter's famous quote, just with different word ordering and phrasing."
+ },
+ "d5430807ff5ef2a157f025d4": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang, with only formatting and phrasing differences."
+ },
+ "6516df19c217700cab6c2f21": {
+  "match_score": 2,
+  "reason": "Both answers convey the same information: F9 had higher worldwide box office earnings ($726.2 million) than Fast X ($714.4 million), with only formatting and phrasing differences."
+ },
+ "c08bee8794224cb977af423d": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (19 vs 20 movies), which are not equivalent."
+ },
+ "532425298fa3d6ab054bae75": {
+  "match_score": 2,
+  "reason": "Both answers identify the same movie (12.12: The Day) as having the higher box office with the same figure ($97 million worldwide), with only minor formatting differences."
+ },
+ "9199e8d44e6b50b2013aca1c": {
+  "match_score": 2,
+  "reason": "Both answers identify the same three food items (liver, fava beans, Chianti) that Lecter mentions, with only formatting and word order differences."
+ },
+ "99ccd4081de414f170e37178": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang with the same alternative names, differing only in formatting and phrasing."
+ },
+ "452e95e55de0bc2a45b3734e": {
+  "match_score": 2,
+  "reason": "Both answers describe the same escape method: a tunnel hidden behind a poster on the cell wall, with only minor formatting and detail differences."
+ },
+ "c8a42433c1db991a927df756": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with equivalent expansions of the acronym, with Answer B including a descriptive qualifier."
+ },
+ "7c34be91f5a553ea429537c5": {
+  "match_score": 1,
+  "reason": "Answer B acknowledges at least 17 movies with incomplete data coverage, while Answer A claims 19 movies based on complete data, making them related but not semantically equivalent."
+ },
+ "ab2a31885c29fb40ac6aab86": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (3 vs 2), which are factually incompatible."
+ },
+ "3ff295a32b8d6dc311e9ec20": {
+  "match_score": 2,
+  "reason": "Both answers identify the same food pairing (liver with fava beans and Chianti) despite different emphasis and formatting."
+ },
+ "94df88a9d2984c5825539ab7": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object: a tunnel hidden behind a Raquel Welch poster, with only minor formatting differences in parenthetical detail."
+ },
+ "93a1d0c2e427f0fb1c22aa32": {
+  "match_score": 2,
+  "reason": "Both answers identify F9 as having the higher box office with identical figures ($726.2M vs $714.4M), differing only in connecting word ('grossing' vs 'with')."
+ },
+ "5fec03b1d11a943c159b5750": {
+  "match_score": 2,
+  "reason": "Both answers convey the same information about the liver, fava beans, and Chianti with only formatting and word order differences."
+ },
+ "c4d9d81491b157ad87f68016": {
+  "match_score": 2,
+  "reason": "Both answers identify the same escape method: a tunnel hidden behind a Raquel Welch poster, with only minor wording differences."
+ },
+ "bb711d8b9b3597ddaaa9f441": {
+  "match_score": 2,
+  "reason": "Both answers identify the same film with identical core information (title, alternative title, and release year) using only different formatting and phrasing."
+ },
+ "bae49cae01eb6d993602a513": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) and its species (Mairan), with Answer B providing additional descriptive detail about its thought-reading ability."
+ },
+ "e453e140c311ad21664d7ac6": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a Pacific regal blue tang, with Answer B simply using a complete sentence format while Answer A uses a parenthetical notation."
+ },
+ "a141d79fdc7d74bc017b5780": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a poster) with Answer A providing additional detail about the poster's subject."
+ },
+ "a6725ede44d4c9a6484821f0": {
+  "match_score": 0,
+  "reason": "Answer A provides a specific numerical value (8) while Answer B only confirms a minimum of 2 wins without stating the total."
+ },
+ "d55973ff781257acbc30f67a": {
+  "match_score": 0,
+  "reason": "Answer A states 2 films while Answer B states 1 film, representing contradictory numerical values."
+ },
+ "c1e749a050a5a8cc9b629a3a": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers/Imperial Walkers) with functionally equivalent acronym expansions and additional descriptive details."
+ },
+ "ceea5db52183ba56fcf26f74": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (5 vs 4), which are not equivalent."
+ },
+ "4bf7bb5a7bcec6441726f684": {
+  "match_score": 1,
+  "reason": "Answer A identifies the poster as the object, while Answer B identifies the tunnel as the object; both are involved in the escape but describe different elements."
+ },
+ "7dd42f0bfb8fc339ec8713af": {
+  "match_score": 2,
+  "reason": "Both answers state the same total number of players (14) on the field at the start of a Quidditch match, with only formatting differences."
+ },
+ "f4bc7b36d5fa17f121c6ff2b": {
+  "match_score": 0,
+  "reason": "Avatar was released in 2009 and Avengers: Endgame in 2019, making them 10 years apart, so Answer A is correct and Answer B is incorrect."
+ },
+ "0e732ccfe7a69a7dca6386b4": {
+  "match_score": 0,
+  "reason": "The two answers differ by 27 days (8766 vs 8739), indicating different calculations or sources."
+ },
+ "d2e6c038bbd7b720103b839b": {
+  "match_score": 2,
+  "reason": "Both answers identify the same film with identical titles in different formatting styles."
+ },
+ "f182d198bc5c562207b2710f": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (5 vs 2) with no semantic equivalence."
+ },
+ "bbe4fb37f16a0a0ab17b3a86": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (5 vs 6) for the same factual question."
+ },
+ "df049971b504130d26e09ee8": {
+  "match_score": 1,
+  "reason": "Ilum is the original name of the planet, while Starkiller Base is what it was called after being converted into a weapon by the First Order in the sequel trilogy."
+ },
+ "2156105c45eac7a16567afe7": {
+  "match_score": 2,
+  "reason": "Both answers identify the same winner (Katharine Hepburn) with identical win counts (4 vs. 1), differing only in formatting and phrasing."
+ },
+ "3d8ce33bfd1d59bed00677f0": {
+  "match_score": 1,
+  "reason": "Answer B omits the key component 'liver' which is the primary food item Lecter is famous for eating, making it incomplete despite mentioning the accompaniments."
+ },
+ "85dbc93be85ed9fc17a61949": {
+  "match_score": 1,
+  "reason": "Answer B names the poster but omits the tunnel as the actual escape object, making it incomplete though related."
+ },
+ "3a9734ccb98888ed26fb2669": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with identical acronym expansion, differing only in minor formatting and the inclusion of an alternate name in Answer A."
+ },
+ "f08c3724530f2e4665ca4e20": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet, a Mairan creature) used as a torture device by Saw Gerrera in Rogue One (2016), with Answer B providing additional context."
+ },
+ "7ab6b13ebd6d4d9f70e4b937": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (7 vs 6) for the count of movies, which are factually incompatible."
+ },
+ "83ab82614f0add9114e774db": {
+  "match_score": 2,
+  "reason": "Both answers identify the same food (fava beans) that Lecter is famously associated with; Answer B includes additional context but conveys the same core answer."
+ },
+ "73e70487e8e208594baea06b": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (5 vs 4) with no semantic equivalence."
+ },
+ "bcae5d03f1c723954118fa48": {
+  "match_score": 2,
+  "reason": "Both answers identify Bor Gullet as the torture device, with Answer B simply providing additional descriptive detail about its nature."
+ },
+ "ca939aebfdca58c513161489": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (19 vs 14) with no semantic equivalence."
+ },
+ "bb7d5c376fb12e139174401f": {
+  "match_score": 2,
+  "reason": "Both answers identify the same movie as having the higher box office, with only formatting differences."
+ },
+ "d12e464d20d7abe7dea1ebd5": {
+  "match_score": 2,
+  "reason": "Both answers contain the identical three food/drink items (liver, fava beans, Chianti) with only formatting and ordering differences."
+ },
+ "228c92995a7d969e8aab5a4d": {
+  "match_score": 0,
+  "reason": "The two answers provide different numerical values (8605 vs 8739 days), indicating they cannot both be correct."
+ },
+ "29b6378e2f1856dc7e531bde": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang with Pacific variant specification; Answer B simply includes additional context and an alternative name (palette surgeonfish) for the same fish species."
+ },
+ "81b3f06a8c96564699a9a2ea": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a Raquel Welch poster) with only minor formatting differences in parentheses placement."
+ },
+ "9d5eacb96b3ca2a0e63373b2": {
+  "match_score": 2,
+  "reason": "Both answers identify F9 as having the higher worldwide box office with identical figures ($726.2M vs $714.4M), differing only in formatting and phrasing."
+ },
+ "5005dbd8eff109a33140b2e2": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) with identical descriptive details, just formatted differently."
+ },
+ "a141f1a339d1e32f63059112": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (6 vs 4) for the number of long films directed by Christopher Nolan between 2000 and 2010."
+ },
+ "0a1a8c71ef0882f9f38c6803": {
+  "match_score": 0,
+  "reason": "The answers provide contradictory numerical values (3 vs 2) with no way to reconcile them as equivalent."
+ },
+ "2a1978e06609846aeda0737d": {
+  "match_score": 0,
+  "reason": "The answers provide different numerical values (4 vs 5) for the same factual question."
+ },
+ "a81310708763342c48490e27": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with identical expanded form, with Answer B providing additional descriptive details."
+ },
+ "4c293a805b9388c6295fc649": {
+  "match_score": 2,
+  "reason": "Both answers identify the same entity (Bor Gullet) and describe it as a Mairan with mind-reading abilities, with only minor formatting and descriptive differences."
+ },
+ "6fa007c20c3ea99c56c8513e": {
+  "match_score": 1,
+  "reason": "Answer A provides a specific count (5) while Answer B provides a minimum threshold (at least 3), making them related but not semantically equivalent."
+ },
+ "7fab49cad561fcd92cf85b8e": {
+  "match_score": 2,
+  "reason": "Both answers identify '12.12: The Day (Seourui bom)' as the movie with higher box office, with Answer B providing additional supporting financial details."
+ },
+ "c56d923c87431b8a08a28880": {
+  "match_score": 2,
+  "reason": "Both answers identify the same character (Totoro) from the same film (My Neighbor Totoro) with only formatting differences."
+ },
+ "e7f2c8efb1b07eb73c189356": {
+  "match_score": 2,
+  "reason": "Both answers identify the same vehicle (AT-AT walkers) with the same full name expansion, with Answer B providing additional descriptive details."
+ },
+ "3784a58d28184e2eefb5a996": {
+  "match_score": 2,
+  "reason": "Both answers identify the same three food/drink items (liver, fava beans, and Chianti) that Lecter associates with eating a census taker, with only minor formatting and phrasing differences."
+ },
+ "cbbb77d80f44c95874e05b2f": {
+  "match_score": 2,
+  "reason": "Both answers identify Dory as a regal blue tang (Pacific regal blue tang), with Answer B simply providing additional context through paraphrasing."
+ },
+ "e8f18b702cb425f3f1c2df53": {
+  "match_score": 2,
+  "reason": "Both answers identify the same object (tunnel behind a poster) with identical core information, differing only in formatting and detail level."
+ },
+ "40e27840a133eca86d32656c": {
+  "match_score": 1,
+  "reason": "Both answers represent the same calculation (days between Toy Story premieres) but differ by 20 days, suggesting one contains a calculation error."
+ },
+ "39221b59be123bdbced41058": {
+  "match_score": 2,
+  "reason": "Both answers refer to the same vehicle with identical acronym expansion, with only minor variation in the full form wording (Transport vs Transport walkers)."
+ }
+}

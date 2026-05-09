@@ -1,0 +1,134 @@
+[
+  {
+    "run": "BITEM-PG-1",
+    "mean_ndcg": 0.7722733505184309,
+    "topics_with_grade": 60,
+    "n_topics": 65
+  },
+  {
+    "run": "BITEM-PG-2",
+    "mean_ndcg": 0.3123925109580823,
+    "topics_with_grade": 34,
+    "n_topics": 65
+  },
+  {
+    "run": "Error404-PG-3",
+    "mean_ndcg": 0.10625484881374997,
+    "topics_with_grade": 9,
+    "n_topics": 65
+  },
+  {
+    "run": "Error404-PG-4",
+    "mean_ndcg": 0.03832877230742571,
+    "topics_with_grade": 4,
+    "n_topics": 65
+  },
+  {
+    "run": "Error404-PO-1",
+    "mean_ndcg": 0.017882817104781033,
+    "topics_with_grade": 3,
+    "n_topics": 65
+  },
+  {
+    "run": "Error404-PO-2",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "ORG-PO-3",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "ORG-PO-4",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WasedaR2C2-PO-1",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WasedaR2C2-PO-2",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WasedaR2C2-PO-3",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WasedaR2C2-PO-4",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WaterlooClarke-PO-1",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "WaterlooClarke-PO-2",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "hit-u-PO-1",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "hit-u-PO-2",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "hit-u-PO-3",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "hit-u-PO-4",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "retrank-PG-1",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "retrank-PG-2",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "retrank-PG-3",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  },
+  {
+    "run": "retrank-PG-4",
+    "mean_ndcg": 0.0,
+    "topics_with_grade": 0,
+    "n_topics": 65
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "label": "ensemble_top1 vs BITEM-Sonnet (main)",
+    "n_both_correct": 61,
+    "A_only": 0,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 1.0
+  },
+  {
+    "label": "ensemble_top3 vs BITEM-Sonnet",
+    "n_both_correct": 61,
+    "A_only": 0,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-broad (refinement)",
+    "n_both_correct": 60,
+    "A_only": 1,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-Sonnet vs Tier-1 Sonnet (pool)",
+    "n_both_correct": 59,
+    "A_only": 2,
+    "B_only": 1,
+    "n_both_wrong": 3,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-Sonnet vs Tier-1 broad (pool×refinement)",
+    "n_both_correct": 59,
+    "A_only": 2,
+    "B_only": 1,
+    "n_both_wrong": 3,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-Opus pipeline",
+    "n_both_correct": 57,
+    "A_only": 4,
+    "B_only": 1,
+    "n_both_wrong": 3,
+    "p": 0.375
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-S1=Haiku",
+    "n_both_correct": 58,
+    "A_only": 3,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 0.25
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-S4=Haiku",
+    "n_both_correct": 60,
+    "A_only": 1,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-all-Haiku",
+    "n_both_correct": 57,
+    "A_only": 4,
+    "B_only": 0,
+    "n_both_wrong": 4,
+    "p": 0.125
+  },
+  {
+    "label": "Tier-1: Sonnet refinement vs broad",
+    "n_both_correct": 59,
+    "A_only": 1,
+    "B_only": 1,
+    "n_both_wrong": 4,
+    "p": 1.0
+  },
+  {
+    "label": "BITEM-only vs Error404-only (single-team pool)",
+    "n_both_correct": 58,
+    "A_only": 3,
+    "B_only": 1,
+    "n_both_wrong": 3,
+    "p": 0.625
+  },
+  {
+    "label": "BITEM-only vs WaterlooClarke-only",
+    "n_both_correct": 55,
+    "A_only": 6,
+    "B_only": 1,
+    "n_both_wrong": 3,
+    "p": 0.125
+  }
+]

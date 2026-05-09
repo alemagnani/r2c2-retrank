@@ -1,0 +1,2920 @@
+{
+  "metrics": {
+    "accuracy": 0.8769230769230769,
+    "mean_nugget_precision": 0.5838461538461539,
+    "R_O": 0.7075,
+    "R_U": 0.9003508771929825,
+    "HMR": 0.7923598570610219,
+    "n_questions": 65
+  },
+  "per_question": {
+    "0001": {
+      "question": "What did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016?",
+      "answer": "Bor Gullet",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Bor Gullet' matches the nuggets which confirm Saw Gerrera used Bor Gullet as a torturing device in the 2016 Star Wars film Rogue One.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Bor Gullet appeared in the 2016 Star Wars film Rogue One: A Star Wars Story",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bor Gullet first appeared in the 2016 Star Wars Anthology film Rogue One: A Star Wars Story.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Saw Gerrera used Bor Gullet to torture Bodhi Rook",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Bor Gullet was a creature with the ability to read thoughts",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bor Gullet had 'the ability to read thoughts,' and describes it as a Mairan, which qualifies as a creature.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Rogue One is a Star Wars Anthology film",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Rogue One is a 'Star Wars Anthology film.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0002": {
+      "question": "What was Scarlett Johansson's superhero name in the Marvel Cinematic Universe?",
+      "answer": "Black Widow",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Black Widow' matches the alias Natasha Romanoff (portrayed by Scarlett Johansson) adopted in the MCU.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Natasha Romanoff is 'primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe (MCU).",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Natasha Romanoff adopted the alias Black Widow",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Romanoff adopted the alias Black Widow after being recruited by Clint Barton to join S.H.I.E.L.D.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Johansson first portrayed the character in Iron Man 2 (2010)",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Johansson first portrayed the character in Iron Man 2 (2010)'.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Johansson appeared in nine films portraying Black Widow, including her final appearance in Black Widow (2021)",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states Johansson appeared in nine films with her final live-action appearance in Black Widow (2021), directly supporting the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0003": {
+      "question": "In the movie \"I, Robot\" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say?",
+      "answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm.",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer exactly matches the Zeroth Law of Robotics as stated in nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The Zeroth Law of Robotics states: 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm.'",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly quotes the Zeroth Law of Robotics as 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "The Zeroth Law of Robotics was developed by R. Daneel Olivaw and R. Giskard Reventlov as a modification or addition to the original Three Laws of Robotics.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that R. Daneel Olivaw and R. Giskard Reventlov developed the 'Zeroth Law of Robotics' as 'a modification of/addition to the original Three Laws of Robotics,' which directly matches the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "The 2004 film I, Robot incorporates Asimov's three laws of robotics.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that the film 'incorporates Asimov's three laws of robotics.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0004": {
+      "question": "Who played James Bond in the movie in which the climax take place in outer space?",
+      "answer": "Roger Moore",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Roger Moore' matches nugget [2] which states Roger Moore played James Bond in Moonraker, the film identified in nugget [1] as having a climax in outer space.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Moonraker is a James Bond film in which the climax takes place in outer space.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Bond follows the mystery 'finally into outer space,' indicating the climax occurs in outer space.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Roger Moore played James Bond in Moonraker.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states Moonraker was 'the fourth to star Roger Moore as the fictional MI6 agent James Bond.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0005": {
+      "question": "Actor George Lazenby played James Bond in how many movies?",
+      "answer": "1",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [2] directly confirms Lazenby played Bond just once, matching the system answer of 1.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "George Lazenby played James Bond in On Her Majesty's Secret Service (1969)",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Lazenby 'took over the role of James Bond' in 'On Her Majesty's Secret Service (1969).'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lazenby played the character just once",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Lazenby declined to return for subsequent Bond films, 'so becoming the only actor to play the character just once.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lazenby declined to return for subsequent Bond films",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'He declined to return for subsequent Bond films.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0006": {
+      "question": "In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone?",
+      "answer": "Soul Stone",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Soul Stone' exactly matches the Infinity Stone obtained through Romanoff's sacrifice as confirmed by nugget [3].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Red Skull told them that a life sacrifice was required to retrieve the Soul Stone.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the Red Skull told them a life sacrifice is required to retrieve the Soul Stone.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Romanoff jumped over a cliff at Vormir, sacrificing herself so Barton could obtain the Soul Stone.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Romanoff jumped over the cliff, allowing Barton to obtain the Soul Stone, which directly supports the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 7,
+          "text": "The Soul Stone was the Infinity Stone obtained through Romanoff's sacrifice in Endgame.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states that Romanoff sacrifices herself to obtain the Soul Stone, which directly supports the nugget's claim.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0007": {
+      "question": "\"Love, Actually\" features a cover song called \"Christmas is All Around.\" What was the original song title?",
+      "answer": "Love Is All Around",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Love Is All Around' matches the original song title confirmed by nuggets [1] and [2].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The original song \"Love Is All Around\" was by The Troggs from 1967",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the song is 'the Troggs' 1967 song \"Love Is All Around\"', directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "\"Christmas Is All Around\" is a Christmas version of \"Love Is All Around\"",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Billy Mack records a Christmas version of 'Love Is All Around' titled 'Christmas Is All Around'.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Billy Mack recorded the Christmas version titled \"Christmas Is All Around\" in Love Actually",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Billy Mack records a Christmas version of a song titled 'Christmas Is All Around', directly supporting the nugget's claim.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0008": {
+      "question": "Name the actor who played Green Lantern in the DCEU and then played Deadpool in the MCU.",
+      "answer": "Ryan Reynolds",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks about the DCEU specifically, but Green Lantern (2011) was not part of the DCEU (DC Extended Universe); it was a standalone DC Comics film, making the premise of the question technically incorrect, and thus the system answer, while naming the right actor, answers a question based on a false premise about DCEU membership.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 7,
+          "text": "Ryan Reynolds played Hal Jordan / Green Lantern in the 2011 film Green Lantern",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Hal Jordan made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Ryan Reynolds starred as Wade Wilson / Deadpool in the 2016 film Deadpool",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Ryan Reynolds stars in the title role and that the film follows Wade Wilson who becomes Deadpool.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Green Lantern (2011) was a DC Comics film",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Green Lantern is a 2011 American superhero film based on the character from DC Comics.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0009": {
+      "question": "In Bean the movie, Mr Bean works for which gallery?",
+      "answer": "the National Gallery in London",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies the National Gallery in London as the gallery where Mr. Bean works, matching both nuggets.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "In the 1997 film Bean, Mr. Bean works as a security guard at the National Gallery in London",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bean works as a security guard at the National Gallery in London, which directly matches the nugget's claim.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Mr. Bean is a security guard at the National Gallery in London in the film",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Mr. Bean is a security guard at the National Gallery in London.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0010": {
+      "question": "Who plays the Wizard of Oz in Wicked the movie?",
+      "answer": "Jeff Goldblum",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Jeff Goldblum as the Wizard of Oz in the Wicked film, matching nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Jeff Goldblum plays the Wonderful Wizard of Oz in the Wicked film.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Jeff Goldblum as the Wonderful Wizard of Oz,' directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Wicked is a 2024 American musical fantasy film directed by Jon M. Chu.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Wicked is a 2024 American musical fantasy film directed by Jon M. Chu.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Jeff Goldblum is listed among the supporting roles in the Wicked film.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly lists Jeff Goldblum as one of the supporting roles in the film.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0011": {
+      "question": "In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba?",
+      "answer": "Zeniba",
+      "confidence": 0.85,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Zeniba is confirmed as Yubaba's twin sister who looks exactly like her, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Zeniba is Yubaba's twin sister in Spirited Away",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that a shikigami shapeshifts into 'Yubaba's twin sister Zeniba,' directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Mari Natsuki provided the voice for both Yubaba and Zeniba in Spirited Away",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Natsuki reprised her roles of 'Yubaba/Zeniba' for the stage production, implying she voiced both characters, and earlier mentions she 'provided the voice of Yubaba in Spirited Away,' together supporting that she voiced both Yubaba and Zeniba.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0012": {
+      "question": "In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie?",
+      "answer": "Gareth",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Gareth' matches the nuggets which confirm Gareth suffers a fatal heart attack during the wedding of Hamish and Carrie.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "During Hamish's speech, Gareth suffers a fatal heart attack",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'During Hamish's speech, Gareth suffers a fatal heart attack.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Gareth is a character in Four Weddings and a Funeral",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage lists 'Simon Callow as Gareth' in what appears to be a cast list, confirming Gareth is a character in the production.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0013": {
+      "question": "In Back To The Future Part Two, who plays Marlene McFly?",
+      "answer": "Michael J. Fox",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Michael J. Fox as the actor who played Marlene McFly in Back to the Future Part II, which is confirmed by nuggets 1 and 3.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Michael J. Fox played Marlene McFly in Back to the Future Part II",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Marlene McFly was portrayed by Michael J. Fox in Part II.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Marlene McFly is one of Marty McFly and Jennifer Parker's future children in 2015",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Marty Jr. and Marlene McFly are Marty McFly and Jennifer Parker's future children in 2015 in Part II.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "Michael J. Fox played multiple characters in Back to the Future Part II including Marty McFly Senior, Marty McFly Junior, and Marlene McFly",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly lists Michael J. Fox as playing Marty McFly, Marty McFly Jr., and Marlene McFly, which matches the nugget's claim about multiple characters.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Michael J. Fox played three separate characters (Marty Sr., Marty Jr., and Marlene) who interacted with each other using advanced visual effects",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states Fox played three separate characters (Marty Sr., Marty Jr., and Marlene) who interacted with each other, enabled by the VistaGlide motion control camera system and digital compositing techniques at ILM.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0014": {
+      "question": "Of the Star Wars sequel trilogy, which movie was NOT directed by J. J. Abrams?",
+      "answer": "The Last Jedi",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'The Last Jedi' correctly identifies the Star Wars sequel trilogy film not directed by J.J. Abrams, as confirmed by nuggets [1] and [5].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "The Last Jedi is the second part of the Star Wars sequel trilogy",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'It is the second part of the Star Wars sequel trilogy.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "The Last Jedi was written and directed by Rian Johnson",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states the film was 'written and directed by Rian Johnson'.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "J.J. Abrams directed The Force Awakens",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that The Force Awakens 'was directed by J. J. Abrams'.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "J.J. Abrams directed The Rise of Skywalker",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that The Rise of Skywalker is 'a 2019 film directed by J.J. Abrams.'",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 12,
+          "text": "The Last Jedi was NOT directed by J.J. Abrams",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage states Abrams directed Episodes VII and IX, but only served as executive producer for Episode VIII (The Last Jedi), implying he did not direct it.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0015": {
+      "question": "Who plays a blind person in both John Wick 4 and Rogue One, the Star Wars spinoff?",
+      "answer": "Donnie Yen",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 4,
+      "correct": true,
+      "answer_reason": "All four nuggets confirm that Donnie Yen plays blind characters in both Rogue One (Chirrut Îmwe) and John Wick: Chapter 4 (Caine), matching the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Donnie Yen plays Chirrut Îmwe in Rogue One: A Star Wars Story",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Chirrut Îmwe is portrayed by Donnie Yen in Rogue One: A Star Wars Story.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Chirrut Îmwe is a blind character in Rogue One",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that one of the traits Yen created for Îmwe was his blindness, confirming he is a blind character in Rogue One.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Donnie Yen plays Caine in John Wick: Chapter 4",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Donnie Yen plays Caine, a blind High Table assassin, which matches the nugget's claim.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Caine is a blind assassin in John Wick: Chapter 4",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly describes Caine as 'a blind High Table assassin' played by Donnie Yen in the film.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0016": {
+      "question": "Which movie was released earlier, Avengers: Infinity War or 1917 ?",
+      "answer": "Avengers: Infinity War",
+      "confidence": 0.99,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Avengers: Infinity War was released on April 27, 2018, which is earlier than 1917's release on December 25, 2019.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Avengers: Infinity War was released on April 27, 2018",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Infinity War was released on April 27, 2018.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "1917 was released theatrically in the United States on December 25, 2019",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states the film 'was released theatrically in the United States on 25 December' by Universal Pictures.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0017": {
+      "question": "Which movie had a higher initial gross, Avatar or Zootopia?",
+      "answer": "Avatar",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Avatar's opening weekend gross of $77,025,481 exceeded Zootopia's $75.1 million opening weekend, confirming Avatar had the higher initial gross.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Avatar grossed $77,025,481 over its opening weekend",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Avatar grossed $77,025,481 over its opening weekend.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Zootopia scored $75.1 million in its opening weekend",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states the film earned $75.1 million in its opening weekend.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0018": {
+      "question": "How many long films did Christopher Nolan direct between 2000 and 2010?",
+      "answer": "5",
+      "confidence": 0.25,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Stage B failed: RuntimeError",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Christopher Nolan directed Memento in 2000",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states that Nolan's second film was Memento (2000), directly supporting that he directed it in 2000.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Christopher Nolan directed Insomnia in 2002",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states Nolan 'transitioned into studio filmmaking with Insomnia (2002),' confirming he directed it in 2002.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Christopher Nolan directed The Prestige in 2006",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly mentions 'The Prestige (2006)' as one of Nolan's films, confirming he directed it in 2006.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Christopher Nolan directed Inception in 2010",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states Nolan 'found further success with... Inception (2010)', confirming he directed it in 2010.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0019": {
+      "question": "How many movies did Kazunari Ninomiya act in between 2000 and 2010?",
+      "answer": "6",
+      "confidence": 0.85,
+      "n_returned": 6,
+      "n_entailed": 6,
+      "n_relevant": 6,
+      "correct": true,
+      "answer_reason": "All 6 nuggets list movies Ninomiya acted in between 2000 and 2010, confirming the system answer of 6.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya acted in The Blue Light in 2003",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage lists 'The Blue Light' under Year 2003 with the role of Shuichi Kushimori, directly supporting the claim that Ninomiya acted in The Blue Light in 2003.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya acted in Pikanchi Life Is Hard Dakara Happy in 2004",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly lists 'Pikanchi Life Is Hard Dakara Happy' with year 2004 and role 'Takuma Onda', supporting that Ninomiya acted in this film in 2004.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya acted in Letters from Iwo Jima in 2006",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that in 2006, the title 'Letters from Iwo Jima' was performed with the role of Saigo, confirming Ninomiya acted in that film in 2006.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya voiced Black in the animated film Tekkon Kinkreet in 2006",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states that in 2006, Ninomiya had a voice lead role as 'Black' in Tekkon Kinkreet, directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya acted in Kiiroi Namida in 2007",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly lists Kiiroi Namida with year 2007 and a lead role, which supports the claim that Ninomiya acted in it in 2007.",
+          "passage_present": true
+        },
+        {
+          "num": 6,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Ninomiya acted in Ōoku in 2010",
+          "nugget_num": 6,
+          "entailed": true,
+          "reason": "The passage explicitly lists Ōoku with Year: 2010 and a lead role, supporting that Ninomiya acted in Ōoku in 2010.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0020": {
+      "question": "How many movies did Leelee Sobieski act in between 2000 and 2010?",
+      "answer": "",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0021": {
+      "question": "Who was born earlier? Natalie Portman or Leelee Sobieski",
+      "answer": "Natalie Portman",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "Natalie Portman was born on June 9, 1981, which is earlier than Leelee Sobieski's birth date of June 10, 1983.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Natalie Portman was born on June 9, 1981",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Natalie Hershlag (Portman's birth name) was born on June 9, 1981, directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Leelee Sobieski was born on June 10, 1983",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Leelee Sobieski was born June 10, 1983.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "June 9, 1981 is earlier than June 10, 1983",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Natalie Hershlag was born on June 9, 1981, and June 9, 1981 is chronologically earlier than June 10, 1983.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0022": {
+      "question": "Who won the Academy Award for Best Actress more times, Katharine Hepburn or Audrey Hepburn?",
+      "answer": "Katharine Hepburn",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "Katharine Hepburn won four Best Actress Oscars compared to Audrey Hepburn's one, making the system answer correct.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Katharine Hepburn won four Academy Awards for Best Actress",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the record for most wins is four, held by Katharine Hepburn.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Audrey Hepburn won one Academy Award for Best Actress",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Hepburn was awarded the 1953 Academy Award for Best Actress for Roman Holiday, which is one Academy Award for Best Actress.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Four is greater than one",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Katharine Hepburn holds the record for most wins at four, and Frances McDormand has won three times, implying four is a greater number of wins than three (and by extension, one), which entails that four is greater than one.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0023": {
+      "question": "Who won the Academy Award for Best Actress more times, Grace Kelly or Ingrid Bergman?",
+      "answer": "Ingrid Bergman",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Ingrid Bergman won two Academy Awards for Best Actress while Grace Kelly won only one, confirming Bergman won more times.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Ingrid Bergman won two Academy Awards for Best Actress",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states Bergman won 'two for Best Actress' among her three Academy Awards.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Grace Kelly won one Academy Award for Best Actress",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Kelly received the Academy Award for Best Actress for The Country Girl, indicating she won one such award.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Bergman won Best Actress for Gaslight (1944)",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states she won the Best Actress Academy Award for Gaslight (1944).",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Bergman won Best Actress for Anastasia (1956)",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states she won Best Actress for Anastasia (1956).",
+          "passage_present": true
+        }
+      ]
+    },
+    "0024": {
+      "question": "How many films in the Pirates of the Caribbean series were released between 2000 and 2010?",
+      "answer": "3",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 4,
+      "correct": true,
+      "answer_reason": "Nuggets 1-3 confirm three films released between 2000-2010, and nugget 4 confirms the fourth film was outside this range (2011), supporting the answer of 3.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'In 2003, Disney released Pirates of the Caribbean: The Curse of the Black Pearl'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Pirates of the Caribbean: Dead Man's Chest was released in 2006",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Dead Man's Chest (2006)' as the first sequel, confirming it was released in 2006.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Pirates of the Caribbean: At World's End was released in 2007",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that At World's End was released in 2007 as the third installment in the series.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Pirates of the Caribbean: On Stranger Tides was released in 2011",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly lists 'On Stranger Tides (2011)' as one of the sequels to Pirates of the Caribbean.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0025": {
+      "question": "Which movie had a higher box office, May 18 (Hwaryeohan Hyooga) or 12.12: The Day (Seourui bom)?",
+      "answer": "",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0026": {
+      "question": "In Gladiator (2000), who plays the Roman emperor Commodus?",
+      "answer": "Joaquin Phoenix",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Joaquin Phoenix' exactly matches the nuggets stating that Joaquin Phoenix plays Commodus in Gladiator (2000).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Joaquin Phoenix plays Commodus in Gladiator (2000)",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Joaquin Phoenix stars in the film and that Commodus is the ambitious son who seizes the throne, and while it doesn't explicitly say Phoenix plays Commodus, the context of the cast list and plot description makes this directly inferable from the passage.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Phoenix portrayed Roman Emperor Commodus in Ridley Scott's historical epic film Gladiator",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Phoenix portrayed a fictionalized version of Roman Emperor Commodus in Ridley Scott's historical epic film Gladiator.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Joaquin Phoenix plays Commodus, the amoral and power-hungry son of Marcus Aurelius",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Phoenix earned a nomination for the Academy Award for Best Supporting Actor for his role as Commodus in Gladiator",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Phoenix earned a nomination for the Academy Award for Best Supporting Actor for his role as the villain Commodus in Gladiator.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0027": {
+      "question": "In The Silence of the Lambs (1991), what food is Hannibal Lecter famously associated with when he describes eating a census taker?",
+      "answer": "fava beans and a nice Chianti",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies fava beans and a nice Chianti as the foods/beverages Hannibal Lecter famously associates with eating the census taker's liver in The Silence of the Lambs.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Hannibal Lecter described eating a census taker's liver with fava beans and a nice Chianti",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states Lecter admitted to eating a census taker's liver 'with some fava beans and a nice Chianti'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "This quote appears in The Silence of the Lambs film adaptation",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage lists the quote 'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.' as appearing in AFI's 100 Years...100 Movie Quotes list in the context of The Silence of the Lambs film.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The candidate answer names fava beans and a nice Chianti as the foods/beverages associated with Lecter's census taker reference",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states Lecter admitted to eating a census taker's liver 'with some fava beans and a nice Chianti.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0028": {
+      "question": "In Finding Nemo (2003), what kind of fish is Dory?",
+      "answer": "regal blue tang",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'regal blue tang' exactly matches nugget [1] which states Dory is a regal blue tang.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Dory is a regal blue tang",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Dory is 'a forgetful regal blue tang.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Finding Nemo is a 2003 film",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Finding Nemo is a 2003 American animated comedy-drama adventure film.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Ellen DeGeneres voices Dory, a regal blue tang with short-term memory loss",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Ellen DeGeneres as Dory, a regal blue tang with short-term memory loss,' which directly supports the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Dory, a blue tang, is a character who offers to help Marlin find his son Nemo",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Dory is a blue tang who offers to help Marlin, and the context makes clear she is helping him find Nemo.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0029": {
+      "question": "In The Shawshank Redemption (1994), Andy Dufresne escapes from prison through what object in his cell wall?",
+      "answer": "a poster (of Raquel Welch)",
+      "confidence": 0.6,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies the poster (of Raquel Welch) as the object hiding the tunnel through which Andy escaped, matching nuggets 1 and 2.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Andy Dufresne escaped from prison through a tunnel hidden behind a poster in his cell wall",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that a tunnel was revealed behind a poster on Andy's cell wall, which he used to escape.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The poster was of Raquel Welch",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Norton threw a rock at 'a poster of Raquel Welch hanging on the cell wall.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Andy had dug the tunnel with his rock hammer over 19 years",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Andy had dug a tunnel with his rock hammer over 19 years, which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0030": {
+      "question": "Which actor played both Magneto in the X-Men films and Gandalf in The Lord of the Rings trilogy?",
+      "answer": "Ian McKellen",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Ian McKellen is confirmed by the nuggets to have played both Magneto in the X-Men films and Gandalf in The Lord of the Rings trilogy.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Ian McKellen played Magneto in the X-Men films, including X-Men (2000), X2: X-Men United (2003), and X-Men: The Last Stand (2006)",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states McKellen was cast to play Magneto in X-Men (2000), X2: X-Men United (2003), and X-Men: The Last Stand (2006).",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Ian McKellen was cast as Gandalf in Peter Jackson's film trilogy adaptation of The Lord of the Rings, released between 2001 and 2003",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states McKellen was cast as Gandalf in Peter Jackson's film trilogy adaptation of The Lord of the Rings, released between 2001 and 2003.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 14,
+          "text": "McKellen reprised the role of Gandalf in Peter Jackson's three-part film adaptation of The Hobbit (2012-2014)",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states McKellen reprised the role of Gandalf in Peter Jackson's three-part film adaptation of The Hobbit starting in 2012 and ending in 2014.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 5,
+          "text": "Ian McKellen achieved worldwide fame for his film roles, including Magneto in the X-Men films and Gandalf in The Lord of the Rings and The Hobbit trilogies",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states McKellen achieved worldwide fame for his film roles including Magneto in the X-Men films and Gandalf in The Lord of the Rings and The Hobbit trilogies.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0031": {
+      "question": "In Casablanca (1942), Rick Blaine owns a nightclub. What is the name of the actor who portrayed this nightclub owner?",
+      "answer": "Humphrey Bogart",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Humphrey Bogart' directly matches nugget [1] which states Humphrey Bogart played Rick Blaine in Casablanca (1942).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Humphrey Bogart played Rick Blaine in Casablanca (1942)",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bogart played Rick Blaine in Casablanca (1942).",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Rick Blaine is a nightclub owner in Casablanca",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Rick Blaine owns a nightclub in Casablanca called 'Rick's Café Américain'.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The film Casablanca was released in 1942",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states Casablanca is a '1942 American romantic drama film,' directly supporting the claim it was released in 1942.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Bogart's character in Casablanca was his first romantic lead role",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bogart's first romantic lead role was as Rick Blaine in Casablanca.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0032": {
+      "question": "How many Academy Awards did Slumdog Millionaire (2008) win?",
+      "answer": "8",
+      "confidence": 0.25,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "Slumdog Millionaire won 8 out of 10 nominations, which is consistent with all three nuggets (nominated for 10, won Best Picture, and was the top winner of 2008 films).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 6,
+          "text": "The film was nominated for ten Academy Awards in 2009.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states the film 'won eight out of ten Academy Awards for which it was nominated,' directly implying it received ten nominations.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Slumdog Millionaire won the Academy Award for Best Picture.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Slumdog Millionaire won the Academy Award for Best Picture.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 3,
+          "text": "It was the most Academy Awards won by any 2008 film.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Slumdog Millionaire won eight Academy Awards, 'the most for any 2008 film,' which directly supports the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0033": {
+      "question": "Actor Bill Paxton appeared in both Titanic and Aliens. Which film featured him as Brock Lovett?",
+      "answer": "Titanic",
+      "confidence": 0.99,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Titanic' correctly matches nugget [1] which states Bill Paxton played Brock Lovett in Titanic.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Bill Paxton played the character Brock Lovett in Titanic",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Bill Paxton as Brock Lovett, a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Brock Lovett is a treasure hunter searching for the Heart of the Ocean in the wreck of the Titanic",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bill Paxton plays Brock Lovett, 'a treasure hunter looking for the Heart of the Ocean in the wreck of the Titanic in the present.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Bill Paxton appeared in the 1997 film Titanic",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Paxton appeared in James Cameron's Titanic (1997).",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Bill Paxton played Private William Hudson in the 1986 film Aliens",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Paxton played 'Private William Hudson in Aliens (1986)'.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0034": {
+      "question": "In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?",
+      "answer": "14 players (7 per team)",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "The system answer correctly states 14 total players (7 per team × 2 teams), which matches nuggets 1, 3, and 4.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Each Quidditch team has seven players",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that matches are played between two opposing teams of seven players each.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "A Quidditch team consists of three Chasers, two Beaters, one Keeper, and one Seeker",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states each team has 'three Chasers, two Beaters, the Keeper, and the Seeker,' which matches the nugget's composition of three Chasers, two Beaters, one Keeper, and one Seeker.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Two teams play in a Quidditch match",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states matches are played 'between two opposing teams of seven players each.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Total players on field at start of match is 14 (7 per team × 2 teams)",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states each team has seven players and there are two teams (implied by 'each team' and 'opposing team'), so 7 × 2 = 14 total players follows directly.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0035": {
+      "question": "How many years apart were the theatrical releases of Avatar and Avengers: Endgame?",
+      "answer": "10 years",
+      "confidence": 0.25,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Avatar was released in 2009 and Avengers: Endgame in 2019, which is exactly 10 years apart.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Avatar was released in the United States on December 18, 2009",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Avatar's release date is December 18, 2009 and its production country is United States, directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Avengers: Endgame was released in the United States on April 26, 2019",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states that Endgame was released on April 26, 2019, which directly supports the nugget's claim.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0036": {
+      "question": "What is the nickname of Lots-o'-Huggin' Bear from Toy Story?",
+      "answer": "Lotso",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] directly confirms that Lots-o'-Huggin' Bear's nickname is Lotso, which matches the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lots-o'-Huggin' Bear is often shortened to Lotso",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Lots-o'-Huggin' Bear, often shortened to Lotso'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lotso is a plush, pink, strawberry-scented teddy bear",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly describes Lotso as 'a plush, pink, strawberry-scented Southern-accented teddy bear.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lotso is the main antagonist of Toy Story 3",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Lotso is 'the main antagonist of the third film,' referring to Toy Story 3.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0037": {
+      "question": "What is the slogan of Monsters, Inc. in the movie?",
+      "answer": "We Scare Because We Care",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer exactly matches the slogan stated in nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The original slogan of Monsters, Inc. in the film was 'We Scare Because We Care'",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the factory's slogan was changed from 'We Scare Because We Care' to a new slogan, implying the original slogan in the film was 'We Scare Because We Care'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Monsters, Inc. is a 2001 Disney-Pixar animated film",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states the film is a 2001 American animated film produced by Pixar Animation Studios for Walt Disney Pictures, which supports calling it a Disney-Pixar film.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0038": {
+      "question": "How many of the first five Pixar feature films were directed by John Lasseter?",
+      "answer": "3",
+      "confidence": 0.95,
+      "n_returned": 6,
+      "n_entailed": 6,
+      "n_relevant": 6,
+      "correct": true,
+      "answer_reason": "Lasseter directed Toy Story, A Bug's Life, and Toy Story 2 (3 films), while Monsters, Inc. and Finding Nemo were not directed by him, confirming the answer of 3.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 6,
+          "text": "Toy Story (1995) was directed by John Lasseter",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The film was directed by John Lasseter.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "A Bug's Life (1998) was directed by John Lasseter",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The film was directed by John Lasseter.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Toy Story 2 (1999) was directed by John Lasseter",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The film was directed by John Lasseter.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "Monsters, Inc. (2001) was not directed by John Lasseter",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that Monsters, Inc. was 'the first Pixar film not directed by Lasseter,' directly supporting the nugget's claim.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Finding Nemo (2003) was the fifth Pixar film",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly states that Finding Nemo was the fifth Pixar film.",
+          "passage_present": true
+        },
+        {
+          "num": 6,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Finding Nemo was directed by Andrew Stanton, not John Lasseter",
+          "nugget_num": 6,
+          "entailed": true,
+          "reason": "The passage explicitly states that Andrew Stanton directed Finding Nemo (2003), which supports the claim that he, not John Lasseter, directed it.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0039": {
+      "question": "How many days passed between the US premiere of \"Toy Story\" and the US premiere of \"Toy Story 4\"?",
+      "answer": "8766 days",
+      "confidence": 0.25,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Stage B failed: RuntimeError",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Toy Story premiered at the El Capitan Theatre in Los Angeles on November 19, 1995",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Toy Story premiered at the El Capitan Theatre in Los Angeles on November 19, 1995'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0040": {
+      "question": "In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth?",
+      "answer": "A113",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'A113' matches the secret directive name mentioned in nuggets [1] and [2].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "AUTO reveals his secret no-return directive A113, which orders them to not return to Earth",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 7,
+          "text": "Directive A113 prevents anyone from returning to Earth",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Forthright issued directive A113 preventing anyone from returning to Earth.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 7,
+          "text": "The directive A113 was issued by Shelby Forthright, CEO of Buy n Large, after discovering Earth had become too toxic to support life",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states that after discovering Earth was too toxic to support life, Forthright issued directive A113 preventing anyone from returning to Earth, which directly supports the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0041": {
+      "question": "Who voiced Fillmore in Cars 2?",
+      "answer": "Rakan Rushaidat",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Rakan Rushaidat as the voice of Fillmore in Cars 2, matching nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 3,
+          "text": "Rakan Rushaidat voiced Fillmore in Cars 2",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Fillmore in Cars 2 (2011) was voiced by Rakan Rushaidat.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Cars 2 was released in 2011",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states Cars 2 is a '2011 American animated spy comedy film.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0042": {
+      "question": "What was the first movie produced by Studio Ghibli?",
+      "answer": "Castle in the Sky (Laputa: Castle in the Sky)",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Castle in the Sky (Laputa: Castle in the Sky) as the first film animated by Studio Ghibli, matching nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Castle in the Sky (also known as Laputa: Castle in the Sky) was the first film to be animated by Studio Ghibli.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Castle in the Sky was the first film to be animated by Studio Ghibli,' and also confirms it is 'also known as Laputa: Castle in the Sky.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Castle in the Sky was released on August 2, 1986.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states 'Laputa was released on August 2, 1986' and the film's full title is 'Laputa: Castle in the Sky'.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 14,
+          "text": "Studio Ghibli was founded on June 15, 1985.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Founded on June 15, 1985' as the founding date of Studio Ghibli.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Castle in the Sky was written and directed by Hayao Miyazaki.",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states the film was 'written and directed by Hayao Miyazaki.'",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Castle in the Sky was produced by Isao Takahata and distributed by Toei.",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly states the film 'was produced by Isao Takahata' and 'distributed by Toei,' directly supporting the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0043": {
+      "question": "What Ghibli movie character made a cameo appearance in Toy Story 3?",
+      "answer": "Totoro",
+      "confidence": 0.99,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "The system answer 'Totoro' matches the nuggets confirming Totoro is a Studio Ghibli character who made a cameo in Toy Story 3.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Totoro is a character from Studio Ghibli",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states that Miyazaki uses Totoro as part of his logo for Studio Ghibli, implying Totoro is associated with Studio Ghibli.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Totoro made a cameo appearance in the Pixar film Toy Story 3",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010).",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Totoro did not appear in Toy Story 4 due to licensing problems",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Totoro was not included in Toy Story 4 due to licensing problems.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0044": {
+      "question": "What was the first animated movie to win the Golden Bear (Goldener Bär)?",
+      "answer": "Spirited Away",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Spirited Away' exactly matches nugget [1] which states it was the first animated film to win the Golden Bear.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Spirited Away was the first animated film to win the Golden Bear at the Berlin International Film Festival",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states it was the first animated film to win the Golden Bear at the Berlin International Film Festival.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Spirited Away won the Golden Bear at the 2002 Berlin International Film Festival",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival, which supports the nugget's claim that it won the award.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0045": {
+      "question": "How many movies produced by Studio Ghibli since 2000 have been directed by Hayao Miyazaki?",
+      "answer": "5",
+      "confidence": 0.25,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nuggets only confirm 2 Miyazaki-directed Studio Ghibli films since 2000 (Howl's Moving Castle and The Boy and the Heron), plus Spirited Away (2001) and Ponyo (2008) and The Wind Rises (2013) would make 5, but the nuggets don't confirm all 5, and the system answer of 5 cannot be verified as correct or incorrect solely from the provided nuggets which only establish at least 2.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Howl's Moving Castle (2004) was directed by Hayao Miyazaki and produced by Studio Ghibli",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Miyazaki co-founded Studio Ghibli and lists Howl's Moving Castle (2004) among his later films, implying he directed it under Studio Ghibli.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "The Boy and the Heron (2023) was written and directed by Hayao Miyazaki and produced by Studio Ghibli",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states the film was 'written and directed by Hayao Miyazaki' and 'Produced by Studio Ghibli.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0046": {
+      "question": "By the end of August 2025, how many Marvel Avengers series movies are there?",
+      "answer": "4",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 5,
+      "correct": true,
+      "answer_reason": "Nuggets confirm exactly 4 Avengers films released before August 2025, with the next two scheduled after that date.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 10,
+          "text": "The Avengers was released in 2012",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states the film is 'a 2012 American superhero film' and mentions it was 'pushed back for a 2012 release.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Avengers: Age of Ultron was released in 2015",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Avengers: Age of Ultron is a 2015 American superhero film.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 3,
+          "text": "Avengers: Infinity War was released in 2018",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Avengers: Infinity War is a 2018 American superhero film.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 17,
+          "text": "Avengers: Endgame was released in 2019",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Avengers: Endgame is a 2019 American superhero film.'",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Avengers: Doomsday and Avengers: Secret Wars are scheduled for release in 2026 and 2027, which are after August 2025",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage states Doomsday and Secret Wars are scheduled for 2026 and 2027, which are indeed after August 2025.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0047": {
+      "question": "In the movie, the day after tomorrow, how many helicopters were sent to rescue the British royal family from Balmoral Castle?",
+      "answer": "Three helicopters",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer exactly matches nugget [1], which states three helicopters were sent to rescue the British royal family from Balmoral Castle.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Three helicopters were sent to rescue the British royal family from Balmoral Castle",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that three helicopters were sent to rescue the British royal family from Balmoral Castle in Scotland.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "The helicopters crashed in Scotland after flying into a superstorm's eye",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that three helicopters crashed in Scotland after they flew into a superstorm's eye.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0048": {
+      "question": "In which movie of The Fast & the Furious series, did the \"God's Eye\" first appear?",
+      "answer": "Furious 7",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Furious 7' matches nugget [1] which states that God's Eye first appears in Furious 7.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "God's Eye is a hacking program that appears in Furious 7",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the team must prevent a terrorist from obtaining 'a hacking program known as God's Eye' in the film Furious 7.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Furious 7 is the seventh installment in the Fast & Furious franchise",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states it is 'the seventh installment in the Fast & Furious franchise.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "In Furious 7, Dom's team is recruited to rescue Ramsey, the creator of God's Eye",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states that Nobody offers Dom a deal to hunt Shaw by using God's Eye, but Dom's team must also save its creator Ramsey, which matches the nugget's claim that Dom's team is recruited to rescue Ramsey, the creator of God's Eye.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0049": {
+      "question": "How many mainline films of The Fast & the Furious series did Justin Lin work as a screenwriter?",
+      "answer": "2",
+      "confidence": 0.25,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nuggets only confirm Justin Lin co-wrote F9, providing evidence for 1 mainline film as screenwriter, not 2; there is no nugget confirming he wrote screenplays for any other mainline Fast & Furious films.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Justin Lin co-wrote the screenplay for F9 with Daniel Casey",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that F9 was 'directed by Justin Lin, who co-wrote the screenplay with Daniel Casey.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "F9 is the ninth mainline installment in the Fast & Furious franchise",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that F9 'is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise.'",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Fast X is the tenth main installment in the Fast & Furious franchise",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Fast X 'is the tenth main installment...in the Fast & Furious franchise.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0050": {
+      "question": "Which The Fast & the Furious movie had the higher worldwide box office, F9 or Fast X?",
+      "answer": "F9",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 4,
+      "correct": true,
+      "answer_reason": "All nuggets confirm F9 had a higher worldwide gross than Fast X, though nuggets 2 and 4 differ slightly in their figures for Fast X, both show F9's gross was higher.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "F9 had a worldwide gross of $726,229,501",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that F9 (2021) had a worldwide gross of $726,229,501.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Fast X had a worldwide gross of $704,875,015",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Fast X (2023) had a worldwide gross of $704,875,015.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "F9 grossed $726.2 million worldwide",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states F9 had 'a worldwide total of $726.2 million'.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Fast X grossed $714.4 million worldwide",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states the film had 'a worldwide total of $714.4 million.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0051": {
+      "question": "In Interstellar, what is the full name of Joseph Cooper's daughter?",
+      "answer": "Murphy Cooper",
+      "confidence": 0.85,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Murphy Cooper' exactly matches nugget [2] which states Murph's full name is Murphy Cooper.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Joseph Cooper's daughter is named Murph.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Cooper 'raises his children, Murph and Tom' and refers to Murph as his daughter throughout.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Murph's full name is Murphy Cooper.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage identifies Jessica Chastain's character as 'Murphy \"Murph\" Cooper, Joseph's daughter,' directly supporting that Murph's full name is Murphy Cooper.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Murphy Cooper is a NASA scientist working under Professor Brand.",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states that Murphy 'Murph' Cooper 'eventually becomes a NASA scientist working under Professor Brand,' which directly supports the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0052": {
+      "question": "In Interstellar, what is the nick name of Joseph Cooper's daughter?",
+      "answer": "Murph",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Murph' matches the nickname stated in nugget [1] for Joseph Cooper's daughter Murphy.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Joseph Cooper's daughter is named Murphy, with the nickname Murph",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, directly supporting that her name is Murphy with the nickname Murph.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Jessica Chastain plays Murphy 'Murph' Cooper as an adult in Interstellar",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who 'eventually becomes a NASA scientist,' implying an adult role, while Mackenzie Foy plays the 10-year-old version.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Mackenzie Foy plays young Murph Cooper in Interstellar",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Foy portrayed 'young Murph in Interstellar (2014)', which directly supports the nugget's claim that she plays young Murph Cooper in Interstellar.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0053": {
+      "question": "In Interstellar, how old is Joseph Cooper's daughter before Joseph started his mission?",
+      "answer": "10 years old",
+      "confidence": 0.85,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 2,
+      "correct": true,
+      "answer_reason": "Nugget [1] explicitly states Murph is 10 years old and nugget [2] confirms Murph is Joseph Cooper's daughter, matching the system answer of 10 years old.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Mackenzie Foy plays 10-year-old Murph, Joseph Cooper's daughter",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states Mackenzie Foy plays 10-year-old Murph, and Jessica Chastain's character Murphy 'Murph' Cooper is identified as Joseph's daughter.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Murph is Joseph Cooper's daughter",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states that Cooper 'raises his children, Murph and Tom,' confirming Murph is his daughter.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 6,
+          "text": "Cooper accepts the Endurance mission against Murph's wishes",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Cooper accepts against Murph's wishes,' directly supporting the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0054": {
+      "question": "By the end of August 2025, what is the most recent movie directed by the director of Interstellar?",
+      "answer": "Oppenheimer",
+      "confidence": 0.45,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 5,
+      "correct": true,
+      "answer_reason": "Christopher Nolan directed Interstellar and Oppenheimer (2023), and his next film The Odyssey is not released until 2026, making Oppenheimer his most recent film by end of August 2025.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Christopher Nolan directed Interstellar",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Interstellar is a 2014 film directed by Christopher Nolan.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Christopher Nolan directed Oppenheimer in 2023",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Oppenheimer is a 2023 film directed by Christopher Nolan.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 14,
+          "text": "Christopher Nolan's next film after Oppenheimer is The Odyssey scheduled for 2026",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states that after Oppenheimer, Nolan is currently directing The Odyssey (2026), directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "By end of August 2025, The Odyssey has not been released as it is scheduled for July 2026",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states The Odyssey is scheduled for release in July 2026, which means it would not have been released by end of August 2025.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "Oppenheimer was released theatrically on July 21, 2023",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Oppenheimer was released theatrically on July 21, 2023, by Universal Pictures.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0055": {
+      "question": "What is the first film to be released in Dolby Vision format in Dolby Cinema?",
+      "answer": "Tomorrowland",
+      "confidence": 0.95,
+      "n_returned": 2,
+      "n_entailed": 2,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] directly confirms that Tomorrowland was the first film released in Dolby Vision format in Dolby Cinema, matching the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tomorrowland 'was the first film to be released in Dolby Vision format in Dolby Cinema.'",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0056": {
+      "question": "In The Empire Strikes Back, on which planet did the Rebel Alliance first establish their base?",
+      "answer": "Hoth",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Hoth' exactly matches nugget [1] which states the Rebel Alliance established their base on the planet Hoth.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The Rebel Alliance established their base on the planet Hoth",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Echo Base was a facility established by the Rebel Alliance on the planet Hoth.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The base on Hoth was called Echo Base",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The Echo Base was the facility established by the Rebel Alliance on the frigid planet of Hoth,' directly supporting that the base on Hoth was called Echo Base.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Echo Base was the Rebel headquarters established after the Battle of Yavin",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Echo Base was the Rebel Alliance facility established on Hoth after the Battle of Yavin, which directly supports the nugget's claim that it was the Rebel headquarters established after the Battle of Yavin.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The Empire discovered Echo Base on Hoth and invaded, forcing the Rebels to evacuate",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states that the base was discovered by the Galactic Empire, which invaded Hoth and forced the Rebels to evacuate.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Hoth is a frigid ice planet",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly describes Hoth as a 'frigid planet,' which directly supports the claim that Hoth is a frigid ice planet (though 'ice' is implied by 'frigid,' the core descriptor matches).",
+          "passage_present": true
+        }
+      ]
+    },
+    "0057": {
+      "question": "In the Star Wars universe, who first discovered the Jedi that wields two white lightsabers and brought her to the Jedi Temple?",
+      "answer": "Plo Koon",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 4,
+      "correct": true,
+      "answer_reason": "The system answer 'Plo Koon' correctly identifies the Jedi who discovered Ahsoka Tano (who wields two white lightsabers) and brought her to the Jedi Temple, as confirmed by all four nuggets.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Ahsoka Tano wields two white lightsabers",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Ahsoka Tano used two white lightsabers as her personal weapons.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "Plo Koon discovered Ahsoka Tano on her homeworld of Shili",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "Plo Koon brought Ahsoka Tano to the Jedi Temple",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Plo Koon brought Ahsoka Tano to the Jedi Temple on Coruscant to receive Jedi training.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 10,
+          "text": "Plo Koon was the Jedi who first found and brought Ahsoka Tano to the Jedi Order",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage directly states that Plo Koon visited Shili, noticed Tano was Force-sensitive, and brought her to the Jedi Temple, which matches the nugget's claim.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0058": {
+      "question": "In Rogue One, what was Chirrut Îmwe repeating before he died?",
+      "answer": "I am one with the Force, and the Force is with me",
+      "confidence": 0.25,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies the mantra 'I am one with the Force, and the Force is with me' which nugget [1] confirms was spoken by Chirrut Îmwe in his final moments.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Both Guardians of the Whills Chirrut Îmwe and Baze Malbus spoke the mantra in their final moments",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Chirrut Îmwe and Baze Malbus 'both spoke the Mantra in their final moments.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0059": {
+      "question": "Name the actor who played a Jedi in Star Wars: Episode III – Revenge of the Sith and then played in Avengers of MCU.",
+      "answer": "Samuel L. Jackson",
+      "confidence": 0.95,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "Samuel L. Jackson played Jedi Master Mace Windu in Star Wars: Episode III and Nick Fury in The Avengers (MCU), matching all three nuggets.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Samuel L. Jackson played Mace Windu, a Jedi Master, in Star Wars: Episode III – Revenge of the Sith",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Samuel L. Jackson plays Mace Windu, a Jedi Master and senior member of the Jedi Council, which directly supports the nugget's claim.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Samuel L. Jackson portrayed Nick Fury in Marvel Cinematic Universe films",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Samuel L. Jackson portrays Nick Fury in the Marvel Cinematic Universe and has appeared in twelve MCU films.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Samuel L. Jackson appeared as Nick Fury in The Avengers (2012)",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage states Samuel L. Jackson is in the cast and that Nick Fury recruits the Avengers, and while it doesn't explicitly say Jackson plays Fury, the passage's context of listing cast members alongside their characters makes this directly inferable.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0060": {
+      "question": "In Star Wars, on which planet did Han Solo die?",
+      "answer": "Starkiller Base",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 4,
+      "n_relevant": 4,
+      "correct": true,
+      "answer_reason": "All nuggets confirm that Han Solo died at Starkiller Base, which matches the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Han Solo died at Starkiller Base",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Han Solo was fatally impaled and fell to his death at Starkiller Base.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Han Solo was fatally impaled by Kylo Ren with a lightsaber during the Battle of Starkiller Base",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Ren 'fatally impaled Solo with his lightsaber' during the Battle of Starkiller Base.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Han Solo fell down a shaft towards the core of Starkiller Base to his death",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Han Solo fell 'down a shaft towards the core of Starkiller Base to his death.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Starkiller Base is a planet",
+          "nugget_num": 4,
+          "entailed": false,
+          "reason": "The passage describes Starkiller Base as military installations built into an ice planet (Ilum), not as a planet itself.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 3,
+          "text": "Han Solo was killed by his son Kylo Ren at Starkiller Base",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly states that Han Solo 'died at Starkiller at the hands of Kylo Ren, his and Leia's son,' which directly supports the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0061": {
+      "question": "In the first three MCU Spider-Man movies, what is the common word in their subtitles?",
+      "answer": "Home",
+      "confidence": 0.95,
+      "n_returned": 6,
+      "n_entailed": 6,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "All three MCU Spider-Man subtitles contain the word 'Home', confirming the system answer is correct.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "The first MCU Spider-Man film is Spider-Man: Homecoming (2017)",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage states that three MCU films starring Tom Holland were released starting with Spider-Man: Homecoming (2017), implying it was the first MCU Spider-Man film.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "The second MCU Spider-Man film is Spider-Man: Far From Home (2019)",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage lists three MCU Spider-Man films in order—Homecoming (2017), Far From Home (2019), and No Way Home (2021)—making Far From Home the second MCU Spider-Man film.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "The third MCU Spider-Man film is Spider-Man: No Way Home (2021)",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage lists three MCU Spider-Man films in order—Homecoming (2017), Far From Home (2019), and No Way Home (2021)—making No Way Home the third MCU Spider-Man film.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Spider-Man: Homecoming's subtitle contains the word 'home'",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states the title 'No Way Home' continues the naming convention of the past two films of featuring 'home' in the title, implying Spider-Man: Homecoming contains 'home' in its title.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Spider-Man: Far From Home's subtitle contains the word 'home'",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "check failed (assumed entailed): RuntimeError",
+          "passage_present": true
+        },
+        {
+          "num": 6,
+          "pr_run": "BITEM-PG-2",
+          "rank": 4,
+          "text": "Spider-Man: No Way Home's subtitle contains the word 'home'",
+          "nugget_num": 6,
+          "entailed": true,
+          "reason": "The passage states the film's title was revealed to be 'Spider-Man: No Way Home,' which contains the word 'home' in the subtitle 'No Way Home.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0062": {
+      "question": "In Rogue One, what is Jyn Erso's nickname?",
+      "answer": "Stardust",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "The system answer 'Stardust' matches the nickname given to Jyn Erso by her father as confirmed by multiple nuggets.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Galen Erso affectionately referred to his daughter Jyn as 'Stardust'",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Galen Erso 'affectionately referred to his daughter as \"Stardust\",' directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Jyn Erso was nicknamed 'Stardust' by her father",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states that Jyn Erso was nicknamed 'Stardust' by her father.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Doctor Galen Walton Erso called his daughter Jyn 'stardust'",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Doctor Galen Walton Erso called his daughter Jyn 'stardust,' which is the origin of the codename 'Project Stardust.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 5,
+          "text": "When Jyn found the Death Star plans codenamed 'Stardust', she recognized them because it was the same nickname her father gave her",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states Jyn stopped at 'Stardust' and recognized it as the nickname her father gave her, realizing those must be the plans.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0063": {
+      "question": "In The Empire Strikes Back, what kind of giant vehicle did the empire use to attack the rebel base?",
+      "answer": "AT-AT walkers",
+      "confidence": 0.95,
+      "n_returned": 5,
+      "n_entailed": 5,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "The system answer 'AT-AT walkers' correctly identifies the giant vehicles used by the Empire to attack the Rebel base, as confirmed by nuggets 1, 2, and 3.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The Empire used AT-AT walkers to attack the Rebel base on Hoth in The Empire Strikes Back",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the Empire launches a large-scale attack using AT-AT walkers against the rebel base on Hoth.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "AT-AT walkers are heavily armored giant vehicles",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states AT-ATs are 'the most heavily armored ground vehicles in the Imperial Army' and describes them as four-legged combat walkers, supporting the claim that they are heavily armored giant vehicles.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "AT-AT walkers are four-legged combat walkers",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states the AT-AT was 'a four-legged combat walker.'",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-2",
+          "rank": 7,
+          "text": "AT-ATs stood over 22 meters tall",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage states the AT-AT walker stands at 22.5 meters, which is over 22 meters tall.",
+          "passage_present": true
+        },
+        {
+          "num": 5,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "General Veers led the AT-AT assault on the Rebel base at Hoth",
+          "nugget_num": 5,
+          "entailed": true,
+          "reason": "The passage explicitly states that General Veers led the assault personally, commanding his AT-AT walker Blizzard 1.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0064": {
+      "question": "Which Star Wars spinoff movie is more successful, Solo or Rogue One?",
+      "answer": "Rogue One",
+      "confidence": 0.95,
+      "n_returned": 4,
+      "n_entailed": 4,
+      "n_relevant": 3,
+      "correct": true,
+      "answer_reason": "Rogue One grossed over $1 billion compared to Solo's $393.2 million, and Solo was even considered a commercial failure, making Rogue One clearly the more successful spinoff.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Rogue One grossed $1.059 billion worldwide",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states the film had 'a worldwide total of $1.059 billion'.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Solo grossed $393.2 million worldwide",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage explicitly states the total worldwide gross was $393.2 million.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Solo was the first Star Wars film to be a commercial failure",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states 'It was the first Star Wars film to be a commercial failure,' directly supporting the nugget.",
+          "passage_present": true
+        },
+        {
+          "num": 4,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Rogue One received positive reviews with praise for acting, story, visuals, and cinematography",
+          "nugget_num": 4,
+          "entailed": true,
+          "reason": "The passage explicitly states Rogue One 'received positive reviews, with praise for its acting, story, visuals, musical score, cinematography, and darker tone than previous Star Wars films.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0065": {
+      "question": "In the most successful Star Wars spinoff movie, who killed the characters that are played by Chinese actors?",
+      "answer": "Tarkin (via the Death Star)",
+      "confidence": 0.25,
+      "n_returned": 3,
+      "n_entailed": 3,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Stage B failed: RuntimeError",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Rogue One is a Star Wars standalone/spinoff film",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly describes Rogue One as a 'Star Wars stand-alone film,' which matches the nugget's claim that it is a standalone/spinoff film.",
+          "passage_present": true
+        },
+        {
+          "num": 2,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Donnie Yen, a Chinese/Hong Kong actor, portrayed Chirrut Îmwe in Rogue One",
+          "nugget_num": 2,
+          "entailed": true,
+          "reason": "The passage states Donnie Yen is a Hong Kong martial arts film actor who portrayed Chirrut Îmwe in Rogue One, which supports the nugget's claim about his identity and role.",
+          "passage_present": true
+        },
+        {
+          "num": 3,
+          "pr_run": "BITEM-PG-2",
+          "rank": 3,
+          "text": "Tarkin ordered the Death Star to target and destroy the Scarif base, killing Krennic, Jyn Erso, Cassian Andor, and other survivors of the ground battle",
+          "nugget_num": 3,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tarkin has the Death Star target and destroy the Scarif base, killing Krennic, Jyn Erso, Cassian Andor, and any other survivor of the ground battle, which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    }
+  }
+}
