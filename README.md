@@ -1,4 +1,12 @@
-# R2C2-Retrank: NTCIR-19 R2C2 Passage Retrieval — Experimental Record
+# R2C2-Retrank: NTCIR-19 R2C2 — Experimental Record
+
+> **📊 Navigable results:** see **[`docs/results/`](docs/results/README.md)** — hub of all paper findings (headline table, R_O bottleneck, judge cross-validation, statistical robustness, ablations).
+>
+> **📄 Full paper:** [`docs/paper_draft.pdf`](docs/paper_draft.pdf) (26 pages)
+>
+> **📦 AC submission:** [`data/runs/retrank-AC.zip`](data/runs/retrank-AC.zip)
+
+---
 
 **Team:** retrank  
 **Task:** Passage Retrieval (PR) subtask, NTCIR-19 R2C2  
