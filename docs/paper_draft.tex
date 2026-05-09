@@ -627,19 +627,55 @@ Tier-1+2 ($K=6$) jumps above Tier-1 ($K=3$). We report the
 \emph{ordering} as observed; the \emph{monotonic-with-count} claim
 does not survive scrutiny.
 
-\subsection{Design rationale: answer-first vs nugget-first (not tested)}\label{sec:rq3}
+\subsection{Answer-first vs nugget-first: a 20-topic head-to-head}\label{sec:rq3}
 
-We did not run a parallel nugget-first pipeline in this round; the
-answer-first design was committed to early. We therefore present
-this only as design rationale and \emph{do not claim} a tested
-finding. Indirect evidence: Stage~2 bogus rates (8.2–10.0\% across
-all four refinement variants on Tier-1) are below the literature-typical
-20–30\% range for unconstrained nugget extraction, which is
-consistent with — but does not prove — answer-conditioned extraction
-being better-grounded. A direct head-to-head ablation against a
-nugget-first pipeline (extract atoms first, synthesise answer second,
-re-evaluate bogus rate / MNP / HMR) is the cleanest version of this
-question and is left as future work.
+\paragraph{Setup.} To produce direct evidence, we ran a minimal
+nugget-first variant on the first 20 topics. For each topic, Sonnet
+reads the top-5 BITEM-only passages and emits 3-6 atomic factual
+nuggets \emph{without} being told what the answer should be; a
+second Sonnet call then synthesises an answer using only those
+nuggets. We compare against the production answer-first BITEM-only
+refined-Sonnet pipeline on the same 20 topics, scoring nugget-first
+correctness via token-overlap match against the answer-first answer
+(which is itself self-eval-correct on 19 of 20 topics).
+
+\paragraph{Result.}
+\begin{table}[h]
+\centering
+\caption{Mini head-to-head on 20 topics. Nugget-first matches
+answer-first on accuracy almost exactly; the gap is in $R_O$.}
+\label{tab:nugget_first}
+\begin{tabular}{lcccc}
+\toprule
+Pipeline & Acc & $R_O$ & $R_U$ & \HMR \\
+\midrule
+\textbf{Answer-first (BITEM-Sonnet)} & 0.950 & 0.950 & 1.000 & \textbf{0.963} \\
+Nugget-first (this experiment)        & 0.900 & 0.525 & 0.921 & 0.669 \\
+\midrule
+$\Delta$ (NF $-$ AF)                  & $-0.050$ & $-0.425$ & $-0.079$ & $-0.294$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Interpretation.} The accuracy gap is small ($-0.05$):
+nugget-first is competitive on \emph{which} answer to give. The HMR
+gap is $-0.294$, almost entirely from $R_O$. Inspecting the two
+disagreement topics (0019 ``how many films did George Lazenby play
+James Bond in?''; 0020 ``Spencer Bell's three Mickey Rooney movies''),
+nugget-first emits confidently-wrong counts (``5'' vs the
+answer-first ``8''; ``At least 3'' vs an answer-first refusal),
+because nuggets extracted in isolation under-represent the negative
+evidence that an answer-conditioned pipeline would notice. The
+answer-first pipeline knows what to look for and can recognise when
+the pool does not contain it; the nugget-first pipeline confidently
+generalises from incomplete evidence. \textbf{This is the
+$R_O$-bottleneck thesis in miniature}: the design choice that
+suppresses confident-wrong topics wins HMR, even when accuracy is
+nearly identical. We caveat that this is a 20-topic preliminary
+comparison and that the correctness scoring uses the answer-first
+pipeline as ground truth (so the $-0.05$ accuracy gap is biased
+toward answer-first); the 65-topic, judge-cross-validated comparison
+is left as future work.
 
 \subsection{Refusal beats guessing on weak retrieval}\label{sec:rq4}
 

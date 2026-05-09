@@ -1,0 +1,193 @@
+{
+  "metrics": {
+    "accuracy": 0.9,
+    "mean_nugget_precision": 1.0,
+    "R_O": 0.5249999999999999,
+    "R_U": 0.9205555555555556,
+    "HMR": 0.6686587240584165,
+    "n_questions": 20
+  },
+  "n_topics": 20,
+  "detail": [
+    {
+      "qid": "0001",
+      "question": "What did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016?",
+      "nf_answer": "Bor Gullet, a Mairan",
+      "af_answer": "Bor Gullet (a Mairan creature)",
+      "confidence": 0.99,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0002",
+      "question": "What was Scarlett Johansson's superhero name in the Marvel Cinematic Universe?",
+      "nf_answer": "Black Widow",
+      "af_answer": "Black Widow",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0003",
+      "question": "In the movie \"I, Robot\" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say?",
+      "nf_answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm.",
+      "af_answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm.",
+      "confidence": 0.95,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0004",
+      "question": "Who played James Bond in the movie in which the climax take place in outer space?",
+      "nf_answer": "Roger Moore",
+      "af_answer": "Roger Moore",
+      "confidence": 0.99,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0005",
+      "question": "Actor George Lazenby played James Bond in how many movies?",
+      "nf_answer": "1",
+      "af_answer": "1",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0006",
+      "question": "In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone?",
+      "nf_answer": "Soul Stone",
+      "af_answer": "the Soul Stone",
+      "confidence": 0.99,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0007",
+      "question": "\"Love, Actually\" features a cover song called \"Christmas is All Around.\" What was the original song title?",
+      "nf_answer": "Love Is All Around",
+      "af_answer": "Love Is All Around",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0008",
+      "question": "Name the actor who played Green Lantern in the DCEU and then played Deadpool in the MCU.",
+      "nf_answer": "Ryan Reynolds",
+      "af_answer": "Ryan Reynolds",
+      "confidence": 0.99,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0009",
+      "question": "In Bean the movie, Mr Bean works for which gallery?",
+      "nf_answer": "The National Gallery",
+      "af_answer": "the National Gallery in London",
+      "confidence": 0.99,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0010",
+      "question": "Who plays the Wizard of Oz in Wicked the movie?",
+      "nf_answer": "The provided nuggets do not explicitly state who plays the Wizard of Oz in Wicked (2024). Jeff Goldblum has a supporting role, but his specific character is not confirmed in the nuggets.",
+      "af_answer": "Jeff Goldblum",
+      "confidence": 0.3,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0011",
+      "question": "In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba?",
+      "nf_answer": "Zeniba",
+      "af_answer": "Zeniba",
+      "confidence": 0.95,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0012",
+      "question": "In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie?",
+      "nf_answer": "Gareth",
+      "af_answer": "Gareth",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 5
+    },
+    {
+      "qid": "0013",
+      "question": "In Back To The Future Part Two, who plays Marlene McFly?",
+      "nf_answer": "Michael J. Fox",
+      "af_answer": "Michael J. Fox",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0014",
+      "question": "Of the Star Wars sequel trilogy, which movie was NOT directed by J. J. Abrams?",
+      "nf_answer": "The Last Jedi",
+      "af_answer": "The Last Jedi",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0015",
+      "question": "Who plays a blind person in both John Wick 4 and Rogue One, the Star Wars spinoff?",
+      "nf_answer": "Donnie Yen",
+      "af_answer": "Donnie Yen",
+      "confidence": 1.0,
+      "correct_vs_AF": true,
+      "n_nuggets": 5
+    },
+    {
+      "qid": "0016",
+      "question": "Which movie was released earlier, Avengers: Infinity War or 1917 ?",
+      "nf_answer": "Avengers: Infinity War (2018)",
+      "af_answer": "Avengers: Infinity War",
+      "confidence": 0.62,
+      "correct_vs_AF": true,
+      "n_nuggets": 5
+    },
+    {
+      "qid": "0017",
+      "question": "Which movie had a higher initial gross, Avatar or Zootopia?",
+      "nf_answer": "Avatar",
+      "af_answer": "Avatar",
+      "confidence": 0.9,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0018",
+      "question": "How many long films did Christopher Nolan direct between 2000 and 2010?",
+      "nf_answer": "6",
+      "af_answer": "6 (Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, Inception)",
+      "confidence": 0.9,
+      "correct_vs_AF": true,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0019",
+      "question": "How many movies did Kazunari Ninomiya act in between 2000 and 2010?",
+      "nf_answer": "5",
+      "af_answer": "8 movies (Pikanchi Life is Hard Dakedo Happy (2002), The Blue Light (2003), Pikanchi Life Is Hard Dakara Happy (2004), Letters from Iwo Jima (2006), Tekkon Kinkreet (2006), Kiiroi Namida (2007), Heaven's Door (2009), Ōoku (2010))",
+      "confidence": 0.55,
+      "correct_vs_AF": false,
+      "n_nuggets": 6
+    },
+    {
+      "qid": "0020",
+      "question": "How many movies did Leelee Sobieski act in between 2000 and 2010?",
+      "nf_answer": "At least 3 (The Glass House (2001), Max, and 88 Minutes (2008), plus Acts of Violence (2010))",
+      "af_answer": "",
+      "confidence": 0.4,
+      "correct_vs_AF": false,
+      "n_nuggets": 6
+    }
+  ]
+}
