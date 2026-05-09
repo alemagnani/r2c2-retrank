@@ -21,6 +21,7 @@ Navigable results from `retrank`'s submission to the NTCIR-19 R2C2
 ### Headline
 - [**Headline Results**](Headline-Results.md) — the central diagnostic table (Acc, R_O, HMR under both judges)
 - [**The R_O Bottleneck**](The-RO-Bottleneck.md) — why a few confident-wrong topics dominate HMR
+- [**Oracle Upper Bounds**](Oracle-Bounds.md) — our system is already at the abstention-oracle ceiling
 - [**Final Submission**](Final-Submission.md) — the four AC runs we packaged and their rationale
 
 ### Engineering tradeoffs

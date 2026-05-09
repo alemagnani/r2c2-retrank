@@ -1145,7 +1145,19 @@ confident wrong topics drive HMR --- holds under both judges; only
 
 \subsection{Confidence calibration bins}
 
-Table~\ref{tab:calibration} bins per-topic confidence and reports
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.78\linewidth]{figures/fig_reliability.pdf}
+  \caption{Reliability diagram. Marker size $\propto$ topics in bin.
+    Pipelines are bimodal: refusals cluster near conf $0.05$ (perfectly
+    calibrated to $\sim 0$\% accuracy because every refusal is
+    wrong-by-construction) and confident answers cluster near
+    $\geq 0.8$ (near-perfect accuracy in this bin). Intermediate bins
+    are sparse, which is why ECE is small but uninformative.}
+  \label{fig:reliability}
+\end{figure}
+
+\noindent Figure~\ref{fig:reliability} visualises this; Table~\ref{tab:calibration} reports the per-bin numbers. Table~\ref{tab:calibration} bins per-topic confidence and reports
 empirical accuracy in each bin (a reliability decomposition). Our
 pipelines are highly bimodal: confidences cluster at $0.05$
 (refusals) and $\geq 0.80$ (answers); intermediate bins are sparse.
@@ -1453,6 +1465,43 @@ Sonnet 4.6 judge and Opus 4.7 judge across nine candidate runs
 $\kappa = 1.00$ (all 65 topics agree). The worst case (Tier-1
 refined-CE) had $\kappa = 0.68$, still ``substantial.''
 
+\paragraph{Oracle upper bounds.}
+To contextualise headroom, we computed three oracle systems anchored
+to BITEM-Sonnet:
+
+\begin{table}[h]
+\centering
+\caption{Oracle upper bounds anchored to our main submission. ``Refuse @
+0.05'' uses our pipeline's actual refusal-encoding confidence;
+``conf=0.0'' shows the unattainable structural ceiling.}
+\label{tab:oracle_bounds}
+\small
+\begin{tabular}{lcccc}
+\toprule
+System & Acc & $R_O$ & $R_U$ & \HMR \\
+\midrule
+BITEM-Sonnet (submitted)                       & 0.938 & 0.950 & 0.976 & 0.963 \\
+\midrule
+Oracle abstention (refuse our wrong topics)    & 0.938 & 0.950 & 0.976 & \textbf{0.963} \\
+Oracle calibration (refuse @ 0.05 on wrong)    & 0.938 & 0.950 & 1.000 & 0.974 \\
+Oracle calibration (refuse @ 0.0 on wrong)     & 0.938 & 1.000 & 1.000 & 1.000 \\
+Oracle answer (every topic correct @ 0.95)     & 1.000 & 1.000 & 0.950 & 0.974 \\
+Oracle everything (correct @ 1.0)              & 1.000 & 1.000 & 1.000 & 1.000 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent \textbf{Our submitted system is already at the
+oracle-abstention upper bound.} Because Cnf-W is already $0$, perfect
+refusal of our wrong topics cannot add anything; the system already
+refuses (or correctly answers) the topics that would otherwise damage
+$R_O$. The remaining headroom from $0.963$ to $1.000$ lives entirely
+in $R_U$ (perfect confidence on correct answers) and accuracy
+(answering the four refused topics correctly). This corroborates the
+operational observation: the design choices that move the metric
+have already been spent on $R_O$, and what's left is residual
+under-confidence and the four genuinely-unanswerable-from-pool topics.
+
 \paragraph{Leave-one-topic-out ranking stability.}
 A reasonable concern at $n=65$ is whether 1--2 topics drive the
 rankings. We re-evaluated nine headline pairwise comparisons after
@@ -1643,6 +1692,29 @@ retrank+E404\_refined\_sonnet  (O \#5)  & 0.738 $\nearrow$ & 0.938 \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+\paragraph{Cross-judge rank correlation across all 33 candidates.}
+Spearman $\rho = 0.574$, Kendall $\tau$-b $= 0.432$ between Sonnet
+and Opus judge HMR. Top-K membership stability:
+
+\begin{center}
+\small
+\begin{tabular}{cc}
+\toprule
+$K$ & Top-$K$ shared (Sonnet $\cap$ Opus) \\
+\midrule
+1 & \textbf{1/1} \\
+3 & \textbf{3/3} \\
+5 & 4/5 \\
+10 & 5/10 \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\noindent \textbf{Top end is judge-robust; mid-tier is judge-fragile.}
+Our submission decision (top-3 candidates) is preserved exactly. Any
+between-judge ranking claim that depends on rank-$\geq$-5 placement is
+not safe to make from a single judge.
 
 \paragraph{Mid-tier candidates show substantial inter-judge variance.}
 Across 33 candidates: mean $|\Delta \HMR| = 0.060$, max $0.228$, and

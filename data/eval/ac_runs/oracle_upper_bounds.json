@@ -1,0 +1,8 @@
+{
+  "baseline_HMR": 0.9626170611271921,
+  "oracle_abstention_HMR": 0.9626170611271921,
+  "oracle_calibration_perfect_HMR": 1.0,
+  "oracle_calibration_conf005_HMR": 0.9743589743589743,
+  "oracle_answer_HMR": 0.9743589743589743,
+  "oracle_answer_plus_calibration_HMR": 1.0
+}

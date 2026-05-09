@@ -5,7 +5,42 @@
 # Statistical Robustness
 
 A diligent reviewer should ask whether HMR Δ values of 0.01–0.10 are
-distinguishable at n=65. Short answer: **most are not**.
+distinguishable at n=65. Short answer: **most headline differences are not detected at α=0.05; rankings ARE robust to dropping any single topic.**
+
+## Leave-one-topic-out: 9/9 sign-stable
+
+Re-evaluating nine headline pairs after dropping each topic in turn:
+
+| Comparison | Full Δ HMR | Sign-stable |
+|---|---:|---:|
+| BITEM Sonnet refinement vs BITEM broad | +0.026 | **65/65** |
+| BITEM-only vs Tier-1 (both Sonnet refined) | +0.051 | **65/65** |
+| BITEM-Sonnet vs Tier-1 broad | +0.136 | **65/65** |
+| confidence-saturation vs BITEM-Sonnet | +0.012 | **65/65** |
+| BITEM-Sonnet vs S1=Haiku | +0.127 | **65/65** |
+| BITEM-Sonnet vs S4=Haiku | +0.050 | **65/65** |
+| BITEM-Sonnet vs all-Haiku | +0.170 | **65/65** |
+| BITEM-Sonnet vs BITEM-Opus pipeline | +0.176 | **65/65** |
+| BITEM-only vs Error404-only | +0.278 | **65/65** |
+
+**No comparison flips on any leave-out.** Magnitudes vary by ±0.05 typical, ±0.10 max, but sign is preserved every time. The rankings are not driven by 1–2 topics.
+
+## Cross-judge rank correlation (33 candidates)
+
+Across all 33 candidate runs evaluated under both Sonnet 4.6 and Opus 4.7 judges:
+
+- **Spearman ρ = 0.574** (moderate)
+- **Kendall τ-b = 0.432**
+- Mean |Δ HMR| = 0.060; max |Δ| = 0.228
+
+| Top-K | Members shared (Sonnet ∩ Opus) |
+|---:|---|
+| 1 | **1/1** |
+| 3 | **3/3** |
+| 5 | 4/5 |
+| 10 | 5/10 |
+
+**Top end is judge-robust; mid-tier is judge-fragile.** Our submission decision (top-3) is preserved exactly. Ranking claims that depend on rank ≥ 5 are not safe from a single judge.
 
 ## Bootstrap 95% CIs (paired, 2000 iterations)
 

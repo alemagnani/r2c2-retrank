@@ -1,0 +1,174 @@
+{
+  "n": 33,
+  "spearman": 0.5738636363636364,
+  "kendall_tau_b": 0.4318181818181818,
+  "mean_abs_delta": 0.06023441710529505,
+  "max_abs_delta": 0.22789779373866004,
+  "pairs": [
+    {
+      "name": "ensemble_top1",
+      "sonnet": 0.9743589743589743,
+      "opus": 0.9743589743589743
+    },
+    {
+      "name": "ensemble_top3",
+      "sonnet": 0.9691943528616113,
+      "opus": 0.9691943528616113
+    },
+    {
+      "name": "bitem_only_refined_sonnet_A",
+      "sonnet": 0.9626170611271921,
+      "opus": 0.9626170611271921
+    },
+    {
+      "name": "bitem_only_broad_A",
+      "sonnet": 0.9367718425028886,
+      "opus": 0.8601304326665693
+    },
+    {
+      "name": "bitem_only_refined_sonnet_A_recovered",
+      "sonnet": 0.9218464404214448,
+      "opus": 0.9512681461705322
+    },
+    {
+      "name": "ensemble_top12",
+      "sonnet": 0.917468329374505,
+      "opus": 0.917468329374505
+    },
+    {
+      "name": "ensemble_top2",
+      "sonnet": 0.9164805716837875,
+      "opus": 0.9164805716837875
+    },
+    {
+      "name": "bitem_only_s4_haiku_A",
+      "sonnet": 0.9131634046426946,
+      "opus": 0.8340611353711791
+    },
+    {
+      "name": "refined_sonnet_A",
+      "sonnet": 0.9114285714285714,
+      "opus": 0.8184592
+    },
+    {
+      "name": "retrank_plus_error404_broad_A",
+      "sonnet": 0.9098382231971482,
+      "opus": 0.8245398277717977
+    },
+    {
+      "name": "bitem_only_s2_haiku_A",
+      "sonnet": 0.8987312030075189,
+      "opus": 0.9149126735333633
+    },
+    {
+      "name": "tier1plus2_refined_sonnet_A",
+      "sonnet": 0.8737786776305166,
+      "opus": 0.9370235333112362
+    },
+    {
+      "name": "ensemble_top4",
+      "sonnet": 0.8725939505041247,
+      "opus": 0.8725939505041247
+    },
+    {
+      "name": "per_topic_best",
+      "sonnet": 0.870189784585342,
+      "opus": 0.642291990846682
+    },
+    {
+      "name": "ensemble_top7",
+      "sonnet": 0.8691689427943845,
+      "opus": 0.9366173768483682
+    },
+    {
+      "name": "retrank_only_broad_A",
+      "sonnet": 0.8583126477379301,
+      "opus": 0.8596253024844788
+    },
+    {
+      "name": "ensemble",
+      "sonnet": 0.8571669411878695,
+      "opus": 0.7197868962469515
+    },
+    {
+      "name": "ensemble_top5",
+      "sonnet": 0.8568069306930693,
+      "opus": 0.8568069306930693
+    },
+    {
+      "name": "refined_sonnet_B",
+      "sonnet": 0.8514610650693362,
+      "opus": 0.7785825951016155
+    },
+    {
+      "name": "ensemble_top9",
+      "sonnet": 0.8481065830721003,
+      "opus": 0.9218974860087057
+    },
+    {
+      "name": "tier1plus2_broad_A",
+      "sonnet": 0.8404018400584308,
+      "opus": 0.9020445869390971
+    },
+    {
+      "name": "retrank_only_refined_sonnet_A",
+      "sonnet": 0.837678794278583,
+      "opus": 0.846337471469131
+    },
+    {
+      "name": "bitem_only_s1_haiku_A",
+      "sonnet": 0.8360805860805861,
+      "opus": 0.7626535891355894
+    },
+    {
+      "name": "refined_lexical_A",
+      "sonnet": 0.833207999201411,
+      "opus": 0.8211995221027479
+    },
+    {
+      "name": "broad_A",
+      "sonnet": 0.8262867902090972,
+      "opus": 0.9251770538243625
+    },
+    {
+      "name": "refined_ce_A",
+      "sonnet": 0.8024080427194893,
+      "opus": 0.7240563163464931
+    },
+    {
+      "name": "bitem_only_all_haiku_A",
+      "sonnet": 0.7923598570610219,
+      "opus": 0.7902521840625331
+    },
+    {
+      "name": "bitem_only_opus_A",
+      "sonnet": 0.7867146736642969,
+      "opus": 0.7921456373378946
+    },
+    {
+      "name": "per_topic_best_maxconf",
+      "sonnet": 0.7755102040816326,
+      "opus": 0.5507246376811594
+    },
+    {
+      "name": "refined_lexical_B",
+      "sonnet": 0.7435826743089313,
+      "opus": 0.7821870146008076
+    },
+    {
+      "name": "retrank_plus_error404_refined_sonnet_A",
+      "sonnet": 0.7377239872247436,
+      "opus": 0.9383391003460209
+    },
+    {
+      "name": "broad_B",
+      "sonnet": 0.7110891089108912,
+      "opus": 0.8127764734956135
+    },
+    {
+      "name": "refined_ce_B",
+      "sonnet": 0.613344138684331,
+      "opus": 0.6713022156836521
+    }
+  ]
+}
