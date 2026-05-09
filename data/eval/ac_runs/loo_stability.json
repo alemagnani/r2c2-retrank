@@ -1,0 +1,74 @@
+[
+  {
+    "label": "BITEM Sonnet refinement vs BITEM broad",
+    "full_delta": 0.025845218624303556,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.005868574237279822,
+    "max_delta": 0.031172150037924062
+  },
+  {
+    "label": "BITEM-only vs Tier-1 (both Sonnet refined)",
+    "full_delta": 0.051188489698620776,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.0349918591885815,
+    "max_delta": 0.062285019068531455
+  },
+  {
+    "label": "BITEM-Sonnet vs Tier-1 broad",
+    "full_delta": 0.1363302709180949,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.03747102954844683,
+    "max_delta": 0.1727543421434815
+  },
+  {
+    "label": "ensemble_top1 vs BITEM-Sonnet (calibration artifact)",
+    "full_delta": 0.011741913231782197,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.010724182728332865,
+    "max_delta": 0.011940136163147264
+  },
+  {
+    "label": "BITEM-Sonnet vs S1=Haiku",
+    "full_delta": 0.12653647504660603,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.0686378179678444,
+    "max_delta": 0.14770933377206474
+  },
+  {
+    "label": "BITEM-Sonnet vs S4=Haiku",
+    "full_delta": 0.04945365648449751,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.033194759291097164,
+    "max_delta": 0.06059221069000864
+  },
+  {
+    "label": "BITEM-Sonnet vs all-Haiku",
+    "full_delta": 0.1702572040661703,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.11129713484712833,
+    "max_delta": 0.19246141600444433
+  },
+  {
+    "label": "BITEM-Sonnet vs BITEM-Opus pipeline",
+    "full_delta": 0.17590238746289522,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.10966854984288299,
+    "max_delta": 0.20718196004310196
+  },
+  {
+    "label": "BITEM-only vs Error404-only",
+    "full_delta": 0.2784221281686323,
+    "preserve_sign": 65,
+    "n": 65,
+    "min_delta": 0.21180791879312,
+    "max_delta": 0.3151951453107311
+  }
+]

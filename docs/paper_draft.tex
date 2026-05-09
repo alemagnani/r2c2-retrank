@@ -22,9 +22,9 @@
     citecolor=blue!50!black
 }
 
-\title{When Not Answering Helps: \\
-  \Large Calibration Risk and Conservative Answer-First Pipelines
-  in the NTCIR-19 R2C2 Answering-with-Confidence Task}
+\title{Optimising Under HMR: A Case Study \\
+  \Large Conservative Answer-First Pipelines on NTCIR-19 R2C2's
+  65-Topic Answering-with-Confidence Benchmark}
 \author{retrank team}
 \date{\today}
 
@@ -40,14 +40,16 @@ We present \textbf{retrank}'s submission to the NTCIR-19 R2C2 (\emph{RAG
 Responses: Confident and Correct?}) Answering-with-Confidence (AC) subtask.
 The task scores systems with the Harmonic Mean of Rewards (HMR), which
 jointly penalises overconfidence on incorrect answers and underconfidence
-on correct ones. Our central thesis is operational: \textbf{at high
-accuracy, AC quality is dominated by a small number of confident wrong
-answers, not by missing answers; conservative answer-first pipelines
-should therefore optimise $R_O$ via grounding and abstention, not maximise
-answer coverage.} Across all our experiments, \emph{every} winning design
-choice — pool curation, answer-conditional refinement, verifier-based
-abstention, confidence saturation — primarily moves $R_O$, while $R_U$
-varies in a much narrower band. We design a 7-stage answer-first
+on correct ones. \textbf{This paper is a case study in optimising under
+HMR on the 65-topic R2C2 benchmark.} Our principal observation is
+operational and benchmark-qualified: on this benchmark, at the
+$\geq 90$\% accuracy operating point, AC quality is dominated by a small
+number of confident wrong answers rather than by missed answers, and the
+design choices that move HMR most --- pool curation, answer-conditional
+refinement, verifier-based abstention, confidence saturation --- all act
+on $R_O$, while $R_U$ varies in a much narrower band. We do not claim
+this as a general principle of confidence-scored RAG; we claim it as a
+documented behaviour of HMR on this 65-topic set. We design a 7-stage answer-first
 pipeline that proposes a candidate answer, refines the pool conditional
 on it, extracts targeted nuggets, filters bogus citations, and uses an
 independent verifier as a calibration signal. Self-evaluated under a
@@ -65,12 +67,15 @@ single-team pool loses to it); Sonnet-class reasoning is most critical
 at the candidate-answer stage ($\Delta\HMR=-0.13$ vs Haiku) and least
 at the verifier ($-0.05$). HMR should be read alongside accuracy and
 refusal rate --- an always-refuse baseline at confidence $0.05$ achieves
-HMR 0.974 --- but our submitted system reaches the same HMR while
-correctly answering 94\% of topics. \textbf{The central lesson, beyond
-this competition, is that in confidence-scored RAG, optimising answer
-coverage alone can hurt because a few confident wrong answers dominate
-the metric; conservative grounding and abstention are first-class
-design components, not afterthoughts.}
+HMR $0.974$ on this benchmark --- but our submitted system reaches the
+same HMR while correctly answering $94$\% of topics. We treat this as
+a structural property of HMR when $|I^+|=0$, not as an indictment of the
+metric; the official ranking is informed jointly by HMR, Accuracy, and
+Mean Nugget Precision, which together pin down both modesty and substance.
+\textbf{All quantitative claims in this paper are self-evaluated under a
+Sonnet judge with Opus cross-validation; absent official organiser scores
+(expected August 2026), every finding should be read as a
+benchmark-and-judge-conditional observation.}
 \end{abstract}
 
 \section{Introduction}
@@ -190,17 +195,21 @@ we re-judge every candidate with Opus 4.7 for cross-validation
 \S\ref{sec:setup} lays out exactly which model runs where in every
 configuration we report.
 
-\subsection{Central thesis}\label{sec:thesis}
+\subsection{Principal observation (benchmark-qualified)}\label{sec:thesis}
 
 \begin{quote}
-\textbf{In confidence-scored RAG at high accuracy, the dominant
-failure mode is not missing answers but emitting a small number of
-confident wrong ones. AC pipelines should therefore optimise $R_O$
-via grounding and abstention, not maximise answer coverage.}
+\textbf{On the NTCIR-19 R2C2 65-topic AC benchmark, evaluated under
+HMR, the dominant failure mode at the $\geq 90$\% accuracy operating
+point is emitting a small number of confident wrong answers, not
+missing answers. The design choices that move HMR most operate on
+$R_O$.}
 \end{quote}
 
-\noindent Three pieces of evidence in this paper support this thesis,
-and together motivate every design decision in our pipeline:
+\noindent We frame this carefully: we observe this on \emph{this}
+benchmark under \emph{this} metric using a Sonnet self-evaluator
+(with Opus cross-validation). We do not claim a general principle of
+confidence-scored RAG. Three pieces of supporting evidence motivate
+every design decision in our pipeline:
 
 \begin{enumerate}[leftmargin=*]
   \item \emph{The metric structure rewards $R_O$.} Across all 16 base
@@ -909,8 +918,9 @@ $K$ (top-K voters) & \HMR \\
 Top-1 ($K=1$, BITEM-only-refined-Sonnet alone, with the ensemble
 script's confidence rule) reaches \HMR{} 0.974 — a $+0.011$ uplift
 over the same pipeline's standard Variant A output (0.963).
-\textbf{We are explicit that ``top-1 ensemble'' is a misnomer for
-what is happening here.} A single voter trivially agrees with
+\textbf{We hereafter rename what was earlier called ``top-1 ensemble''
+to ``confidence-saturation recalibration'' --- the term that accurately
+describes the mechanism.} A single voter trivially agrees with
 itself, so the ensemble script saturates confidence at 1.00 on every
 non-refused topic. This is \emph{post-hoc re-calibration} of the best
 single pipeline, not an ensemble effect: the underlying answers and
@@ -1359,7 +1369,7 @@ Across all 16 base configurations, $R_U$ has range $[0.79, 0.98]$
 while $R_O$ has range $[0.45, 0.95]$. \HMR{} is much more sensitive
 to $R_O$ improvements at our operating point. Every winning design
 choice we identify (refusal-aware calibration, Sonnet refinement,
-top-1 ensemble re-calibration) primarily moves $R_O$. The practical
+confidence-saturation recalibration) primarily moves $R_O$. The practical
 implication for RAG-with-confidence: \emph{focus engineering on
 suppressing high confidence on wrong answers}, not on making correct
 answers more confident.
@@ -1442,6 +1452,89 @@ Sonnet 4.6 judge and Opus 4.7 judge across nine candidate runs
 ``almost perfect'' band (Landis-Koch). On the top-3 candidates,
 $\kappa = 1.00$ (all 65 topics agree). The worst case (Tier-1
 refined-CE) had $\kappa = 0.68$, still ``substantial.''
+
+\paragraph{Leave-one-topic-out ranking stability.}
+A reasonable concern at $n=65$ is whether 1--2 topics drive the
+rankings. We re-evaluated nine headline pairwise comparisons after
+dropping each of the 65 topics in turn:
+
+\begin{table}[h]
+\centering
+\caption{Leave-one-topic-out: number of leave-outs (out of 65) on
+which the sign of $\Delta\HMR$ is preserved. ``Sign-stable'' = winner
+remains the winner under every leave-out.}
+\label{tab:loo_stability}
+\small
+\begin{tabular}{lcc}
+\toprule
+Comparison & Full $\Delta\HMR$ & Sign-stable \\
+\midrule
+BITEM Sonnet refinement vs BITEM broad      & $+0.026$ & 65/65 \\
+BITEM-only vs Tier-1 (both Sonnet refined)  & $+0.051$ & 65/65 \\
+BITEM-Sonnet vs Tier-1 broad                & $+0.136$ & 65/65 \\
+``ensemble\_top1'' (saturation) vs BITEM-Sonnet & $+0.012$ & 65/65 \\
+BITEM-Sonnet vs S1=Haiku                    & $+0.127$ & 65/65 \\
+BITEM-Sonnet vs S4=Haiku                    & $+0.050$ & 65/65 \\
+BITEM-Sonnet vs all-Haiku                   & $+0.170$ & 65/65 \\
+BITEM-Sonnet vs BITEM-Opus pipeline         & $+0.176$ & 65/65 \\
+BITEM-only vs Error404-only                 & $+0.278$ & 65/65 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent \textbf{All nine comparisons preserve the sign of $\Delta\HMR$
+on every leave-out.} The \emph{magnitude} of $\Delta$ varies
+($\pm 0.05$ typical, $\pm 0.10$ at most), but no comparison flips. The
+rankings are not driven by 1--2 topics.
+
+\paragraph{Refusal-confidence sensitivity.}
+We swept the refusal-encoding confidence over $\{0, 0.01, 0.05, 0.1,
+0.2, 0.5, 0.8, 1\}$ for both the trivial always-refuse system and our
+submitted BITEM-Sonnet pipeline (re-encoding only its refusal cells):
+
+\begin{table}[h]
+\centering
+\caption{HMR as a function of refusal confidence, for the trivial
+always-refuse baseline and our submitted system.}
+\label{tab:refusal_conf_sweep}
+\small
+\begin{tabular}{ccc|c}
+\toprule
+Refuse conf & Always-refuse HMR & BITEM-Sonnet HMR & Gap (BITEM $-$ trivial) \\
+\midrule
+0.00 & 1.000 & 0.988 & $-0.012$ \\
+0.01 & 0.995 & 0.983 & $-0.012$ \\
+0.05 & 0.974 & 0.963 & $-0.011$ \\
+0.10 & 0.947 & 0.936 & $-0.011$ \\
+0.20 & 0.889 & 0.879 & $-0.010$ \\
+0.50 & 0.667 & 0.661 & $-0.006$ \\
+0.80 & 0.333 & 0.332 & $\approx 0$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent The trivial-vs-our-system gap is $\leq 0.012$ across the
+entire sweep. This is a \emph{structural} feature of HMR's
+harmonic-mean-of-rewards form when $|I^+|=0$ (the trivial system has
+$R_U = 1$ vacuously and $R_O = 1 - c$), not a bug specific to our
+encoding choice. The official ranking, which uses HMR \emph{jointly}
+with Accuracy and MNP, will distinguish the two unambiguously
+(0.94 vs 0 accuracy).
+
+\paragraph{Multiple-comparison and overfitting risk.}
+Across the paper we evaluate 33 candidate configurations against the
+same 65-topic set. We do not apply Bonferroni or FDR correction; the
+robust findings (Stage 1 LLM tier, Stage 4 LLM tier, Opus regression,
+top-1 saturation) survive a Bonferroni-style $\alpha/9$ threshold,
+but the suggestive findings (RQ2, RQ6, top-3 ensembling) do not.
+The headline operating-point claim
+(\S\ref{sec:robust_vs_suggestive}) rests on robust findings; the
+engineering tradeoffs rest on suggestive ones. We do not have a held-out
+dev/test split because the AC subtask provides only the 65 evaluation
+topics; this is a real limitation that future R2C2 iterations should
+address by reserving a tuning split. We flag this overtly here so
+that no reader mistakes our 33-cell sweep for a held-out generalisation
+result.
 
 \paragraph{Trivial baselines.} To anchor the absolute \HMR{} numbers
 we evaluated three trivial baselines on synthetic per-topic outcomes:
