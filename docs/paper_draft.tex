@@ -52,19 +52,25 @@ pipeline that proposes a candidate answer, refines the pool conditional
 on it, extracts targeted nuggets, filters bogus citations, and uses an
 independent verifier as a calibration signal. Self-evaluated under a
 Claude Sonnet 4.6 judge (with Claude Opus 4.7 cross-validation on every
-candidate), our submitted BITEM-only refined-Sonnet pipeline reaches
-HMR 0.963 with 94\% accuracy, 6\% refusal rate, and zero confident-wrong
-answers; a post-hoc confidence-saturation recalibration of the same
-pipeline reaches HMR 0.974. We additionally report engineering tradeoffs
+candidate), \textbf{our main submitted system --- a single-pool BITEM-only
+answer-first pipeline with Sonnet pointwise refinement --- reaches HMR
+0.963 with 94\% accuracy, 6\% refusal rate, and zero confident-wrong
+answers under both judges.} A post-hoc confidence-saturation
+recalibration of the same pipeline reaches HMR 0.974, but we treat that
+as a calibration artifact (a single voter trivially agrees with itself,
+saturating confidence at 1.0), not as a separate method. We additionally report engineering tradeoffs
 relevant to AC-style RAG: pool quality matters more than pool count
 (a strong single-team pool beats naive multi-team pooling, but a weak
 single-team pool loses to it); Sonnet-class reasoning is most critical
 at the candidate-answer stage ($\Delta\HMR=-0.13$ vs Haiku) and least
 at the verifier ($-0.05$). HMR should be read alongside accuracy and
-refusal rate — an always-refuse baseline at confidence $0.05$ achieves
-HMR 0.974 — but our submitted system reaches the same HMR while
-correctly answering 94\% of topics. The paper's contribution is the
-operational lesson, not the absolute number.
+refusal rate --- an always-refuse baseline at confidence $0.05$ achieves
+HMR 0.974 --- but our submitted system reaches the same HMR while
+correctly answering 94\% of topics. \textbf{The central lesson, beyond
+this competition, is that in confidence-scored RAG, optimising answer
+coverage alone can hurt because a few confident wrong answers dominate
+the metric; conservative grounding and abstention are first-class
+design components, not afterthoughts.}
 \end{abstract}
 
 \section{Introduction}
@@ -251,6 +257,57 @@ thesis of \S\ref{sec:thesis}:
 ablation: our pipeline committed to answer-first early, and a clean
 comparison would require a parallel nugget-first pipeline we did not
 build. We discuss this only as design rationale (\S\ref{sec:rq3}).
+
+\subsection{Robust vs suggestive findings (read this before the rest)}\label{sec:robust_vs_suggestive}
+
+A reviewer should know up-front which of our findings survive
+$n=65$ bootstrap noise and which do not. We are explicit:
+
+\begin{description}[leftmargin=1.5em,style=nextline]
+  \item[\textbf{Robust} (95\% bootstrap CI excludes zero on $\Delta\HMR$, and
+        Cnf-W story is judge-invariant):]
+    \begin{itemize}[leftmargin=1em]
+      \item Stage~1 LLM tier matters most ($\Delta\HMR=-0.127$,
+        CI $[-0.296,-0.034]$).
+      \item Stage~4 LLM tier matters least ($\Delta\HMR=-0.050$,
+        CI $[-0.118,-0.004]$).
+      \item All-Haiku regression ($\Delta=-0.170$,
+        CI $[-0.334,-0.080]$).
+      \item Opus-pipeline regression ($\Delta=-0.176$,
+        CI $[-0.372,-0.075]$).
+      \item Top-1 ``ensemble'' uplift ($\Delta=+0.012$,
+        CI $[+0.008,+0.016]$). \emph{This is post-hoc confidence
+        saturation, not a method.}
+      \item The $R_O$-bottleneck mechanism: Cnf-W moves by $\leq 1$
+        across judges on 7 of 8 top candidates, and Cnf-W rank-
+        correlates near $-1$ with HMR within each judge.
+    \end{itemize}
+
+  \item[\textbf{Suggestive} (CIs cross zero or judge-specific):]
+    \begin{itemize}[leftmargin=1em]
+      \item Pool quality vs Tier-1 ($\Delta=-0.111$,
+        CI $[-0.458,+0.044]$).
+      \item Sonnet refinement vs broad ($\Delta=+0.085$,
+        CI $[-0.045,+0.439]$).
+      \item Top-3 ensembling ($\Delta=+0.007$,
+        CI $[-0.002,+0.014]$).
+      \item retrank+E404 ``refinement-failure'' case study --- flips
+        from worst-of-set to top-5 under Opus judge.
+    \end{itemize}
+
+  \item[\textbf{Preliminary} (small sample, methodologically lighter):]
+    \begin{itemize}[leftmargin=1em]
+      \item Nugget-first vs answer-first head-to-head on 20 topics
+        (\S\ref{sec:rq3}): same accuracy, $-0.29$ HMR for nugget-first,
+        all from $R_O$. Directional only.
+    \end{itemize}
+\end{description}
+
+\noindent The headline thesis (suppressing confident-wrong topics
+matters more than maximising coverage) rests on the \textbf{robust}
+findings; the engineering-tradeoff conclusions
+(\S\ref{sec:rq2},\ref{sec:rq6},\ref{sec:rq8}) rest on the
+\textbf{suggestive} ones --- we do not over-state.
 
 \subsection{Contributions, with safer language}
 
@@ -1006,7 +1063,10 @@ alongside HMR.
 
 \paragraph{Reading the table.} The top three candidates have
 \emph{identical} answered-accuracy (1.000), confident-wrong count
-(0), and bogus rate (0\%); they differ only in confidence
+(0), and bogus rate (0\%, \emph{under the same Sonnet Stage-A judge
+used for self-evaluation, so this should be read as an
+internal-consistency diagnostic rather than an independent estimate});
+they differ only in confidence
 saturation, which is exactly why \S\ref{sec:rq9}'s top-1 effect is
 re-calibration. Catastrophic candidates (BITEM-Opus, Error404-only)
 are killed by 1–2 confident-wrong topics — at $|I^-| \approx 4$ each
@@ -1017,9 +1077,45 @@ buys it \HMR{} 0.838 despite answered-accuracy of only 0.861 on the
 
 \paragraph{Practical implication.} For our top systems, gains are not
 from ``better answers on hard topics'' (answered-accuracy is already
-1.000) but from \emph{better silence on the unanswerable few} and
-\emph{tighter confidence on the answered many}. This is consistent
-with the $R_O$-bottleneck story (\S\ref{sec:ro_bottleneck}).
+1.000 \emph{under our Sonnet self-evaluator}) but from \emph{better
+silence on the unanswerable few} and \emph{tighter confidence on the
+answered many}. This is consistent with the $R_O$-bottleneck story
+(\S\ref{sec:ro_bottleneck}).
+
+\paragraph{Judge-invariance of the $R_O$-bottleneck mechanism.}
+A natural concern is whether the bottleneck story (Cnf-W drives HMR)
+is itself a Sonnet-judge artifact. We re-decomposed the top eight
+candidates under the Opus judge:
+
+\begin{table}[h]
+\centering
+\caption{Judge-specific decomposition: Sonnet judge vs Opus judge on
+the same eight candidate runs. ``$\Delta$Cnf-W'' = Opus Cnf-W $-$
+Sonnet Cnf-W.}
+\label{tab:judge_specific_decomp}
+\small
+\begin{tabular}{lccccc}
+\toprule
+Candidate & Cnf-W (S) & Cnf-W (O) & $\Delta$Cnf-W & HMR (S) & HMR (O) \\
+\midrule
+ensemble\_top1            & 0 & 0 & $0$  & 0.974 & 0.974 \\
+ensemble\_top3            & 0 & 0 & $0$  & 0.969 & 0.969 \\
+BITEM-Sonnet (main)       & 0 & 0 & $0$  & 0.963 & 0.963 \\
+BITEM-broad               & 0 & 1 & $+1$ & 0.937 & 0.860 \\
+BITEM-Opus pipeline       & 1 & 1 & $0$  & 0.787 & 0.792 \\
+Tier-1 Sonnet             & 0 & 1 & $+1$ & 0.911 & 0.818 \\
+Tier-1 broad              & 1 & 0 & $-1$ & 0.826 & 0.925 \\
+retrank+E404+Sonnet       & 3 & 0 & $-3$ & 0.738 & 0.938 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent \textbf{Cnf-W moves by at most 1 on 7 of 8 candidates}, and
+the rank-correlation between Cnf-W and HMR within each judge is near
+$-1$. Where Cnf-W shifts substantially (retrank+E404, $\Delta=-3$),
+HMR shifts in lock-step ($\Delta=+0.20$). The mechanism --- a few
+confident wrong topics drive HMR --- holds under both judges; only
+\emph{which specific topics count as wrong} is judge-dependent.
 
 \begin{figure}[h]
   \centering
