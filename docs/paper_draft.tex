@@ -1253,18 +1253,28 @@ analyses; everything else in the bundle is a diversity hedge.
   \item[\textbf{retrank-AC-2}] \texttt{bitem\_only\_refined\_sonnet}
     — main system; clean single-pool baseline. Self-eval HMR
     $0.963$ / $0.963$.
-  \item[\textbf{retrank-AC-3}] \texttt{bitem\_only\_opus} — Opus
-    Stage~1 pipeline. Self-eval HMR $0.787$ (Sonnet) / $0.792$
-    (Opus). Submitted as a \emph{diversity hedge}, not because it
-    was favoured by self-eval — the Opus pipeline emits terser
-    answers (\S\ref{sec:negative}) and our judges penalise the
-    resulting weaker grounding. We submit it because it is
-    methodologically different from the other three.
-  \item[\textbf{retrank-AC-4}] \texttt{refined\_sonnet} (Tier-1
-    pool) — different pool composition entirely
-    (BITEM + Error404 + WaterlooClarke). Insurance against the
-    possibility that the official judge rewards grounding diversity
-    that a BITEM-only pool cannot reach.
+  \item[\textbf{retrank-AC-3}] \texttt{bitem\_only\_refined\_sonnet\_recovered}
+    — same pipeline as AC-2 with the JSON-parse refusal-recovery
+    prompt fix from \S\ref{sec:negative}. Self-eval HMR $0.922$
+    (Sonnet) / $\mathbf{0.951}$ (Opus); accuracy $\mathbf{0.954}$
+    --- the highest accuracy of any candidate we evaluated, with two
+    refusals instead of four. Originally classed as a Sonnet-judge
+    \emph{negative result} (because Sonnet-HMR dropped from $0.963$
+    to $0.922$), it is in fact rank-4 under the Opus judge. We
+    submit it as an accuracy-favouring hedge: if the official
+    ranking weights Accuracy or Mean Nugget Precision more heavily
+    than HMR, this candidate is genuinely competitive with our
+    main system.
+  \item[\textbf{retrank-AC-4}] \texttt{tier1plus2\_refined\_sonnet}
+    — different pool entirely: a six-team pool (BITEM, Error404,
+    WaterlooClarke, ORG, hit-u, WasedaR2C2). Self-eval HMR $0.874$
+    (Sonnet) / $\mathbf{0.937}$ (Opus). The largest judge-positive
+    swing among submission candidates; if the official judge is
+    closer in temperament to Opus 4.7 than to Sonnet 4.6
+    (\S\ref{sec:judge_xval}), this candidate jumps from
+    middle-of-pack to rank 4. Genuinely different methodology:
+    different pool composition (6 teams vs the BITEM-only of AC-1,
+    AC-2, AC-3).
 \end{description}
 
 \noindent The empty-answer refusal cells were re-coded as

@@ -8,12 +8,12 @@
 
 ## The four runs
 
-| File | Configuration | HMR (S) | HMR (O) | Role |
-|---|---|---:|---:|---|
-| **retrank-AC-1.txt** | `ensemble_top1` | 0.974 | 0.974 | Headline: post-hoc confidence saturation of the main pipeline |
-| **retrank-AC-2.txt** | `bitem_only_refined_sonnet` | 0.963 | 0.963 | **Main system** — clean single-pool baseline |
-| **retrank-AC-3.txt** | `bitem_only_opus` | 0.787 | 0.792 | Diversity hedge (Opus pipeline at Stage 1) |
-| **retrank-AC-4.txt** | `refined_sonnet` (Tier-1) | 0.911 | 0.818 | Different pool entirely — insurance against grounding-diversity rewards |
+| File | Configuration | HMR (S) | HMR (O) | Acc | Role |
+|---|---|---:|---:|---:|---|
+| **retrank-AC-1.txt** | `ensemble_top1` | 0.974 | 0.974 | 0.938 | Headline: confidence-saturation recalibration of the main pipeline |
+| **retrank-AC-2.txt** | `bitem_only_refined_sonnet` | 0.963 | 0.963 | 0.938 | **Main system** — clean single-pool baseline |
+| **retrank-AC-3.txt** | `bitem_only_refined_sonnet_recovered` | 0.922 | **0.951** | **0.954** | Accuracy-favouring hedge — highest accuracy of any candidate |
+| **retrank-AC-4.txt** | `tier1plus2_refined_sonnet` (6-team pool) | 0.874 | **0.937** | 0.877 | Judge-divergent hedge — rank 4 under Opus; different pool |
 
 ## Why these four?
 
@@ -24,15 +24,20 @@ clear in the paper that the +0.011 over AC-2 is post-hoc re-calibration.
 reproducible, simplest pipeline with the strongest evidence behind
 it. **This is the one we'd cite if we had to pick one.**
 
-**AC-3** is methodologically different from the other three (Opus
-Stage 1 emits terser answers). We submit it as a diversity hedge
-even though our judges penalise it; if the official judge is more
-lenient on terse grounding, this could surprise.
+**AC-3** is the same pipeline as AC-2 but with the JSON-parse refusal-recovery
+prompt fix from the negative-results section of the paper. It was originally
+classed as a Sonnet-judge negative result (HMR dropped 0.963 → 0.922), but
+under the Opus judge it is **rank 4 (0.951)** and it has the **highest accuracy
+of any candidate (0.954)** with two refusals instead of four. If the official
+ranking weights Accuracy or MNP heavily, this candidate is genuinely
+competitive with our main system, not just a hedge.
 
-**AC-4** uses a different *pool* (Tier-1 = BITEM + Error404 +
-WaterlooClarke). All other AC runs source passages from BITEM-only.
-If the official judge rewards grounding diversity that BITEM-only
-cannot reach, this is our hedge against that.
+**AC-4** uses a different *pool* entirely: a six-team pool (BITEM, Error404,
+WaterlooClarke, ORG, hit-u, WasedaR2C2). It has the largest judge-positive
+swing of any submission candidate: Sonnet 0.874 → Opus 0.937. If the
+official judge is closer in temperament to Opus 4.7 than to Sonnet 4.6,
+this candidate jumps from middle-of-pack to rank 4. Different methodology
+(6 teams pooled) from the BITEM-only basis of AC-1, AC-2, AC-3.
 
 We chose this set rather than an "all top-3 by self-eval" bundle
 because the top-3 share too much state (essentially the same
