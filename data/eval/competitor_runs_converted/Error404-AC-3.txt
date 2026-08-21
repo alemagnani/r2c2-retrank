@@ -1,0 +1,613 @@
+<D0001>Bor Gullet;75
+1;BITEM-PG-1;1;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.
+2;Error404-PG-4;4;To discover if Rook is being truthful or not, Gerrera subjects him to the torturous creature Bor Gullet, an experience which leads to a temporary loss of Bodhi's sanity.
+3;Error404-PG-4;3;Saw Gerrera had Bodhi Rook tortured by a Mairan, in order to see if he was telling the truth about the Death Star.
+</D0001>
+<D0002>Black Widow;100
+1;Error404-PG-4;1;She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).
+2;Error404-PG-4;2;She was later recruited by Clint Barton to join the United States government agency S.H.I.E.L.D., adopting the alias, Black Widow.
+3;Error404-PG-4;3;'Black Widow''' is a 2021 American superhero film based on Marvel Comics featuring the character of the same name.
+4;Error404-PG-4;3;The film was directed by Cate Shortland from a screenplay by Eric Pearson and stars Scarlett Johansson as Natasha Romanoff / Black Widow alongside Florence Pugh, David Harbour, O-T Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone, and Rachel Weisz.
+5;Error404-PG-4;2;Natalia Alianovna Romanova, more commonly known as Natasha Romanoff, is a fictional character primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe (MCU) media franchise based on the Marvel Comics character of the same name.
+6;Error404-PG-4;3;Mostly set during the events of Captain America: Civil War (2016), the film sees Romanoff on the run and forced to confront her past as a Russian spy before she became an Avenger.
+7;Error404-PG-4;1;Johansson appeared as Black Widow in the MCU superhero film Captain America: The Winter Soldier, its sequel Captain America: Civil War, Avengers: Age of Ultron, Avengers: Infinity War, and Avengers: Endgame—the lattermost is the second-highest-grossing film of all time.
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm.;100
+1;BITEM-PG-1;1;Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm."
+2;Error404-PG-4;4;Although the subroutines are not explicitly spelled out in the source material, LPP is the rough equivalent of Isaac Asimov's Three Laws of Robotics, the first of which prevents robots from harming or allowing, by inaction, harm to come to a human being.
+3;Error404-PG-4;1;Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm."
+</D0003>
+<D0004>Roger Moore;100
+1;Error404-PG-4;4;Following Connery's portrayal, David Niven, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan and Daniel Craig have assumed the role.
+2;BITEM-PG-1;2;Moonraker is a 1979 spy-fi film, the eleventh in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond.
+3;Error404-PG-4;11;It is the first film in the James Bond series and stars Sean Connery as the fictional MI6 agent James Bond.
+4;Error404-PG-4;2;Moonraker (film. '''Moonraker''' is a 1979 spy-fi film, the eleventh in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond.
+5;Error404-PG-4;3;Four of the previous actors to have portrayed James Bond – Sean Connery, Roger Moore, Timothy Dalton, and Pierce Brosnan – all praised Craig's performance.
+6;BITEM-PG-1;12;Sean Connery, who had played James Bond in six of the first seven films in the series, stated in an interview that: "I went in London to see Moonraker with Roger and I think it's departed so much from any sort of credence from the reality that we had [in my six films]."
+7;Error404-PG-4;1;Daniel Wroughton Craig is an English actor best known for portraying James Bond in the films Casino Royale (2006), Quantum of Solace (2008), Skyfall (2012), Spectre (2015), and No Time to Die (2021).
+8;BITEM-PG-1;2;The third and final film in the series to be directed by Lewis Gilbert, it co-stars Lois Chiles, Michael Lonsdale, Corinne Cléry and Richard Kiel.
+9;Error404-PG-4;4;Seven actors in total have portrayed Bond in film.
+10;Error404-PG-4;6;After considering "refined" English actors such as Cary Grant and David Niven, the producers cast Sean Connery as Bond in the film.
+</D0004>
+<D0005>1;100
+1;BITEM-PG-1;4;George Lazenby as James Bond in: Year: On Her Majesty's Secret Service , Film: 0.1
+2;Error404-PG-4;1;Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.
+3;Error404-PG-4;4;List of recurring characters in the James Bond film series.
+4;Error404-PG-4;1;Lazenby began his professional career as a model and had only acted in commercials when he was cast to replace the original James Bond actor, Sean Connery, playing the character in On Her Majesty's Secret Service (1969).
+5;Error404-PG-4;3;Seven actors in total have portrayed Bond in film.
+6;Error404-PG-4;3;Connery and Moore have played the character the most times, appearing in seven films each (including Connery's non-Eon film portrayal in 1983's Never Say Never Again).
+7;Error404-PG-4;5;O'Rahilly became manager of the Australian model-turned-actor George Lazenby, who played James Bond in one film.
+8;Error404-PG-4;11;Lazenby has appeared as James Bond in various parodies and unofficial 007 roles, including the 1983 television film The Return of the Man from U.N.C.L.E., where his character is identified only by the initials J. B., and the 1996 video game Fox Hunt.
+9;BITEM-PG-1;1;He began his working life as a model, and he had only acted in commercials when he took over the role of James Bond from Sean Connery—the first 007—in On Her Majesty's Secret Service (1969).He declined to return for subsequent Bond films, so becoming the only actor to play the character just once.
+10;Error404-PG-4;1;George Robert Lazenby (, born 5 September 1939) is an Australian retired actor.
+</D0005>
+<D0006>Soul Stone;86
+1;Error404-PG-4;1;After Thanos initiates the Blip, Romanoff leads the Avengers for five years until she sacrifices herself to obtain the Soul Stone, successfully helping the team restore everyone.
+2;Error404-PG-4;10;Characters of the Marvel Cinematic Universe: A–L. Frigga.
+3;Error404-PG-4;4;Rocket extracts the Reality Stone from Jane Foster.
+4;Error404-PG-4;6;Due to the character's history with the Infinity Stones, they decided that he could be the voice of expertise when Thanos and Gamora arrive on Vormir to retrieve the Soul Stone.
+5;Error404-PG-4;4;The Soul Stone's keeper, Red Skull, says that it can be acquired only by sacrificing a loved one.
+6;Error404-PG-4;10;In 2023, Thor time travels to 2013, where Frigga comforts his depression during his mission to retrieve the Reality Stone.
+7;Error404-PG-4;12;In the film, the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones as part of his quest to kill half of all life in the universe.
+8;Error404-PG-4;10;An alternate universe variant of Frigga (voiced by Josette Eales) appeared in one project: the Disney+ animated series What If...?.
+9;Error404-PG-4;11;In Infinity War, the Avengers and the Guardians of the Galaxy fail to prevent Thanos from collecting the six all-powerful Infinity Stones and he uses them to kill half of all life in the universe.
+</D0006>
+<D0007>Love is All Around;100
+1;Error404-PG-4;2;This song would later be adapted into "Christmas Is All Around" and sung by the character of Billy Mack in Richard Curtis' 2003 film Love Actually, in which Grant also stars.
+2;BITEM-PG-1;1;With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song "Love Is All Around", titling it "Christmas Is All Around".
+3;Error404-PG-4;19;"Christmas in the Stars" "Bells, Bells, Bells" "The Odds Against Christmas" "What Can You Get a Wookiee for Christmas (When He Already Owns a Comb)?"
+4;BITEM-PG-1;6;"Christmas Is..." b/w '"You're All I Want for Christmas" (1976) , "Shot in the Dark" b/w "Line of Fire" (1982) , "Don't Want a Heartache (Edit)" b/w "Part Time Man" (1982)
+5;Error404-PG-4;19;"R2-D2 We Wish You a Merry Christmas" "Sleigh Ride" This track puts new lyrics to the original "Sleigh Ride," and quotes "Silent Night" and "Jingle Bells" "Merry, Merry Christmas" "A Christmas Sighting" This track is a Star Wars version of "The Night Before Christmas" "The Meaning of Christmas"
+6;Error404-PG-4;2;The movie also featured a soundtrack of popular songs, including a cover version of The Troggs' "Love Is All Around" performed by Wet Wet Wet that remained at number 1 on the UK Singles Chart for fifteen weeks and was then the ninth biggest selling single of all time in Britain.
+7;BITEM-PG-1;4;The music video for Billy Mack's song, "Christmas Is All Around", is a tribute to Robert Palmer's 1986 video, "Addicted to Love".
+8;Error404-PG-4;1;audio commentary The music video for Billy Mack's song, "Christmas Is All Around", is a tribute to Robert Palmer's 1986 video, "Addicted to Love".
+9;BITEM-PG-1;9;In addition to songs written specifically for the film, several of Marks' other holiday standards populate the instrumental score, among them "Rockin' Around the Christmas Tree" and "I Heard the Bells on Christmas Day".
+10;Error404-PG-4;10;'Love Actually''' is a 2003 Christmas romantic comedy film written and directed by Richard Curtis.
+</D0007>
+<D0008>Ryan Reynolds;100
+1;Error404-PG-4;3;Kevin Feige confirmed that Ryan Reynolds and Hugh Jackman will return as Deadpool and Wolverine for future projects.
+2;Error404-PG-4;1;Wade Winston Wilson, also known as Deadpool, is a character portrayed by Ryan Reynolds in 20th Century Fox's X-Men film series and later the Marvel Cinematic Universe (MCU) media franchise produced by Marvel Studios.
+3;Error404-PG-4;2;In October 2025, former MCU filmmaker and DC Studios co-chairman James Gunn revealed that he had spoken to Ryan Reynolds about a potential cameo appearance as Deadpool in the DC Universe (DCU) television series Peacemaker (2022-2025).
+4;Error404-PG-4;3;After ‘Avengers: Secret Wars,’ But ‘Reboot Is a Scary Word,’ Says Kevin Feige Kevin Feige Teases Ryan Reynolds’ Future as Deadpool in the MCU
+</D0008>
+<D0009>National Gallery;71
+1;BITEM-PG-1;2;Mr. Bean is a well-meaning yet clumsy and destructive security guard at the National Gallery in London.
+2;BITEM-PG-1;11;The film details operations at the National Gallery in London.
+3;BITEM-PG-1;11;National Gallery is a 2014 documentary film edited, co-produced, and directed by Frederick Wiseman.
+4;BITEM-PG-1;1;In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+</D0009>
+<D0010>Joel Grey;65
+1;BITEM-PG-1;6;Paulie Rojas as Dorothy Gale, a successful children's book author from Kansas.
+2;BITEM-PG-1;6;Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.
+3;Error404-PG-4;7;Grey acted alongside Idina Menzel and Kristin Chenoweth.
+4;Error404-PG-4;10;Michele Lee & Fred Applegate Will Join Cast of Wicked on Broadway", Broadway.com, June 23, 2015.
+5;Error404-PG-4;10;Applegate has played the role of the Wizard in the Broadway production Wicked, Lloyd Webber, Imogen.
+6;Error404-PG-4;7;Grey took over the role from Robert Morse who previously played the Wizard in the San Francisco tryout run at the Curran Theatre.
+7;Error404-PG-4;1;The film stars Cynthia Erivo as Elphaba Thropp and Ariana Grande as Glinda Upland, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode (in her film debut), Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.
+8;Error404-PG-4;7;Grey originated the role of the Wizard of Oz in the Stephen Schwartz Broadway musical Wicked.
+9;Error404-PG-4;3;The concert featured guest performers including Jackson Browne as the Scarecrow, Roger Daltrey as the Tin Man, Natalie Cole as Glinda, Joel Grey as the Wizard (a role he reprised in Wicked), Jewel as Dorothy, Nathan Lane as the Cowardly Lion, Debra Winger as the Wicked Witch, and Lucie Arnaz as Aunt Em.
+10;Error404-PG-4;8;Chanel Ryan as Pinney Pinney Rajah as Toto, Dorothy's dog and loyal companion.
+</D0010>
+<D0011>Zeniba;100
+1;Error404-PG-4;4;A shikigami that stowed away on her back shapeshifts into Yubaba's twin sister Zeniba, who turns Yubaba's son, Boh, into a mouse and creates a false copy of him.
+2;Error404-PG-4;1;After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world.
+3;Error404-PG-4;1;To Chihiro No Kamikakushi ". http://www.bcdb.com , 13 May 2012 The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara.
+4;Error404-PG-4;8;Haku finds Chihiro and instructs her to ask for a job from the bathhouse's boiler-man, Kamaji, a yōkai spirit commanding soot sprites known as susuwatari.
+5;Error404-PG-4;1;It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."Sen
+6;Error404-PG-4;8;Kamaji instead asks a worker named Lin to bring Chihiro to Kamaji's master Yubaba, the witch who runs the bathhouse and who cursed Chihiro's parents.
+7;Error404-PG-4;1;is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki.
+8;Error404-PG-4;1;It follows a young girl named Chihiro "Sen" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore).Boyd, James W. and Tetsuya Nishimura.
+9;Error404-PG-4;8;As Chihiro signs the contract with her name (), Yubaba takes away the second kanji in her name, renaming her .
+10;Error404-PG-4;8;Yubaba tries to frighten Chihiro away but eventually gives her a work contract.
+</D0011>
+<D0012>GARETH;100
+1;BITEM-PG-1;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+2;Error404-PG-4;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+3;Error404-PG-4;2;Andie MacDowell co-stars as Charles's love interest Carrie, with Kristin Scott Thomas, James Fleet, Simon Callow, John Hannah, Charlotte Coleman, David Bower, Corin Redgrave and Rowan Atkinson in supporting roles.
+4;BITEM-PG-1;1;At Gareth's funeral, Carrie and Charles share a brief moment, while Charles and Tom then ponder that, despite their clique's pride in being single, Gareth and Matthew were like a "married" couple.
+5;Error404-PG-4;4;At the wedding of Angus and Laura in Somerset, the perpetually late best man Charles, his flatmate Scarlett, his aristocratic friend Fiona and her brother Tom, Gareth and his partner Matthew, and Charles's deaf brother David, all gather.
+6;BITEM-PG-1;2;Hugh Grant as Charles , Andie MacDowell as Carrie , Kristin Scott Thomas as Fiona , Simon Callow as Gareth , Charlotte Coleman as Scarlett , James Fleet as Tom , John Hannah as Matthew , David Bower as David , Corin Redgrave as Hamish Banks , Rowan Atkinson as Father Gerald , Timothy Walker as Angus , Sara Crowe as Laura , David Haig as Bernard Delaney , Sophie Thompson as Lydia Hibbot , Anna Chancellor as Henrietta , Simon Kunz as John , Rupert Vansittart as George
+</D0012>
+<D0013>Michael J. Fox;100
+1;Error404-PG-4;14;In the film trilogy, he is portrayed by Canadian actor Michael J. Fox.
+2;Error404-PG-4;2;Marty Jr. and Marlene McFly (both portrayed by Michael J. Fox) are Marty McFly and Jennifer Parker's future children in 2015 in Part II.
+3;Error404-PG-4;5;In the future witnessed in Back to the Future Part II, Jennifer and Marty had two children, Marlene and Marty Jr. (both played by Michael J. Fox).
+4;BITEM-PG-1;1;After Stoltz was fired from the production and Michael J.
+5;BITEM-PG-1;1;Melora Hardin was initially cast in the role, to appear alongside Eric Stoltz's Marty McFly.
+6;BITEM-PG-1;3;The film stars Michael J. Fox, Christopher Lloyd, Lea Thompson and Thomas F. Wilson, with Elisabeth Shue (replacing Claudia Wells) and Jeffrey Weissman (replacing Crispin Glover) in supporting roles.
+7;Error404-PG-4;1;The film stars Michael J. Fox, Christopher Lloyd, Lea Thompson and Thomas F. Wilson, with Elisabeth Shue (replacing Claudia Wells) and Jeffrey Weissman (replacing Crispin Glover) in supporting roles.
+8;BITEM-PG-1;6;The film was directed by Robert Zemeckis, and stars Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson, and Lea Thompson.
+</D0013>
+<D0014>The Last Jedi;100
+1;Error404-PG-4;4;The Rise of Skywalker, and served as executive producer for Star Wars: Episode VIII The Last Jedi.
+2;Error404-PG-4;8;He returned to Star Wars by executive producing The Last Jedi (2017), and directing, co-producing, and co-writing The Rise of Skywalker (2019).
+3;Error404-PG-4;4;The Force Awakens and Star Wars: Episode IX
+4;Error404-PG-4;3;This consists of The Force Awakens (2015), The Last Jedi (2017), and The Rise of Skywalker (2019).
+5;Error404-PG-4;12;The second installment, The Last Jedi, was released on December 15, 2017, with Rian Johnson as screenwriter and director, and most of the cast returning.
+6;Error404-PG-4;8;He also directed, co-produced, and co-wrote The Force Awakens, the seventh episode of the Star Wars Skywalker Saga and the first film of the sequel trilogy.
+7;Error404-PG-4;15;The Art of Star Wars: The Rise of Skywalker.
+8;BITEM-PG-1;1;The film, produced by Lucasfilm president Kathleen Kennedy, is a continuation of 2015's The Force Awakens, which Abrams also directed and co-wrote, and 2017's The Last Jedi.
+9;Error404-PG-4;20;Star Wars: The Rise of Skywalker. '''Star Wars: The Rise of Skywalker''' (also known as '''Star Wars: Episode IX – The Rise of Skywalker''') is a 2019 American epic space opera film produced, , and directed by J. J. Abrams.
+10;BITEM-PG-1;1;It is the third and final part of the Star Wars sequel trilogy.
+</D0014>
+<D0015>Donnie Yen;100
+1;Error404-PG-4;5;Donnie Yen as Chirrut Îmwe: A blind warrior who believes in the Force but is not a Jedi or a Sith.
+2;Error404-PG-4;2;It stars Felicity Jones, Diego Luna, Ben Mendelsohn, Donnie Yen, Mads Mikkelsen, Alan Tudyk, Riz Ahmed, Jiang Wen, and Forest Whitaker.
+3;BITEM-PG-1;12;Eventually, John fell in love with a woman named Helen.
+4;Error404-PG-4;4;https://www.looper.com/1238432/john-wick-chapter-4-writers-on-building-the-world-writing-action-and-more-exclusive-interview/ The role played by the blind assassin portrayed by Donnie Yen references the blind swordsman in the Japanese film series centred on the character of Zatoichi.
+5;BITEM-PG-1;2;Keanu Reeves as John Wick, a professional hitman and assassin who has gained a legendary reputation for his set of skills and is now hunted by the High Table.
+6;Error404-PG-4;9;Director Gareth Edwards allowed Yen to flesh out the character as he saw fit.
+7;Error404-PG-4;1;there are multiple John Wick projects in development: an untitled film which will follow the blind assassin Caine, portrayed by Donnie Yen in John Wick: Chapter 4, a television series, John Wick: Under the High Table, set after the events of John Wick: Chapter 4, in a world where John's actions have left the criminal underworld in chaos, and an untitled anime film which will serve as a prequel to John Wick.
+8;Error404-PG-4;15;On 12 February 2016, it was confirmed that Yen would once again replace Li for the third time as Xiang in the upcoming action film XXX:
+9;BITEM-PG-1;2;Donnie Yen as Caine, a blind High Table assassin and an old friend of Wick, who is forced out of retirement to kill Wick to ensure the safety of his daughter.
+10;Error404-PG-4;4;The film was written by Shay Hatten and Michael Finch.
+</D0015>
+<D0016>Avengers: Infinity War;87
+1;Error404-PG-4;1;Avengers: Infinity War. '''Avengers: Infinity War''' is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers.
+2;Error404-PG-4;2;Avengers: Infinity War premiered at the Dolby Theatre in Hollywood, Los Angeles, on April 23, 2018, and was released in the United States on April 27 as part of Phase Three of the MCU.
+3;Error404-PG-4;2;The sequel, Avengers: Endgame, was released in April 2019.
+</D0016>
+<D0017>Avatar;84
+1;BITEM-PG-1;6;As with Titanic, Landau would greatly assist Cameron as the co-producer of the Avatar films as well.
+2;BITEM-PG-1;6;Avatar broke several box office records during its initial theatrical run.
+3;BITEM-PG-1;6;As of 2022, Avatar and Titanic hold the achievement for being the first two of the six films in history to gross over $2 billion worldwide.
+4;Error404-PG-4;12;Zootopia grossed $341.3 million in the U.S. and Canada and $682.5 million in other countries for a worldwide total of $1.024 billion, against a budget of $150 million.
+5;BITEM-PG-1;6;It grossed $749.7 million in the United States and Canada and more than $2.74 billion worldwide, becoming the highest-grossing film of all time in the United States and Canada, surpassing Titanic.
+6;Error404-PG-4;2;Zootopia premiered at the Brussels Animation Film Festival in Belgium on February 13, 2016, and was released in the United States on March 4.
+7;Error404-PG-4;1;Avatar premiered at the Odeon Leicester Square in London on December 10, 2009, and was released in the United States on December 18.
+8;BITEM-PG-1;6;Avatar was nominated for nine Academy Awards, including Best Picture and Best Director, and won three: Best Art Direction, Best Cinematography and Best Visual Effects.
+9;Error404-PG-4;7;By the end of its first theatrical release Avatar had grossed $749,766,139 in the U.S. and Canada, and $ in other territories, for a worldwide total of $.
+10;Error404-PG-4;1;Adjusted for inflation, Avatar is the second-highest-grossing movie of all time, only behind Gone with the Wind (1939), with a total of a little more than $3.5 billion.
+</D0017>
+<D0018>11;29
+1;BITEM-PG-1;8;Inception is a 2010 science fiction action heist film written and directed by Christopher Nolan, who also produced it with Emma Thomas, his wife.
+2;Error404-PG-4;1;Nolan's films have earned over $6.6 billion worldwide, making him the seventh-highest-grossing film director.
+3;Error404-PG-4;1;Known for his Hollywood blockbusters with structurally complex storytelling, he is considered a leading filmmaker of the 21st century.
+4;Error404-PG-4;1;He became a high-profile director with The Dark Knight trilogy (2005–2012) and found further success with The Prestige (2006), Inception (2010), Interstellar (2014) and Dunkirk (2017).
+5;Error404-PG-4;1;Sir Christopher Edward Nolan (born 30 July 1970) is a British and American filmmaker.
+6;BITEM-PG-1;2;His feature directorial debut was the neo-noir crime thriller Following (1998) which was made on a budget of $6,000.
+7;BITEM-PG-1;2;Sir Christopher Nolan is a British-American film director, screenwriter, and film producer.
+8;Error404-PG-4;2;The Dark Knight Rises (2012) Interstellar (2014) Dunkirk (2017) Tenet (2020) Oppenheimer (2023)
+</D0018>
+<D0019>13;32
+1;Error404-PG-4;15;2006 proved to be a productive year for Ninomiya as he became the first artist from Johnny's & Associates to debut in Hollywood.
+2;BITEM-PG-1;17;From 2003 to 2005, Ninomiya continued to appear in a wide range of dramas.
+3;Error404-PG-4;2;Kazunari Ninomiya. , often called , is a Japanese singer, songwriter, actor, voice actor, presenter and radio host.
+4;Error404-PG-4;13;On November 24, 2009, it was announced that two live-action Gantz films were in production, based on the manga series of the same name.
+5;Error404-PG-4;6;He has starred in numerous television drama, movie and stage production since then, and has been regarded as the actor of Arashi, described as an actor who can act with his mouth and eyes.
+6;Error404-PG-4;5;He went on to appear in two different films for the rest of 2006 before taking up on January 11, 2007.
+7;Error404-PG-4;13;Both films were released in 2011: the first, Gantz, in January, and the second, Gantz: Perfect Answer, in April.
+8;Error404-PG-4;5;During the summer of 2007, he and fellow Arashi bandmate Sho Sakurai co-starred together in the manga-based comedy drama Yamada Tarō Monogatari.
+9;Error404-PG-4;6;Ninomiya announced he would become independent from the agency on 24 October 2023.
+10;BITEM-PG-1;17;In 1998, he made his television debut as a fifteen-year-old runaway in the TBS television movie Amagi Goe (天城越え, Crossing Mt. Amagi).
+</D0019>
+<D0020>13;48
+1;Error404-PG-4;4;That same year, she appeared in the horror film In a Dark Place as well as the remake of The Wicker Man starring Nicolas Cage.
+2;Error404-PG-4;1;She achieved fame in her teens with roles in films such as Deep Impact (1998), Never Been Kissed, Eyes Wide Shut (both 1999), Here on Earth (2000), Joy Ride and The Glass House (both 2001).
+3;Error404-PG-4;1;Liliane Rudabet Gloria Elsveta "Leelee" Sobieski (born June 10, 1983) is an American artist and retired actress.
+4;BITEM-PG-1;9;In 1999, Sobieski appeared in Stanley Kubrick's Eyes Wide Shut.
+5;BITEM-PG-1;9;Also in 1999, Sobieski was cast in a supporting role in the teen comedy feature Never Been Kissed starring Drew Barrymore.
+6;BITEM-PG-1;10;The film stars Chris Klein, Leelee Sobieski, and Josh Hartnett.
+7;BITEM-PG-1;10;Here on Earth is a 2000 American romantic drama film directed by Mark Piznarski from a screenplay by Michael Seitzman.
+8;Error404-PG-4;4;Sobieski landed a starring role in the independent film L'Idole (2002), which opened at the Toronto International Film Festival.
+9;BITEM-PG-1;9;In 2000, Sobieski played the female lead in the film Here on Earth opposite Josh Hartnett and Chris Klein, for which she received a Teen Choice Award nomination.
+10;Error404-PG-4;5;The film was a major financial success, grossing over $349 million worldwide on a $75 million production budget.
+</D0020>
+<D0021>Natalie Hershlag;72
+1;Error404-PG-4;2;Natalie Hershlag (born ), known professionally as Natalie Portman, is an actress, film producer and director with dual Israeli and American citizenship.
+2;Error404-PG-4;3;Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padmé Amidala in the prequel trilogy.
+3;Error404-PG-4;1;Liliane Rudabet Gloria Elsveta "Leelee" Sobieski (born June 10, 1983) is an American artist and retired actress.
+</D0021>
+<D0022>Katharine Hepburn;100
+1;Error404-PG-4;3;The record for most wins is four, held by Katharine Hepburn, Frances McDormand has won three times, and thirteen other actresses have won the award twice.
+2;Error404-PG-4;1;Katharine Houghton Hepburn (May 12, 1907 – June 29, 2003) was an American actress whose career as a Hollywood leading lady spanned six decades.
+3;Error404-PG-4;2;Audrey Kathleen Hepburn ( Ruston, 4 May 1929 – 20 January 1993) was a British actress.
+4;Error404-PG-4;3;At the 41st Academy Awards in 1969, Barbra Streisand and Katharine Hepburn received the same number of votes and so shared the award, the only time this has occurred.
+</D0022>
+<D0023>Ingrid Bergman;100
+1;Error404-PG-4;1;Ingrid Bergman (29 August 191529 August 1982) was a Swedish actress.
+2;Error404-PG-4;10;Ingrid Bergman and Streep each have two statuettes for leading and one supporting actress win, while Jack Nicholson nabbed the same tally for male actors.
+3;Error404-PG-4;17;The record for most wins is four, held by Katharine Hepburn, Frances McDormand has won three times, and thirteen other actresses have won the award twice.
+4;Error404-PG-4;3;Ingrid Bergman became the second actress to win three Academy Awards for acting: two for Best Actress, and one for Best Supporting Actress.
+5;Error404-PG-4;10;List of actors with more than one Academy Award nomination in the acting categories.
+6;Error404-PG-4;17;At the 41st Academy Awards in 1969, Barbra Streisand and Katharine Hepburn received the same number of votes and so shared the award, the only time this has occurred.
+7;Error404-PG-4;1;With a career spanning five decades, Bergman is often regarded as one of the most influential screen figures in cinematic history.
+8;Error404-PG-4;17;Meryl Streep has received the most nominations in the category—seventeen—and has won twice.
+9;Error404-PG-4;1;She is one of only four actresses to have received at least three acting Academy Awards (only Katharine Hepburn has four).
+10;Error404-PG-4;12;Ingrid Bergman was the recipient of numerous global nominations and awards for her work, including three Academy Awards.
+</D0023>
+<D0024>four;100
+1;Error404-PG-4;4;It has been followed by four sequels: Dead Man's Chest (2006),
+2;Error404-PG-4;8;Altogether, the film franchise has grossed over worldwide.
+3;Error404-PG-4;1;'Pirates of the Caribbean''' is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name.
+4;Error404-PG-4;4;The series has grossed over US$3.7 billion worldwide.
+5;Error404-PG-4;8;Two more films, Pirates of the Caribbean: On Stranger Tides and Pirates of the Caribbean: Dead Men Tell No Tales, were released, in 2011 and 2017, respectively.
+6;BITEM-PG-1;10;Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer and based on Walt Disney's theme park attraction of the same name.
+7;Error404-PG-4;4;At World's End (2007), On Stranger Tides (2011), and Dead Men Tell No Tales (2017), with the second installment winning an Oscar for Best Visual Effects in 2007.
+8;Error404-PG-4;3;The latter film—the first film produced by the studio to receive a PG-13 rating—began a film series that was followed by four sequels, with the franchise taking in more than $5.4 billion worldwide from 2003 to 2017.
+9;Error404-PG-4;2;A fifth film, subtitled Dead Men Tell No Tales, was released in 2017 earning $796 million.
+10;Error404-PG-4;8;Pirates of the Caribbean: The Curse of the Black Pearl, which was the first film in the franchise, was released on July 9, 2003.
+</D0024>
+<D0025>12.12: The Day;100
+1;Error404-PG-4;2;The Day has grossed $34.2 million and sold 4.66 million tickets.
+2;Error404-PG-4;1;The Day''' () is a 2023 South Korean historical drama film directed by Kim Sung-su, starring Hwang Jung-min, Jung Woo-sung, Lee Sung-min, Park Hae-joon and Kim Sung-kyun.
+3;Error404-PG-4;1;The film grossed $97 million worldwide against a $17 million budget, becoming the highest-grossing South Korean film of 2023 and the fourth-highest-grossing South Korean film of all time.
+4;Error404-PG-4;1;The film is set against the backdrop of the December 12, 1979, military coup from the late 1970s to early 1980s.
+5;Error404-PG-4;3;This movie tells about the events leading up to the Gwangju massacre in South Korea where troops fired on students.
+6;Error404-PG-4;3;'May 18''' () is a 2007 South Korean historical drama film directed by Kim Ji-hoon was released in 27 July 2007, starring Kim Sang-kyung, Ahn Sung-ki, Lee Yo-won and Lee Joon-gi.
+7;Error404-PG-4;1;It was released theatrically on November 22, 2023.
+8;Error404-PG-4;2;It became the biggest film of 2023 in Korea, when it grossed $90.5 million by end of December 2023.
+9;BITEM-PG-1;17;Title: Poong, the Joseon Psychiatrist 2 , Role: Gye Ji-han , Ref.:
+10;BITEM-PG-1;17;Title: Poong, the Joseon Psychiatrist , Role: Gye Ji-han , Ref.:
+</D0025>
+<D0026>Joaquin Phoenix;100
+1;Error404-PG-4;1;It stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris.
+2;Error404-PG-4;3;Jude Law auditioned for Commodus, but Joaquin Phoenix was offered the part after sending in a "knockout" audition tape.
+3;Error404-PG-4;2;Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.
+</D0026>
+<D0027>Fava beans;100
+1;Error404-PG-4;2;I ate his liver with some fava beans and a nice Chianti."
+2;Error404-PG-4;1;He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver "with some fava beans and a nice Chianti" (a "big Amarone" in the novel).
+</D0027>
+<D0028>Regal Blue Tang;82
+1;Error404-PG-4;3;Ellen DeGeneres as Dory, a regal blue tang, who suffers from short-term memory loss.
+2;Error404-PG-4;1;It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould).
+3;Error404-PG-4;2;Conservationists warned that, very much like Finding Nemo, the film could lead to uninformed customers buying regal blue tang fish, Dory's species, for home aquariums.
+4;Error404-PG-4;1;'Finding Nemo''' is a 2003 American animated comedy-drama adventure film produced by Pixar Animation Studios for Walt Disney Pictures.
+5;Error404-PG-4;2;They are related to surgeonfish and exhibit razor-sharp spines on both sides of the tail that can inflict formidable wounds.
+</D0028>
+<D0029>Tunnel;52
+1;BITEM-PG-1;9;In the 1994 film The Shawshank Redemption, a large poster of Welch in her role as Loana is used by Andy Dufresne (played by Tim Robbins) to conceal his tunnel digging.
+2;BITEM-PG-1;2;While the film portrays the iconic scene of Andy escaping to freedom through a sewer pipe described as a "river of shit", Robbins crawls through a mixture of water, chocolate syrup, and sawdust.
+3;BITEM-PG-1;1;An irate Norton throws a rock at a poster of Raquel Welch hanging on the cell wall, revealing a tunnel that Andy had dug with his rock hammer over 19 years.
+4;BITEM-PG-1;1;The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.
+5;BITEM-PG-1;2;For the scene depicting Andy's escape from the prison, Darabont envisioned Andy using his miniature rock hammer to break into the sewage pipe, but he determined that this was not realistic.
+6;BITEM-PG-1;4;The Shawshank Redemption is a 1994 American prison drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption.
+7;Error404-PG-4;3;At the end of the film, Andy passes through a hole in his cell hidden by a movie poster to escape both his cell and ultimately Shawshank.
+8;Error404-PG-4;14;Over the following two decades, he befriends a fellow prisoner, contraband smuggler Ellis "Red" Redding (Morgan Freeman), and becomes instrumental in a money laundering operation led by the prison warden Samuel Norton (Bob Gunton).
+9;Error404-PG-4;8;Hayworth's performance as Gilda lent itself to the Stephen King novella Rita Hayworth and Shawshank Redemption in the form of a poster hanging on the wall of prisoner Andy Dufresne, who used it to cover the hole in the wall he used to escape.
+10;BITEM-PG-1;2;The stream into which Robbins emerges was actually certified toxic by a chemist according to production designer Terence Marsh.
+</D0029>
+<D0030>IAN MCKELLEN;100
+1;Error404-PG-4;1;Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series.
+2;Error404-PG-4;17;Ian McKellen The Lord of the Rings: The Fellowship of the Ring (Gandalf) The Lord of the Rings: The Two Towers (Gandalf) The Lord of the Rings: The Return of the King (Gandalf) X2 (Magneto) X-Men: The Last Stand (Magneto) 20,000 Leagues Under the Sea (2002 NHK-BS2 edition) (Captain Nemo (Michael Caine))
+3;Error404-PG-4;4;He later reprised his role of Magneto in 2014's X-Men: Days of Future Past, sharing the role with Michael Fassbender, who played a younger version of the character in 2011's X-Men: First Class.
+4;BITEM-PG-1;1;In 1999, McKellen was cast, again under the direction of Bryan Singer, to play the comic book supervillain Magneto in the 2000 film X-Men and its sequels X2: X-Men United (2003) and X-Men: The Last Stand (2006).
+5;Error404-PG-4;3;Sol Bianca - Rammy Hook - Peter Banning/Peter Pan Indiana Jones - Indiana Jones (until Kingdom of the Crystal Skull) Jumanji - Alan Parrish (Robin Williams) (Original Dub) X-Men (film franchise) - Erik Lehnsherr/Magneto (Ian McKellen) (since X2: X-Men United) Lord of the Rings and The Hobbit trilogies - Gandalf (Ian McKellen)
+6;Error404-PG-4;6;Ian McKellen has portrayed Magneto in various films since X-Men (2000), while Michael Fassbender has portrayed a younger version of the character in the prequel films since X-Men: First Class (2011).
+7;Error404-PG-4;4;While filming the first X-Men film in 1999, McKellen was cast as the wizard Gandalf in Peter Jackson's film trilogy adaptation of The Lord of the Rings (consisting of The Fellowship of the Ring, The Two Towers, and The Return of the King), released between 2001 and 2003.
+8;Error404-PG-4;16;The first three films in the series are X-Men (2000), X2 (2003), and X-Men: The Last Stand (2006), starring Hugh Jackman as James "Logan" Howlett / Wolverine, Patrick Stewart as Charles Xavier / Professor X, Ian McKellen as Erik Lehnsherr / Magneto, Famke Janssen as Jean Grey, Halle Berry as Ororo Munroe / Storm, Anna Paquin as Marie D'Ancanto / Rogue, James Marsden as Scott Summers / Cyclops, Shawn Ashmore as Bobby Drake / Iceman, and Rebecca Romijn as Raven Darkhölme / Mystique.
+9;Error404-PG-4;18;Ian McKellen was also offered the role, but he turned it down, having played the similar character Gandalf in The Lord of the Rings trilogy, as well as feeling it would have been inappropriate to take Harris's role, as Harris had called McKellen a "dreadful" actor.
+10;Error404-PG-4;3;The Dark Knight and The Dark Knight Rises - Alfred Pennyworth (Michael Caine)
+</D0030>
+<D0031>Humphrey Bogart;100
+1;BITEM-PG-1;5;Humphrey DeForest Bogart ( , December 25, 1899 – January 14, 1957), nicknamed Bogie, was an American actor.
+2;Error404-PG-4;1;Wilson was cast in the role of Sam, a singer and pianist employed by nightclub owner Rick (Humphrey Bogart).
+3;BITEM-PG-1;5;His first romantic lead role was a memorable one, as Rick Blaine, paired with Ingrid Bergman as Ilsa Lund in Casablanca (1942).
+4;Error404-PG-4;2;'Casablanca''' is a 1942 American romantic drama film directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid.
+5;Error404-PG-4;5;Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.
+6;Error404-PG-4;3;He starred in the short-lived 1983 NBC series Casablanca, playing nightclub owner Rick Blaine (the role that was made famous by Humphrey Bogart in the 1942 film Casablanca), and co-starred in the NBC series The Yellow Rose during the 1983–1984 season.
+</D0031>
+<D0032>8;100
+1;Error404-PG-4;2;It was nominated for 10 Academy Awards in 2009 and won 8—the most of any 2008 film—including Best Picture, Best Director, and Best Adapted Screenplay.
+2;Error404-PG-4;1;The Dark Knight was the year's highest-grossing film, while Slumdog Millionaire won the Academy Award for Best Picture (out of eight Academy Awards).
+3;Error404-PG-4;9;On 22 February 2009, the film won eight out of ten Academy Awards for which it was nominated, including the Best Picture and Best Director.
+4;Error404-PG-4;2;It won seven BAFTA Awards including Best Film, five Critics' Choice Awards and four Golden Globes.
+5;Error404-PG-4;9;It is the fifteenth film ever to win at least eight Academy Awards and the eleventh Best Picture Oscar winner without a single acting nomination and was the last film to do so until Parasite in 2019.
+6;Error404-PG-4;19;List of Indian Academy Award winners and nominees.
+7;BITEM-PG-1;2;Kapoor demonstrated his well-known enthusiasm after Slumdog won the Academy Award for Best Picture (one of eight awards).
+8;Error404-PG-4;4;Danny Boyle's Slumdog Millionaire (2008), which won four Golden Globes and eight Academy Awards, was inspired by mainstream Hindi films and is considered an "homage to Hindi commercial cinema".
+9;Error404-PG-4;3;The most successful British film of the decade, the film won eight Academy Awards and seven BAFTA Awards.
+10;Error404-PG-4;13;The film also won seven of the eleven BAFTA Awards for which it was nominated, including Best Film, all four of the Golden Globe Awards for which it was nominated, including Best Drama Film, and five of the six Critics' Choice Awards for which it was nominated.
+</D0032>
+<D0033>Titanic;100
+1;Error404-PG-4;6;'Titanic''' is a 1997 American epic romantic disaster film written and directed by James Cameron.
+2;Error404-PG-4;17;His final film appearance was in The Circle (2017), released two months after his death.
+3;Error404-PG-4;3;'Ghosts of the Abyss''' (also known as '''Titanic 3D: Ghosts of the Abyss''') is a 2003 American documentary film produced by Walden Media.
+4;Error404-PG-4;1;William Paxton (May 17, 1955 – February 25, 2017) was an American actor, filmmaker and musician.
+5;Error404-PG-4;11;His father, Bill Paxton, died in 2017.Bill Paxton, ''Aliens'' and ''Twister'' Actor, Dies at 61
+6;Error404-PG-4;1;He was a close collaborator of director James Cameron, appearing in his films The Terminator (1984), Aliens (1986), True Lies (1994), and Titanic (1997).
+7;Error404-PG-4;3;The film is narrated by actor Bill Paxton, who joined Cameron on the expedition and previously played Brock Lovett in the 1997 film.
+8;BITEM-PG-1;5;This makes Paxton one of only 2 actors to portray two different characters from the Alien and the Predator franchises, respectively.
+9;Error404-PG-4;2;Writer Lewis Abernathy would go on to work with The Abyss' director James Cameron and make a memorable appearance in his film Titanic (1997) as Brock Lovett (Bill Paxton)'s colleague Lewis Bodine.
+10;BITEM-PG-1;5;He was played by actor Bill Paxton, who also played William Hudson in the 1986 film, Aliens.
+</D0033>
+<D0034>7;100
+1;Error404-PG-4;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+2;Error404-PG-4;2;Each team is made up of seven players, consisting of three Chasers, two Beaters, one Keeper and one Seeker.
+3;Error404-PG-4;1;In the series, Quidditch is portrayed as a dangerous but popular sport played by witches and wizards riding flying broomsticks.
+4;Error404-PG-4;1;Quidditch () is a fictional sport invented by author J. K. Rowling for her fantasy book series Harry Potter.
+5;BITEM-PG-1;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+6;Error404-PG-4;15;In response to allegations of J. K. Rowling's anti-trans positions, and Warner Bros.' ownership of the word "Quidditch", US Quidditch and Major League Quidditch announced in 2022 that they were renaming the sport "Quadball".
+7;BITEM-PG-1;1;Quidditch is a fictional sport invented by author J. K. Rowling for her fantasy book series Harry Potter.
+8;Error404-PG-4;2;The job of the Chasers is to keep possession of the scarlet Quaffle, a leather ball passed between fellow chasers.
+9;Error404-PG-4;1;The Chasers and the Keeper respectively score with and defend the goals against the Quaffle, the two Beaters bat the Bludgers away from their teammates and towards their opponents, and the Seeker locates and catches the Golden Snitch, whose capture simultaneously wins the Seeker's team 150 points and ends the game.
+10;Error404-PG-4;15;Quidditch is still evolving to suit safe play for the members of the teams, male and female.
+</D0034>
+<D0035>10;54
+1;Error404-PG-4;3;Avengers: Endgame. '''Avengers: Endgame''' is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers.
+2;Error404-PG-4;3;In the film, the surviving members of the Avengers and their allies attempt to reverse Thanos's actions in Infinity War, which erased half of all life in the universe.
+3;Error404-PG-4;3;Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the direct sequel to Avengers: Infinity War (2018) and the 22nd film in the Marvel Cinematic Universe (MCU).
+4;Error404-PG-4;2;It grossed nearly $2.8 billion worldwide, surpassing Infinity War entire theatrical run in eleven days and setting several box-office records.
+5;Error404-PG-4;2;Avengers: Endgame premiered at the Los Angeles Convention Center on April 22, 2019, and was released in the United States on April 26 as part of Phase Three of the MCU.
+6;Error404-PG-4;2;It was the highest-grossing film of all time from July 2019 to March 2021, when it was surpassed by the previous record-holder, Avatar (2009).
+7;Error404-PG-4;1;Adjusted for inflation, Avatar is the second-highest-grossing movie of all time, only behind Gone with the Wind (1939), with a total of a little more than $3.5 billion.
+8;Error404-PG-4;1;Avatar premiered at the Odeon Leicester Square in London on December 10, 2009, and was released in the United States on December 18.
+9;Error404-PG-4;1;During its theatrical run, the film broke several box office records, including becoming the highest-grossing film of all time.
+10;Error404-PG-4;1;In July 2019, this position was overtaken by Avengers: Endgame, but with a re-release in China in March 2021, it returned to becoming the highest-grossing film since then.
+</D0035>
+<D0036>Lotso;100
+1;Error404-PG-4;2;Ned Beatty as Lots-o'-Huggin' Bear/"Lotso", a strawberry-scented teddy bear.
+2;Error404-PG-4;4;Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.
+3;BITEM-PG-1;1;Lotso, Big Baby and Chuckles once belonged to a little girl named Daisy, whom Lotso adored.
+4;BITEM-PG-1;6;She owned Lotso, Big Baby and Chuckles, but accidentally left them behind at a rest area along the road.
+5;Error404-PG-4;3;Andy's toys are welcomed by the other toys at Sunnyside, and are given a tour of the seemingly perfect play-setting by Lots-O'-Huggin' Bear ("Lotso"), Big Baby, and Ken, with whom Barbie falls in love.
+6;Error404-PG-4;1;A Japanese version of the commercial was also released online, with the name "Lots-O'-Huggin Bear" replaced with "Little Hug-Hug Bear" (Japanese:ハグハグベアちゃん/Hagu Hagu Beya-Chan).
+7;Error404-PG-4;6;Hamm and Slinky wish to get revenge on Lotso for his betrayal, but Woody convinces them he isn't worth it, feeling that the dump is where he belongs.
+8;Error404-PG-4;6;When Woody reveals Lotso's true character, all of Lotso's henchmen turn on him and Big Baby throws Lotso in the dumpster.
+9;Error404-PG-4;9;He also voiced Lots-O'-Huggin' Bear in the 2010 Disney/Pixar film Toy Story 3 (2010) opposite Charlie Wilson's War costar Tom Hanks, who was reprising his role of Woody from the first two films.
+10;Error404-PG-4;5;Harry Potter and the Deathly Hallows – Part 1 .... Alastor Moody 2010:
+</D0036>
+<D0037>We Scare Because We Care;100
+1;BITEM-PG-1;1;Taking place after the events of the film, the factory's new slogan has been changed from "We Scare Because We Care" to "It's Laughter
+2;BITEM-PG-1;1;Monsters, Inc. Ride & Go Seek is an interactive dark ride attraction at Tokyo Disneyland.
+</D0037>
+<D0038>four;65
+1;Error404-PG-4;1;He personally directed Toy Story (1995), A Bug's Life (1998), Toy Story 2 (1999), Cars (2006), and Cars 2 (2011), and executive-produced all other Pixar films through 2018.
+2;Error404-PG-4;2;Ranft was a story supervisor on each of Lasseter's first four directorial efforts: Toy Story, A Bug's Life, Toy Story 2, and Cars.
+3;Error404-PG-4;3;Released in 1995, Toy Story opened to critical acclaim and commercial success, leading to Pixar signing a five-film deal with Disney, which bore critically and financially successful computer animated films such as A Bug's Life (1998), Toy Story 2 (1999), Monsters, Inc. (2001), Finding Nemo (2003), and The Incredibles (2004).
+4;Error404-PG-4;2;Cars 2 was the first film Lasseter directed without the involvement of his close friend and collaborator, Joe Ranft, co-director and co-writer of the first Cars who died in 2005.
+5;Error404-PG-4;1;John Alan Lasseter ( , born January 12, 1957) is an American film director, producer, screenwriter, and animator.
+6;Error404-PG-4;2;In addition, he provided minor voice roles in each of Pixar's first seven films which included Lasseter's films as well as Monsters, Inc., Finding Nemo, and The Incredibles.
+7;Error404-PG-4;3;Jeffrey Katzenberg and the Disney story team were heavily involved in the development and production of Toy Story, the first fully computer-animated feature ever produced.
+8;Error404-PG-4;3;Toy Story was produced for Disney by Pixar and directed by former Disney animator John Lasseter, whom Peter Schneider had unsuccessfully tried to hire back after his success with Pixar shorts such as Tin Toy (1988).
+9;Error404-PG-4;1;Lasseter oversaw all of Pixar's films and associated projects.
+10;Error404-PG-4;1;Lasseter began his career as an animator with The Walt Disney Company.
+</D0038>
+<D0039>24;67
+1;Error404-PG-4;4;Toy Story 4. '''Toy Story 4''' is a 2019 American animated comedy-drama film produced by Pixar Animation Studios for Walt Disney Pictures.
+2;Error404-PG-4;1;Toy Story 4 premiered in Hollywood, Los Angeles, on June 11, 2019, and was released in the United States on June 21.
+3;Error404-PG-4;5;Toy Story 4 was released on June 21, 2019, with most of the main cast returning for the film.
+4;Error404-PG-4;1;It grossed $1.074 billion worldwide, becoming the eighth-highest-grossing film of 2019 and is the highest-grossing film in the franchise, marginally surpassing Toy Story 3.
+5;Error404-PG-4;4;It is the fourth installment in Pixar's Toy Story film series and the sequel to Toy Story 3 (2010).
+6;Error404-PG-4;6;Toy Story premiered at the El Capitan Theatre in Los Angeles on November 19, 1995, and was released in theaters in North America on November 22 of that year.
+7;Error404-PG-4;6;It was the highest-grossing film during its opening weekend, eventually grossing over $363 million worldwide, making it the second highest-grossing film of 1995.
+8;BITEM-PG-1;3;Both Disney and Pixar held separate premieres for Toy Story, with Disney holding theirs at their flagship El Capitan Theatre in Los Angeles on November 19, 1995, and Pixar holding theirs the following night at the Regency Center in San Francisco.
+9;Error404-PG-4;5;As they go on a road trip with Bonnie, Woody is also reunited with Bo Peep, and must decide where his loyalties lie.
+10;BITEM-PG-1;2;It grossed $1.074 billion worldwide, becoming the eighth-highest-grossing film of 2019 and is the highest-grossing film in the franchise, marginally surpassing Toy Story 3.
+</D0039>
+<D0040>A113;100
+1;Error404-PG-4;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.
+2;Error404-PG-4;2;Forthright issued directive A113 preventing anyone from returning to Earth.
+3;Error404-PG-4;3;Loyal only to directive A113, he and GO-4 are the only computers not influenced by WALL-E. John Ratzenberger and Kathy Najimy as John and Mary, who live on the Axiom, so dependent on their automatic services as to be oblivious to their surroundings.
+</D0040>
+<D0041>Lloyd Sherr;84
+1;Error404-PG-4;3;Stanley Townsend as: Vladimir Trunkov Ivan Victor Hugo Lloyd Sherr as: Fillmore Tony Trihull, a combat ship Paul Dooley as Sarge Michel Michelis as Tomber Sig Hansen as Crabby the Boat Franco Nero as Uncle Topolino.
+2;Error404-PG-4;2;Larry the Cable Guy, Owen Wilson, Tony Shalhoub, Guido Quaroni, Bonnie Hunt, and John Ratzenberger reprise their roles from the first film, with Michael Caine, Emily Mortimer, John Turturro, Eddie Izzard, joining the voice cast.
+3;Error404-PG-4;1;Joe Ranft, who voiced Red, died in an automobile accident in 2005, and therefore Red has no vocal role in Cars 2. George Carlin, who voiced Fillmore, died of heart failure in June 2008, so Fillmore was voiced by Lloyd Sherr (who also voices Tony Trihull).
+4;Error404-PG-4;4;He voiced Fillmore in Cars (2006) and Cars 3 (2017), with the character being voiced by Rakan Rushaidat in Cars 2 (2011).
+5;Error404-PG-4;2;The film was directed by John Lasseter, co-directed by Brad Lewis, produced by Denise Ream, and written by Ben Queen, Lasseter, Lewis, and Dan Fogelman.
+6;Error404-PG-4;9;The returning voices of Owen Wilson, Larry the Cable Guy, Bonnie Hunt, Tony Shalhoub, Guido Quaroni, Cheech Marin, Jenifer Lewis, Paul Dooley, Lloyd Sherr, Michael Wallis, Katherine Helmond and John Ratzenberger are joined by Cristela Alonzo, Chris Cooper, Armie Hammer, Nathan Fillion, Kerry Washington, and Lea DeLaria, in addition to a dozen NASCAR personalities.
+7;BITEM-PG-1;2;Fillmore (based on Route 66 artist Bob Waldmire and voiced by George Carlin in Cars, the video game, and Cars Toons (via archival recordings), Scott Wood in Cars Mater-National Championship, and Lloyd Sherr in all other media after the first film due to Carlin's death) is a green 1960 Volkswagen Type 2(T1) who owns a store that sells his own recipe of organic biofuel, which he also gives McQueen during his races.
+8;Error404-PG-4;3;Bonnie Hunt as Sally Carrera Cheech Marin as Ramone Jenifer Lewis as Flo Michael Wallis as Sheriff Katherine Helmond as Lizzie John Ratzenberger as Mack Jeff Garlin as Otis Patrick Walker as Mel Dorado Lewis Hamilton as himself Velibor Topic as Alexander Hugo John Mainier as J. Curby Gremlin Brad Lewis as Tubbs Pacer Richard Kind as Van Edie McClurg as Minny Teresa Gallagher as Mater's computer Jeff Gordon as Jeff Gorvette John Lasseter as John Lassetire
+9;Error404-PG-4;9;The film was directed by Brian Fee and produced by Kevin Reher, from a screenplay written by Kiel Murray, Bob Peterson, and Mike Rich, and a story developed by Fee, Ben Queen, and the writing team of Eyal Podell and Jonathan E. Stewart.
+10;BITEM-PG-1;8;The film was directed by John Lasseter, co-directed by Joe Ranft (his only directorial effort), produced by Darla K. Anderson, and written by Lasseter, Ranft, Dan Fogelman, Kiel Murray, Phil Lorin, and Jorgen Klubien based on a story by Lasseter, Ranft, and Klubien.
+</D0041>
+<D0042>Laputa: Castle in the Sky;91
+1;Error404-PG-4;2;Castle in the Sky was the first film to be animated by Studio Ghibli.
+2;BITEM-PG-1;1;also known as Laputa: Castle in the Sky, is a 1986 Japanese animated fantasy adventure film written and directed by Hayao Miyazaki.
+3;Error404-PG-4;5;Miyazaki co-founded Studio Ghibli in 1985, writing and directing films such as Laputa: Castle in the Sky (1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), and Porco Rosso (1992), which were met with critical and commercial success in Japan.
+4;BITEM-PG-1;3;He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.
+5;BITEM-PG-1;1;Castle in the Sky was the first film to be animated by Studio Ghibli.
+6;BITEM-PG-1;2;In 1986, Suzuki served on the production committee for the Studio Ghibli film Laputa: Castle in the Sky for Tokuma Shoten, released in August, and he succeeded Ogata as Animage editor-in-chief in October.
+7;Error404-PG-4;2;The film was partly inspired by Miyazaki's trips to Wales, where he witnessed the aftermath of the 1984–1985 coal miners' strike.
+</D0042>
+<D0043>Totoro;100
+1;Error404-PG-4;1;Totoro makes a cameo appearance in Toy Story 3.
+2;Error404-PG-4;1;The film's art director, Daisuke Tsutsumi, is married to Hayao Miyazaki's niece, who originally inspired the character Mei in Miyazaki's anime film My Neighbor Totoro (1988).
+3;Error404-PG-4;3;Totoro also makes a cameo appearance in the Pixar film Toy Story 3 (2010) but was not included in Toy Story 4 due to licensing problems.
+4;Error404-PG-4;3;Toy Story 3 art director Daisuke Tsutsumi is married to Miyazaki's niece, who inspired the character Mei in My Neighbor Totoro.
+</D0043>
+<D0044>Spirited Away;100
+1;Error404-PG-4;1;Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards.
+2;Error404-PG-4;2;As of 2025, Ang Lee is the only filmmaker to win the award twice, for The Wedding Banquet in 1993 and for Sense and Sensibility in 1996.
+3;Error404-PG-4;1;The film is frequently regarded as one of the greatest animated films ever made.
+4;Error404-PG-4;3;She was nominated for an Academy Award for Best Animated Short Film for Words, Words, Words (1991) and won the Short Film Golden Bear for Repete (1995).
+5;Error404-PG-4;3;Michaela Pavlátová (born 27 February 1961) is a Czech animator, film director and teacher.
+</D0044>
+<D0045>11;35
+1;Error404-PG-4;1;Hayao Miyazaki. is a Japanese animator, filmmaker, and manga artist.
+2;Error404-PG-4;3;He retired from feature films in 2013 but later returned to make The Boy and the Heron (2023), which won the Academy Award for Best Animated Feature.
+3;Error404-PG-4;3;Miyazaki's later films—Howl's Moving Castle (2004), Ponyo (2008), and The Wind Rises (2013)—also enjoyed critical and commercial success.
+4;Error404-PG-4;1;Throughout his career, Miyazaki has attained international acclaim as a masterful storyteller and creator of Japanese animated feature films, and is widely regarded as one of the most accomplished filmmakers in the history of animation.
+5;Error404-PG-4;3;Spirited Away (2001) became Japan's highest-grossing film and won the Academy Award for Best Animated Feature, it is frequently ranked among the greatest films of the 21st century.
+6;Error404-PG-4;2;Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023).
+7;Error404-PG-4;3;Miyazaki co-founded Studio Ghibli in 1985, writing and directing films such as Laputa: Castle in the Sky (1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), and Porco Rosso (1992), which were met with critical and commercial success in Japan.
+8;Error404-PG-4;3;Miyazaki's Princess Mononoke (1997) was the first animated film to win the Japan Academy Film Prize for Picture of the Year and briefly became the highest-grossing film in Japan, its Western distribution increased Ghibli's worldwide popularity and influence.
+9;Error404-PG-4;1;He co-founded Studio Ghibli and serves as its honorary chairman.
+</D0045>
+<D0046>37;30
+1;Error404-PG-4;18;Avengers: Endgame. '''Avengers: Endgame''' is a 2019 American superhero film based on the Marvel Comics superhero team the Avengers.
+2;Error404-PG-4;5;Eleven of Marvel Studios' films are among the 50 highest-grossing films of all time.
+3;Error404-PG-4;4;The Marvel Cinematic Universe (MCU) centers on a series of American superhero films produced by Marvel Studios based on characters that appear in publications by Marvel Comics.
+4;Error404-PG-4;4;The films have been in production since 2007, and in that time Marvel Studios has produced and released 37 films, with at least 8 more in various stages of development.
+5;Error404-PG-4;7;This Phase also includes a total of nine seasons of television series for Disney+.
+6;Error404-PG-4;6;It grossed over $1.5 billion worldwide, setting numerous box office records and becoming the third-highest-grossing film of all time at the time of its release and the highest-grossing film of 2012.
+7;Error404-PG-4;4;The MCU is the shared universe in which all of the films are set.
+8;Error404-PG-4;4;It is the highest-grossing film franchise of all time, having grossed over $32.4 billion at the global box office.
+9;Error404-PG-4;8;They are respectively the fifth and sixth installments in the Avengers film series following Avengers: Endgame (2019), and the 39th and 40th films of the Marvel Cinematic Universe (MCU).
+10;Error404-PG-4;7;The fourth, fifth, and sixth Phases are collectively known as "The Multiverse Saga".
+</D0046>
+<D0047>Three;100
+1;Error404-PG-4;1;Three helicopters sent to rescue the British royal family from Balmoral Castle crash in Scotland after they flew into a superstorm's eye.
+2;Error404-PG-4;15;The main helicopter used in the film is a Westland Widgeon painted in Royal Navy Rescue helicopter colours.
+3;Error404-PG-4;20;Additionally, no pilots require rescue by the Jedi, and it specifies that seventeen individuals boarded the Royal Starship, including Jinn and Kenobi, Binks, Amidala, Panaka, two handmaidens, four pilots, and six guards.
+4;BITEM-PG-1;13;Dennis Quaid as Jack Hall, a NOAA paleoclimatologist.
+5;Error404-PG-4;3;'The Day After Tomorrow''' is a 2004 American science fiction disaster film co-written, co-produced, and directed by Roland Emmerich, based on the 1999 book The Coming Global Superstorm by Art Bell and Whitley Strieber, and starring Dennis Quaid, Jake Gyllenhaal, Sela Ward, Emmy Rossum, and Ian Holm.
+6;Error404-PG-4;20;In the revised second draft, Gunray and Haako do not physically enter Theed during the battle.
+7;Error404-PG-4;1;Tokyo is struck by a giant hailstorm, and astronauts from the International Space Station spot three gigantic superstorms above Canada, Europe, and Siberia.
+8;BITEM-PG-1;13;Jake Gyllenhaal as Sam Hall, Jack's teenage son.
+9;Error404-PG-4;2;'Day After Tomorrow''' () is a 1968 Italian Spaghetti Western film directed by Nick Nostro, written by Mariano De Lope, Simon O'Neill, Giovanni Simonelli and starring Richard Harrison, Pamela Tudor and José Bódalo.
+10;Error404-PG-4;6;The Day After Tomorrow features 416 visual effects shots, with nine effects houses, notably Industrial Light & Magic (ILM), and Digital Domain, and over 1,000 artists, working on the film for over a year.
+</D0047>
+<D0048>Furious 7;100
+1;BITEM-PG-1;6;The Fate of the Furious F9 Fast X
+2;Error404-PG-4;1;'Furious 7''' (also known as '''Fast & Furious 7''') is a 2015 action film directed by James Wan and written by Chris Morgan.
+3;BITEM-PG-1;2;Mose Jakande is portrayed by Djimon Hounsou. , Film appearances: Furious 7
+4;Error404-PG-4;1;It is the sequel to Fast & Furious 6 (2013), a follow-up to The Fast and the Furious: Tokyo Drift (2006), and the seventh installment in the Fast & Furious franchise.
+5;BITEM-PG-1;1;Furious 7 (also known as Fast & Furious 7) is a 2015 action film directed by James Wan and written by Chris Morgan.
+6;Error404-PG-4;4;Because of Jakob, Mr. Nobody takes a notice of Dom and his team during the events of Fast & Furious, Fast Five, and Fast & Furious 6, leading him to wanting to recruit the team in helping to capture Mose Jakande, a mercenary and terrorist coveting the God's Eye, a program capable of tracking a specific individual using anything on a digital network, and its creator, Ramsey.
+</D0048>
+<D0049>four;33
+1;Error404-PG-4;16;'The Fast and the Furious: Tokyo Drift''' is a 2006 action film directed by Justin Lin and written by Chris Morgan.
+2;Error404-PG-4;1;His films have grossed over US$3 billion worldwide .
+3;Error404-PG-4;16;It is a standalone sequel to The Fast and the Furious (2001) and 2 Fast 2 Furious (2003), and the third installment in the Fast & Furious franchise.
+4;Error404-PG-4;16;The Fast and the Furious: Tokyo Drift. ''
+5;Error404-PG-4;1;He is best known for his directorial work on Better Luck Tomorrow (2002), the Fast & Furious franchise from The Fast and the Furious: Tokyo Drift (2006) to Fast & Furious 6 (2013) and F9 (2021), and Star Trek Beyond (2016).
+6;Error404-PG-4;1;Justin Lin (, born October 11, 1971) is a Taiwanese-American film and television director, producer, and screenwriter.
+7;Error404-PG-4;16;A third Fast & Furious film was confirmed in June 2005, when Lin was selected as director.
+8;Error404-PG-4;16;Morgan was hired after an open call soon after, thus marking the first film in the franchise's longtime association with Lin, Morgan, actor Sung Kang, and composer Brian Tyler.
+9;Error404-PG-4;16;Within the story's continuity, the film is set between Fast & Furious 6 (2013) and Furious 7 (2015).
+10;Error404-PG-4;16;Principal photography began in August 2005 and lasted until that November, with filming locations including Los Angeles and Tokyo, making Tokyo Drift the first film in the franchise to feature an international filming location.
+</D0049>
+<D0050>Fast X;100
+1;Error404-PG-4;3;The series moved towards heists and espionage with Fast Five (2011), which was followed by five sequels in that genre, the most recent of which, Fast X, was released on May 19, 2023.
+2;Error404-PG-4;1;Fast X. '''Fast X''' (also known as '''Fast & Furious 10''') is a 2023 American action film directed by Louis Leterrier from a screenplay by Dan Mazeau and Justin Lin, both of whom also co-wrote the story with Zach Dean.
+3;Error404-PG-4;1;The sequel to F9 (2021), it is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise.
+4;Error404-PG-4;2;F9 (film. '''F9''' (also known as '''F9: The Fast Saga''' or '''Fast & Furious 9''') is a 2021 action film directed by Justin Lin, who co-wrote the screenplay with Daniel Casey.
+5;Error404-PG-4;3;'Fast & Furious''' (also known as '''The Fast and the Furious''') is an American action media franchise centered on a series of films revolving around street racing, heists, and spies.
+6;Error404-PG-4;2;The sequel to The Fate of the Furious (2017), it is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise.
+</D0050>
+<D0051>Murph;73
+1;Error404-PG-4;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+2;Error404-PG-4;3;Joseph Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald.
+3;Error404-PG-4;2;Cooper accepts against Murph's wishes and promises to return.
+4;Error404-PG-4;1;Anne Hathaway, as Dr. Amelia Brand, Professor Brand's daughter and NASA scientist aboard the Endurance mission, is responsible for conducting planet colonization.
+</D0051>
+<D0052>Murph;100
+1;Error404-PG-4;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+2;Error404-PG-4;3;Joseph Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald.
+3;Error404-PG-4;2;Cooper accepts against Murph's wishes and promises to return.
+</D0052>
+<D0053>10 years old;71
+1;BITEM-PG-1;4;In the mid-21st century, humanity faces extinction due to dust storms and widespread crop blights.
+2;Error404-PG-4;8;By the time they leave the planet, Cooper and Brand discover that 23 years have elapsed on the Endurance.
+3;BITEM-PG-1;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+4;BITEM-PG-1;2;Also appearing are Josh Stewart as the voice of CASE, Leah Cairns as Lois, Tom's wife, Liam Dickinson as Coop, Tom's son, David Oyelowo and Collette Wolfe, respectively, as school principal and teacher Ms. Hanley, Francis X. McCarthy as farmer "Boots", William Devane as Williams, another NASA member, Elyes Gabel as Cooper Station administrator, Lennart Nowak as Tom's cousin, and Jeff Hephner as Cooper Station doctor.
+5;BITEM-PG-1;11;At the age of 20, Cooper was offered one of the lead roles in the film Project X. He, Thomas Mann and Jonathan Daniel Brown were three unknown actors when cast in the film.
+6;Error404-PG-4;14;He reunites with Murph, now elderly and on her deathbed, who tells him to seek out Brand.
+7;BITEM-PG-1;1;Ellen Burstyn as elderly Murph Mackenzie Foy as 10-year-old Murph John Lithgow as Donald, Cooper's elderly father-in-law Michael Caine as Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions Casey Affleck as Tom Cooper, Joseph's son, who eventually takes charge of his father's farm Timothée Chalamet as 15-year-old Tom Wes Bentley as Doyle, a high-ranking NASA member, and Endurance crew member Bill Irwin as TARS (voice and puppetry) and CASE (puppetry), robots assigned to assist the crew of the Endurance Topher Grace as Getty, Murph's colleague and love interest David Gyasi as Professor Romilly, a high-ranking NASA member, and Endurance crew member Matt Damon as Dr. Mann, a NASA astronaut sent to an icy planet during the Lazarus program
+8;Error404-PG-4;14;With insufficient fuel, Cooper and Brand resort to a slingshot around Gargantua, which costs them 51 years due to time dilation.
+9;BITEM-PG-1;1;Anne Hathaway, as Dr. Amelia Brand, Professor Brand's daughter and NASA scientist aboard the Endurance mission, is responsible for conducting planet colonization.
+10;BITEM-PG-1;4;Joseph Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald.
+</D0053>
+<D0054>The Odyssey;45
+1;Error404-PG-4;2;He is currently directing his follow-up film, The Odyssey (2026), an adaptation of Homer's epic poem starring Matt Damon as Odysseus.
+2;Error404-PG-4;2;Three years later he directed the science fiction film Tenet (2020).
+3;Error404-PG-4;2;Two years later, he directed The Dark Knight Rises (2012), which grossed a worldwide total at the box office of over $1 billion.
+4;Error404-PG-4;2;In 2017, Nolan directed the war film Dunkirk, for which he received his first nomination for the Academy Award for Best Director.
+5;Error404-PG-4;2;His next feature was Oppenheimer (2023), a biopic centered on J. Robert Oppenheimer, with Cillian Murphy starring as the titular character, the film won the Academy Award for Best Picture and he won Best Director.
+</D0054>
+<D0055>Tomorrowland;100
+1;BITEM-PG-1;1;and was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;Error404-PG-4;3;The Jungle Book held its world premiere at the El Capitan Theatre on April 4, 2016.
+3;BITEM-PG-1;1;Despite owning the trademark to the word "Tomorrowland" in the United States since 1970, Disney released the film in the United Kingdom as Tomorrowland: A World Beyond, and as Project T in several European markets, including the Netherlands, Belgium, and Luxembourg, because ID&T had previously registered the trademark in 2005, for their electronic musical festival of the same name.
+4;BITEM-PG-1;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+5;Error404-PG-4;6;The Way of Water, alongside the forthcoming sequels, was released in Dolby Vision.
+6;BITEM-PG-1;2;The film was released in the Dolby Vision format in Dolby Cinema in the United States, and is the first film to be released in Dolby Vision 3D (in a few select theaters in New York City and Chicago).
+7;Error404-PG-4;6;Avatar: The Way of Waters world premiere was held on December 6, 2022, at the Odeon Luxe Leicester Square in London.
+8;Error404-PG-4;1;The film was released on May 22, 2015, in theaters and IMAX, and was the first film to be released in Dolby Vision format in Dolby Cinema.
+</D0055>
+<D0056>Hoth;100
+1;Error404-PG-4;4;The Rebel Alliance has been forced to flee its base on Yavin 4 and establish a new one on the ice planet of Hoth.
+2;Error404-PG-4;1;One probe locates the rebel base on the ice planet Hoth.
+3;BITEM-PG-1;12;The Rebel Base was an installation on the planet Barkhesh during the Galactic Civil War operated by the Barkhesh Resistance.
+4;BITEM-PG-1;5;The Echo Base was the Rebel Alliance facility established on Hoth after the Battle of Yavin.
+5;BITEM-PG-1;2;The Rebel Alliance established its secret headquarters on Hoth during the Galactic Civil War following the Battle of Yavin, in a series of ice caves that came to be known as Echo Base.
+6;BITEM-PG-1;1;The Echo Base was the facility established by the Rebel Alliance on the frigid planet of Hoth in the wake of the Battle of Yavin, so named due to its strange acoustics.
+7;Error404-PG-4;9;They established their new headquarters on the jungle moon Yavin 4, a location that was already in use by Jan Dodonna's rebel cell.
+8;BITEM-PG-1;12;The Rebel Base appears in the 1998 video game Star Wars: Rogue Squadron.
+</D0056>
+<D0057>Chewbacca;64
+1;Error404-PG-4;3;The Falcon is discovered and boarded by Han Solo and Chewbacca.
+2;Error404-PG-4;2;She sent Rey, along with Chewbacca and R2-D2, to Ahch-To, where the young girl found Skywalker among the refuge of the first Jedi temple.
+3;Error404-PG-4;1;That all changed when a scavenger, Rey, discovered the Skywalker lightsaber and ultimately came to train under Luke Skywalker and his twin sister Leia Organa to combat Kylo Ren and the First Order during a war against the Imperial successors.
+4;Error404-PG-4;3;The crew travels to the planet Takodana and meets with cantina owner Maz Kanata, who offers help getting BB-8 to the Resistance.
+5;Error404-PG-4;3;Aboard the Falcon, Han determines that BB-8's map is incomplete.
+6;Error404-PG-4;3;Rey denies the lightsaber at Maz's offering and flees into the woods.
+</D0057>
+<D0058>"I am one with the Force, and the Force is with me.";90
+1;BITEM-PG-1;2;"I'm one with the Force, the Force is with me."
+2;BITEM-PG-1;3;/>"The Force is with me...and I am one with the Force."
+3;Error404-PG-4;2;He added his own voice to the noise and he began repeating his mantra, "I am one with the Force, and the Force is with me".
+4;Error404-PG-4;3;As his friend died in his arms, Malbus began repeating Îmwe's mantra, “I am one with the Force, and the Force is with me.”
+</D0058>
+<D0059>Ewan McGregor;100
+1;Error404-PG-4;1;The film stars Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid, Samuel L. Jackson, Christopher Lee, Anthony Daniels, Kenny Baker, and Frank Oz.
+2;BITEM-PG-1;13;Phases One, Two, and Three make up "The Infinity Saga" storyline.
+3;Error404-PG-4;2;Ewan McGregor as Obi-Wan Kenobi, a Jedi Master, general of the Galactic Republic and Anakin's best friend and mentor.
+</D0059>
+<D0060>Kashyyyk;61
+1;Error404-PG-4;12;On Kessel, Chewbacca frees several other Wookiees from slavery.
+2;Error404-PG-4;4;In Star Wars, Chewbacca and Han Solo are smugglers who accept a charter to transport Luke Skywalker and Obi-Wan Kenobi to the planet Alderaan aboard their ship, the Millennium Falcon.
+3;Error404-PG-4;4;After the battle, Leia acknowledges Chewbacca for his achievements alongside Luke and Han.
+4;Error404-PG-4;4;When they find the planet obliterated by the Death Star, Chewbacca and Han help their passengers rescue Princess Leia and take her to the Rebel base on Yavin 4.
+5;Error404-PG-4;6;On the ice planet Hoth, Luke Skywalker is scouting the vast wastelands when he is attacked by a wampa.
+6;Error404-PG-4;20;It was named after Rebellion hero Han Solo, who was killed by his son, Kylo Ren during the Battle of Starkiller Base, which resulted in the star's formation.
+7;BITEM-PG-1;2;It was located in the Hovan system of the Senex sector.
+8;Error404-PG-4;20;Solo was the unofficial name of the micro-star hyperspatial singularity that was created when the planet Ilum imploded during the war between the First Order and the Resistance.
+9;Error404-PG-4;12;He was captured by Imperials on the planet Mimban, and is being held captive in a small pit.
+10;Error404-PG-4;2;At some point in his smuggling career, he partnered with Katya M'Buele as part of a Corellian rim-runner's crew.
+</D0060>
+<D0061>Homecoming;82
+1;Error404-PG-4;5;The film was released on December 17, 2021.
+2;Error404-PG-4;8;Three MCU films starring Tom Holland as Spider-Man were released between the 2010s and the 2020s: Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021), with a fourth MCU entry, Spider-Man: Brand New Day, scheduled for release in 2026.
+3;Error404-PG-4;15;Producer Amy Pascal described the film as "the culmination of the Homecoming trilogy".
+4;Error404-PG-4;16;This relationship produced Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021), while Sony separately re-developed Venom (2018) as a stand-alone film with its own fictional universe.
+5;Error404-PG-4;3;The phase began in May 2016 with the release of Captain America: Civil War and concluded in July 2019 with the release of Spider-Man: Far From Home.
+6;BITEM-PG-1;2;Three MCU films starring Tom Holland as Spider-Man were released between the 2010s and the 2020s: Spider-Man: Homecoming (2017), Spider-Man: Far From Home (2019), and Spider-Man: No Way Home (2021), with a fourth MCU entry, Spider-Man: Brand New Day, scheduled for release in 2026.
+7;BITEM-PG-1;3;Spider-Man: Far From Home premiered at the TCL Chinese Theatre in Hollywood, Los Angeles, on June 26, 2019, and was theatrically released in the United States on July 2, as the final film in Phase Three of the MCU.
+8;BITEM-PG-1;4;It is the sequel to Spider-Man: Homecoming (2017) and Spider-Man: Far From Home (2019), and the 27th film in the Marvel Cinematic Universe (MCU).
+</D0061>
+<D0062>Stardust;100
+1;Error404-PG-4;8;The Heroes of Rogue One Jyn Erso "Stardust" Life with the Partisans Contact with the Rebellion Mission to Scarif Young Cassian Andor A Trail of Kyber Crystals Looking for Galen Erso The Battle of Scarif Baze Malbus Chirrut Îmwe Bodhi
+2;Error404-PG-4;1;Erso's mother was killed when Director Orson Krennic, the commander of the Death Star project, kidnapped her father&mdash,who affectionately referred to his daughter as "Stardust."
+3;Error404-PG-4;1;Jyn Erso, known by the aliases Kestrel Dawn, Jyn Dawn, Tanith Ponta, Liana Hallik, Lyra Rallik, and Nari McVee, was a human female soldier and former criminal who became a pivotal member of the Alliance to Restore the Republic when she led Rogue One in stealing the Death Star plans during the Battle of Scarif.
+4;BITEM-PG-1;15;As indicated by the name, it includes a scale model of the Rogue One founder Jyn Erso.
+5;BITEM-PG-1;15;The Jyn Erso Commander Expansion (SWL31) is an expansion to Star Wars: Legion, an asymmetrical two player infantry-based wargame published by Fantasy Flight Games.
+6;BITEM-PG-1;3;Erso's mother was killed when Director Orson Krennic, the commander of the Death Star project, kidnapped her father—who affectionately referred to his daughter as "Stardust."
+7;BITEM-PG-1;15;It was first announced on November 19, 2018 and released on February 21, 2019.
+</D0062>
+<D0063>AT-AT;67
+1;Error404-PG-4;1;Alerted to the rebels' location, the Empire launches a large-scale attack using AT-AT walkers, forcing the rebels to evacuate the base.
+2;BITEM-PG-1;2;General Veers led the assault personally, commanding his AT-AT walker Blizzard 1, and crushed the Rebel defenses.
+3;BITEM-PG-1;6;Go now!"—Luke Skywalker, Star Wars: The Empire Strikes Back In The Battle of Hoth, the fifth Force Pack in The Hoth Cycle for Star Wars™: The Card Game, massive and heavily armored Imperial AT-ATs march forward in inexorable waves while Rebel snowspeeder pilots employ daring group tactics to slow their advance.
+4;Error404-PG-4;2;The AT-ATs in The Empire Strikes Back and the brief appearance in Return of the Jedi were filmed via stop motion.
+5;BITEM-PG-1;6;Will the Empire's AT-ATs and stormtrooper legions surround, siege, and destroy the last remnants of the Rebellion?
+6;BITEM-PG-1;2;Skywalker and his wingmen destroyed three AT-STs threatening the pilot before rescuing him.
+7;BITEM-PG-1;7;This level 1 early reader retells classic scenes from Star Wars: The Empire Strikes Back as the rebels face off against the Empires dreaded mechanical AT-ATs.
+8;BITEM-PG-1;2;of AT-ST walkers, AT-ARs, and a few AT-ATs moved toward the Outpost Beta ion cannon to prevent any Star Destroyer casualties in the space battle.
+9;BITEM-PG-1;1;Alerted to the rebels' location, the Empire launches a large-scale attack using AT-AT walkers, forcing the rebels to evacuate the base.
+10;Error404-PG-4;3;The AAC-2 hovertank was used during an Imperial strike on a Rebel base on Yavin 4.
+</D0063>
+<D0064>Rogue One;90
+1;Error404-PG-4;1;'Rogue One: A Star Wars Story''' is a 2016 American epic space opera film directed by Gareth Edwards and written by Chris Weitz and Tony Gilroy.
+2;Error404-PG-4;2;Rogue One grossed $1 billion worldwide, becoming the second-highest-grossing film of 2016, and received two Academy Award nominations for Best Sound Mixing and Best Visual Effects.
+3;Error404-PG-4;2;Rogue One: A Star Wars Story premiered in Los Angeles on December 10, 2016, and was theatrically released in the United States on December 16.
+4;Error404-PG-4;1;Set a week before the events of Star Wars, Rogue One follows rebels who steal the schematics for the Galactic Empire's ultimate weapon, the Death Star.
+5;Error404-PG-4;3;'Solo: A Star Wars Story''' is a 2018 American space Western film directed by Ron Howard and written by Jonathan and Lawrence Kasdan.
+6;Error404-PG-4;1;Produced by Lucasfilm and distributed by Walt Disney Studios Motion Pictures, it is the first Star Wars anthology film and a prequel to Star Wars (1977).
+7;Error404-PG-4;3;The film tells the origin story of Han Solo and Chewbacca, who join a heist within the criminal underworld ten years prior to the events of the first Star Wars film (1977).
+8;Error404-PG-4;3;Produced by Lucasfilm, and distributed by Walt Disney Studios Motion Pictures, it is the second Star Wars anthology film, following Rogue One (2016).
+</D0064>
+<D0065>Brock Rumfitt;51
+1;Error404-PG-4;3;Jiang Wen, named 姜文 in Chinese, is a filmmaker who played Baze Malbus in the 2016 anthology film Rogue One: A Star Wars Story.
+2;Error404-PG-4;1;Rather than getting killed almost immediately, she runs to the conference room along with Wat Tambor only to be cut down by Vader after Tambor's death.
+3;Error404-PG-4;1;''Star Wars'': Episode III ''Revenge of the Sith Illustrated Screenplay'' Shu mai (燒賣) is also the name of a popular type of Chinese dumpling.
+4;Error404-PG-4;1;Shu Mai first appeared in Star Wars canon in the 2002 film Star Wars: Episode II Attack of the Clones.
+5;Error404-PG-4;3;Jiang had won over a dozen other awards for writing, directing, and starring in numerous productions, including winning Best Actor twice at China's Hundred Flowers Awards in the 1980s and Best Supporting Actor at the Hong Kong Film Awards for his role in the 1997 film The Soong Sisters.
+6;Error404-PG-4;2;when the movie was released in mainland China in January 2016, the poster design there significantly diminishes John Boyega's character and entirely removes his Latino co-star Oscar Isaac as Poe Dameron and the non-human characters Chewbacca and Maz Kanata.
+7;Error404-PG-4;1;In the illustrated screenplay of Revenge of the Sith, Mai lasts longer than in the final cut.
+8;Error404-PG-4;2;Its premiere inspirited Star Wars fans in mainland China, who have been able to build up sizeable online fan communities and kept up with US-based Star Wars news via websites such as the unofficial encyclopedia Wookieepedia.
+9;Error404-PG-4;2;While the original trilogy entered China in the aftermath of the Cultural Revolution in various unofficial ways, Lucasfilm officially collaborated with Chinese companies via Disney with the release of the sequel trilogy in the late 2010s.
+</D0065>

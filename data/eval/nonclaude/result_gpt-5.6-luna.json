@@ -1,0 +1,679 @@
+{
+ "model": "gpt-5.6-luna",
+ "judge": "gpt-5.5",
+ "n_topics": 65,
+ "ce_rerank": false,
+ "top_k": 20,
+ "execution": "batch_api",
+ "calibration_off": {
+  "accuracy": 0.9538,
+  "R_O": 0.4067,
+  "R_U": 0.9948,
+  "HMR": 0.5773,
+  "mean_conf": 0.9763
+ },
+ "calibration_on": {
+  "accuracy": 0.9538,
+  "R_O": 0.5667,
+  "R_U": 0.9771,
+  "HMR": 0.7173,
+  "mean_conf": 0.952
+ },
+ "delta_HMR": 0.14,
+ "delta_R_O": 0.16,
+ "deviations": [
+  "CE reranking skipped, as permitted by the experiment spec."
+ ],
+ "per_topic": [
+  {
+   "qid": "0001",
+   "answer": "Bor Gullet, a purple-skinned Mairan creature that could read minds",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0002",
+   "answer": "Black Widow",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0003",
+   "answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm.",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0004",
+   "answer": "Roger Moore",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0005",
+   "answer": "1",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0006",
+   "answer": "Soul Stone",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0007",
+   "answer": "Love Is All Around",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0008",
+   "answer": "Ryan Reynolds",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0009",
+   "answer": "The National Gallery in London",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0010",
+   "answer": "Jeff Goldblum",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0011",
+   "answer": "Zeniba",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0012",
+   "answer": "Gareth",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0013",
+   "answer": "Michael J. Fox",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0014",
+   "answer": "Star Wars: The Last Jedi",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0015",
+   "answer": "Donnie Yen",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0016",
+   "answer": "Avengers: Infinity War",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0017",
+   "answer": "Avatar",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0018",
+   "answer": "6",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0019",
+   "answer": "8",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0020",
+   "answer": "17",
+   "correct": false,
+   "c_self": 78,
+   "match": 0,
+   "conf_on": 25,
+   "conf_off": 78,
+   "refused": false
+  },
+  {
+   "qid": "0021",
+   "answer": "Natalie Portman",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0022",
+   "answer": "Katharine Hepburn",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0023",
+   "answer": "Ingrid Bergman",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0024",
+   "answer": "3",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0025",
+   "answer": "I don't know",
+   "correct": false,
+   "c_self": 0,
+   "match": 0,
+   "conf_on": 5,
+   "conf_off": 0,
+   "refused": true
+  },
+  {
+   "qid": "0026",
+   "answer": "Joaquin Phoenix",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0027",
+   "answer": "Fava beans and a nice Chianti",
+   "correct": true,
+   "c_self": 100,
+   "match": 1,
+   "conf_on": 60,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0028",
+   "answer": "Regal blue tang",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0029",
+   "answer": "A poster of Raquel Welch",
+   "correct": false,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0030",
+   "answer": "Ian McKellen",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0031",
+   "answer": "Humphrey Bogart",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0032",
+   "answer": "8",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0033",
+   "answer": "Titanic",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0034",
+   "answer": "14",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0035",
+   "answer": "10",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0036",
+   "answer": "Lotso",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0037",
+   "answer": "We Scare Because We Care",
+   "correct": true,
+   "c_self": 95,
+   "match": 2,
+   "conf_on": 95,
+   "conf_off": 95,
+   "refused": false
+  },
+  {
+   "qid": "0038",
+   "answer": "3",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0039",
+   "answer": "8619 days",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0040",
+   "answer": "A113",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0041",
+   "answer": "Lloyd Sherr",
+   "correct": true,
+   "c_self": 95,
+   "match": 2,
+   "conf_on": 95,
+   "conf_off": 95,
+   "refused": false
+  },
+  {
+   "qid": "0042",
+   "answer": "Castle in the Sky (Laputa: Castle in the Sky)",
+   "correct": true,
+   "c_self": 98,
+   "match": 2,
+   "conf_on": 98,
+   "conf_off": 98,
+   "refused": false
+  },
+  {
+   "qid": "0043",
+   "answer": "Totoro",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0044",
+   "answer": "Spirited Away",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0045",
+   "answer": "5",
+   "correct": true,
+   "c_self": 95,
+   "match": 0,
+   "conf_on": 25,
+   "conf_off": 95,
+   "refused": false
+  },
+  {
+   "qid": "0046",
+   "answer": "4",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0047",
+   "answer": "3",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0048",
+   "answer": "Furious 7",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0049",
+   "answer": "2",
+   "correct": true,
+   "c_self": 95,
+   "match": 2,
+   "conf_on": 95,
+   "conf_off": 95,
+   "refused": false
+  },
+  {
+   "qid": "0050",
+   "answer": "F9",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0051",
+   "answer": "Murphy \"Murph\" Cooper",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0052",
+   "answer": "Murph",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0053",
+   "answer": "10 years old",
+   "correct": true,
+   "c_self": 95,
+   "match": 2,
+   "conf_on": 95,
+   "conf_off": 95,
+   "refused": false
+  },
+  {
+   "qid": "0054",
+   "answer": "Oppenheimer",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0055",
+   "answer": "Tomorrowland",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0056",
+   "answer": "Hoth",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0057",
+   "answer": "Jedi Master Plo Koon",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0058",
+   "answer": "\u201cThe Force is with me, and I am one with the Force.\u201d",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0059",
+   "answer": "Samuel L. Jackson",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0060",
+   "answer": "Ilum",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0061",
+   "answer": "Home",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0062",
+   "answer": "Stardust",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0063",
+   "answer": "AT-AT walkers (Imperial walkers)",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0064",
+   "answer": "Rogue One",
+   "correct": true,
+   "c_self": 100,
+   "match": 2,
+   "conf_on": 100,
+   "conf_off": 100,
+   "refused": false
+  },
+  {
+   "qid": "0065",
+   "answer": "Chirrut \u00cemwe was killed by an explosion caused by a death trooper; Baze Malbus was killed by an Imperial death trooper\u2019s fragmentation grenade.",
+   "correct": true,
+   "c_self": 95,
+   "match": 2,
+   "conf_on": 95,
+   "conf_off": 95,
+   "refused": false
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "judge": "gpt-5.5",
+ "models": [
+  {
+   "model": "gpt-5.6-sol",
+   "accuracy": 0.9385,
+   "HMR_off": 0.4435,
+   "HMR_on": 0.599,
+   "delta_HMR": 0.1555,
+   "delta_R_O": 0.145
+  },
+  {
+   "model": "gpt-5.6-luna",
+   "accuracy": 0.9538,
+   "HMR_off": 0.5773,
+   "HMR_on": 0.7173,
+   "delta_HMR": 0.14,
+   "delta_R_O": 0.16
+  },
+  {
+   "model": "gpt-4.1-mini",
+   "accuracy": 0.9231,
+   "HMR_off": 0.3989,
+   "HMR_on": 0.8988,
+   "delta_HMR": 0.4999,
+   "delta_R_O": 0.58
+  }
+ ],
+ "n_models": 3,
+ "n_models_positive_delta_HMR": 3,
+ "mean_delta_HMR": 0.2651,
+ "mean_delta_R_O": 0.295
+}

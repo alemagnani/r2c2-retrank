@@ -1,0 +1,847 @@
+{
+ "0001": {
+  "answer": "Bor Gullet",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.",
+  "feats": {
+   "margin": 3.4163260459899902,
+   "span": 10.167739868164062,
+   "null": 6.751413822174072,
+   "ce": 4.16002893447876,
+   "entail": 0.015385642383147812
+  }
+ },
+ "0002": {
+  "answer": "Black Widow",
+  "run": "BITEM-PG-1",
+  "prank": 3,
+  "nugget": "She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).",
+  "feats": {
+   "margin": 6.837846755981445,
+   "span": 9.516317367553711,
+   "null": 2.6784706115722656,
+   "ce": 6.545017719268799,
+   "entail": 0.9972313809534737
+  }
+ },
+ "0003": {
+  "answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: \"A robot may not harm humanity, or, by inaction, allow humanity to come to harm.\" The premise of robots turning on their creators, originating in Karel \u010capek's play R.U.R.",
+  "feats": {
+   "margin": 8.795278549194336,
+   "span": 11.800817489624023,
+   "null": 3.0055389404296875,
+   "ce": 4.066743850708008,
+   "entail": 0.4315482353568016
+  }
+ },
+ "0004": {
+  "answer": "Jake Lombard",
+  "run": "BITEM-PG-1",
+  "prank": 3,
+  "nugget": "Worth developed the equipment for the scene, which included a 1 in parachute pack that could be concealed beneath the suit to give the impression of the missing parachute, and equipment to prevent the freefalling cameraman from suffering whiplash while opening his parachute, they brought in stuntman Jake Lombard to test it all.",
+  "feats": {
+   "margin": 6.958982467651367,
+   "span": 11.638465881347656,
+   "null": 4.679483413696289,
+   "ce": 3.058465003967285,
+   "entail": 0.004803029247362549
+  }
+ },
+ "0005": {
+  "answer": "one",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.",
+  "feats": {
+   "margin": 10.115122318267822,
+   "span": 11.233760833740234,
+   "null": 1.118638515472412,
+   "ce": 8.552093505859375,
+   "entail": 0.03587632970849318
+  }
+ },
+ "0006": {
+  "answer": "Black Widow",
+  "run": "BITEM-PG-2",
+  "prank": 12,
+  "nugget": "Scarlett Johansson as Natasha Romanoff / Black Widow:An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.",
+  "feats": {
+   "margin": 2.3980913162231445,
+   "span": 6.440630912780762,
+   "null": 4.042539596557617,
+   "ce": 2.001563787460327,
+   "entail": 0.0019828350723311242
+  }
+ },
+ "0007": {
+  "answer": "1967",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song \"Love Is All Around\", titling it \"Christmas Is All Around\".",
+  "feats": {
+   "margin": 0.38186582922935486,
+   "span": 0.36892497539520264,
+   "null": -0.012940853834152222,
+   "ce": 4.792359352111816,
+   "entail": 0.00018874276056745119
+  }
+ },
+ "0008": {
+  "answer": "Ryan Reynolds",
+  "run": "BITEM-PG-2",
+  "prank": 7,
+  "nugget": "He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns.",
+  "feats": {
+   "margin": 3.3090052604675293,
+   "span": 8.632865905761719,
+   "null": 5.3238606452941895,
+   "ce": 4.854977607727051,
+   "entail": 0.996522490064726
+  }
+ },
+ "0009": {
+  "answer": "National Gallery",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.",
+  "feats": {
+   "margin": 10.370788812637329,
+   "span": 12.098661422729492,
+   "null": 1.727872610092163,
+   "ce": 7.839833736419678,
+   "entail": 0.00017128284084065828
+  }
+ },
+ "0010": {
+  "answer": "Christopher Lloyd",
+  "run": "BITEM-PG-1",
+  "prank": 6,
+  "nugget": "Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.",
+  "feats": {
+   "margin": 8.065826416015625,
+   "span": 13.2086763381958,
+   "null": 5.142849922180176,
+   "ce": 6.768851280212402,
+   "entail": 0.009293635435922938
+  }
+ },
+ "0011": {
+  "answer": "Chihiro",
+  "run": "BITEM-PG-1",
+  "prank": 8,
+  "nugget": "Along with its function within the ostensible coming of age theme, Yubaba's act of taking Chihiro's name and replacing it with Sen (an alternate reading of chi, the first character in Chihiro's name, ) can be thought of as symbolic of capitalism's single-minded concern with value.",
+  "feats": {
+   "margin": -0.9950222969055176,
+   "span": 4.82702112197876,
+   "null": 5.822043418884277,
+   "ce": 0.4657227396965027,
+   "entail": 0.869560784888639
+  }
+ },
+ "0012": {
+  "answer": "Gareth",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "During Hamish's speech, Gareth suffers a fatal heart attack.",
+  "feats": {
+   "margin": 4.755679130554199,
+   "span": 10.740474700927734,
+   "null": 5.984795570373535,
+   "ce": 4.601037979125977,
+   "entail": 0.003900338529608454
+  }
+ },
+ "0013": {
+  "answer": "Michael J. Fox",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "Marty Jr.",
+  "feats": {
+   "margin": 8.44316577911377,
+   "span": 11.632847785949707,
+   "null": 3.1896820068359375,
+   "ce": 7.123892784118652,
+   "entail": 5.497925957646254e-05
+  }
+ },
+ "0014": {
+  "answer": "Star Wars: The Force Awakens",
+  "run": "BITEM-PG-2",
+  "prank": 5,
+  "nugget": "Abrams was named director of the first episode in the trilogy, Star Wars: The Force Awakens, in January 2013.",
+  "feats": {
+   "margin": -12.167946338653564,
+   "span": -2.5129876136779785,
+   "null": 9.654958724975586,
+   "ce": 8.255888938903809,
+   "entail": 0.0009774283370538486
+  }
+ },
+ "0015": {
+  "answer": "Donnie Yen",
+  "run": "BITEM-PG-2",
+  "prank": 1,
+  "nugget": "Chirrut \u00cemwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.",
+  "feats": {
+   "margin": 1.2651152610778809,
+   "span": 6.93764591217041,
+   "null": 5.672530651092529,
+   "ce": 6.140374183654785,
+   "entail": 0.07390109059800085
+  }
+ },
+ "0016": {
+  "answer": "2017",
+  "run": "BITEM-PG-1",
+  "prank": 9,
+  "nugget": "Principal photography began on January 23, 2017, under the working title Mary Lou, at Pinewood Atlanta Studios in Fayette County, Georgia, with Trent Opaloch as director of photography.",
+  "feats": {
+   "margin": -3.127411365509033,
+   "span": 3.044158935546875,
+   "null": 6.171570301055908,
+   "ce": 4.7718586921691895,
+   "entail": 9.842556711222736e-05
+  }
+ },
+ "0017": {
+  "answer": "Zootopia",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "In June 2020, due the worldwide closure of cinemas during the COVID-19 pandemic and limits on which films played, Zootopia returned to 280 theaters\u2014mostly drive-ins\u2014and grossed $393,600.",
+  "feats": {
+   "margin": 1.4616541862487793,
+   "span": 6.679376602172852,
+   "null": 5.217722415924072,
+   "ce": 3.647001028060913,
+   "entail": 0.0023443842775034275
+  }
+ },
+ "0018": {
+  "answer": "2005\u20132012",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "He became a high-profile director with The Dark Knight trilogy (2005\u20132012) and found further success with The Prestige (2006), Inception (2010), Interstellar (2014) and Dunkirk (2017).",
+  "feats": {
+   "margin": -8.33174729347229,
+   "span": -4.432485580444336,
+   "null": 3.899261713027954,
+   "ce": 4.483542442321777,
+   "entail": 0.03522634355966213
+  }
+ },
+ "0019": {
+  "answer": "two",
+  "run": "BITEM-PG-1",
+  "prank": 17,
+  "nugget": "He went on to appear in two different films for the rest of 2006 before taking up Haikei, Chichiue-sama (\u62dd\u5553\u3001\u7236\u4e0a\u69d8, Dear Father) on January 11, 2007.",
+  "feats": {
+   "margin": -4.3632283210754395,
+   "span": 2.215735912322998,
+   "null": 6.5789642333984375,
+   "ce": 2.9105868339538574,
+   "entail": 0.9962483946105994
+  }
+ },
+ "0020": {
+  "answer": "2012",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "Sobieski continued to work in films and on television until retiring from acting in 2012, after which she focused on her children and art career.",
+  "feats": {
+   "margin": -5.554014444351196,
+   "span": -3.338205099105835,
+   "null": 2.2158093452453613,
+   "ce": 6.137836456298828,
+   "entail": 0.36867904651389743
+  }
+ },
+ "0021": {
+  "answer": "June 9, 1981",
+  "run": "BITEM-PG-1",
+  "prank": 5,
+  "nugget": "Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padm\u00e9 Amidala in the prequel trilogy.",
+  "feats": {
+   "margin": 5.471362113952637,
+   "span": 7.559475898742676,
+   "null": 2.088113784790039,
+   "ce": 4.720922470092773,
+   "entail": 0.000963561319384091
+  }
+ },
+ "0022": {
+  "answer": "Meryl Streep",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "Hepburn won four Academy Awards, the record number for a performer, and received a total of 12 Oscar nominations for Best Actress\u2014a number surpassed only by Meryl Streep.",
+  "feats": {
+   "margin": 6.2037458419799805,
+   "span": 9.408634185791016,
+   "null": 3.204888343811035,
+   "ce": 8.489363670349121,
+   "entail": 0.9676870960169078
+  }
+ },
+ "0023": {
+  "answer": "Meryl Streep",
+  "run": "BITEM-PG-1",
+  "prank": 10,
+  "nugget": "Meryl Streep has received the most nominations in the category\u2014seventeen\u2014and has won twice.",
+  "feats": {
+   "margin": 2.7145631313323975,
+   "span": 4.678489685058594,
+   "null": 1.9639265537261963,
+   "ce": 6.6763505935668945,
+   "entail": 0.010971451916102964
+  }
+ },
+ "0024": {
+  "answer": "four",
+  "run": "BITEM-PG-1",
+  "prank": 8,
+  "nugget": "It has been followed by four sequels: Dead Man's Chest (2006), At World's End (2007), On Stranger Tides (2011), and Dead Men Tell No Tales (2017), with the second installment winning an Oscar for Best Visual Effects in 2007.",
+  "feats": {
+   "margin": -5.872179567813873,
+   "span": -0.5026116967201233,
+   "null": 5.36956787109375,
+   "ce": 4.055772304534912,
+   "entail": 0.058512682202227315
+  }
+ },
+ "0025": {
+  "answer": "May 18",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "May 18 is a 2007 South Korean historical drama film directed by Kim Ji-hoon was released in 27 July 2007, starring Kim Sang-kyung, Ahn Sung-ki, Lee Yo-won and Lee Joon-gi.",
+  "feats": {
+   "margin": -6.301883697509766,
+   "span": -1.3898272514343262,
+   "null": 4.9120564460754395,
+   "ce": -1.3018178939819336,
+   "entail": 0.004249487141379879
+  }
+ },
+ "0026": {
+  "answer": "Joaquin Phoenix",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.",
+  "feats": {
+   "margin": 7.2976274490356445,
+   "span": 11.599974632263184,
+   "null": 4.302347183227539,
+   "ce": 5.79200553894043,
+   "entail": 0.25946331226420843
+  }
+ },
+ "0027": {
+  "answer": "liver \"with some fava beans and a nice Chianti",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver \"with some fava beans and a nice Chianti\" (a \"big Amarone\" in the novel).",
+  "feats": {
+   "margin": 9.140095949172974,
+   "span": 12.456644058227539,
+   "null": 3.3165481090545654,
+   "ce": 3.542858123779297,
+   "entail": 0.011177825617919482
+  }
+ },
+ "0028": {
+  "answer": "blue tang",
+  "run": "BITEM-PG-2",
+  "prank": 2,
+  "nugget": "It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould).",
+  "feats": {
+   "margin": 7.9462432861328125,
+   "span": 12.62791633605957,
+   "null": 4.681673049926758,
+   "ce": 5.42006778717041,
+   "entail": 0.003649776815120998
+  }
+ },
+ "0029": {
+  "answer": "sewage pipe",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.",
+  "feats": {
+   "margin": 6.624408721923828,
+   "span": 10.389272689819336,
+   "null": 3.764863967895508,
+   "ce": 4.181971549987793,
+   "entail": 0.00069319749170264
+  }
+ },
+ "0030": {
+  "answer": "Ian McKellen",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series.",
+  "feats": {
+   "margin": 3.0525007247924805,
+   "span": 9.699886322021484,
+   "null": 6.647385597229004,
+   "ce": 7.758514881134033,
+   "entail": 0.0014549147630617536
+  }
+ },
+ "0031": {
+  "answer": "Humphrey Bogart",
+  "run": "BITEM-PG-2",
+  "prank": 14,
+  "nugget": "Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.",
+  "feats": {
+   "margin": 10.288811206817627,
+   "span": 15.85565185546875,
+   "null": 5.566840648651123,
+   "ce": 2.6734437942504883,
+   "entail": 0.9766105394600632
+  }
+ },
+ "0032": {
+  "answer": "eight",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "And as we drew closer to the shoot date, Danny asked me to step in as the co-director.\" The film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards.",
+  "feats": {
+   "margin": 9.49824857711792,
+   "span": 12.091480255126953,
+   "null": 2.593231678009033,
+   "ce": 8.286399841308594,
+   "entail": 0.9970539228010955
+  }
+ },
+ "0033": {
+  "answer": "Titanic",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "Writer Lewis Abernathy would go on to work with The Abyss director James Cameron and make a memorable appearance in his film Titanic (1997) as Brock Lovett (Bill Paxton)'s colleague Lewis Bodine.",
+  "feats": {
+   "margin": -1.1981842517852783,
+   "span": 2.0462443828582764,
+   "null": 3.2444286346435547,
+   "ce": 6.582830905914307,
+   "entail": 0.0007147822597507829
+  }
+ },
+ "0034": {
+  "answer": "seven",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.",
+  "feats": {
+   "margin": 4.68490195274353,
+   "span": 7.616472244262695,
+   "null": 2.931570291519165,
+   "ce": 4.332119464874268,
+   "entail": 8.662921156744697e-05
+  }
+ },
+ "0035": {
+  "answer": "2019",
+  "run": "BITEM-PG-1",
+  "prank": 7,
+  "nugget": "In July 2019, this position was overtaken by Avengers: Endgame, but with a re-release in China in March 2021, it returned to becoming the highest-grossing film since then.",
+  "feats": {
+   "margin": -1.0376694202423096,
+   "span": 3.7584664821624756,
+   "null": 4.796135902404785,
+   "ce": 3.593430757522583,
+   "entail": 0.002969009274245372
+  }
+ },
+ "0036": {
+  "answer": "Lotso",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.",
+  "feats": {
+   "margin": 5.043313980102539,
+   "span": 6.17584228515625,
+   "null": 1.132528305053711,
+   "ce": 8.28971004486084,
+   "entail": 0.0041747396976796235
+  }
+ },
+ "0037": {
+  "answer": "Monsters, Incorporated",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "(also known as Monsters, Incorporated) is a 2001 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures.",
+  "feats": {
+   "margin": 2.619770050048828,
+   "span": 3.8952114582061768,
+   "null": 1.2754414081573486,
+   "ce": 5.464474678039551,
+   "entail": 0.0012908774657804717
+  }
+ },
+ "0038": {
+  "answer": "two",
+  "run": "BITEM-PG-2",
+  "prank": 8,
+  "nugget": "Then-studio head of Pixar John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.",
+  "feats": {
+   "margin": 0.46324825286865234,
+   "span": 5.628427505493164,
+   "null": 5.165179252624512,
+   "ce": 4.259573936462402,
+   "entail": 0.9812484162283301
+  }
+ },
+ "0039": {
+  "answer": "June 11, 2019",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.",
+  "feats": {
+   "margin": 2.6247329711914062,
+   "span": 5.528586387634277,
+   "null": 2.903853416442871,
+   "ce": 5.253817558288574,
+   "entail": 0.00021998016314598367
+  }
+ },
+ "0040": {
+  "answer": "A113",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.",
+  "feats": {
+   "margin": 6.111489295959473,
+   "span": 10.580076217651367,
+   "null": 4.4685869216918945,
+   "ce": 1.5877230167388916,
+   "entail": 2.442850051473465e-05
+  }
+ },
+ "0041": {
+  "answer": "Lloyd Sherr",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "; Stanley Townsend as: ; Vladimir Trunkov ; Ivan ; Victor Hugo ; Lloyd Sherr as: ; Fillmore ; Tony Trihull, a combat ship ; Paul Dooley as Sarge ; Michel Michelis as Tomber ; Sig Hansen as Crabby the Boat ; Franco Nero as Uncle Topolino.",
+  "feats": {
+   "margin": 5.427283763885498,
+   "span": 13.217891693115234,
+   "null": 7.790607929229736,
+   "ce": 5.938338279724121,
+   "entail": 0.00317098454951969
+  }
+ },
+ "0042": {
+  "answer": "Laputa: Castle in the Sky",
+  "run": "BITEM-PG-1",
+  "prank": 3,
+  "nugget": "He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.",
+  "feats": {
+   "margin": 10.82548999786377,
+   "span": 14.210471153259277,
+   "null": 3.384981155395508,
+   "ce": 7.3867011070251465,
+   "entail": 0.00014691985022994666
+  }
+ },
+ "0043": {
+  "answer": "Sid",
+  "run": "BITEM-PG-1",
+  "prank": 17,
+  "nugget": "The last straw is Woody coming alive while Sid is holding him and telling him to \"play nice\".",
+  "feats": {
+   "margin": 2.70485258102417,
+   "span": 7.542612075805664,
+   "null": 4.837759494781494,
+   "ce": 3.9313907623291016,
+   "entail": 0.0012529410402578732
+  }
+ },
+ "0044": {
+  "answer": "Die Ratten",
+  "run": "BITEM-PG-2",
+  "prank": 15,
+  "nugget": "The fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten.",
+  "feats": {
+   "margin": -3.1532020568847656,
+   "span": 6.665044784545898,
+   "null": 9.818246841430664,
+   "ce": 6.037475109100342,
+   "entail": 0.9911024362149897
+  }
+ },
+ "0045": {
+  "answer": "1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), and Porco Rosso (1992",
+  "run": "BITEM-PG-1",
+  "prank": 2,
+  "nugget": "Miyazaki co-founded Studio Ghibli in 1985, writing and directing films such as Laputa: Castle in the Sky (1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), and Porco Rosso (1992), which were met with critical and commercial success in Japan.",
+  "feats": {
+   "margin": -13.29086184501648,
+   "span": -9.639997482299805,
+   "null": 3.650864362716675,
+   "ce": 5.754284381866455,
+   "entail": 0.0011244054047928633
+  }
+ },
+ "0046": {
+  "answer": "four",
+  "run": "BITEM-PG-2",
+  "prank": 13,
+  "nugget": "The Avengers series is next, with four films on the list.",
+  "feats": {
+   "margin": 1.5978999137878418,
+   "span": 7.237800598144531,
+   "null": 5.6399006843566895,
+   "ce": 2.9736974239349365,
+   "entail": 0.9968850918186092
+  }
+ },
+ "0047": {
+  "answer": "416",
+  "run": "BITEM-PG-1",
+  "prank": 12,
+  "nugget": "The Day After Tomorrow features 416 visual effects shots, with nine effects houses, notably Industrial Light & Magic (ILM), and Digital Domain, and over 1,000 artists, working on the film for over a year.",
+  "feats": {
+   "margin": -8.196979999542236,
+   "span": -5.522730827331543,
+   "null": 2.6742491722106934,
+   "ce": -0.8213597536087036,
+   "entail": 0.0003971991286998304
+  }
+ },
+ "0048": {
+  "answer": "Fast & Furious 6",
+  "run": "BITEM-PG-1",
+  "prank": 8,
+  "nugget": "The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift, with Lucas Black reprising his role as Sean Boswell.",
+  "feats": {
+   "margin": 4.135753154754639,
+   "span": 9.540666580200195,
+   "null": 5.404913425445557,
+   "ce": 5.2517852783203125,
+   "entail": 0.7898269063320669
+  }
+ },
+ "0049": {
+  "answer": "ninth",
+  "run": "BITEM-PG-2",
+  "prank": 1,
+  "nugget": "The sequel to The Fate of the Furious (2017), it is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise.",
+  "feats": {
+   "margin": 3.610869884490967,
+   "span": 7.355725288391113,
+   "null": 3.7448554039001465,
+   "ce": 7.157464504241943,
+   "entail": 0.06411965287802872
+  }
+ },
+ "0050": {
+  "answer": "F9",
+  "run": "BITEM-PG-1",
+  "prank": 8,
+  "nugget": "F9 was released in June 2021.",
+  "feats": {
+   "margin": 7.809717774391174,
+   "span": 9.743471145629883,
+   "null": 1.9337533712387085,
+   "ce": 5.3042497634887695,
+   "entail": 0.8106114969396296
+  }
+ },
+ "0051": {
+  "answer": "Lilli",
+  "run": "BITEM-PG-2",
+  "prank": 9,
+  "nugget": "Cooper has three children\u2014Eddie, Alex, and Lilli\u2014from his first marriage.",
+  "feats": {
+   "margin": 7.5350494384765625,
+   "span": 10.259353637695312,
+   "null": 2.72430419921875,
+   "ce": 0.9511938691139221,
+   "entail": 0.9966411942597179
+  }
+ },
+ "0052": {
+  "answer": "Murphy \"Murph\" Cooper",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Jessica Chastain, as Murphy \"Murph\" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.",
+  "feats": {
+   "margin": 4.217007637023926,
+   "span": 8.982248306274414,
+   "null": 4.765240669250488,
+   "ce": 3.0903234481811523,
+   "entail": 0.9934285649203363
+  }
+ },
+ "0053": {
+  "answer": "10",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Ellen Burstyn as elderly Murph Mackenzie Foy as 10-year-old Murph John Lithgow as Donald, Cooper's elderly father-in-law Michael Caine as Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions Casey Affleck as Tom Cooper, Joseph's son, who eventually takes charge of his father's farm Timoth\u00e9e Chalamet as 15-year-old Tom Wes Bentley as Doyle, a high-ranking NASA member, and Endurance crew member Bill Irwin as TARS (voice and puppetry) and CASE (puppetry), robots assigned to assist the crew of the Endurance Topher Grace as Getty, Murph's colleague and love interest David Gyasi as Professor Romilly, a high-ranking NASA member, and Endurance crew member Matt Damon as Dr.",
+  "feats": {
+   "margin": -6.568624347448349,
+   "span": 0.054912716150283813,
+   "null": 6.623537063598633,
+   "ce": 3.483733654022217,
+   "entail": 0.9374306283743594
+  }
+ },
+ "0054": {
+  "answer": "Steven Spielberg",
+  "run": "BITEM-PG-1",
+  "prank": 4,
+  "nugget": "The two conceived a scenario, based on Thorne's work, about \"the most exotic events in the universe suddenly becoming accessible to humans\", and attracted Steven Spielberg's interest in directing.",
+  "feats": {
+   "margin": -9.317286014556885,
+   "span": -2.481031894683838,
+   "null": 6.836254119873047,
+   "ce": 2.229950428009033,
+   "entail": 0.9574042326715957
+  }
+ },
+ "0055": {
+  "answer": "Tomorrowland",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.",
+  "feats": {
+   "margin": 6.626789093017578,
+   "span": 11.922823905944824,
+   "null": 5.296034812927246,
+   "ce": 9.362894058227539,
+   "entail": 0.00024470093467536275
+  }
+ },
+ "0056": {
+  "answer": "Brigia",
+  "run": "BITEM-PG-2",
+  "prank": 6,
+  "nugget": "The main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base.",
+  "feats": {
+   "margin": 9.433324813842773,
+   "span": 13.742856979370117,
+   "null": 4.309532165527344,
+   "ce": 7.224573135375977,
+   "entail": 0.003871359740734194
+  }
+ },
+ "0057": {
+  "answer": "Plo Koon",
+  "run": "BITEM-PG-2",
+  "prank": 6,
+  "nugget": "Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.",
+  "feats": {
+   "margin": 8.770857334136963,
+   "span": 12.495277404785156,
+   "null": 3.7244200706481934,
+   "ce": 4.377087593078613,
+   "entail": 0.0025290856762908783
+  }
+ },
+ "0058": {
+  "answer": "\"May the Force of Others be with you,\"",
+  "run": "BITEM-PG-2",
+  "prank": 16,
+  "nugget": "The Guardian of the Whills Chirrut \u00cemwe used a variation of this phrase, \"May the Force of Others be with you,\" during his time proselytizing on the streets of Jedha City.",
+  "feats": {
+   "margin": 1.7911052703857422,
+   "span": 6.113496780395508,
+   "null": 4.322391510009766,
+   "ce": 4.526805400848389,
+   "entail": 0.007977253292217372
+  }
+ },
+ "0059": {
+  "answer": "Coinneach Alexander",
+  "run": "BITEM-PG-1",
+  "prank": 5,
+  "nugget": "Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.",
+  "feats": {
+   "margin": 8.801253318786621,
+   "span": 13.46873664855957,
+   "null": 4.667483329772949,
+   "ce": 8.304526329040527,
+   "entail": 0.9886145316384448
+  }
+ },
+ "0060": {
+  "answer": "Starkiller Base",
+  "run": "BITEM-PG-1",
+  "prank": 1,
+  "nugget": "During the Battle of Starkiller Base, Han Solo attempted to turn his son Kylo Ren away from the First Order and the dark side of the Force, trying to convince him that Supreme Leader Snoke was just using him for his power.",
+  "feats": {
+   "margin": 10.242700099945068,
+   "span": 12.353511810302734,
+   "null": 2.110811710357666,
+   "ce": 6.298836708068848,
+   "entail": 0.9845802763448156
+  }
+ },
+ "0061": {
+  "answer": "Phase Three",
+  "run": "BITEM-PG-1",
+  "prank": 3,
+  "nugget": "Spider-Man: Far From Home premiered at the TCL Chinese Theatre in Hollywood, Los Angeles, on June 26, 2019, and was theatrically released in the United States on July 2, as the final film in Phase Three of the MCU.",
+  "feats": {
+   "margin": -10.929330825805664,
+   "span": -8.223865509033203,
+   "null": 2.705465316772461,
+   "ce": 1.1887181997299194,
+   "entail": 0.004229580122159539
+  }
+ },
+ "0062": {
+  "answer": "Jyn",
+  "run": "BITEM-PG-1",
+  "prank": 5,
+  "nugget": "Jyn may refer to the following individuals: Jyn Erso, who led Rogue One in stealing the Death Star plans Jyn Odan, a smuggler who worked for the Rebel Alliance Jyn Freila, a Chandrilan rebel pilot ; Jyn N'oram, captain of the Fricasseed Nerf ; Jyn Obah, a Pirate of Tarnoonga ; Jyn Odan, a smuggler who worked for the Rebel Alliance \"Jyn: The Rebel,\" a featurette for Rogue One: A Star Wars Story",
+  "feats": {
+   "margin": -0.9199604988098145,
+   "span": 3.160978317260742,
+   "null": 4.080938816070557,
+   "ce": 6.5416669845581055,
+   "entail": 0.9951812073664126
+  }
+ },
+ "0063": {
+  "answer": "GR-75",
+  "run": "BITEM-PG-2",
+  "prank": 10,
+  "nugget": "In 4 ABY, Squadron Five of the Galactic Empire's 204th Imperial Fighter Wing attacked a GR-75 medium transport which served as a mobile recruitment base for the Rebel Alliance.",
+  "feats": {
+   "margin": 9.34480905532837,
+   "span": 13.38094711303711,
+   "null": 4.03613805770874,
+   "ce": 3.3200020790100098,
+   "entail": 0.00016805846690858516
+  }
+ },
+ "0064": {
+  "answer": "Solo: A Star Wars Story",
+  "run": "BITEM-PG-1",
+  "prank": 7,
+  "nugget": "Two standalone films were produced and released between the sequel trilogy films: Rogue One (2016) and Solo: A Star Wars Story (2018), both set between the original and prequel trilogies.",
+  "feats": {
+   "margin": 5.304043769836426,
+   "span": 9.839561462402344,
+   "null": 4.535517692565918,
+   "ce": 5.080471038818359,
+   "entail": 0.023336997499151052
+  }
+ },
+ "0065": {
+  "answer": "The Deep",
+  "run": "BITEM-PG-1",
+  "prank": 7,
+  "nugget": "It was dethroned by The Deep, but gradually added screens and returned to number one in its seventh week, building up to $7-million weekends as it entered wide release ($ in dollars) and remained number one for the next 15 weeks.",
+  "feats": {
+   "margin": -1.1353082656860352,
+   "span": 5.353672027587891,
+   "null": 6.488980293273926,
+   "ce": -1.477708101272583,
+   "entail": 0.03108449103286656
+  }
+ }
+}

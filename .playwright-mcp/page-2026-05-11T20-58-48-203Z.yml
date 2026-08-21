@@ -1,0 +1,234 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e12]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQPAgJ
+          - img [ref=e15]
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - combobox "Search" [ref=e26]: "\"Efficient Re-ranking with Cross-encoders via Early Exit\" filetype:pdf \"Efficient Re-ranking with Cross-encoders via Early Exit\" filetype:pdf"
+            - generic [ref=e27]:
+              - button "Clear" [ref=e29] [cursor=pointer]:
+                - img [ref=e31]
+              - generic [ref=e34]:
+                - button "Search by voice" [ref=e35] [cursor=pointer]:
+                  - img [ref=e36]
+                - button "Search by image" [ref=e38] [cursor=pointer]:
+                  - img [ref=e39]
+          - button "Search" [ref=e41] [cursor=pointer]:
+            - img [ref=e44]
+    - generic [ref=e46]:
+      - button "Settings" [ref=e48] [cursor=pointer]:
+        - img [ref=e51]
+      - generic [ref=e54]:
+        - button "Google apps" [ref=e56] [cursor=pointer]:
+          - img [ref=e57]
+        - link "Sign in" [ref=e61] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fq%3D%2522Efficient%2BRe-ranking%2Bwith%2BCross-encoders%2Bvia%2BEarly%2BExit%2522%2Bfiletype%253Apdf%26sei%3DDD4Car-1GuiM2roPxqbsiAs&ec=futura_srp_og_si_72236_p
+  - generic [ref=e63]:
+    - navigation [ref=e69]:
+      - generic [ref=e75]:
+        - list [ref=e76]:
+          - listitem [ref=e77]:
+            - link "AI Mode" [ref=e80] [cursor=pointer]:
+              - /url: /search?q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&newwindow=1&sca_esv=7aca6fc7736590bb&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&aep=1&ntc=1&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQ2J8OegQIExAD
+              - generic [ref=e83]: AI Mode
+          - listitem [ref=e84]:
+            - link "All" [disabled] [ref=e85]:
+              - generic [ref=e87]: All
+          - listitem [ref=e88]:
+            - link "Images" [ref=e89] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQtKgLegQIGBAB
+              - generic [ref=e91]: Images
+          - listitem [ref=e92]:
+            - link "Shopping" [ref=e93] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&ved=1t:220175&ictx=111
+              - generic [ref=e95]: Shopping
+          - listitem [ref=e96]:
+            - link "Forums" [ref=e97] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQs6gLegQIFxAB
+              - generic [ref=e99]: Forums
+          - listitem [ref=e100]:
+            - link "Videos" [ref=e101] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQtKgLegQIFhAB
+              - generic [ref=e103]: Videos
+          - listitem [ref=e104]:
+            - link "Short videos" [ref=e105] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3o6iwGk6Iv1tRbZIBNIVs-4YWYcW4druNLL4RhbEwVNo2apxTkON0plXz3eP6WS2lh-mQA1E0A7X4sfB9d9il7bi8jPst3reWxaajBCvbiYgi68gvN4v048oKz5q5po8i2FPIMAMXbgfmXo1gljs3WmCz0oy1fXHy3DZjK3DQglZBGfNLA&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQs6gLegQIFRAB
+              - generic [ref=e107]: Short videos
+          - listitem [ref=e108]:
+            - button "More filters" [ref=e109] [cursor=pointer]:
+              - generic "More filters" [ref=e110]:
+                - generic [ref=e111]:
+                  - generic [ref=e112]: More
+                  - img [ref=e114]
+        - button "Tools" [ref=e117] [cursor=pointer]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: Tools
+            - img [ref=e122]
+    - heading "Search Results" [level=1] [ref=e125]
+    - main [ref=e131]:
+      - generic [ref=e135]:
+        - generic [ref=e138]:
+          - heading "Web results" [level=2] [ref=e139]
+          - generic [ref=e140]:
+            - generic [ref=e143]:
+              - link "Efficient Re-ranking with Cross-encoders via Early Exit CNR-IRIS https://iris.cnr.it › bitstream" [ref=e145] [cursor=pointer]:
+                - /url: https://iris.cnr.it/bitstream/20.500.14243/562499/1/Busolin%20et%20al_EfficientReRanking_2025.pdf
+                - heading "Efficient Re-ranking with Cross-encoders via Early Exit" [level=3] [ref=e146]
+                - generic [ref=e151]:
+                  - generic [ref=e153]: CNR-IRIS
+                  - generic [ref=e155]: https://iris.cnr.it › bitstream
+              - generic [ref=e156]:
+                - generic:
+                  - generic: PDF
+              - button "About this result" [ref=e157] [cursor=pointer]:
+                - img [ref=e160]
+            - generic [ref=e163]:
+              - generic [ref=e164]: by F Busolin · Cited by 7 —
+              - generic [ref=e165]:
+                - text: At. 2535. Page 4.
+                - emphasis [ref=e166]: Efficient Re-ranking with Cross-encoders via Early Exit
+                - text: . SIGIR '25, July 13–18, 2025, Padua, Italy inference time, after a ...
+              - link "Read more" [ref=e167] [cursor=pointer]:
+                - /url: https://iris.cnr.it/bitstream/20.500.14243/562499/1/Busolin%20et%20al_EfficientReRanking_2025.pdf#:~:text=At,through%20a%20transformer%20layer%2C%20it
+        - generic [ref=e168]:
+          - generic [ref=e172]:
+            - generic [ref=e175]:
+              - 'link "Large Language Models for Reranking: A Survey TechRxiv https://www.techrxiv.org › doi › pdf › techrxiv.17..." [ref=e177] [cursor=pointer]':
+                - /url: https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176300630.01740917
+                - 'heading "Large Language Models for Reranking: A Survey" [level=3] [ref=e178]'
+                - generic [ref=e183]:
+                  - generic [ref=e185]: TechRxiv
+                  - generic [ref=e187]: https://www.techrxiv.org › doi › pdf › techrxiv.17...
+              - generic [ref=e188]:
+                - generic:
+                  - generic: PDF
+              - button "About this result" [ref=e189] [cursor=pointer]:
+                - img [ref=e192]
+            - generic [ref=e195]:
+              - generic [ref=e196]: by Y Zhou · 2025 · Cited by 1 —
+              - generic [ref=e197]:
+                - text: Veneri, “
+                - emphasis [ref=e198]: Efficient re-ranking with cross-encoders via early exit
+                - text: ",” in Proc. ACM SIGIR Conf. Res. Dev. Inf. Retr. Assoc. Comput. Mach.,. 2025 ..."
+              - link "Read more" [ref=e199] [cursor=pointer]:
+                - /url: https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176300630.01740917#:~:text=Veneri%2C%20%E2%80%9CEfficient%20re%2Dranking%20with%20cross%2Dencoders,2025%2C%20pp.
+          - generic [ref=e203]:
+            - generic [ref=e206]:
+              - link "Efficient lightweight privacy data anomaly detection ... Nature https://www.nature.com › articles › s41598-025-30180-..." [ref=e208] [cursor=pointer]:
+                - /url: https://www.nature.com/articles/s41598-025-30180-5_reference.pdf
+                - heading "Efficient lightweight privacy data anomaly detection ..." [level=3] [ref=e209]
+                - generic [ref=e214]:
+                  - generic [ref=e216]: Nature
+                  - generic [ref=e218]: https://www.nature.com › articles › s41598-025-30180-...
+              - button "About this result" [ref=e219] [cursor=pointer]:
+                - img [ref=e222]
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e226]: by J Zhao · 2025 · Cited by 1 —
+                - generic [ref=e227]:
+                  - emphasis [ref=e228]: Efficient re-ranking with cross-encoders via early exit
+                  - text: . In Proceedings of the. 48th International ACM SIGIR Conference on Research and ...
+                - link "Read more" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.nature.com/articles/s41598-025-30180-5_reference.pdf#:~:text=Efficient%20re%2Dranking%20with%20cross%2Dencoders%20via,in%20Information%20Retrieval%20(SIGIR)%2C%202534%E2%80%932544
+              - generic [ref=e230]: 24 pages
+          - generic [ref=e234]:
+            - generic [ref=e237]:
+              - link "Efficient Re-ranking with Cross-encoders via Early Exit ACM Digital Library https://dl.acm.org › doi › pdf" [ref=e239] [cursor=pointer]:
+                - /url: https://dl.acm.org/doi/pdf/10.1145/3726302.3729962
+                - heading "Efficient Re-ranking with Cross-encoders via Early Exit" [level=3] [ref=e240]
+                - generic [ref=e245]:
+                  - generic [ref=e247]: ACM Digital Library
+                  - generic [ref=e249]: https://dl.acm.org › doi › pdf
+              - button "About this result" [ref=e250] [cursor=pointer]:
+                - img [ref=e253]
+            - generic [ref=e256]:
+              - generic [ref=e257]: by F Busolin · 2025 · Cited by 7 —
+              - generic [ref=e258]:
+                - text: At. 2535. Page 3.
+                - emphasis [ref=e259]: Efficient Re-ranking with Cross-encoders via Early Exit
+                - text: . SIGIR '25, July 13–18, 2025, Padua, Italy inference time, after a ...
+              - link "Read more" [ref=e260] [cursor=pointer]:
+                - /url: https://dl.acm.org/doi/pdf/10.1145/3726302.3729962#:~:text=At,through%20a%20transformer%20layer%2C%20it
+          - generic [ref=e264]:
+            - heading "Images" [level=2] [ref=e268]
+            - generic [ref=e272]:
+              - generic [ref=e276] [cursor=pointer]:
+                - 'link "Large Language Models for Reranking: A Survey TechRxiv"':
+                  - /url: https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176300630.01740917
+                - 'button "Large Language Models for Reranking: A Survey" [ref=e278]':
+                  - 'img "Large Language Models for Reranking: A Survey" [ref=e280]'
+                - generic [ref=e282]:
+                  - generic [ref=e284]: "Large Language Models for Reranking: A Survey"
+                  - generic [ref=e285]:
+                    - generic [ref=e292]: TechRxiv
+                    - button "About this result" [ref=e295]:
+                      - img [ref=e298]
+              - generic [ref=e303] [cursor=pointer]:
+                - 'link "Large Language Models for Reranking: A Survey TechRxiv"':
+                  - /url: https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176300630.01740917
+                - 'button "Large Language Models for Reranking: A Survey" [ref=e305]':
+                  - 'img "Large Language Models for Reranking: A Survey" [ref=e307]'
+                - generic [ref=e309]:
+                  - generic [ref=e311]: "Large Language Models for Reranking: A Survey"
+                  - generic [ref=e312]:
+                    - generic [ref=e319]: TechRxiv
+                    - button "About this result" [ref=e322]:
+                      - img [ref=e325]
+              - generic [ref=e330] [cursor=pointer]:
+                - 'link "Large Language Models for Reranking: A Survey TechRxiv"':
+                  - /url: https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176300630.01740917
+                - 'button "Large Language Models for Reranking: A Survey" [ref=e332]':
+                  - 'img "Large Language Models for Reranking: A Survey" [ref=e334]'
+                - generic [ref=e336]:
+                  - generic [ref=e338]: "Large Language Models for Reranking: A Survey"
+                  - generic [ref=e339]:
+                    - generic [ref=e346]: TechRxiv
+                    - button "About this result" [ref=e349]:
+                      - img [ref=e352]
+            - link "All images" [ref=e355] [cursor=pointer]:
+              - /url: /search?newwindow=1&sca_esv=7aca6fc7736590bb&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&udm=2&source=univ&fir=k2K257L6vAwqcM%252C04XloAArqLKfvM%252C_%253BnsAlqejheeIraM%252C04XloAArqLKfvM%252C_%253BuovagWy8SdBEZM%252C04XloAArqLKfvM%252C_&usg=AI4_-kQmq7XIJGy2QocGCKroax6XHkc5Xw&sa=X&ved=2ahUKEwjFhri6i7KUAxWzgVYBHQqiESMQ7Al6BAgaEAU
+              - separator [ref=e356]
+              - generic [ref=e357]:
+                - generic [ref=e358]: All images
+                - img [ref=e360]
+      - generic [ref=e363]:
+        - generic [ref=e364]:
+          - heading "Notices about Filtered Results" [level=2] [ref=e365]
+          - paragraph [ref=e367]:
+            - generic [ref=e368]:
+              - text: In order to show you the most relevant results, we have omitted some entries very similar to the 4 already displayed.
+              - text: If you like, you can
+              - link "repeat the search with the omitted results included" [ref=e369] [cursor=pointer]:
+                - /url: /search?q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22+filetype:pdf&newwindow=1&sca_esv=7aca6fc7736590bb&filter=0
+              - text: .
+        - navigation
+      - navigation
+    - contentinfo [ref=e370]:
+      - heading "Footer Links" [level=1] [ref=e371]
+      - generic [ref=e375]:
+        - generic [ref=e379]:
+          - button "94306, Palo Alto, CA - From your IP address" [ref=e381] [cursor=pointer]:
+            - generic [ref=e382]: 94306, Palo Alto, CA
+            - generic [ref=e384]:
+              - text: "-"
+              - generic [ref=e385]: From your IP address
+          - text: "-"
+          - button "Update location" [ref=e387] [cursor=pointer]: Update location
+        - generic [ref=e390]:
+          - link "Help" [ref=e391] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en&fg=1
+          - link "Send feedback" [ref=e392] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e393] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en&fg=1
+          - link "Terms" [ref=e394] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en&fg=1

@@ -1,0 +1,780 @@
+<D0001>Bor Gullet;100
+1;BITEM-PG-1;5;Saw Gerrera was brought into live-action for Rogue One.
+2;BITEM-PG-1;1;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha.
+3;BITEM-PG-1;5;The production team chose to introduce Saw Gerrera to the show.
+4;BITEM-PG-1;14;Saw Gerrera used the bo staff during combat practice.
+5;BITEM-PG-1;13;Saw Gerrera's tactics during the early rebellion against the Empire led him to be seen as an extremist.
+6;BITEM-PG-1;11;StarWars.com confirmed that Gerrera had been inhaling rhydonium through his oxygen mask during the events of Rogue One.
+7;BITEM-PG-1;4;To better connect to the 2016 film Rogue One: A Star Wars Story, the pilot was changed to Edrio 'Two Tubes'.
+8;BITEM-PG-1;8;Dave Filoni described Saw Gerrera as the original rebel.
+9;BITEM-PG-1;17;Saw Gerrera had multiple cybernetics.
+10;BITEM-PG-1;2;Saw Gerrera tortured Klik-Klak with electricity from stuncuffs.
+</D0001>
+<D0002>Black Widow;100
+1;BITEM-PG-1;2;Scarlett Johansson was cast in the role for several MCU films beginning with Iron Man 2 (2010).
+2;BITEM-PG-1;2;The film is based on Marvel Comics.
+3;BITEM-PG-2;3;In Avengers 2, Johansson learned more about Widow's backstory.
+4;BITEM-PG-1;1;Natasha Romanoff is a fictional character primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe media franchise.
+5;BITEM-PG-1;2;Black Widow is a 2021 American superhero film.
+6;BITEM-PG-2;8;The film always intended to use Loki as its villain.
+7;BITEM-PG-1;2;The film mostly sets during the events of Captain America: Civil War (2016).
+8;BITEM-PG-2;19;Marvel Studios produced Avengers: Endgame.
+9;WasedaR2C2-PO-1;1;Johansson played the femme fatale Silken Floss in The Spirit.
+10;BITEM-PG-1;1;She appeared in nine films including her final live-action appearance in Black Widow (2021).
+</D0002>
+<D0003>The provided nuggets do not state what Asimov's Zeroth Law says.;0
+1;BITEM-PG-1;2;I, Robot is a 2004 American science fiction action film.
+2;BITEM-PG-1;4;The 2004 movie I, Robot starred Will Smith.
+3;WasedaR2C2-PO-3;2;I, Robot differs from the Zeroth Law.
+4;BITEM-PG-1;2;I, Robot was released in the United States on July 16, 2004.
+5;BITEM-PG-1;2;I, Robot is set in Chicago in 2035.
+6;BITEM-PG-1;4;Three Laws of Robotics is a reference to the rules of ethics for robots.
+7;BITEM-PG-1;9;Isaac Asimov's 'Three Laws of Robotics' was first proposed by him in his 1942 short story Runaround.
+8;Error404-PO-1;1;I, Robot was based on an unrelated script by Jeff Vintar titled Hardwired.
+9;WasedaR2C2-PO-3;2;I, Robot appears infrequently in Asimov's writings.
+10;BITEM-PG-1;2;The film is stylized as i, ROBOT.
+</D0003>
+<D0004>Pierce Brosnan;100
+1;WasedaR2C2-PO-2;2;In the 2015 film, Spectre, 007 digs deep into SPECTRE.
+2;BITEM-PG-1;2;The film's producers originally intended to make For Your Eyes Only.
+3;BITEM-PG-2;19;James Bond is assigned to stop the Janus crime syndicate from acquiring GoldenEye.
+4;BITEM-PG-2;18;The film's title is taken from a short story in Ian Fleming's 1966 short story collection Octopussy and The Living Daylights.
+5;BITEM-PG-1;19;James Bond lands on a trapeze net within a circus tent.
+6;BITEM-PG-2;12;All of Glen's Bond films feature a character who dies by falling from a height.
+7;BITEM-PG-1;14;James Bond was filmed mainly in New Delhi.
+8;BITEM-PG-1;19;M assigns James Bond, Agent 007, to investigate.
+9;Error404-PO-1;1;The fight between James Bond and Alec Trevelyan culminates in Trevelyan being dangled below the antenna.
+10;BITEM-PG-2;18;In Octopussy, Bond is assigned the task of hunting a megalomaniacal Soviet general.
+</D0004>
+<D0005>1;100
+1;BITEM-PG-1;1;George Lazenby had only acted in commercials when he took over the role of James Bond from Sean Connery in On Her Majesty's Secret Service (1969).
+2;BITEM-PG-1;5;In the film, Bond faces Blofeld.
+3;BITEM-PG-2;3;The film still featured former 007 Lazenby.
+4;BITEM-PG-1;1;George Lazenby appeared in minor roles in several later movies.
+5;BITEM-PG-1;1;George Lazenby is an Australian actor.
+6;BITEM-PG-1;6;George Lazenby was required to 'fight' Borienko as part of his screen test.
+7;BITEM-PG-1;1;Sean Connery was the first 007.
+8;BITEM-PG-2;5;Producers contemplated replacing George Lazenby with John Gavin.
+9;BITEM-PG-2;15;David Niven, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan, and Daniel Craig have assumed the role of Bond after Connery's portrayal.
+10;Error404-PO-2;2;The James Bond films were produced and released between 1962 and 2021.
+</D0005>
+<D0006>The provided nuggets do not contain this information.;100
+1;BITEM-PG-1;2;At the beginning of Avengers: Endgame, Romanoff commands several teams from around the galaxy in the Avengers headquarters.
+2;BITEM-PG-1;3;Avengers: Infinity War and Avengers: Endgame are American superhero films.
+3;BITEM-PG-1;3;The Avengers (2012) is the sequel to Avengers: Endgame.
+4;retrank-PG-1.txt;1;In 2020, the conclusion of the Infinity Saga storyline occurred in Endgame.
+5;ORG-PO-3;1;The films were designed to end the character arcs of Stark and Steve Rogers / Captain America (Evans).
+6;BITEM-PG-1;3;Marvel Studios produced both films.
+7;BITEM-PG-2;11;The Avengers help to quash post-Blip chaos across the universe alongside Rocket and Nebula.
+8;BITEM-PG-2;20;Feige's initial idea for the films involved all six of the Avengers dying by the end.
+9;BITEM-PG-1;3;Thanos uses the Infinity Stones to kill half of all life in the universe in Infinity War.
+10;BITEM-PG-1;2;Iron Man 2 introduced Johansson's character.
+</D0006>
+<D0007>Love Is All Around;100
+1;BITEM-PG-1;7;Love Actually is an international co-production of the United Kingdom, United States, and France.
+2;BITEM-PG-1;7;Love Actually was released a week later in the UK during its theatrical run.
+3;BITEM-PG-1;2;The movie featured a soundtrack of popular songs.
+4;Error404-PO-1;1;In the UK version's end credit roll, the second song is a cover of 'Jump (For My Love)' performed by Girls Aloud.
+5;WasedaR2C2-PO-1;1;The song 'You Are' was included in the movie Someone Like You.
+6;BITEM-PG-1;1;Billy Mack records a Christmas version of the Troggs' 1967 song 'Love Is All Around'.
+7;BITEM-PG-1;3;Richard Curtis was the director of Love Actually.
+8;BITEM-PG-1;7;Love Actually grossed $250.2million worldwide on a budget of $40million.
+9;BITEM-PG-1;7;In recent years, Love Actually has developed a cult following.
+10;BITEM-PG-1;7;Love Actually was nominated for the Golden Globe Award for Best Motion Picture – Musical or Comedy.
+</D0007>
+<D0008>Ryan Reynolds;100
+1;BITEM-PG-1;1;The film is based on the character Hal Jordan / Green Lantern from DC Comics.
+2;BITEM-PG-1;1;Green Lantern is a 2011 American superhero film.
+3;BITEM-PG-1;3;The characters in the film are Deadpool and Wolverine.
+4;BITEM-PG-2;3;The film Green Lantern was neither critically nor financially successful.
+5;BITEM-PG-1;14;Ryan Reynolds appeared as an additional lantern to fill out the corps a bit in the film.
+6;BITEM-PG-2;16;The film features both the original cast and new actors, except for Romijn.
+7;BITEM-PG-1;2;Ryan Reynolds portrays Wade Winston Wilson in 20th Century Fox's X-Men film series.
+8;BITEM-PG-1;19;The opening scene of Deadpool features a drawing of Green Lantern.
+9;BITEM-PG-1;17;The movie starts when it starts.
+10;BITEM-PG-1;19;The DC animated film Teen Titans Go! To the Movies (2018) makes a reference to Green Lantern's disappointing film.
+</D0008>
+<D0009>National Gallery;100
+1;BITEM-PG-1;3;In the film, Mr. Bean wins a trip to Cannes, France.
+2;BITEM-PG-1;7;The film's title was changed from Bean 2 to French Bean.
+3;BITEM-PG-1;1;In Bean, Bean works as a security guard at the National Gallery in London.
+4;BITEM-PG-1;1;The film was directed by Mel Smith.
+5;WaterlooClarke-PO-1;2;Mr. Bean is a sequel to Bean (1997).
+6;BITEM-PG-2;16;In the film, the robber Jack steals the Goose that Laid the Golden Eggs.
+7;BITEM-PG-1;10;The film is set mostly in France.
+8;BITEM-PG-2;16;The film is part of the GG Bond film series.
+9;BITEM-PG-1;1;Rowan Atkinson stars as Mr. Bean in Bean.
+10;BITEM-PG-2;3;The film is also known as Fasulye.
+</D0009>
+<D0010>The provided nuggets do not contain information about who plays the Wizard of Oz in Wicked.;0
+1;BITEM-PG-1;2;The film is titled on-screen as Wicked: Part I.
+2;BITEM-PG-1;4;In the film's closing credits, only that Kansas character is listed in Oz.
+3;BITEM-PG-1;8;The film was produced by Metro-Goldwyn-Mayer (MGM).
+4;BITEM-PG-1;8;The film was a critical success.
+5;BITEM-PG-1;8;The film was nominated for five Academy Awards.
+6;ORG-PO-3;1;This episode makes several references to the 1939 film The Wizard of Oz.
+7;BITEM-PG-1;4;Frank Morgan is listed as playing Professor Marvel, but not the Wizard of Oz.
+8;BITEM-PG-2;11;This film is Disney's third film adaptation of Baum's works.
+9;BITEM-PG-1;8;The film failed to make a profit until its 1949 re-release.
+10;Error404-PO-1;2;In 2014, Clarius Entertainment released a big-budget animated musical film, Legends of Oz: Dorothy's Return.
+</D0010>
+<D0011>Zeniba;100
+1;BITEM-PG-1;10;Spirited Away is a 2001 Japanese animated fantasy film.
+2;WasedaR2C2-PO-4;1;Each character in Spirited Away was mostly hand-drawn.
+3;BITEM-PG-2;14;Upon completing Spirited Away, Miyazaki declared it his last film.
+4;BITEM-PG-1;5;Haku instructs Chihiro to ask for a job from Kamaji.
+5;BITEM-PG-1;10;Chihiro inadvertently enters the world of kami in Spirited Away.
+6;BITEM-PG-1;10;The film was written and directed by Hayao Miyazaki.
+7;BITEM-PG-2;9;Spirited Away is frequently ranked among the greatest films of the 21st century.
+8;Error404-PO-2;2;Pleshette provided the voices of Yubaba and Zeniba in the English dub of Hayao Miyazaki's Academy Award-winning film Spirited Away.
+9;BITEM-PG-1;5;Chihiro meets a boy named Haku.
+10;BITEM-PG-1;5;Chihiro discovers that her parents have been transformed into pigs.
+</D0011>
+<D0012>The provided nuggets do not contain information to answer this question.;100
+1;BITEM-PG-1;10;Roger Ebert gave Four Weddings and a Funeral three-and-a-half stars out of four.
+2;BITEM-PG-1;6;The film follows the adventures of Charles (Hugh Grant) and his circle of friends through a number of social occasions.
+3;ORG-PO-3;2;His credits include Four Weddings and a Funeral (1994), Lawn Dogs (1997), Notting Hill (1999), Love Actually (2003), and The Eagle (2011).
+4;BITEM-PG-1;4;He is most famous for his roles as Tom in the 1994 British romantic comedy film Four Weddings and a Funeral.
+5;BITEM-PG-1;7;Grant believed that because Four Weddings and a Funeral was successful, no one bothered to rent all the other films he had done.
+6;BITEM-PG-1;6;The film's success propelled Hugh Grant to international stardom.
+7;BITEM-PG-1;16;The film has a role for David.
+8;BITEM-PG-1;6;The film was directed by Mike Newell.
+9;BITEM-PG-1;20;At one wedding, Richard Curtis was propositioned by a fellow guest.
+10;Error404-PO-1;2;Casting began for Four Weddings in early 1992.
+</D0012>
+<D0013>The provided nuggets do not contain information about who plays Marlene McFly.;100
+1;BITEM-PG-1;3;Back to the Future Part II is a 1989 American science fiction film.
+2;BITEM-PG-1;3;The film stars Michael J. Fox, Christopher Lloyd, Lea Thompson, and Thomas F. Wilson.
+3;BITEM-PG-1;3;The film was directed by Robert Zemeckis.
+4;BITEM-PG-1;3;The film was filmed back-to-back with its sequel Part III.
+5;BITEM-PG-1;3;Back to the Future Part II was a ground-breaking project for visual effects studio Industrial Light & Magic (ILM).
+6;BITEM-PG-1;5;In Back to the Future, Lorraine McFly, Baines is initially portrayed in 1985 as middle-aged, out of shape, and unhappy with a drinking problem.
+7;BITEM-PG-1;8;The film is set in 1985.
+8;BITEM-PG-1;3;Marty McFly is played by Michael J. Fox.
+9;BITEM-PG-1;4;In the first film, George Douglas McFly is portrayed as a weakling with low self-esteem.
+10;BITEM-PG-1;10;Back to the Future earned a worldwide total of $381.11 million.
+</D0013>
+<D0014>The Last Jedi;100
+1;BITEM-PG-1;1;The film is a continuation of 2015's The Force Awakens and 2017's The Last Jedi.
+2;BITEM-PG-1;1;The film is the third and final part of the Star Wars sequel trilogy.
+3;BITEM-PG-1;1;Star Wars: Episode IX The Rise of Skywalker is a 2019 film.
+4;BITEM-PG-1;1;The film was first announced after The Walt Disney Company acquired Lucasfilm Ltd. in 2012.
+5;BITEM-PG-2;6;Star Wars: The Last Jedi grossed over $1 billion.
+6;BITEM-PG-1;5;The trilogy marked Lucas's return to directing after the 22-year hiatus following the original Star Wars film in 1977.
+7;BITEM-PG-1;1;J.J. Abrams directed the film.
+8;BITEM-PG-1;3;The main Star Wars franchise is an American space opera created by George Lucas.
+9;BITEM-PG-1;10;The new film will follow Rey as she attempts to rebuild the Jedi Order 15 years after the events of The Rise of Skywalker.
+10;BITEM-PG-1;1;The film stars Carrie Fisher, Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Anthony Daniels, Naomi Ackie, Domhnall Gleeson, Richard E. Grant, Lupita Nyong'o, Keri Russell, Joonas Suotamo, Kelly Marie Tran, Ian McDiarmid, and Billy Dee Williams.
+</D0014>
+<D0015>The provided nuggets do not contain the answer.;0
+1;BITEM-PG-1;4;The film is the sequel to John Wick: Chapter 3 – Parabellum (2019).
+2;BITEM-PG-2;1;The character's blindness in Rogue One was inspired by the Japanese fictional character Zatoichi.
+3;BITEM-PG-1;4;The film was directed and co-produced by Chad Stahelski.
+4;BITEM-PG-2;2;One untitled film will follow the blind assassin Caine.
+5;BITEM-PG-1;2;Keanu Reeves plays John Wick.
+6;BITEM-PG-1;3;John Wick is the titular protagonist of the neo-noir media franchise John Wick.
+7;Error404-PO-2;2;Rogue One became the second-highest-grossing film of 2016.
+8;BITEM-PG-2;16;The movie would be filmed in both English and Mandarin to appeal to the international market.
+9;WaterlooClarke-PO-1;2;Rogue One has non-canon appearances.
+10;BITEM-PG-2;14;Rogue One reconciled narrative elements between the original and newer Star Wars films.
+</D0015>
+<D0016>Avengers: Infinity War;100
+1;BITEM-PG-1;5;The film is set two years after the events of Civil War.
+2;BITEM-PG-2;6;The film became the highest-grossing film of 2016.
+3;BITEM-PG-1;6;The film shot back-to-back with a direct sequel, Avengers: Endgame (2019).
+4;BITEM-PG-1;1;The film was released theatrically in the United States on 25 December by Universal Pictures.
+5;BITEM-PG-1;1;The film was a critical and box office success.
+6;BITEM-PG-1;3;Avengers: Infinity War is a 2018 American superhero film.
+7;BITEM-PG-1;7;The film was shot with IMAX cameras.
+8;BITEM-PG-1;3;In the film, the Avengers and the Guardians of the Galaxy attempt to stop Thanos from collecting the six powerful Infinity Stones.
+9;BITEM-PG-1;1;The film grossed over $446 million worldwide.
+10;ORG-PO-3;2;The films included Captain America: Civil War (2016), Doctor Strange (2016), Guardians of the Galaxy Vol. 2 (2017), Thor: Ragnarok (2017), Black Panther (2018), Captain Marvel (2018), and Inhumans (2018).
+</D0016>
+<D0017>Zootopia;100
+1;BITEM-PG-1;4;The film's first day gross was one of the best-ever for a horror film.
+2;BITEM-PG-1;1;The film was the biggest opening weekend among Walt Disney Animation Studios films.
+3;BITEM-PG-1;1;The film performed exceptionally well in IMAX.
+4;BITEM-PG-1;1;The film broke Frozens record on its opening day.
+5;WaterlooClarke-PO-1;2;Avatar is the only other film behind Zootopia in local currency (3.6 billion).
+6;ORG-PO-3;2;The film spent a total of 13 consecutive weeks in the top ten.
+7;BITEM-PG-1;2;The film fell by 28% from its previous weekend.
+8;BITEM-PG-1;9;Among all films that did not necessarily open in this weekend but may have played, Moana ranks sixth among three-day weekends.
+9;BITEM-PG-1;1;The film played in 3,100 3D theaters.
+10;BITEM-PG-1;7;The film opened in a limited number of international markets in the weekend ending February 14.
+</D0017>
+<D0018>3;100
+1;BITEM-PG-1;3;In 2010, Nolan directed the action film Inception.
+2;BITEM-PG-1;2;Two years later, Christopher Nolan directed the psychological thriller Memento (2000).
+3;BITEM-PG-1;4;Nolan became a high-profile director with The Dark Knight trilogy (2005–2012).
+4;Error404-PO-2;1;Nolan has described Memento and Inception as'masterworks'.
+5;BITEM-PG-1;3;Nolan's next film was the sequel to Batman Begins, The Dark Knight.
+6;BITEM-PG-1;4;Nolan found further success with The Prestige (2006), Inception (2010), Interstellar (2014), and Dunkirk (2017).
+7;BITEM-PG-1;8;Christopher Nolan produced Inception with Emma Thomas.
+8;BITEM-PG-1;1;In writing the screenplay, Christopher Nolan and Jonathan Nolan were influenced by 1980s Batman comics and crime drama films.
+9;BITEM-PG-1;8;Christopher Nolan's reputation and success with The Dark Knight helped secure the film's US$100 million in advertising expenditure.
+10;BITEM-PG-1;13;Nolan had the idea for Inception around nine years before its release.
+</D0018>
+<D0019>The provided information does not state the exact number.;0
+1;BITEM-PG-2;6;The film stars Kazunari Ninomiya as the 'lost man' and 'walking man', respectively.
+2;BITEM-PG-1;1;In 2002, Ninomiya made his motion picture debut in Arashi's first movie together, Pikanchi Life Is Hard Dakedo Happy.
+3;Error404-PO-1;2;The film has 52 episodes.
+4;BITEM-PG-1;2;The film was released in Japan on December 9, 2006.
+5;BITEM-PG-1;2;The film was directed and co-produced by Clint Eastwood.
+6;BITEM-PG-1;3;In 2013, Ninomiya played the lead role in the film adaptation of Keigo Higashino's novel Platina Data.
+7;BITEM-PG-1;4;Kazunari Ninomiya is often called Nino.
+8;BITEM-PG-1;2;The two films were shot back to back.
+9;BITEM-PG-1;9;During the summer of 2007, Ninomiya co-starred with fellow Arashi bandmate Sho Sakurai in the manga-based comedy drama Yamada Tar Monogatari.
+10;BITEM-PG-1;14;Ninomiya has starred in numerous television drama, movie, and stage production since then.
+</D0019>
+<D0020>1;100
+1;BITEM-PG-1;3;In the film, Sobieski plays Chloe.
+2;BITEM-PG-1;3;In 2009, Sobieski had a small role in the biographical crime drama Public Enemies.
+3;BITEM-PG-1;15;In July 1999, it was announced that Leelee Sobieski was set to star in Squelch.
+4;BITEM-PG-1;16;Leelee Sobieski, Diane Lane, Stellan Skarsgrd, and Bruce Dern starred in The Glass House.
+5;BITEM-PG-1;1;The film was panned by critics.
+6;BITEM-PG-2;20;In 2002, Klein had a role in the Mel Gibson Vietnam War film We Were Soldiers.
+7;Error404-PO-2;1;While still in her mid-teens, Sobieski rose to fame with her appearance in the movie Deep Impact (1998).
+8;BITEM-PG-1;12;The film is the story of an alienated teen.
+9;BITEM-PG-1;13;The film was released theatrically in the U.S. on June 4, 2010 in New York City.
+10;BITEM-PG-1;17;Leelee Sobieski kept the jewelry as a souvenir of the movie.
+</D0020>
+<D0021>Natalie Portman;100
+1;BITEM-PG-1;15;The film was released on September 7.
+2;BITEM-PG-1;15;The film is a dark fantasy.
+3;Error404-PO-2;2;In the following years, Portman starred in the romantic comedy No Strings Attached (2011).
+4;BITEM-PG-1;2;Natalie Portman is an actress, film producer, and director with dual Israeli and American citizenship.
+5;hit-u-PO-1;2;In 2016, Sobieski confirmed 'I don't'.
+6;BITEM-PG-1;19;In 1997, Sobieski snagged her first role in a studio film playing the daughter of Martin Short's character in the Tim Allen comedy Jungle 2 Jungle.
+7;BITEM-PG-1;10;George Lucas cast Natalie Portman for the prequel trilogy.
+8;BITEM-PG-1;19;Emanuel Levy of Variety wrote that Sobieski registers strongly as a potential star.
+9;BITEM-PG-1;2;She starred as the young protégée of a hitman in Léon: The Professional (1994).
+10;BITEM-PG-1;10;By 2023, Natalie Portman expressed openness to returning to Star Wars.
+</D0021>
+<D0022>Katharine Hepburn;100
+1;BITEM-PG-1;3;Katharine Hepburn holds the record for most wins in the Best Actress category with four.
+2;BITEM-PG-2;3;Ingrid Bergman and Meryl Streep each have two statuettes for leading and one supporting actress win.
+3;WaterlooClarke-PO-2;2;Audrey Hepburn and Rex Harrison won eight Oscars, including Best Picture.
+4;BITEM-PG-1;7;The American Film Institute named Hepburn third among the greatest female stars of American cinema.
+5;BITEM-PG-2;17;In recognition of her career, Kathryn Hepburn earned the Golden Globe Cecil B. DeMille Award.
+6;BITEM-PG-1;7;Hepburn is one of few entertainers who have won Academy, Emmy, Grammy, and Tony Awards.
+7;BITEM-PG-2;4;Olivia de Havilland and Bette Davis both won their second Oscars in Wyler films.
+8;BITEM-PG-2;6;The winner in the Best Motion Picture category was Columbia's From Here to Eternity.
+9;BITEM-PG-1;1;She earned various accolades, including four Academy Awards for Best Actress.
+10;BITEM-PG-1;4;Hepburn was recognized by the Academy of Motion Picture Arts and Sciences.
+</D0022>
+<D0023>Grace Kelly;100
+1;BITEM-PG-1;4;Ingrid Bergman won an Emmy Award.
+2;BITEM-PG-1;4;In 1960, Ingrid Bergman became the second actress to complete the American Triple Crown of Acting status.
+3;WasedaR2C2-PO-3;2;The film won the Outstanding Actress in a Limited Series or TV Movie award.
+4;BITEM-PG-2;14;The film received six Academy Award nominations.
+5;BITEM-PG-1;2;Kelly won the Academy Award for Best Actress for her performance in The Country Girl.
+6;BITEM-PG-1;6;Ingrid Bergman is often regarded as one of the most influential screen figures in cinematic history.
+7;BITEM-PG-1;4;Kathryn Hepburn holds the record with four Oscars for Best Actress.
+8;BITEM-PG-1;6;Ingrid Bergman starred in Casablanca (1942) as Ilsa Lund.
+9;BITEM-PG-2;13;In the run-up to the 27th Academy Awards, Garland was generally expected to win for A Star Is Born.
+10;BITEM-PG-2;17;The film is a milestone in Greta Garbo's career.
+</D0023>
+<D0024>3;100
+1;BITEM-PG-1;10;Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series.
+2;Error404-PG-3;1;In addition to the Pirates franchise, Depp made four further films with Tim Burton.
+3;BITEM-PG-2;3;The film was shot back-to-back with the third film of the series, At World's End (2007).
+4;BITEM-PG-1;2;The sequels include Dead Man's Chest (2006), At World's End (2007), On Stranger Tides (2011), and Dead Men Tell No Tales (2017).
+5;BITEM-PG-1;3;The film brought the previous four films back into the 25 best-sold Blu-rays.
+6;BITEM-PG-1;5;The filmmakers cited the series' first installment, The Curse of the Black Pearl, as inspiration for the script and tone of the film.
+7;BITEM-PG-2;8;Disney released a fourth film, subtitled On Stranger Tides, in 2011.
+8;hit-u-PO-2;2;The film was the fourth-highest-grossing film of 2003.
+9;BITEM-PG-1;1;Pirates of the Caribbean: Dead Man's Chest was released on July 7, 2006.
+10;BITEM-PG-1;9;This marks the final film of the series to be directed by Gore Verbinski.
+</D0024>
+<D0025>12.12: The Day;100
+1;BITEM-PG-1;18;The film has become a major box office success in South Korea.
+2;BITEM-PG-1;1;The movie tells about the events leading up to the Gwangju massacre in South Korea.
+3;WasedaR2C2-PO-2;1;The film became the fastest selling film in 12th Beijing International Film Festival.
+4;WasedaR2C2-PO-2;1;The film achieved one of the biggest-ever opening days for a PG-12 movie in Saudi Arabia.
+5;BITEM-PG-1;1;The film was directed by Kim Ji-hoon.
+6;BITEM-PG-1;1;May 18 is a 2007 South Korean historical drama film.
+7;Error404-PO-1;2;The film grossed $97 million worldwide against a $17 million budget.
+8;WasedaR2C2-PO-2;1;The film ranked first place and earned 74.96 million on its opening weekend.
+9;retrank-PG-3.txt;1;The film had its widest US release in 543.
+10;WasedaR2C2-PO-2;1;In 10 days, the film cumulative box office is 127 million ($18.10 million).
+</D0025>
+<D0026>Joaquin Phoenix;100
+1;BITEM-PG-1;3;Gladiator is a 2000 epic historical drama film.
+2;BITEM-PG-1;3;Gladiator became the second-highest-grossing film of 2000.
+3;BITEM-PG-1;3;Gladiator is considered one of the best and most influential films of the 21st century.
+4;BITEM-PG-1;2;Russell Crowe plays Maximus Decimus Meridius.
+5;BITEM-PG-1;3;Ridley Scott directed Gladiator.
+6;Error404-PG-3;1;The film stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris.
+7;WasedaR2C2-PO-3;2;The film shows the Roman cavalry using stirrups.
+8;BITEM-PG-1;3;Gladiator won five Academy Awards.
+9;BITEM-PG-2;11;The film has many historical inaccuracies.
+10;BITEM-PG-1;2;Joaquin Phoenix plays Emperor Commodus.
+</D0026>
+<D0027>fava beans;0
+1;BITEM-PG-1;1;Lecter once ate a census taker's liver with some fava beans and a nice Chianti.
+2;BITEM-PG-1;4;Dr. Hannibal Lecter gives Starling information about Buffalo Bill in exchange for personal information.
+3;BITEM-PG-1;10;In Red Dragon, Lecter immediately recognizes Will Graham by his brand of aftershave.
+4;BITEM-PG-1;10;In Hannibal, Hannibal Lecter performs plastic surgery on his own face on several occasions.
+5;BITEM-PG-1;1;Lecter is frequently depicted preparing gourmet meals from his victims' flesh.
+6;BITEM-PG-1;2;The Silence of the Lambs placed seventh on Bravo's The 100 Scariest Movie Moments for Lecter's escape scene.
+7;BITEM-PG-1;1;Lecter is also called a pure psychopath in the film adaptation of The Silence of the Lambs.
+8;BITEM-PG-1;2;Hannibal Lecter was portrayed by Hopkins.
+9;BITEM-PG-1;1;Lecter has refined tastes in art, music, and cuisine.
+10;BITEM-PG-1;3;Clarice Starling is hunting a serial killer known as 'Buffalo Bill'.
+</D0027>
+<D0028>The provided nuggets do not contain information about what kind of fish Dory is.;100
+1;BITEM-PG-1;3;The film Finding Nemo is similar to the species of Dory.
+2;BITEM-PG-1;5;Finding Dory is a 2016 American animated comedy-drama adventure film.
+3;BITEM-PG-1;2;Dory, Marlin, and Nemo ride the California Current to California.
+4;BITEM-PG-1;5;Andrew Stanton directed Finding Dory.
+5;BITEM-PG-1;2;Dory eventually meets and joins the clownfish Marlin.
+6;BITEM-PG-1;2;A year after meeting Marlin and Nemo, Dory lives with them in their reef as their next-door neighbor.
+7;BITEM-PG-1;6;Dory swims about trying to understand the whale's vocalizations.
+8;BITEM-PG-1;10;In one exhibit, Dory encounters Bailey, a beluga whale.
+9;BITEM-PG-2;8;Finding Nemo may lack Monsters, Inc.'s clever humor.
+10;Error404-PO-1;2;Finding Nemo was the highest-grossing G-rated film of all time before Pixar's own Toy Story 3 overtook it.
+</D0028>
+<D0029>poster;100
+1;BITEM-PG-1;17;In the 1994 film The Shawshank Redemption, the poster in Andy Dufresne's cell that hid his escape tunnel was the famous pinup image of Welch in One Million Years B.C.'.
+2;BITEM-PG-1;4;The Shawshank Redemption is a 1994 American prison drama film.
+3;BITEM-PG-1;5;The piece 'Shawshank Redemption' plays during Andy's escape from Shawshank.
+4;BITEM-PG-1;3;Andy Dufresne is assigned to work in the prison laundry.
+5;BITEM-PG-1;9;The poster conceals Andy Dufresne's tunnel digging.
+6;BITEM-PG-1;3;In 1949, Andy Dufresne overhears the captain of the guards, Byron Hadley, complaining about being taxed on an inheritance.
+7;BITEM-PG-1;13;The Shawshank Redemption became the top video rental of 1995 on the strength of its award nominations and word of mouth.
+8;BITEM-PG-1;14;The Shawshank Redemption was based on a survey of 2,120 Hollywood-based entertainment industry members.
+9;BITEM-PG-1;2;The film portrays the iconic scene of Andy escaping to freedom through a sewer pipe described as a 'river of shit'.
+10;BITEM-PG-1;3;After years of Andy Dufresne's ceaseless letters, the legislature sends a library donation that includes a recording of The Marriage of Figaro.
+</D0029>
+<D0030>Ian McKellen;100
+1;BITEM-PG-1;2;Ian McKellen and Michael Fassbender primarily portray Magneto in 20th Century Fox's X-Men film series.
+2;BITEM-PG-1;1;In 1999, McKellen was cast to play the comic book supervillain Magneto in the 2000 film X-Men.
+3;BITEM-PG-2;19;Ian McKellen performed Magneto to get the flavor of Magneto.
+4;BITEM-PG-1;6;Christopher Lee, Terence Stamp, and David Hemblen were considered for the role of Magneto.
+5;BITEM-PG-1;9;Both Patrick Stewart and James McAvoy reprised the role in the film X-Men: Days of Future Past.
+6;BITEM-PG-1;2;Ian McKellen made a cameo in The Wolverine (2013).
+7;BITEM-PG-1;2;Ian McKellen's version of Magneto will appear in the Marvel Cinematic Universe film Avengers: Doomsday (2026).
+8;BITEM-PG-1;1;Bryan Singer directed the film X-Men.
+9;BITEM-PG-1;2;Magneto has appeared in eight installments of the X-Men franchise.
+10;Error404-PO-1;2;According to Jackson, McKellen based his performance as Gandalf on Tolkien himself.
+</D0030>
+<D0031>Humphrey Bogart;100
+1;retrank-PG-3.txt;1;In Casablanca (1942), Greenstreet played crooked club owner Signor Ferrari.
+2;BITEM-PG-1;1;Casablanca is a 1942 American romantic drama film.
+3;BITEM-PG-1;2;Rick Blaine was an expatriate nightclub owner.
+4;WasedaR2C2-PO-1;2;The lead characters in Casablanca have become iconic.
+5;BITEM-PG-2;10;In Casablanca, a novella by Argentine writer Edgar Brau, the protagonist wanders into Rick's Café Américain and listens to a strange tale related by Sam.
+6;WaterlooClarke-PO-2;1;Bogart and Ingrid Bergman appear in archival appearances from Casablanca as Richard 'Rick' Blaine and Ilsa Lund, respectively.
+7;BITEM-PG-1;1;Humphrey Bogart starred in Casablanca.
+8;BITEM-PG-1;2;Casablanca was produced by Hal Wallis.
+9;BITEM-PG-1;2;Rick Blaine hid from a suspicious past.
+10;BITEM-PG-1;2;Rick Blaine negotiated a fine line among Nazis, the French underground, the Vichy prefect, and unresolved feelings for his ex-girlfriend.
+</D0031>
+<D0032>8;100
+1;BITEM-PG-1;1;Slumdog Millionaire won the Academy Award for Best Picture in 2008.
+2;BITEM-PG-1;16;Movie City News shows that Slumdog Millionaire appeared in 123 different top ten lists.
+3;BITEM-PG-1;4;The film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes, and seven BAFTA Awards.
+4;BITEM-PG-1;2;Slumdog won one of eight awards.
+5;BITEM-PG-1;10;The film had a record-tying six above-the-line wins (picture, director, screenplay, and acting).
+6;BITEM-PG-1;10;The film won one BAFTA nomination.
+7;BITEM-PG-1;2;Slumdog Millionaire received rave reviews from critics.
+8;BITEM-PG-1;5;The film's earnings increased by 47%.
+9;BITEM-PG-1;15;The film Slumdog Crorepati was not as successful as major film releases in India during its first week.
+10;ORG-PO-3;1;Filmography includes years, film, role, and language.
+</D0032>
+<D0033>Titanic;100
+1;BITEM-PG-1;5;Bill Paxton is one of only 2 actors to portray two different characters from the Alien franchise and the Predator franchise.
+2;BITEM-PG-1;2;Bill Paxton plays Brock Lovett.
+3;BITEM-PG-1;3;William Paxton appeared in The Terminator (1984), Aliens (1986), True Lies (1994), and Titanic (1997).
+4;BITEM-PG-1;3;William Paxton starred in films Near Dark (1987), Tombstone (1993), Apollo 13 (1995), Twister (1996), Mighty Joe Young (1998), and A Simple Plan (1998).
+5;BITEM-PG-1;6;According to Bill Paxton, William Hudson ad-libbed the phrase.
+6;BITEM-PG-1;11;Bill Paxton stated in the past that the constant high energy nature of Hudson made him a more difficult character to play.
+7;BITEM-PG-1;11;Bill Paxton went through basic Marine training to prepare for his role.
+8;BITEM-PG-1;7;In 1990, Paxton co-starred with Charlie Sheen and Michael Biehn in Navy Seals.
+9;BITEM-PG-1;3;William Paxton played supporting roles in Weird Science (1985), Edge of Tomorrow (2014), and Nightcrawler (2014).
+10;BITEM-PG-1;3;William Paxton made his directorial debut with the 2001 horror film Frailty.
+</D0033>
+<D0034>14;100
+1;WasedaR2C2-PO-1;1;In the Harry Potter and the Forbidden Journey attraction at the Islands of Adventure theme park, Quidditch is featured near the end where riders are flown through the Quidditch pitch.
+2;BITEM-PG-1;1;Harry Potter plays as Seeker for his house team at Hogwarts.
+3;BITEM-PG-1;1;In the series, Quidditch is portrayed as a dangerous but popular sport played by witches and wizards riding flying broomsticks.
+4;BITEM-PG-1;20;Harry Potter and the Order of the Phoenix is a video game.
+5;BITEM-PG-1;16;The scene where Dumbledore asks Harry if he put his name in the goblet is noticeably different in the book and the film.
+6;Error404-PO-1;2;The competition among the four Hogwarts houses for the Quidditch Cup occurs each school year.
+7;BITEM-PG-1;1;Two opposing teams of seven players each play Quidditch.
+8;BITEM-PG-1;13;Harry is mysteriously selected for the Triwizard Tournament.
+9;BITEM-PG-1;13;In Harry Potter and the Chamber of Secrets (1998), McGonagall becomes acting headmistress after Dumbledore is suspended by the Ministry of Magic.
+10;Error404-PO-1;2;In 2014, Rowling started publishing a series of match reports from the Quidditch World Cup on Pottermore.
+</D0034>
+<D0035>10;100
+1;hit-u-PO-2;2;All of the films have had a theatrical run (including re-releases) in the 21st century.
+2;BITEM-PG-1;4;The film was the highest-grossing film of all time until it was surpassed by Avatar (2009) due to the 2021 re-release in China.
+3;Error404-PG-3;2;The film was part of Phase Three of the MCU.
+4;ORG-PO-3;1;Avatar, Titanic (1997), Star Wars: The Force Awakens (2015), and Infinity War were the previous films to surpass the $2billion threshold.
+5;BITEM-PG-1;5;The film was released theatrically worldwide from December 16 to 18.
+6;BITEM-PG-1;14;The film was simultaneously presented in IMAX 3D format.
+7;ORG-PO-3;1;IMDb ranked Endgame second.
+8;hit-u-PO-2;2;Films are ranked by the revenues from theatrical exhibition at their nominal value, along with the highest positions they attained.
+9;BITEM-PG-1;4;The film had a worldwide opening of $1.2billion.
+10;BITEM-PG-2;4;Films and television series share continuity with each other.
+</D0035>
+<D0036>Lotso;100
+1;BITEM-PG-2;8;In the film, Woody is stolen by a toy collector.
+2;BITEM-PG-1;8;The toys are given a tour of the seemingly perfect play-setting by Lots-O'-Huggin' Bear, Big Baby, and Ken.
+3;BITEM-PG-1;1;Lots-o'-Huggin' Bear is often shortened to Lotso.
+4;BITEM-PG-1;1;Lotso is the main antagonist of the third film.
+5;BITEM-PG-1;4;The film's cast included Sheriff Francis Wompler.
+6;Error404-PO-2;1;The name 'Lots-O'-Huggin Bear' was replaced with 'Little Hug-Hug Bear' (Japanese:/Hagu Hagu Beya-Chan).
+7;BITEM-PG-1;9;Woody reveals Lotso's true character.
+8;BITEM-PG-1;1;Ned Beatty voices Lotso in Toy Story 3 and Toy Story 3: The Video Game.
+9;BITEM-PG-2;13;In Toy Story 3, Molly tosses the ball into a box.
+10;BITEM-PG-2;19;In the opening scenes of the first and third films, Slinky is described by Andy as One-Eyed Bart's attack dog with a built-in force field.
+</D0036>
+<D0037>The provided nuggets do not state the slogan.;100
+1;BITEM-PG-1;2;Monsters, Inc. is a 2001 American animated comedy film.
+2;BITEM-PG-1;2;The film was produced by Pixar Animation Studios for Walt Disney Pictures.
+3;BITEM-PG-1;2;The film centers on two monsters: James P. 'Sulley' Sullivan and Mike Wazowski.
+4;BITEM-PG-1;1;The new slogan was later used in the film's sequel television series Monsters at Work.
+5;BITEM-PG-1;2;Monsters, Inc. generates power by scaring human children.
+6;BITEM-PG-1;8;In Monsters, Inc., George emerges from one of the doors with a sock on him.
+7;BITEM-PG-1;9;Monsters, Inc. grossed over $528 million worldwide.
+8;BITEM-PG-1;3;Monsters, Incorporated factory employs skilled monsters as'scarers'.
+9;BITEM-PG-1;9;Monsters, Inc. was nominated for Best Original Score and Best Sound Editing.
+10;BITEM-PG-1;7;The widescreen version of Monsters, Inc. includes filmmakers' commentary and a sound effects-only audio track.
+</D0037>
+<D0038>4;100
+1;BITEM-PG-1;1;The film was produced by Pixar Animation Studios for Walt Disney Pictures.
+2;BITEM-PG-1;19;13 of Pixar's films are in the 50 highest-grossing animated films of all time.
+3;BITEM-PG-1;13;The fifth main film marked it the first main film in the series without any involvement from co-creator John Lasseter.
+4;BITEM-PG-2;6;All of these films received critical acclaim and honors.
+5;BITEM-PG-1;1;John Lasseter directed Toy Story 2.
+6;BITEM-PG-1;4;In 1986, John Lasseter became a founding member of Pixar.
+7;BITEM-PG-1;8;Finding Nemo was the first Pixar film to be released during the summer instead of November.
+8;BITEM-PG-1;1;Most of the main Pixar staff were busy working on A Bug's Life (1998).
+9;BITEM-PG-2;19;In 1985, a film called Young Sherlock Holmes was credited as no.
+10;BITEM-PG-2;8;According to John Lasseter, the film was kept so secret that Morris and his boss Edwin Catmull had no knowledge of it until the treatment was finished.
+</D0038>
+<D0039>Cannot be determined from the given information.;100
+1;BITEM-PG-1;8;The film was theatrically accompanied with the Pixar short film Day & Night.
+2;BITEM-PG-1;5;Toy Story was one of nine films designated in its first year of eligibility.
+3;BITEM-PG-1;15;Toy Story held the record for ticket sales until Independence Day took it the next year.
+4;BITEM-PG-1;1;Toy Story 4 is the first Pixar film since their first film, the first Toy Story (1995), to play worldwide without a short.
+5;BITEM-PG-1;3;In some international territories, the theatrical release of the film was preceded by a re-release of the Roger Rabbit short Roller Coaster Rabbit.
+6;BITEM-PG-2;16;The film achieved the fourth-largest opening weekend among 2010 films.
+7;BITEM-PG-1;5;Four sequels began with Toy Story 2 (1999).
+8;BITEM-PG-1;15;The film maintained the number-one position at the domestic box office for the next two weekends.
+9;BITEM-PG-1;14;Pixar's highest-grossing film until the release of Incredibles 2 in 2018.
+10;BITEM-PG-2;16;The film earned $4 million at midnight shows from about 1,500 theaters.
+</D0039>
+<D0040>The provided nuggets do not contain information about AUTO's secret directive code name.;0
+1;BITEM-PG-1;5;The film follows a solitary robot named WALL-E on a future, uninhabitable, deserted Earth in 2805.
+2;BITEM-PG-1;1;WALL-E intervenes and inadvertently releases the other faulty bots.
+3;BITEM-PG-1;6;WALL-E watches a video cassette of 20th Century Studios' Hello, Dolly!.
+4;BITEM-PG-1;2;WALL-E and EVE reunite as the Axiom inhabitants take their first steps on Earth.
+5;BITEM-PG-1;5;WALL-E is a 2008 American animated romantic science fiction film.
+6;BITEM-PG-1;6;WALL-E is a compactor robot.
+7;BITEM-PG-1;6;WALL-E has achieved sentience.
+8;BITEM-PG-1;5;WALL-E is Pixar's first animated film with segments featuring live-action characters.
+9;BITEM-PG-1;6;WALL-E mimics the dance sequences in Hello, Dolly!.
+10;BITEM-PG-2;7;Jim Reardon suggested WALL-E find the film on video.
+</D0040>
+<D0041>The provided nuggets do not contain information about who voiced Fillmore in Cars 2.;0
+1;BITEM-PG-1;2;George Carlin voiced Fillmore in Cars, the video game, and Cars Toons.
+2;BITEM-PG-1;8;The film stars an ensemble voice cast of Owen Wilson, Paul Newman, Bonnie Hunt, Larry the Cable Guy, Tony Shalhoub, Cheech Marin, Michael Wallis, George Carlin, Paul Dooley, Jenifer Lewis, Guido Quaroni, Michael Keaton, Katherine Helmond, John Ratzenberger, and Richard Petty.
+3;BITEM-PG-1;3;Cars 2 is a 2011 American animated spy comedy film.
+4;Error404-PO-1;2;Fillmore Fillmore is a stereotypical hippie.
+5;BITEM-PG-2;10;Corey Burton voiced Doc Hudson in Cars Mater-National and Cars Race-O-Rama.
+6;BITEM-PG-1;2;Fillmore is based on Route 66 artist Bob Waldmire.
+7;BITEM-PG-1;2;Fillmore is a green 1960 Volkswagen Type 2(T1).
+8;BITEM-PG-2;10;Doc Hudson was voiced by Paul Newman in the first and third films.
+9;WaterlooClarke-PO-2;1;The film 'Fillmore!' was released in 2003.
+10;BITEM-PG-1;2;Fillmore has a front license plate that acts as a soul patch.
+</D0041>
+<D0042>Castle in the Sky;0
+1;BITEM-PG-1;1;The film was written and directed by Hayao Miyazaki.
+2;BITEM-PG-1;8;The film was announced as the first full 3D CG animated Ghibli film.
+3;BITEM-PG-1;16;The film was tentatively titled 'Blue Mountains'.
+4;Error404-PG-3;1;The film to overtake Titanic at the Japanese box office was Spirited Away.
+5;WaterlooClarke-PO-1;1;The film's main character is Mary Smith.
+6;hit-u-PO-2;1;The film was voted as one of the greatest animated films in polls conducted by the Agency for Cultural Affairs and Oricon.
+7;BITEM-PG-2;17;The film went over budget and over schedule.
+8;BITEM-PG-1;1;The film has earned a reputation in the modern steampunk genre.
+9;BITEM-PG-2;18;The film demanded almost superhuman efforts from the entire staff, including Miyazaki.
+10;BITEM-PG-1;5;The title of the film is 'Arrietty'.
+</D0042>
+<D0043>Totoro;100
+1;BITEM-PG-1;2;The film was written and directed by Hayao Miyazaki.
+2;BITEM-PG-1;1;Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010).
+3;BITEM-PG-1;19;The film is the third installment in the Toy Story film series.
+4;BITEM-PG-1;2;The film and its titular character have become cultural icons.
+5;retrank-PG-1.txt;2;The film features cameo appearances by a number of licensed video-game characters.
+6;BITEM-PG-1;8;The sequel is regularly shown at Ghibli Museum.
+7;BITEM-PG-1;1;Miyazaki uses Totoro as a part of his logo for Studio Ghibli.
+8;BITEM-PG-1;13;The film ranked number seven in 2015.
+9;BITEM-PG-1;5;The Independent said Totoro is one of the greatest cartoon characters.
+10;BITEM-PG-1;19;Toy Story 3 is a 2010 American animated comedy-drama film.
+</D0043>
+<D0044>Spirited Away;100
+1;Error404-PO-1;2;The film was made in stop motion.
+2;BITEM-PG-1;1;The film was widely acclaimed and commercially successful.
+3;BITEM-PG-1;10;The film beat the previous record set by Princess Mononoke.
+4;BITEM-PG-1;10;It was the first film that had grossed more than $200 million at the worldwide box office excluding the United States.
+5;BITEM-PG-2;7;The film won for Best Actress for the eight principal actresses at the 2002 European Film Awards.
+6;Error404-PO-1;2;The film combines live-action with animation.
+7;hit-u-PO-2;2;The film's successful American release through Buena Vista cemented Studio Ghibli's reputation in Western regions.
+8;WaterlooClarke-PO-2;2;The film was ranked 15th among the top 25 European works of 2024 by the journalists at Cineuropa.
+9;BITEM-PG-1;20;The film was directed by Tomm Moore and Ross Stewart.
+10;BITEM-PG-2;7;The film's premiere was held on 8 January 2002 in Paris.
+</D0044>
+<D0045>1;100
+1;Error404-PO-2;1;Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023).
+2;BITEM-PG-2;16;The first film would become The Cat Returns.
+3;BITEM-PG-1;4;Spirited Away was directed by Hayao Miyazaki.
+4;BITEM-PG-1;4;Studio Ghibli announced that Hosoda was to direct the film Howl's Moving Castle in September 2001.
+5;BITEM-PG-1;6;Miyazaki wrote and directed more short films for the Ghibli Museum.
+6;BITEM-PG-1;19;The film became Japan's third-highest-grossing film.
+7;Error404-PO-1;2;Spirited Away is frequently ranked among the greatest films of the 21st century.
+8;Error404-PO-1;2;He wrote and directed films such as Laputa: Castle in the Sky (1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), and Porco Rosso (1992).
+9;BITEM-PG-1;4;Studio Ghibli was looking for a new talent at the time.
+10;BITEM-PG-2;2;The film was nominated for several awards.
+</D0045>
+<D0046>The provided nuggets do not contain information about the number of Marvel Avengers series movies.;100
+1;BITEM-PG-1;5;The films were released from Iron Man through Ant-Man and the Wasp.
+2;BITEM-PG-1;11;Both films are part of Phase Six of the MCU.
+3;BITEM-PG-1;5;The films were shown in release order, with four films per day.
+4;BITEM-PG-1;1;Marvel Studios has released 37 films as part of its flagship franchise, the Marvel Cinematic Universe.
+5;Error404-PO-2;1;Some of the films released by Marvel Studios include Iron Man (2008), The Fantastic Four: First Steps (2025), and 16 television series since 2021.
+6;BITEM-PG-2;19;The film focuses on Captain America.
+7;BITEM-PG-1;2;By December 2018, Marvel was believed to be using the term Phase Four.
+8;Error404-PO-1;1;The Avengers is a Marvel Comics film.
+9;Error404-PO-1;1;Avengers: Endgame was the highest-grossing film of all time from July 2019 until March 2021.
+10;BITEM-PG-1;2;By October 2016, Walt Disney Studios had scheduled multiple release dates for untitled Marvel Studios films for 2020 and 2021.
+</D0046>
+<D0047>Three;100
+1;BITEM-PG-1;6;The Day After Tomorrow was the highest-grossing Hollywood film made in Canada at its time of release.
+2;BITEM-PG-1;14;There was a 24-hour window to decide whether to produce The Day After Tomorrow with Roland Emmerich directing.
+3;WasedaR2C2-PO-4;1;The film includes a royal tour of South America.
+4;BITEM-PG-1;6;The Day After Tomorrow depicts catastrophic climatic effects following the disruption of the North Atlantic Ocean circulation.
+5;BITEM-PG-1;4;Many details of the plot, characters, and locale are similar to the 2004 film The Day After Tomorrow.
+6;BITEM-PG-1;8;The film is also known as Másnap.
+7;BITEM-PG-1;15;The Day After Tomorrow was criticized for depicting meteorological phenomena as occurring over the course of hours, instead of decades or centuries.
+8;BITEM-PG-1;11;The film was directed by Nick Nostro.
+9;BITEM-PG-1;2;Three helicopters sent to rescue the British royal family from Balmoral Castle crash in Scotland.
+10;Error404-PG-3;2;The scene was cut from the film's release.
+</D0047>
+<D0048>The Fate of the Furious;100
+1;BITEM-PG-1;8;This film marks the final appearance of Paul Walker as Brian O'Conner.
+2;BITEM-PG-1;20;F9 is the first film since Tokyo Drift not to be written by Morgan.
+3;BITEM-PG-1;1;The film is a 2015 action film.
+4;BITEM-PG-1;19;The film Furious 7 was a box office success.
+5;BITEM-PG-1;1;Vin Diesel stars in Furious 7.
+6;BITEM-PG-2;8;In the eighth film, Dom and Letty are on honeymoon in Cuba.
+7;retrank-PG-1.txt;1;The Fast and the Furious is a 1954 American crime drama B movie.
+8;BITEM-PG-1;2;In The Fate of the Furious, Mose Jakande's photo is shown.
+9;BITEM-PG-1;5;The story bridges the story between Furious 7 and Tokyo Drift.
+10;BITEM-PG-1;10;In a post credit scene, Dom gets a call with a threatening message from a man related to Owen Shaw.
+</D0048>
+<D0049>0;100
+1;BITEM-PG-1;4;The third Fast & Furious film marked the first film in the franchise's longtime association with Justin Lin, Chris Morgan, actor Sung Kang, and composer Brian Tyler.
+2;BITEM-PG-1;1;Justin Lin directed Fast Five.
+3;BITEM-PG-1;4;Within the story's continuity, the film is set between Fast & Furious 6 (2013) and Furious 7 (2015).
+4;BITEM-PG-1;1;The film is a 2011 action film.
+5;BITEM-PG-1;8;The two sequels were Fast Six and Fast Seven.
+6;BITEM-PG-1;1;Universal Pictures transformed the franchise into a heist action series involving cars in Fast Five.
+7;BITEM-PG-1;8;Fast Six and Fast Seven would be back-to-back with a single storyline running through both films.
+8;BITEM-PG-1;8;The script would be Chris Morgan's fifth in the franchise.
+9;BITEM-PG-1;2;A sixth film was planned as early as February 2010, prior to the production of Fast Five.
+10;BITEM-PG-2;13;The third film was the least financially successful of the franchise.
+</D0049>
+<D0050>F9;100
+1;BITEM-PG-1;8;The film F9 had box-office success.
+2;BITEM-PG-1;6;F9 became the fifth-highest-grossing film of 2021.
+3;BITEM-PG-1;4;Fast X topped the box office.
+4;retrank-PG-1.txt;2;Fast & Furious is a movie.
+5;BITEM-PG-1;2;Fast X is the fifth-most expensive film ever made.
+6;BITEM-PG-1;1;F9 grossed $726 million worldwide.
+7;BITEM-PG-1;17;F9 had a five-day international opening weekend.
+8;BITEM-PG-1;17;The debut of F9 was the biggest international opening for a Hollywood film since the pandemic began in March 2020.
+9;Error404-PG-4;1;Fast X is the tenth main installment and the eleventh overall in the Fast & Furious franchise.
+10;Error404-PG-4;1;Vin Diesel stars as Dominic Toretto in Fast X.
+</D0050>
+<D0051>Murph;100
+1;BITEM-PG-1;6;Interstellar is a 2014 epic science-fiction film.
+2;BITEM-PG-1;13;Interstellar became the tenth-highest-grossing film of 2014.
+3;BITEM-PG-1;3;By the time they leave the planet, Cooper and Brand discover that 23 years have elapsed on the Endurance.
+4;BITEM-PG-1;15;Interstellar was named the second-best movie of the decade by Oliver Gettell of the Los Angeles Times.
+5;BITEM-PG-1;6;The film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.
+6;BITEM-PG-1;1;During a dust storm, Joseph Cooper and Murph discover that dust patterns in Murph's room result from a gravitational anomaly.
+7;BITEM-PG-1;6;Interstellar uses extensive practical and miniature effects.
+8;BITEM-PG-1;15;Interstellar is almost an anti-cli-fi film, holding out hope that the end of the planet is not the end of everything.
+9;BITEM-PG-1;5;The teaser trailer for Interstellar debuted in 2013.
+10;BITEM-PG-1;9;Interstellar: Beyond Time and Space is a book by Mark Cotta Vaz.
+</D0051>
+<D0052>Murphy;100
+1;BITEM-PG-1;16;Interstellar features three spacecraft.
+2;BITEM-PG-1;16;The film features two robots, CASE and TARS.
+3;BITEM-PG-2;13;Chastain was drawn to Interstellar for the emotional heft she found in the father-daughter pair.
+4;BITEM-PG-1;9;Interstellar received positive reviews.
+5;BITEM-PG-2;13;Interstellar was filmed mostly using IMAX cameras.
+6;BITEM-PG-2;13;Interstellar ranks as Chastain's highest-grossing live-action film to date.
+7;BITEM-PG-1;9;Interstellar grossed over $700 million worldwide.
+8;BITEM-PG-1;3;The film is based on a jewel burglary involving Jack Roland Murphy.
+9;BITEM-PG-2;3;Mackenzie Foy, Jessica Chastain, and Ellen Burstyn played Murphy Cooper in Interstellar (2014).
+10;BITEM-PG-1;9;A decade later, Chalamet stated that Interstellar was his favorite film he had ever been in.
+</D0052>
+<D0053>The provided nuggets do not contain information about her age.;0
+1;BITEM-PG-1;3;Interstellar was a commercial success.
+2;BITEM-PG-1;3;In the United States, Interstellar was first released on film stock.
+3;BITEM-PG-1;3;Interstellar grossed $681 million worldwide during its initial theatrical run.
+4;WasedaR2C2-PO-4;1;The film was directed by Edward Sloman.
+5;BITEM-PG-1;3;Interstellar won Best Visual Effects at the 87th Academy Awards.
+6;BITEM-PG-1;12;Cooper's final film role was as Ace Morgan in the 1987 film Surrender.
+7;BITEM-PG-1;3;The film received generally positive reviews from critics.
+8;retrank-PG-1.txt;1;The father had a daughter named Charlotte.
+9;BITEM-PG-1;9;After his first appearance, Cooper appeared in numerous films with Republic Pictures.
+10;retrank-PG-3.txt;2;The novel tells the story of Joseph Joffo's mother.
+</D0053>
+<D0054>Tenet;100
+1;BITEM-PG-1;3;The film was written, co-produced, and directed by Christopher Nolan.
+2;Error404-PG-4;1;The film is set in a dystopian future where Earth is suffering from catastrophic blight and famine.
+3;BITEM-PG-1;9;The film included footage to promote the release of the studio's then-upcoming film, Dune: Part Two (2024).
+4;BITEM-PG-1;14;Tenet is a 2020 film.
+5;BITEM-PG-1;5;In a 2014 discussion of the film's physics, Jonathan Nolan expressed his admiration for scientific objectivity.
+6;BITEM-PG-1;9;The film had a run time of 150 minutes.
+7;BITEM-PG-1;1;As of February 2025, Nolan will work with Universal Studios on The Odyssey.
+8;BITEM-PG-1;9;In 2023, Variety reported that Warner Bros. offered Nolan a seven-figure check for him to return to the studio.
+9;BITEM-PG-1;14;Three years later, he directed the science fiction film Tenet (2020).
+10;BITEM-PG-2;10;The film was nominated for Best Supporting Actress for Blunt.
+</D0054>
+<D0055>Tomorrowland;100
+1;BITEM-PG-1;1;Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;BITEM-PG-1;6;The film was completed less than two weeks before its release date.
+3;BITEM-PG-1;8;The film began international rollout on July 31, 2019.
+4;BITEM-PG-1;2;The film was originally scheduled for October 9, 2015.
+5;BITEM-PG-1;3;The film was screened at the 2015 CineEurope on 23 June 2015 at the Centre Convencions Internacional Barcelona in full 3D Dolby Atmos.
+6;ORG-PO-3;1;The film was shot with Arri Alexa XT cameras.
+7;BITEM-PG-1;9;The film opened on Friday, September 11, 2015.
+8;BITEM-PG-2;3;The release was part of the biggest movie rollout ever by Lionsgate.
+9;Error404-PO-1;2;The release preserves the film's 1.78:1 (16:9) format over the 2.39:1 (21:9) scope version.
+10;WasedaR2C2-PO-3;2;The film topped the home video sales chart for the week ending on March 27, 2016.
+</D0055>
+<D0056>Hoth;100
+1;BITEM-PG-2;5;After evading the Imperial fleet, Han's group travels to the floating Cloud City on the gas planet Bespin.
+2;BITEM-PG-1;18;In 2 ABY, Echo Base neared completion.
+3;BITEM-PG-1;1;The Echo Base was the facility established by the Rebel Alliance on the frigid planet of Hoth.
+4;BITEM-PG-2;10;Months after the Battle of Hoth, Chewbacca, Organa, Skywalker, and Lando Calrissian returned to Echo Base.
+5;BITEM-PG-2;18;In 1 ABY, an Alliance shuttle crashed near the Corellian city of Tyrena during the Empire Day festivities.
+6;BITEM-PG-1;18;Upon arriving in the Hoth system, the Rebel couriers found themselves somewhat off course.
+7;ORG-PO-3;2;In Star Wars (1977), Solo and his Wookiee co-pilot Chewbacca accept a charter to transport Luke Skywalker and Obi-Wan Kenobi from Tatooine to Alderaan on their ship, the Millennium Falcon.
+8;hit-u-PO-4;1;Star Wars: Galactic Atlas states that ''A New Hope'' ends in 0 ABY.
+9;BITEM-PG-1;17;R-3PO is in Echo Base shortly before the Battle of Hoth.
+10;BITEM-PG-2;5;A wampa captures Luke Skywalker before he can investigate the probe crash site.
+</D0056>
+<D0057>Information not provided in the nuggets.;0
+1;BITEM-PG-1;2;In the years before the Battle of Yavin, Ahsoka Tano used two white lightsabers as her personal weapons.
+2;BITEM-PG-1;18;In 9 ABY, Tano was using her white lightsabers while searching for Grand Admiral Mitth'raw'nuruodo 'Thrawn'.
+3;BITEM-PG-1;8;The old Star Wars database has an image of Plo Koon without his goggles exposing his closed eyes.
+4;BITEM-PG-2;6;Following the outbreak of the Clone Wars, Jedi Grand Master Yoda assigned Tano to be the Padawan learner of Jedi Knight Anakin Skywalker.
+5;ORG-PO-3;1;During the production of Attack of the Clones, Jackson asked Lucas if his character could wield a purple lightsaber.
+6;BITEM-PG-2;19;While a Jedi Initiate, Ahsoka Tano received training in sand levitation by Grand Master Yoda.
+7;Error404-PG-3;1;Yoda teaches Ahsoka how to fight with two lightsabers.
+8;ORG-PO-4;1;Obi-Wan seeks out Padmé to discover Vader's whereabouts.
+9;BITEM-PG-1;20;During a mission to rescue Force-sensitive infants from the Empire, Tano fought Inquisitors Fifth Brother and Seventh Sister in Hammertown on Takobo.
+10;BITEM-PG-2;8;Qui-Gon Jinn teaches Obi-Wan Kenobi to ride a varactyl.
+</D0057>
+<D0058>The provided nuggets do not contain information about what Chirrut Îmwe was repeating before he died.;100
+1;BITEM-PG-2;14;Chirrut Îmwe was deeply spiritual.
+2;BITEM-PG-1;8;Chirrut Îmwe and Baze Malbus said 'Baze! Baze! Run!'.
+3;BITEM-PG-2;12;Chirrut Îmwe followed Phest to the Old Shadows.
+4;BITEM-PG-2;15;In the base, Cassian, Jyn, and K-2SO made it to the data vault.
+5;WasedaR2C2-PO-3;2;Chirrut Îmwe must have been born in 53 BBY.
+6;WaterlooClarke-PO-2;2;Chirrut Îmwe became part of a volunteer group of Rebels tasked with stealing the plans of the first Death Star.
+7;Error404-PG-3;2;Chirrut Îmwe listened for telltale echoes with his staff as to the console's location.
+8;WaterlooClarke-PO-2;2;Around 14 BBY, Chirrut Îmwe responded to a disturbance in a tunnel leading to the Temple of the Kyber.
+9;BITEM-PG-2;17;Chirrut Îmwe said they would be trapped in the cycle they were in as long as the Empire was around.
+10;BITEM-PG-1;11;Cassian Andor tasking Chirrut Îmwe and the main squad before the Battle of Scarif.
+</D0058>
+<D0059>Jackson;100
+1;BITEM-PG-1;4;Star Wars: Episode III – Revenge of the Sith is a 2005 American epic space opera film.
+2;BITEM-PG-1;4;The film is the sequel to Attack of the Clones (2002).
+3;WasedaR2C2-PO-2;2;In Star Wars: Episode I The Phantom Menace, Mike Savva played a Naboo guard.
+4;ORG-PO-3;1;The title is a reference to Revenge of the Jedi, the original title of Return of the Jedi.
+5;hit-u-PO-3;2;From Episode I to Episode II, George Lucas tried to recast the roles of background Jedi with different actors whenever the original ones were unavailable.
+6;BITEM-PG-2;10;Obi-Wan Kenobi is played by Sir Alec Guinness in A New Hope, The Empire Strikes Back, and Return of the Jedi.
+7;BITEM-PG-2;3;Jackson gained widespread recognition as the Jedi Mace Windu in the Star Wars prequel trilogy (1999–2005).
+8;BITEM-PG-2;10;Joel Edgerton played Owen Lars in those two films.
+9;BITEM-PG-1;1;He starred as the protagonist of the Disney+ miniseries Secret Invasion (2023).
+10;BITEM-PG-1;2;Ewan McGregor plays Obi-Wan Kenobi.
+</D0059>
+<D0060>The provided nuggets do not contain information about where Han Solo died.;100
+1;BITEM-PG-1;6;Han Solo and Luke Skywalker receive a Rebel distress signal from planet Verdanth.
+2;BITEM-PG-1;9;In Solo: A Star Wars Story (2018), a younger version of Han Solo is played by Alden Ehrenreich.
+3;BITEM-PG-1;9;Han Solo is a fictional character in the Star Wars franchise.
+4;BITEM-PG-1;9;Harrison Ford portrayed Han Solo in all five films.
+5;BITEM-PG-2;9;C-3PO interjects that Darth Vader is on the volcanic planet K43.
+6;Error404-PG-3;1;The episode adapts events of Star Wars: Episode IV A New Hope.
+7;WaterlooClarke-PO-1;1;The story appears in Star Wars Tales 17.
+8;Error404-PG-4;1;Star Wars (1977) 75 is a publication.
+9;BITEM-PG-1;6;As soon as Luke and Han arrive, the probe stops firing.
+10;Error404-PG-4;1;Rebels find themselves facing death on a planet of Water Breathers in Star Wars (1977) 75.
+</D0060>
+<D0061>Home;100
+1;BITEM-PG-1;1;The film is based on the Marvel Comics character Spider-Man.
+2;BITEM-PG-2;2;They co-wrote part of the first Marvel Cinematic Universe Spider-Man trilogy from 2017–2021.
+3;Error404-PO-1;2;The Spider-Man films are highly successful, collectively grossing over $9 billion worldwide.
+4;BITEM-PG-1;1;It is the sequel to Spider-Man: Homecoming (2017).
+5;BITEM-PG-1;16;Spider-Man 3 is set a year after the events of Spider-Man 2.
+6;BITEM-PG-1;2;Spider-Man has appeared in film since the 1970s.
+7;BITEM-PG-1;11;The MCU is the shared universe in which all of the films are set.
+8;Error404-PO-2;2;The Spider-Man films are owned, financed, and distributed by Sony Pictures.
+9;BITEM-PG-1;1;Spider-Man: Far From Home is a 2019 American superhero film.
+10;BITEM-PG-1;1;In the film, Parker is recruited by Nick Fury and Mysterio to face the Elementals while he is on a school trip to Europe.
+</D0061>
+<D0062>The provided nuggets do not mention Jyn Erso's nickname.;100
+1;BITEM-PG-2;7;The title states that Jyn Erso was captured on Corulag.
+2;ORG-PO-3;1;Rogue One eventually became Rogue One.
+3;BITEM-PG-1;4;Jyn Erso is a fictional character in the Star Wars franchise.
+4;BITEM-PG-1;16;Jyn is the daughter of Galen Erso.
+5;BITEM-PG-2;6;Jyn Erso said 'This is a rebellion, isn't it?'
+6;BITEM-PG-2;17;In 1 BBY, Jyn's luck ran out.
+7;BITEM-PG-2;18;Jyn was asked to find her father to unravel the secrets about the project he was working on.
+8;BITEM-PG-2;15;The fate of the galaxy rests on Jyn Erso and her band of unlikely companions.
+9;BITEM-PG-1;4;Felicity Jones portrays Jyn Erso as the main protagonist in the 2016 film Rogue One: A Star Wars Story.
+10;Error404-PG-3;1;Jyn Erso was raised by resistance fighter Saw Gerrera.
+</D0062>
+<D0063>AT-AT;100
+1;BITEM-PG-1;8;During the film scene in which the Rebels first spot the AT-ATs on Hoth, the radio drama is alternatively set within the Echo Base command center.
+2;Error404-PG-3;2;In the DVD commentary to The Empire Strikes Back, George Lucas explains that he got the idea of the AT-AT from the massive tripods from H.G. Wells' 1898 novel The War of the Worlds.
+3;BITEM-PG-1;3;The AT-ATs in The Empire Strikes Back were created by Joe Johnston.
+4;BITEM-PG-1;10;The Rebel pilot attempts to destroy AT-ATs on Hoth.
+5;WasedaR2C2-PO-1;2;Star Wars: Complete Locations identified the laser-ice cutter on top of the vehicle.
+6;BITEM-PG-2;9;The Empire used a SB-20 Slicer Droid to gather information before executing the assault.
+7;BITEM-PG-1;2;Skywalker and his wingmen destroyed three AT-STs threatening the pilot.
+8;BITEM-PG-2;13;A group of Imperial agents under orders of Colonel Veers attacked the base.
+9;hit-u-PO-2;2;Before boarding his own snowspeeder, Luke goes to find Han and Chewbacca.
+10;BITEM-PG-1;2;General Veers commanded his AT-AT walker Blizzard 1.
+</D0063>
+<D0064>Rogue One;100
+1;BITEM-PG-1;7;Two standalone films were produced and released between the sequel trilogy films: Rogue One (2016) and Solo: A Star Wars Story (2018).
+2;BITEM-PG-1;4;Solo was the first Star Wars film to be a commercial failure.
+3;BITEM-PG-1;11;The film tells the origin story of Han Solo and Chewbacca.
+4;BITEM-PG-1;18;Star Wars: The Rise of Skywalker is a film.
+5;BITEM-PG-1;2;Rogue One made the highest-grossing Thursday opening of 2016.
+6;BITEM-PG-1;6;The film had the second biggest day one pre-sales, following The Force Awakens.
+7;BITEM-PG-1;11;Lucasfilm produced the film.
+8;BITEM-PG-1;11;The film was directed by Ron Howard.
+9;BITEM-PG-1;2;Disney and Lucasfilm did not expect Rogue One to match its $248 million opening.
+10;BITEM-PG-1;12;At that time, the film was the third-highest-grossing film in North America behind Titanic and Star Wars (1977).
+</D0064>
+<D0065>Director Krennic;0
+1;BITEM-PG-2;3;The film Rogue One takes place immediately before the events in A New Hope.
+2;BITEM-PG-2;12;A StarWars.com blog post revealed the full cast for the film.
+3;BITEM-PG-1;7;Star Wars is one of the most financially successful films of all time.
+4;WasedaR2C2-PO-1;1;The movie was notable for being the first to visually portray Chinese and Japanese folklore tropes in Japanese cinema.
+5;BITEM-PG-1;2;In Rogue One, Jiang portrays Baze Malbus.
+6;BITEM-PG-1;5;The highest-grossing film worldwide is Star Wars: The Force Awakens.
+7;BITEM-PG-1;10;2015's Force Awakens and 2016's Rogue One are other franchises that released billion-dollar-grossing films in three consecutive years.
+8;ORG-PO-3;2;The cast of the movies feature notable actors.
+9;ORG-PO-3;2;In the prequel trilogy, professional models did the non-speaking minor-character roles.
+10;BITEM-PG-1;10;Deadpool and The Matrix Reloaded are the other two highest-grossing R-rated films.
+</D0065>

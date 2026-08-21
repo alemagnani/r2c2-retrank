@@ -1,0 +1,18 @@
+{
+  "sonnet": {
+    "judge": "Sonnet",
+    "baseline_HMR": 0.9626170611271921,
+    "oracle_abstention_HMR": 0.9626170611271921,
+    "oracle_calibration_HMR": 1.0,
+    "oracle_calibration_05_HMR": 0.9743589743589743,
+    "baseline_Cnf_W": 0
+  },
+  "opus": {
+    "judge": "Opus",
+    "baseline_HMR": 0.9626170611271921,
+    "oracle_abstention_HMR": 0.9626170611271921,
+    "oracle_calibration_HMR": 1.0,
+    "oracle_calibration_05_HMR": 0.9743589743589743,
+    "baseline_Cnf_W": 0
+  }
+}

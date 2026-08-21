@@ -1,0 +1,153 @@
+- generic [ref=f5e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f5e5]:
+    - button "Skip to main content" [ref=f5e6] [cursor=pointer]
+    - banner [ref=f5e8]:
+      - link "Home" [ref=f5e10] [cursor=pointer]:
+        - /url: /
+        - img "Company Logo" [ref=f5e11]
+      - generic [ref=f5e13]:
+        - link "Sign up" [ref=f5e14] [cursor=pointer]:
+          - /url: https://waseda.account.box.com/pricing
+        - link "Log in" [ref=f5e15] [cursor=pointer]:
+          - /url: https://waseda.account.box.com/login?redirect_url=%2Fv%2Fr2c2officialresults%3Fpage%3D2&utm_campaign=asset-login-ribbon&utm_medium=Collaboration&utm_source_link=link
+    - main "OfficialResults" [ref=f5e16]:
+      - generic [ref=f5e18]:
+        - generic [ref=f5e19]:
+          - navigation "Breadcrumb" [ref=f5e21]:
+            - list [ref=f5e22]:
+              - listitem [ref=f5e23]:
+                - heading "OfficialResults" [level=1] [ref=f5e26]
+          - generic [ref=f5e27]:
+            - generic [ref=f5e28]:
+              - button "2 of 2" [ref=f5e30] [cursor=pointer]
+              - generic [ref=f5e32]:
+                - link "Previous Page" [ref=f5e33] [cursor=pointer]:
+                  - /url: /v/r2c2officialresults?page=1
+                - button "Next Page" [disabled]
+            - button "Download" [ref=f5e35] [cursor=pointer]
+        - generic [ref=f5e38]:
+          - generic [ref=f5e40]:
+            - generic [ref=f5e43]:
+              - generic:
+                - generic:
+                  - grid:
+                    - rowgroup:
+                      - row "Type Name, including supplementary info Resize Name column Updated Resize Updated column Size View selector Toggle sidebar" [ref=f5e44]:
+                        - columnheader "Type"
+                        - columnheader "Name, including supplementary info":
+                          - link "Sort by Name" [ref=f5e46] [cursor=pointer]:
+                            - /url: /v/r2c2officialresults?sortColumn=name&sortDirection=ASC
+                            - generic [ref=f5e47]: NAME
+                        - generic:
+                          - separator "Resize Name column":
+                            - generic [ref=f5e49]: Use Left and Right Arrow keys to resize.
+                        - columnheader "Updated" [ref=f5e50]:
+                          - link "Sort by Updated" [ref=f5e51] [cursor=pointer]:
+                            - /url: /v/r2c2officialresults?sortColumn=date&sortDirection=ASC
+                            - generic [ref=f5e52]: UPDATED
+                        - generic:
+                          - separator "Resize Updated column":
+                            - generic [ref=f5e54]: Use Left and Right Arrow keys to resize.
+                        - columnheader "Size" [ref=f5e55]:
+                          - link "Sort by Size" [ref=f5e56] [cursor=pointer]:
+                            - /url: /v/r2c2officialresults?sortColumn=size&sortDirection=ASC
+                            - generic [ref=f5e57]: SIZE
+                        - generic [ref=f5e59]:
+                          - button "View selector" [ref=f5e60] [cursor=pointer]
+                          - button "Toggle sidebar" [ref=f5e61] [cursor=pointer]
+                    - rowgroup "grid" [ref=f5e63]:
+                      - generic [ref=f5e64]:
+                        - row [ref=f5e65] [cursor=pointer]:
+                          - generic [ref=f5e66]:
+                            - gridcell [ref=f5e67]:
+                              - img "File" [ref=f5e68]
+                            - gridcell [ref=f5e72]:
+                              - link "official.ACrunnames.official.ACnev.NugPrec.tsmdressed.csv" [ref=f5e79]:
+                                - /url: /v/r2c2officialresults/file/2267951322244
+                            - gridcell [ref=f5e80]
+                            - gridcell "Jun 5, 2026 by 酒井 哲也" [ref=f5e81]
+                            - gridcell [ref=f5e84]
+                            - gridcell "11.5 KB" [ref=f5e85]
+                            - gridcell
+                        - row [ref=f5e86] [cursor=pointer]:
+                          - generic [ref=f5e87]:
+                            - gridcell [ref=f5e88]:
+                              - img "File" [ref=f5e89]
+                            - gridcell [ref=f5e93]:
+                              - link "official.ACrunnames.official.ACnev.Correct.tsmdressed.csv" [ref=f5e100]:
+                                - /url: /v/r2c2officialresults/file/2267946439009
+                            - gridcell [ref=f5e101]
+                            - gridcell "Jun 5, 2026 by 酒井 哲也" [ref=f5e102]
+                            - gridcell [ref=f5e105]
+                            - gridcell "11.5 KB" [ref=f5e106]
+                            - gridcell
+                        - row [ref=f5e107] [cursor=pointer]:
+                          - generic [ref=f5e108]:
+                            - gridcell [ref=f5e109]:
+                              - img "File" [ref=f5e110]
+                            - gridcell [ref=f5e114]:
+                              - link "derivedL0-L4.PRruns.derivedL0-L4.nev.Q@0020.tsmdressed.csv" [ref=f5e121]:
+                                - /url: /v/r2c2officialresults/file/2267922050066
+                            - gridcell [ref=f5e122]
+                            - gridcell "Jun 5, 2026 by 酒井 哲也" [ref=f5e123]
+                            - gridcell [ref=f5e126]
+                            - gridcell "10.1 KB" [ref=f5e127]
+                            - gridcell
+                        - row [ref=f5e128] [cursor=pointer]:
+                          - generic [ref=f5e129]:
+                            - gridcell [ref=f5e130]:
+                              - img "File" [ref=f5e131]
+                            - gridcell [ref=f5e135]:
+                              - link "derivedL0-L4.PRruns.derivedL0-L4.nev.MSnDCG@0020.tsmdressed.csv" [ref=f5e142]:
+                                - /url: /v/r2c2officialresults/file/2267919844321
+                            - gridcell [ref=f5e143]
+                            - gridcell "Jun 5, 2026 by 酒井 哲也" [ref=f5e144]
+                            - gridcell [ref=f5e147]
+                            - gridcell "10.1 KB" [ref=f5e148]
+                            - gridcell
+                        - row [ref=f5e149] [cursor=pointer]:
+                          - generic [ref=f5e150]:
+                            - gridcell [ref=f5e151]:
+                              - img "File" [ref=f5e152]
+                            - gridcell [ref=f5e156]:
+                              - link "official.AC.csv" [ref=f5e163]:
+                                - /url: /v/r2c2officialresults/file/2267916930838
+                            - gridcell [ref=f5e164]
+                            - gridcell "Jun 5, 2026 by 酒井 哲也" [ref=f5e165]
+                            - gridcell [ref=f5e168]
+                            - gridcell "3.6 KB" [ref=f5e169]
+                            - gridcell
+            - generic [ref=f5e170]:
+              - button "2 of 2" [ref=f5e172] [cursor=pointer]
+              - generic [ref=f5e174]:
+                - link "Previous Page" [ref=f5e175] [cursor=pointer]:
+                  - /url: /v/r2c2officialresults?page=1
+                - button "Next Page" [disabled]
+          - generic [ref=f5e177]:
+            - generic: Sharing and details updated for folder "OfficialResults"
+            - complementary "Details sidebar" [ref=f5e179]:
+              - generic [ref=f5e180]:
+                - tablist [ref=f5e182]:
+                  - tab "Details" [selected] [ref=f5e183] [cursor=pointer]
+                - tabpanel "Details" [ref=f5e185]:
+                  - generic [ref=f5e186]:
+                    - generic [ref=f5e187]:
+                      - heading "Folder Properties" [level=2] [ref=f5e189]
+                      - generic [ref=f5e190]:
+                        - term [ref=f5e191]: Owner
+                        - definition [ref=f5e192]: 学内管理者
+                        - term [ref=f5e193]: Created
+                        - definition [ref=f5e194]: Jun 5, 2026, 5:43 PM
+                        - term [ref=f5e195]: Modified
+                        - definition [ref=f5e196]: Jun 14, 2026, 6:52 PM
+                        - term [ref=f5e197]: Location
+                        - definition [ref=f5e198]:
+                          - navigation "Location" [ref=f5e199]:
+                            - list [ref=f5e200]:
+                              - listitem [ref=f5e201]:
+                                - generic [ref=f5e202]: OfficialResults
+                    - separator [ref=f5e203]
+    - button [ref=f5e204] [cursor=pointer]:
+      - generic [ref=f5e205]: Drop files on this page to upload them into this folder.

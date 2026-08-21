@@ -1,0 +1,179 @@
+<D0001>Bor Gullet;39
+1;BITEM-PG-1;1;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.
+</D0001>
+<D0002>Black Widow;95
+1;BITEM-PG-1;3;She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm;70
+1;BITEM-PG-1;1;Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm." The premise of robots turning on their creators, originating in Karel Čapek's play R.U.R.
+</D0003>
+<D0004>Jake Lombard;48
+1;BITEM-PG-1;3;Worth developed the equipment for the scene, which included a 1 in parachute pack that could be concealed beneath the suit to give the impression of the missing parachute, and equipment to prevent the freefalling cameraman from suffering whiplash while opening his parachute, they brought in stuntman Jake Lombard to test it all.
+</D0004>
+<D0005>one;51
+1;BITEM-PG-1;2;Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.
+</D0005>
+<D0006>Black Widow;33
+1;BITEM-PG-2;12;Scarlett Johansson as Natasha Romanoff / Black Widow:An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.
+</D0006>
+<D0007>1967;21
+1;BITEM-PG-1;1;With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song "Love Is All Around", titling it "Christmas Is All Around".
+</D0007>
+<D0008>Ryan Reynolds;76
+1;BITEM-PG-2;7;He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns.
+</D0008>
+<D0009>National Gallery;50
+1;BITEM-PG-1;1;In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+</D0009>
+<D0010>Christopher Lloyd;49
+1;BITEM-PG-1;6;Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.
+</D0010>
+<D0011>Chihiro;25
+1;BITEM-PG-1;8;Along with its function within the ostensible coming of age theme, Yubaba's act of taking Chihiro's name and replacing it with Sen (an alternate reading of chi, the first character in Chihiro's name, ) can be thought of as symbolic of capitalism's single-minded concern with value.
+</D0011>
+<D0012>Gareth;44
+1;BITEM-PG-1;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+</D0012>
+<D0013>Michael J. Fox;49
+1;BITEM-PG-1;2;Marty Jr.
+</D0013>
+<D0014>I don't know;5
+</D0014>
+<D0015>Donnie Yen;29
+1;BITEM-PG-2;1;Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.
+</D0015>
+<D0016>I don't know;5
+</D0016>
+<D0017>Zootopia;28
+1;BITEM-PG-1;2;In June 2020, due the worldwide closure of cinemas during the COVID-19 pandemic and limits on which films played, Zootopia returned to 280 theaters—mostly drive-ins—and grossed $393,600.
+</D0017>
+<D0018>I don't know;5
+</D0018>
+<D0019>I don't know;5
+</D0019>
+<D0020>I don't know;5
+</D0020>
+<D0021>June 9, 1981;45
+1;BITEM-PG-1;5;Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padmé Amidala in the prequel trilogy.
+</D0021>
+<D0022>Meryl Streep;92
+1;BITEM-PG-1;4;Hepburn won four Academy Awards, the record number for a performer, and received a total of 12 Oscar nominations for Best Actress—a number surpassed only by Meryl Streep.
+</D0022>
+<D0023>Meryl Streep;35
+1;BITEM-PG-1;10;Meryl Streep has received the most nominations in the category—seventeen—and has won twice.
+</D0023>
+<D0024>I don't know;5
+</D0024>
+<D0025>I don't know;5
+</D0025>
+<D0026>Joaquin Phoenix;60
+1;BITEM-PG-1;2;Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.
+</D0026>
+<D0027>liver "with some fava beans and a nice Chianti;50
+1;BITEM-PG-1;1;He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver "with some fava beans and a nice Chianti" (a "big Amarone" in the novel).
+</D0027>
+<D0028>blue tang;49
+1;BITEM-PG-2;2;It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould).
+</D0028>
+<D0029>sewage pipe;47
+1;BITEM-PG-1;1;The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.
+</D0029>
+<D0030>Ian McKellen;37
+1;BITEM-PG-1;2;Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series.
+</D0030>
+<D0031>Humphrey Bogart;98
+1;BITEM-PG-2;14;Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.
+</D0031>
+<D0032>eight;98
+1;BITEM-PG-1;4;And as we drew closer to the shoot date, Danny asked me to step in as the co-director." The film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards.
+</D0032>
+<D0033>I don't know;5
+</D0033>
+<D0034>seven;43
+1;BITEM-PG-1;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+</D0034>
+<D0035>I don't know;5
+</D0035>
+<D0036>Lotso;44
+1;BITEM-PG-1;1;Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.
+</D0036>
+<D0037>Monsters, Incorporated;35
+1;BITEM-PG-1;2;(also known as Monsters, Incorporated) is a 2001 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures.
+</D0037>
+<D0038>two;43
+1;BITEM-PG-2;8;Then-studio head of Pixar John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.
+</D0038>
+<D0039>June 11, 2019;35
+1;BITEM-PG-1;1;Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.
+</D0039>
+<D0040>A113;46
+1;BITEM-PG-1;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.
+</D0040>
+<D0041>Lloyd Sherr;45
+1;BITEM-PG-1;1;; Stanley Townsend as: ; Vladimir Trunkov ; Ivan ; Victor Hugo ; Lloyd Sherr as: ; Fillmore ; Tony Trihull, a combat ship ; Paul Dooley as Sarge ; Michel Michelis as Tomber ; Sig Hansen as Crabby the Boat ; Franco Nero as Uncle Topolino.
+</D0041>
+<D0042>Laputa: Castle in the Sky;50
+1;BITEM-PG-1;3;He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.
+</D0042>
+<D0043>Sid;35
+1;BITEM-PG-1;17;The last straw is Woody coming alive while Sid is holding him and telling him to "play nice".
+</D0043>
+<D0044>I don't know;5
+</D0044>
+<D0045>I don't know;5
+</D0045>
+<D0046>four;57
+1;BITEM-PG-2;13;The Avengers series is next, with four films on the list.
+</D0046>
+<D0047>I don't know;5
+</D0047>
+<D0048>Fast & Furious 6;74
+1;BITEM-PG-1;8;The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift, with Lucas Black reprising his role as Sean Boswell.
+</D0048>
+<D0049>ninth;42
+1;BITEM-PG-2;1;The sequel to The Fate of the Furious (2017), it is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise.
+</D0049>
+<D0050>F9;88
+1;BITEM-PG-1;8;F9 was released in June 2021.
+</D0050>
+<D0051>Lilli;96
+1;BITEM-PG-2;9;Cooper has three children—Eddie, Alex, and Lilli—from his first marriage.
+</D0051>
+<D0052>Murphy "Murph" Cooper;83
+1;BITEM-PG-1;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+</D0052>
+<D0053>I don't know;5
+</D0053>
+<D0054>I don't know;5
+</D0054>
+<D0055>Tomorrowland;47
+1;BITEM-PG-1;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+</D0055>
+<D0056>Brigia;49
+1;BITEM-PG-2;6;The main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base.
+</D0056>
+<D0057>Plo Koon;49
+1;BITEM-PG-2;6;Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.
+</D0057>
+<D0058>"May the Force of Others be with you,";30
+1;BITEM-PG-2;16;The Guardian of the Whills Chirrut Îmwe used a variation of this phrase, "May the Force of Others be with you," during his time proselytizing on the streets of Jedha City.
+</D0058>
+<D0059>Coinneach Alexander;97
+1;BITEM-PG-1;5;Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.
+</D0059>
+<D0060>Starkiller Base;98
+1;BITEM-PG-1;1;During the Battle of Starkiller Base, Han Solo attempted to turn his son Kylo Ren away from the First Order and the dark side of the Force, trying to convince him that Supreme Leader Snoke was just using him for his power.
+</D0060>
+<D0061>I don't know;5
+</D0061>
+<D0062>Jyn;28
+1;BITEM-PG-1;5;Jyn may refer to the following individuals: Jyn Erso, who led Rogue One in stealing the Death Star plans Jyn Odan, a smuggler who worked for the Rebel Alliance Jyn Freila, a Chandrilan rebel pilot ; Jyn N'oram, captain of the Fricasseed Nerf ; Jyn Obah, a Pirate of Tarnoonga ; Jyn Odan, a smuggler who worked for the Rebel Alliance "Jyn: The Rebel," a featurette for Rogue One: A Star Wars Story
+</D0062>
+<D0063>GR-75;49
+1;BITEM-PG-2;10;In 4 ABY, Squadron Five of the Galactic Empire's 204th Imperial Fighter Wing attacked a GR-75 medium transport which served as a mobile recruitment base for the Rebel Alliance.
+</D0063>
+<D0064>Solo: A Star Wars Story;46
+1;BITEM-PG-1;7;Two standalone films were produced and released between the sequel trilogy films: Rogue One (2016) and Solo: A Star Wars Story (2018), both set between the original and prequel trilogies.
+</D0064>
+<D0065>I don't know;5
+</D0065>

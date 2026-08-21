@@ -24830,5 +24830,1045 @@
  "e6d8a41d7af417e445e9d1d3": {
   "entailed": true,
   "reason": "The passage states that upon death, the trooper relinquished their grip on the live grenade, causing it to roll toward Malbus, directly supporting the nugget."
+ },
+ "3bd4dcbb3ba504773f339279": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010),' which directly matches the nugget."
+ },
+ "726f3fe87faad138f6d9f78b": {
+  "entailed": true,
+  "reason": "The passage explicitly states the Zeroth Law quote and attributes the premise of robots turning on their creators to Karel Čapek's play R.U.R."
+ },
+ "e3498c3f6a42045a29c03faa": {
+  "entailed": true,
+  "reason": "The passage explicitly states all the details in the nugget about Worth developing equipment including the 1in parachute pack and whiplash prevention equipment, and bringing in Jake Lombard to test it."
+ },
+ "afddd4ff7c21d14d82f9e571": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.'"
+ },
+ "9d86de0489268d3302d9bf7d": {
+  "entailed": true,
+  "reason": "The passage directly states that Scarlett Johansson plays Natasha Romanoff / Black Widow, described as 'An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.'"
+ },
+ "b9297edd4778d3e9e3c03e38": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Billy Mack records a Christmas version of the Troggs' 1967 song 'Love Is All Around' with his manager Joe, titling it 'Christmas Is All Around'."
+ },
+ "ceb706414ad7f94939873d94": {
+  "entailed": true,
+  "reason": "The passage directly states that Hal Jordan made his cinematic debut in the 2011 film Green Lantern portrayed by Ryan Reynolds and will be portrayed by Kyle Chandler in the DC Universe beginning with Lanterns."
+ },
+ "978075bb9dac0af0918aa312": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of Whistler's Mother, a 1871 painting by James Abbott McNeill Whistler."
+ },
+ "de19c67f4e232c6ff5034039": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.'"
+ },
+ "f02c3aaa846e6d03e9ebf31a": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Yubaba's act of taking Chihiro's name and replacing it with Sen can be thought of as symbolic of capitalism's single-minded concern with value, matching the nugget exactly."
+ },
+ "66a8ddbc62939b403dbc1fbb": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'During Hamish's speech, Gareth suffers a fatal heart attack,' which directly matches the nugget."
+ },
+ "8512973de8388b1fc13ac603": {
+  "entailed": true,
+  "reason": "The passage explicitly mentions Marty Jr. as a character portrayed by Michael J. Fox in Part II."
+ },
+ "d1ae0a68f7904ae85d9f3892": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story."
+ },
+ "176991c8c84a931dd511887e": {
+  "entailed": true,
+  "reason": "The passage explicitly states that in June 2020, due to the COVID-19 pandemic's worldwide cinema closures, Zootopia returned to 280 theaters (mostly drive-ins) and grossed $393,600."
+ },
+ "50cac1501cb12e3f1bcd7912": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Natalie Portman was born Neta-Lee Hershlag on June 9, 1981, and portrayed Padmé Amidala in the prequel trilogy."
+ },
+ "a8ef07de3e474170835b91ef": {
+  "entailed": true,
+  "reason": "The passage directly states that Hepburn won four Academy Awards, the record number for a performer, and received 12 Oscar nominations for Best Actress, surpassed only by Meryl Streep."
+ },
+ "b1c4fe00f5aa9b239c6378c2": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Meryl Streep has received the most nominations in the category—seventeen—and has won twice."
+ },
+ "1b271d17d0e75117bde90b3b": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.'"
+ },
+ "312966caf8f25056ff3363c3": {
+  "entailed": true,
+  "reason": "The passage contains this exact statement verbatim about Lecter preparing gourmet meals from victims' flesh and the census taker's liver example."
+ },
+ "38d7291ea7081a40807b813a": {
+  "entailed": true,
+  "reason": "The passage directly states this information about Marlin, Dory, and Nemo word-for-word."
+ },
+ "eb189ab231d8cb98da56234b": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Andy escaped through the tunnel and prison sewage pipe, taking Norton's suit, shoes, and the ledger containing evidence of corruption at Shawshank."
+ },
+ "4c8e47b60b43777465655e4b": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series."
+ },
+ "3607024c3a4bbdf8c8288b71": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart."
+ },
+ "70fcd6042760caad806ea2d4": {
+  "entailed": true,
+  "reason": "The passage contains the exact same text as the nugget, stating Danny asked her to step in as co-director and that the film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards."
+ },
+ "45686e199052f2bc8c551292": {
+  "entailed": true,
+  "reason": "The passage explicitly states that matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each consisting of three Chasers, two Beaters, the Keeper, and the Seeker."
+ },
+ "5bc211908072aebcb9118e4f": {
+  "entailed": true,
+  "reason": "The passage directly states this exact information about Lotso's voice actors, appearance, and role as main antagonist in the third film."
+ },
+ "9910f3e4c5603959e77e3f1d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Monsters, Inc. (also known as Monsters, Incorporated) is a 2001 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures."
+ },
+ "2f50bdab874803611f862251": {
+  "entailed": true,
+  "reason": "The passage directly states that John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich."
+ },
+ "f0edc420b89d0724e1e221a7": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles."
+ },
+ "1c29d3f4468b8770080884cb": {
+  "entailed": true,
+  "reason": "The passage explicitly states that AUTO reveals his secret no-return directive A113, which orders them not to return to Earth due to toxicity levels making Earth unlivable."
+ },
+ "a427c20bce682cf025b0dd71": {
+  "entailed": true,
+  "reason": "The passage directly lists all the character-voice actor pairings mentioned in the nugget in the same order and with the same details."
+ },
+ "0a0bff5d3f05580df1ecb1d1": {
+  "entailed": true,
+  "reason": "The passage directly states 'He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli,' which matches the nugget verbatim."
+ },
+ "9ece2963e320f774e1ab913b": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The last straw is Woody coming alive while Sid is holding him and telling him to \"play nice\"', which directly matches the nugget."
+ },
+ "b14d51d5338128d6f369cc47": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The Avengers series is next, with four films on the list.'"
+ },
+ "3717b854e20a672d021daab1": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift, with Lucas Black reprising his role as Sean Boswell.'"
+ },
+ "239a702a542398a00d236b37": {
+  "entailed": true,
+  "reason": "The passage explicitly states F9 'is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise' and identifies it as 'The sequel to The Fate of the Furious (2017).'"
+ },
+ "c6f246d29e61ebdbd811cddb": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'F9 was released in June 2021.'"
+ },
+ "cb48e39e7a12bfc87dc4ec72": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Cooper has three children—Eddie, Alex, and Lilli—from his first marriage."
+ },
+ "a138c338b1bb58fb827f5d99": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand."
+ },
+ "a1147aa8464fe5379bda7471": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base."
+ },
+ "42dadac84db90cfdc941e17c": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training."
+ },
+ "f072dea47fd4e4e17ad5162f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Chirrut Îmwe, Guardian of the Whills, used the variation 'May the Force of Others be with you' while proselytizing on the streets of Jedha City."
+ },
+ "1e6b2c23e4b1c953ed1f65f8": {
+  "entailed": true,
+  "reason": "The passage directly states that Coinneach Alexander played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith, which matches the nugget exactly."
+ },
+ "39ca81a6a1fccfe0edf97612": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Han Solo attempted to turn Kylo Ren away from the First Order and the dark side, and tried to convince him that Snoke was using him for his power."
+ },
+ "298d88fe61feb30537d641bd": {
+  "entailed": true,
+  "reason": "The nugget is identical to the passage text, so it is directly entailed."
+ },
+ "5cd5609b4ccb54ae6ce6df10": {
+  "entailed": true,
+  "reason": "The passage explicitly states this exact information in its opening sentence."
+ },
+ "43a0be95b1c5e8719225e0ee": {
+  "entailed": true,
+  "reason": "The passage explicitly states this information in its opening sentence, word for word."
+ },
+ "947b681588f97215bd371a8a": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'J. J. Abrams was named director of the first episode in the trilogy, Star Wars: The Force Awakens, in January 2013,' which directly matches the nugget."
+ },
+ "6a2e07040ebc28f63285fd7a": {
+  "entailed": true,
+  "reason": "The passage explicitly states that principal photography began on January 23, 2017, under the working title Mary Lou, at Pinewood Atlanta Studios in Fayette County, Georgia, with Trent Opaloch as director of photography."
+ },
+ "9de1ae3c87f59f12f8a61d4f": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same information about Nolan becoming a high-profile director with The Dark Knight trilogy and finding further success with those same films in identical wording."
+ },
+ "fced5cd99f5a800c921f080f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ninomiya appeared in two different films for the rest of 2006 before taking up Haikei, Chichiue-sama on January 11, 2007."
+ },
+ "4b0bbf86b41e9d4ebe277932": {
+  "entailed": true,
+  "reason": "The passage directly states that Sobieski continued to work in films and on television until retiring from acting in 2012, after which she focused on her children and art career."
+ },
+ "4c1d5be1983087bc089453b2": {
+  "entailed": true,
+  "reason": "The passage explicitly states the four sequels with their release years and that the second installment won an Oscar for Best Visual Effects in 2007, matching the nugget exactly."
+ },
+ "d677d2f0e183dc412a368d6d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Lewis Abernathy worked with James Cameron and appeared in Titanic (1997) as Lewis Bodine, Brock Lovett (Bill Paxton)'s colleague."
+ },
+ "20c946b48a759220df5275a9": {
+  "entailed": true,
+  "reason": "The passage explicitly states that in July 2019 Avengers: Endgame overtook Avatar's record, and that a re-release in China in March 2021 returned Avatar to the highest-grossing film position."
+ },
+ "7852791e7523c8ca8ee57321": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten."
+ },
+ "5a293ed0632013c9bbe9cf26": {
+  "entailed": true,
+  "reason": "The nugget is a direct subset of the passage text, listing the same cast members and their roles without adding or contradicting any information."
+ },
+ "775a69861b50d5620c17387d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Star Wars was dethroned by The Deep, returned to number one in its seventh week with $7-million weekends entering wide release, and remained number one for the next 15 weeks."
+ },
+ "38147dc64b5a2841549af4be": {
+  "entailed": true,
+  "reason": "The passage's opening sentence states exactly that Moonraker is a 1979 spy-fi film, the eleventh in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as James Bond."
+ },
+ "26510de853486591c0af45e8": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same cast information word-for-word as the nugget."
+ },
+ "b41e7aba58065fbb49a1cfd2": {
+  "entailed": true,
+  "reason": "The passage explicitly states all three projects in development: the Caine film, the Under the High Table series, and the anime prequel, matching the nugget exactly."
+ },
+ "d71d864c6eb711868fb0be5f": {
+  "entailed": true,
+  "reason": "The passage explicitly states this exact claim about the second-biggest third weekend ranking behind Avatar ($68 million) and ahead of Skyfall ($35 million)."
+ },
+ "ec3b2723a2ab1118d3aae97d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ingrid Bergman and Streep each have two statuettes for leading and one supporting actress win, and that Jack Nicholson has the same tally for male actors."
+ },
+ "5b4da96d2034ca519257976d": {
+  "entailed": true,
+  "reason": "The passage directly contains all the information in the nugget, including the titles, release dates, and notes about both films."
+ },
+ "91c83ae0b6bc96dcc1acd209": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The film focuses on the amnesiac fish Dory (DeGeneres), who journeys to be reunited with her parents (Keaton and Levy).'"
+ },
+ "41b782f857d8f83ff6143736": {
+  "entailed": true,
+  "reason": "The passage directly states that McKellen was cast in 1999 under Bryan Singer's direction to play Magneto in X-Men (2000) and its sequels X2: X-Men United (2003) and X-Men: The Last Stand (2006)."
+ },
+ "387881e7283d2de567dcf438": {
+  "entailed": true,
+  "reason": "The passage directly states that The Dark Knight was the year's highest-grossing film and Slumdog Millionaire won the Academy Award for Best Picture out of eight Academy Awards."
+ },
+ "7352ad5abed944eb2172ef10": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'In 1990, Paxton appeared in Predator 2 (1990).'"
+ },
+ "f8a52e82de630d6386b8928b": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same information about the slogan change and its later use in Monsters at Work."
+ },
+ "d4c39f607e43a8600cb06676": {
+  "entailed": true,
+  "reason": "The passage directly states all the information contained in the nugget about Fillmore's voice actors, his identity as a 1960 Volkswagen Type 2(T1), and his ownership of a store selling organic biofuel that he gives to McQueen during races."
+ },
+ "9764312f7cb1c3fac2976354": {
+  "entailed": true,
+  "reason": "The passage directly states that Miyazaki uses Totoro as part of his logo for Studio Ghibli."
+ },
+ "4ed4e3918a612a4ee61b9d57": {
+  "entailed": true,
+  "reason": "The passage directly states that Owen Shaw survived but is comatose and that his older brother Deckard Shaw has gone rogue and is hunting Dom's team."
+ },
+ "f2366cd2148958027f00b94b": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Fast X 'is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise' and is 'The sequel to F9 (2021)'."
+ },
+ "07bac2f34de82844fe49deae": {
+  "entailed": true,
+  "reason": "The passage directly states that Cooper is a widowed former NASA test pilot who works as a farmer and raises his children Murph and Tom alongside his father-in-law Donald."
+ },
+ "94033185a3e62ed3a78df63d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Code 1-5 was the Rebel Alliance order to begin evacuating Echo Base on the planet Hoth."
+ },
+ "0fe2957a2e9d04f5b5f2dce8": {
+  "entailed": true,
+  "reason": "The passage explicitly states this in its opening sentence."
+ },
+ "a0f556667a2881a1877c644e": {
+  "entailed": true,
+  "reason": "The nugget is directly stated verbatim in the passage."
+ },
+ "c23bf93dd6b0c4803519480d": {
+  "entailed": true,
+  "reason": "The passage explicitly states this exact claim about the level 1 early reader retelling scenes from Star Wars: The Empire Strikes Back featuring AT-AT battles."
+ },
+ "8477837ba0c27bf26e7593c5": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Deadline Hollywood noted the film was tracking higher than Rogue One (which debuted to $155 million) and had more interest than Spider-Man: Homecoming and Guardians of the Galaxy Vol. 2."
+ },
+ "6d21a200c90430f5fc30f1c6": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the film was directed by Cate Shortland from a screenplay by Eric Pearson and lists the exact same cast members alongside Scarlett Johansson as Natasha Romanoff / Black Widow."
+ },
+ "03d614e12667f2fa063b7a68": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Spirited Away's hopping lamp character is seen as an homage to Lasseter's character Luxo Jr."
+ },
+ "428c0049994cfbe13bfa8437": {
+  "entailed": true,
+  "reason": "The passage explicitly states that both films were directed by Anthony and Joe Russo from a script by Christopher Markus and Stephen McFeely."
+ },
+ "65560c4b5a4266c3faa1650c": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'In the domestic market, Avatar set the record for the highest-grossing film of all time as well as several weekend records,' which directly matches the nugget."
+ },
+ "b25b3b24548c43229399ada4": {
+  "entailed": true,
+  "reason": "The nugget is identical to the passage content, so it is directly entailed."
+ },
+ "239dd101f8972747213b68fd": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ingrid Bergman became the second actress to win three Academy Awards for acting: two for Best Actress, and one for Best Supporting Actress."
+ },
+ "2a609eb556e6f689b6525798": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Avengers: Endgame premiered at the Los Angeles Convention Center on April 22, 2019, and was released in the United States on April 26 as part of Phase Three of the MCU."
+ },
+ "740ed7476a00654615c54381": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same release date history: initially June 16, 2017, postponed to June 15, 2018, and finally to June 21, 2019."
+ },
+ "e396709f67100df3be0d4d6b": {
+  "entailed": true,
+  "reason": "The passage's opening sentence directly states exactly what the nugget claims about Jyn Erso's aliases, identity, and role in stealing the Death Star plans during the Battle of Scarif."
+ },
+ "66f2760a872382aae9715167": {
+  "entailed": true,
+  "reason": "The nugget is directly quoted from the passage with no added or contradicted information."
+ },
+ "28333c261433b98cb7f8f733": {
+  "entailed": true,
+  "reason": "The passage directly states this claim word-for-word about the staff experimenting with computer animation while keeping it from stealing the show, as they did with Princess Mononoke."
+ },
+ "c07a340141535f183a6f659a": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Endgame was the highest-grossing film of all time from July 2019 to March 2021, when it was surpassed by Avatar (2009), the previous record-holder."
+ },
+ "d62a8dd0c62d27a39df0d388": {
+  "entailed": true,
+  "reason": "The passage directly states 'Toy Story 4 was released on June 21, 2019, with most of the main cast returning for the film,' which matches the nugget exactly."
+ },
+ "5e35f51ef7538bdae7579b13": {
+  "entailed": true,
+  "reason": "The passage directly states that Tano was discovered by the Jedi Order when Jedi Master Plo Koon visited the planet and noticed her Force-sensitivity."
+ },
+ "ac4b06bbae56d0f3f9861adb": {
+  "entailed": true,
+  "reason": "The passage directly states that many members of Rogue One perished on the beach and that Îmwe activated a communication switch before being killed by an explosion."
+ },
+ "f5a4ec9c4288119aa0179321": {
+  "entailed": true,
+  "reason": "The passage directly states this claim word-for-word about Ne Zha 2, Despicable Me, and Shrek series performing best beyond Disney and Pixar animation."
+ },
+ "e8ad51a1e5e163a178c79e83": {
+  "entailed": true,
+  "reason": "The passage directly states both claims about Saw Gerrera torturing Klik-Klak with electricity from stuncuffs at Geonosis and Hera Syndulla being tortured with electricity in an interrogation chair by Governor Pryce after the failed Attack on Lothal."
+ },
+ "41cf4dff16c926d5802e6353": {
+  "entailed": true,
+  "reason": "The passage explicitly states this in its opening sentence, word for word."
+ },
+ "1155d063acee09a0ec75ebec": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the film is named after Asimov's 1950 short-story collection, incorporates his three laws of robotics and several characters, and is not a direct adaptation."
+ },
+ "5dccba7551b7c38e6df42037": {
+  "entailed": true,
+  "reason": "The passage directly quotes Sean Connery making these exact statements about Moonraker, including his criticism of the film's departure from reality, dependence on effects, and lack of substance."
+ },
+ "477a6729ec720193d687b3d0": {
+  "entailed": true,
+  "reason": "The passage directly states both claims in the nugget: that Lazenby had only modeled and acted in commercials before taking the Bond role from Sean Connery in On Her Majesty's Secret Service (1969), and that he declined to return, making him the only actor to play Bond just once."
+ },
+ "136e693675552819b5c92970": {
+  "entailed": true,
+  "reason": "The passage directly states this information word-for-word about the cover version of 'Love Is All Around' by Wet Wet Wet."
+ },
+ "09f1b37b56aae71ad7554ea7": {
+  "entailed": true,
+  "reason": "The passage explicitly states this information in its opening sentence, word for word."
+ },
+ "c48e44f854b19c5dc160e620": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same information about Chihiro moving to a new neighborhood and entering the world of kami."
+ },
+ "227b5039d2bb0c123db473a0": {
+  "entailed": true,
+  "reason": "The passage directly states that Marty Jr. and Marlene McFly are both portrayed by Michael J. Fox and are Marty McFly and Jennifer Parker's future children in 2015 in Part II, and that 17-year-old Marty Jr. was to be arrested and sentenced."
+ },
+ "f0ca22a02d51e70bf6b21f2b": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the film was produced by Kathleen Kennedy and is a continuation of The Force Awakens (2015) and The Last Jedi (2017), with Abrams having directed and co-written The Force Awakens."
+ },
+ "aef19160a2b13efdfa3deea7": {
+  "entailed": true,
+  "reason": "The passage directly states that Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures."
+ },
+ "95eb3cd98b70ac19f519bc14": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Nolan directed Memento (2000) two years later, starring Guy Pearce as a man with anterograde amnesia searching for his wife's killer."
+ },
+ "b3319cc95fda84c40b28feef": {
+  "entailed": true,
+  "reason": "The passage directly states that in 2004, Ninomiya appeared in his first lead role in the stage play Shibuya Kara Tooku Hanarete directed by Yukio Ninagawa."
+ },
+ "06704b14aa82629ef8817abb": {
+  "entailed": true,
+  "reason": "The nugget is a direct substring of the passage text, so it is fully entailed."
+ },
+ "a15d9855e90813f47be7ac7e": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the record for most wins is four held by Katharine Hepburn, Frances McDormand has won three times, and thirteen other actresses have won twice."
+ },
+ "853636a2702bf6913974dbcc": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Pirates of the Caribbean: Dead Man's Chest was released on July 7, 2006."
+ },
+ "f8aeaec9f44709dad667564c": {
+  "entailed": true,
+  "reason": "The passage directly states all the information in the nugget, including the film's year, genre, director, release date, and cast."
+ },
+ "f2ed6089a731c4061f1bc0dd": {
+  "entailed": true,
+  "reason": "The passage explicitly states the same cast list verbatim."
+ },
+ "3409389566230488bc6ebbfa": {
+  "entailed": true,
+  "reason": "The passage explicitly states that conservationists warned the film could lead to uninformed customers buying regal blue tang fish for home aquariums, just like Finding Nemo."
+ },
+ "fc7c0709fd85b6d6b4b7ff38": {
+  "entailed": true,
+  "reason": "The passage explicitly states these exact facts about the film's year, genre, writer/director, and source material."
+ },
+ "46d90a0ad02b1ed7aac616cd": {
+  "entailed": true,
+  "reason": "The passage directly states this information about Bogart's first romantic lead role in Casablanca word-for-word."
+ },
+ "ca1c7629da9ad547485c80c6": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Avengers: Endgame was the highest-grossing film of all time until surpassed by Avatar (2009) due to the 2021 re-release in China, and was the second-highest-grossing film of all time in the United States and Canada."
+ },
+ "3c7899beb6e8d3ee0c9c13d8": {
+  "entailed": true,
+  "reason": "The passage directly states that in February 2023, during the Q1 earnings call, Disney CEO Bob Iger confirmed Toy Story 5 was in active development, marking it the first main film without John Lasseter's involvement."
+ },
+ "834f6ebddbcc809610858290": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Kajino is run by Ghibli's president Toshio Suzuki and that its first release was Shiki-Jitsu in 2000."
+ },
+ "ef18dc54386845d12d239931": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Studio Ghibli announced Hosoda was to direct Howl's Moving Castle in September 2001, scheduled for a summer 2003 release."
+ },
+ "6eb92eccda952125943c394b": {
+  "entailed": true,
+  "reason": "The passage directly states that from August 30 to September 6, 2018, all 20 films (Iron Man through Ant-Man and the Wasp) were screened in IMAX in conjunction with Marvel Studios' 10-year anniversary celebrations."
+ },
+ "182c66300bef6e43234e9ca9": {
+  "entailed": true,
+  "reason": "The passage directly states that The Day After Tomorrow is a 2004 American science fiction disaster film co-written, co-produced, and directed by Roland Emmerich, based on the 1999 book The Coming Global Superstorm by Art Bell and Whitley Strieber."
+ },
+ "7ab0bd021b30966d8c97a398": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Furious 7 is a 2015 action film directed by James Wan and written by Chris Morgan."
+ },
+ "7c5510ad4901ad390dcdb300": {
+  "entailed": true,
+  "reason": "The passage explicitly states that F9 is a 2021 action film directed by Justin Lin, who co-wrote the screenplay with Daniel Casey."
+ },
+ "bec99437c151989299f65b47": {
+  "entailed": true,
+  "reason": "The passage explicitly states that F9 was originally scheduled for May 22, 2020, and was pushed back a year to April 2, 2021, due to the COVID-19 pandemic."
+ },
+ "084e9ffb96adfc656678f6b5": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Kip Thorne was an executive producer and scientific consultant on the film and wrote the tie-in book The Science of Interstellar."
+ },
+ "741e6a0af35170522dc2e024": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the kyber crystals and their mountings came from the lightsaber of the Inquisitor Sixth Brother, whom Tano had defeated on Raada."
+ },
+ "c977e836fb1016369f9f226d": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Before he died, Îmwe heard Malbus repeat his mantra, and the words echoed in his heart once more,' which is identical to the nugget."
+ },
+ "41c04a0c58f398f8239e5237": {
+  "entailed": true,
+  "reason": "The passage explicitly states that C-3PO interjects that Darth Vader himself is on the volcanic planet K43."
+ },
+ "a0d26144d89219100cf04bf0": {
+  "entailed": true,
+  "reason": "The passage's opening sentence directly states this exact claim about Spider-Man's creation and film history."
+ },
+ "84824da1b05e566c7aca1f58": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the Empire used a SB-20 Slicer Droid to gather information before executing the assault."
+ },
+ "74f24c4a19342e1a3223d801": {
+  "entailed": true,
+  "reason": "The passage contains this exact claim verbatim, stating that analysts and publications including Deadline, The Atlantic, Entertainment Weekly and CNN attributed low returns to 'Star Wars fatigue' since Solo was the fourth film in 29 months and came five months after The Last Jedi."
+ },
+ "967b3f73fd887fa39c8f8285": {
+  "entailed": true,
+  "reason": "The passage directly states that Jiang portrays Baze Malbus, a native of the moon of Jedha who is drawn into the war against the Galactic Empire."
+ },
+ "b28eb442a07396dc0177f11a": {
+  "entailed": true,
+  "reason": "The passage explicitly states that 'Bor Gullet completed its task at the cost of a temporary loss of Rook's sanity,' and the context makes clear that Rook refers to Bodhi Rook."
+ },
+ "c4ab506ae16fbada1653f3f9": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Bor Gullet first appeared in the 2016 Star Wars Anthology film Rogue One: A Star Wars Story."
+ },
+ "409d186c5b74009700f24cd4": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Saw Gerrera had Bodhi Rook tortured by a Mairan."
+ },
+ "e03d28ac79ae4e89975d354e": {
+  "entailed": true,
+  "reason": "The passage states that Gerrera subjects Rook to the torturous creature Bor Gullet, confirming that Saw Gerrera used Bor Gullet as a torturing device."
+ },
+ "38b40a822ee50c3d67c24701": {
+  "entailed": true,
+  "reason": "The passage confirms Bor Gullet appeared in the 2016 Star Wars Anthology film Rogue One and includes Saw Gerrera's quote about Bor Gullet reading thoughts and causing one to lose their mind (used on Bodhi Rook), implying its use as a torturing device."
+ },
+ "4c32dd3b9da0c146f45a95c9": {
+  "entailed": false,
+  "reason": "The passage discusses carbon freezing during the Clone Wars at the Jedi Temple and makes no mention of Saw Gerrera or any 2016 Star Wars spinoff movie."
+ },
+ "ee13a1f96bfeee045b7a15cd": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Mairan were often used as a form of torture by the Galactic Empire and the Partisans."
+ },
+ "dbcb3a435a12241424ac2ca1": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'the effects of Bor Gullet remained' when describing Rook's hallucination, confirming he had been affected by Bor Gullet."
+ },
+ "a5df7df55ec5c8a0908fe066": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Natasha Romanoff is 'primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe (MCU).'"
+ },
+ "8275150be8d8c6d6988ed54d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Johansson 'began portraying Black Widow in the Marvel Cinematic Universe film Iron Man 2.'"
+ },
+ "fd94fd869141a6558d53d3e1": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Scarlett Johansson signed on to play the Black Widow.'"
+ },
+ "b78d83013ed703fa2b0bb14f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the film 'stars Scarlett Johansson as Natasha Romanoff / Black Widow.'"
+ },
+ "87e47bc9ad12937410c05da8": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Scarlett Johansson as Natasha Romanoff / Black Widow.'"
+ },
+ "6ba0c2257b824a4966d54164": {
+  "entailed": true,
+  "reason": "The passage repeatedly refers to Scarlett Johansson as 'Johansson' throughout the text."
+ },
+ "e9de8a6db360a76b231ea92d": {
+  "entailed": false,
+  "reason": "The passage states the Zeroth Law as developed by Asimov in his Robot series, but does not connect it specifically to the 2004 movie 'I, Robot' citing it."
+ },
+ "ae52e82e66e257e04d353234": {
+  "entailed": true,
+  "reason": "The passage explicitly states the Zeroth Law of Robotics as 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm,' which matches the nugget exactly."
+ },
+ "8001e3f34a8d4bdcf1673825": {
+  "entailed": true,
+  "reason": "The passage explicitly mentions 'the laser gun/space station finale' when describing the film's ending."
+ },
+ "edbc15da387365e8be9797c6": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Roger Moore as Commander James Bond \"007\"' indicating he played James Bond in Moonraker."
+ },
+ "631b79bc56f3649f6a2d01e7": {
+  "entailed": true,
+  "reason": "The passage explicitly states Moonraker is 'the eleventh in the James Bond series' and 'the fourth to star Roger Moore as the fictional MI6 agent James Bond.'"
+ },
+ "e5d63e1625d0c0655e3336f1": {
+  "entailed": false,
+  "reason": "The passage mentions space station disintegration scenes but does not explicitly state these are the climactic scenes of Moonraker specifically."
+ },
+ "5f5cd0515aae5597db51d7b3": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the plot 'takes James Bond into space' as one of the reasons critics consider Moonraker a lesser film."
+ },
+ "9c174c002069f60d7300663b": {
+  "entailed": true,
+  "reason": "The passage describes the climactic events occurring on Drax's space station in outer space, including a laser battle, Drax's defeat, and the station's destruction."
+ },
+ "fd2537218829dcdf29d8a5ee": {
+  "entailed": true,
+  "reason": "The passage explicitly states Lazenby 'appeared in only one film' as Bond and that his 'single portrayal of Bond' resulted in the shortest tenure among Bond actors."
+ },
+ "179db968d219756a2df8463f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Lazenby took over the role of James Bond in On Her Majesty's Secret Service (1969)."
+ },
+ "390316c95f3e77ba2e16f5d8": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Lazenby 'declined and left after just one' Bond film."
+ },
+ "e3be6423a81c1e90cf3fa91f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that 'Lazenby decided to leave the role of Bond after his agent, Ronan O'Rahilly, convinced him that the secret agent would be archaic in the liberated 1970s.'"
+ },
+ "caf57c321d5d03c5de5a3f06": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.'"
+ },
+ "b304a7cda620fe1da03f5724": {
+  "entailed": true,
+  "reason": "The passage directly quotes Rotten Tomatoes' critical consensus stating 'George Lazenby's only appearance as 007 is a fine entry in the series.'"
+ },
+ "9e852b2ec2cc0f81457b2c98": {
+  "entailed": true,
+  "reason": "The passage explicitly states that 'Lazenby had informed the producers that On Her Majesty's Secret Service was to be his only outing as Bond.'"
+ },
+ "37d51f61e2e5bd07d891cadf": {
+  "entailed": true,
+  "reason": "The passage explicitly states that George Lazenby is 'known internationally for portraying James Bond in On Her Majesty's Secret Service.'"
+ },
+ "dc76e11d022ee53145082227": {
+  "entailed": true,
+  "reason": "The passage directly quotes Lazenby saying 'I know I won't have to do it again,' which supports the nugget that he said he would not do it again."
+ },
+ "f3eb1f2ed7d279d10331dfbb": {
+  "entailed": true,
+  "reason": "The passage explicitly states she appeared in On Her Majesty's Secret Service (1969) opposite George Lazenby."
+ },
+ "394f52e31f6ff86acab298bb": {
+  "entailed": true,
+  "reason": "The passage explicitly states that the Red Skull told them a life sacrifice is required to retrieve the Soul Stone."
+ },
+ "8a109c57142c22e763385608": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Romanoff jumped over the cliff, allowing Barton to obtain the Soul Stone."
+ },
+ "9c17a04a2088fbe6d3d389b9": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Romanoff sacrificed herself for Barton to acquire the Soul Stone to bring everyone back."
+ },
+ "84f2761e94f08a0bef6cdbff": {
+  "entailed": true,
+  "reason": "The passage explicitly states that 'Barton attains the Soul Stone after Romanoff sacrifices herself to obtain it,' directly supporting the nugget."
+ },
+ "29132fc51e6e3e8db3d6d299": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Banner, Barton, Rogers, Stark, and Thor grieve Romanoff's death privately outside the Compound."
+ },
+ "db8bc1499a547600e86c4ff0": {
+  "entailed": true,
+  "reason": "The passage explicitly names 'Natasha Romanoff' and later refers to her as 'Romanoff,' directly supporting that Romanoff is Natasha Romanoff."
+ },
+ "bf3c8b9fc248599d8c490516": {
+  "entailed": true,
+  "reason": "The passage states that 'Love Is All Around' by The Troggs was adapted into 'Christmas Is All Around' sung in Love Actually, directly supporting the nugget's claim about the original and adapted song titles."
+ },
+ "912dce19621989457731eed7": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Billy Mack records a Christmas version of the Troggs' 1967 song 'Love Is All Around', titling it 'Christmas Is All Around'."
+ },
+ "4650d4f1a4737d827a5ee8e1": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Hal Jordan made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds."
+ },
+ "402f7903d2a352761bc065c4": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Ryan Reynolds stars as Hal Jordan / Green Lantern.'"
+ },
+ "3c0fcef4361d30cd264076c2": {
+  "entailed": true,
+  "reason": "The passage explicitly states Reynolds starred as the titular character (Deadpool) in all three films mentioned in the nugget."
+ },
+ "85f94df40a2d208c7a180789": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ryan Reynolds portrays the character in 'the Marvel Cinematic Universe (MCU) media franchise produced by Marvel Studios.'"
+ },
+ "6eccab93b16f55fb93f1ae28": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ryan Reynolds starred as the titular character in the DC Comics film Green Lantern."
+ },
+ "45cc25f0ebd75fd3500acddd": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Ryan Reynolds as Wade Wilson / Deadpool.'"
+ },
+ "bf93212222f21ea2aa6529d6": {
+  "entailed": false,
+  "reason": "The passage states Reynolds plays Wade Wilson/Deadpool but does not specify that this is set in the MCU; it describes the film as a multiverse tribute to Fox's Marvel films, not explicitly placing it in the MCU."
+ },
+ "a8001eec46c37946ea63f0e0": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Ryan Reynolds 'previously portrayed Hal Jordan in Green Lantern (2011).'"
+ },
+ "ea3c9a9592298d0410cc74a2": {
+  "entailed": true,
+  "reason": "The passage states Reynolds reprises his role in the Marvel Cinematic Universe (MCU) media franchise."
+ },
+ "d07c1b9a3fcb0bd12ab29674": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Bean works as a security guard at the National Gallery in London."
+ },
+ "071befd01f8110912c02d7f7": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Bean works as a security guard at the National Gallery in London."
+ },
+ "d1ce13ff44f7fec32506c82c": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Mr. Bean is a security guard at the National Gallery in London."
+ },
+ "484157687b32adce3ad7b714": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Jeffrey Lynn Goldblum...is an American actor and musician.'"
+ },
+ "62ce13c6e70782b364cd932e": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Jeff Goldblum as the Wonderful Wizard of Oz.'"
+ },
+ "e8bd4f48e78ff0ab154ed4d0": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'In October 2022, it was announced that Jeff Goldblum was in final talks to star as the Wizard.'"
+ },
+ "3685a4f1817c804aaacb4c07": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Goldblum plays 'the Wizard of Oz in Wicked (2024)'."
+ },
+ "655a98eafdbd683653495def": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Jeff Goldblum as the Wonderful Wizard of Oz.'"
+ },
+ "340739920a64733b03c55e6f": {
+  "entailed": true,
+  "reason": "The passage explicitly lists Jeff Goldblum as part of the film's ensemble cast."
+ },
+ "5dbb6405db82ad51cf4cceaa": {
+  "entailed": true,
+  "reason": "The passage explicitly states that for the 2024 title 'Wicked,' the role is 'The Wonderful Wizard of Oz.'"
+ },
+ "ff8ad65c4bf44478208f5ddf": {
+  "entailed": true,
+  "reason": "The passage mentions Natsuki reprised her roles of 'Yubaba/Zeniba' in 2024, implying Zeniba is a distinct character who looks like Yubaba (as they share the same voice actress), which supports the nugget's claim about Zeniba being the old lady who looks exactly like Yubaba."
+ },
+ "b491b9682bc18398b1f132c2": {
+  "entailed": true,
+  "reason": "The passage explicitly states that a shikigami shapeshifts into 'Yubaba's twin sister Zeniba,' directly supporting the nugget."
+ },
+ "4f87f0c0f6647cb48c874bc8": {
+  "entailed": true,
+  "reason": "The passage explicitly states that during Hamish's speech at the wedding reception, Gareth suffers a fatal heart attack."
+ },
+ "6b6ae9ec4342719b1f721e6a": {
+  "entailed": true,
+  "reason": "The passage states that 'During Hamish's speech, Gareth suffers a fatal heart attack,' which occurred at Carrie and Hamish's wedding reception."
+ },
+ "cd0aaf915423127cfaecaf2a": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Simon Callow as Gareth', directly supporting the nugget."
+ },
+ "263da8a171e7a54a6188420d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that both Marlene and Marty Jr. were played by Michael J. Fox in Back to the Future Part II."
+ },
+ "7db4727133a608ca9f9733f3": {
+  "entailed": true,
+  "reason": "The passage explicitly lists 'Marty McFly / Marty McFly Jr. / Marlene McFly' as roles in Back to the Future Part II."
+ },
+ "04a0f8f504657f6388554f04": {
+  "entailed": true,
+  "reason": "The passage explicitly lists Marlene McFly as one of the characters played by Michael J. Fox."
+ },
+ "8787a50f3ad44a66310d6ac7": {
+  "entailed": false,
+  "reason": "The passage does not mention Back to the Future Part Two or the character Marlene McFly."
+ },
+ "398941a56913ae56baab5b3f": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Fox played three separate characters including Marlene."
+ },
+ "aa2e50937c425f8a982363b3": {
+  "entailed": true,
+  "reason": "The passage explicitly mentions Michael J. Fox dressing in drag as something cited by the critic."
+ },
+ "fa3a9cbce091ba690681e176": {
+  "entailed": true,
+  "reason": "The passage states The Last Jedi was written and directed by Rian Johnson, not J.J. Abrams (who is only credited as executive producer), directly supporting that it was not directed by J.J. Abrams."
+ },
+ "3097570cdf6734f7701a0235": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film was 'directed by J. J. Abrams.'"
+ },
+ "8223a267da055c28e3bb6add": {
+  "entailed": true,
+  "reason": "The passage explicitly states that J. J. Abrams was named director of Star Wars: The Force Awakens in January 2013."
+ },
+ "ad502c98975cee93c1c3f82c": {
+  "entailed": true,
+  "reason": "The passage refers to 'the differing visions of directors J.J. Abrams and Rian Johnson' and states that Johnson 'was alleged to have been given complete creative control for The Last Jedi,' implying Johnson directed The Last Jedi."
+ },
+ "69bd8b135eb21fa98f6881c2": {
+  "entailed": true,
+  "reason": "The passage explicitly states that The Force Awakens 'was directed by J. J. Abrams.'"
+ },
+ "dfec0f50420cf34d7cba922e": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Johnson confirmed in August that he would direct Episode VIII."
+ },
+ "621fe6fc71b8110671b4d562": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Johnson 'wrote and directed the space opera Star Wars: The Last Jedi (2017)'."
+ },
+ "4e70d6e432758f7d67cfd6ac": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Chirrut Îmwe is portrayed by Donnie Yen in Rogue One: A Star Wars Story."
+ },
+ "a5f343080a0ffb5c13b3d5d0": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Caine is a blind assassin portrayed by Donnie Yen in John Wick: Chapter 4."
+ },
+ "669442d405127a04c7ece590": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Donnie Yen plays Chirrut Îmwe, described as 'a blind warrior.'"
+ },
+ "f4f2f0c585a4cadbb12cd136": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Yen created the trait of Îmwe's blindness for the character, and references 'The character's blindness in Rogue One.'"
+ },
+ "423ceac26c45ac35afb1a267": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Donnie Yen as Caine, a blind High Table assassin,' which directly supports the nugget."
+ },
+ "d820100e9db4230a37f59141": {
+  "entailed": true,
+  "reason": "The passage explicitly states Yen co-starred in Rogue One as Chirrut Îmwe, described as a 'blind transient warrior.'"
+ },
+ "0fe81297e077a1c56193f018": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Donnie Yen as Chirrut Îmwe', directly supporting the nugget's claim."
+ },
+ "764ff4792d3c28af81b7eaec": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Chirrut Îmwe was a blind human male."
+ },
+ "87caee9d7e8a9ca9e03a3e33": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film 'was released theatrically in the United States on 25 December by Universal Pictures.'"
+ },
+ "308539f033bd22a3e9a6d584": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film 'was released in limited theatres in the United States on 25 December 2019.'"
+ },
+ "4fa27f818e6338b6318d7e1b": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Avengers: Infinity War is a 2018 American superhero film' in its opening sentence."
+ },
+ "782eece82399f950344be9eb": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Infinity War was released on April 27, 2018.'"
+ },
+ "07d171610960bd899c12e959": {
+  "entailed": false,
+  "reason": "The passage provides no information about the film '1917' or its release date to make a comparison."
+ },
+ "23c969bbee297a4a211b3ea1": {
+  "entailed": true,
+  "reason": "The passage explicitly lists '1917' with the year '2019', directly supporting the claim that 1917 is listed as a 2019 film."
+ },
+ "8eab4b93ab34551658f791cb": {
+  "entailed": true,
+  "reason": "The passage states that 1917 'Opened in select IMAX theaters in North America on 10 January 2020,' which directly supports the nugget's claim."
+ },
+ "51f6776449224470f0775437": {
+  "entailed": true,
+  "reason": "The passage explicitly lists 1917 with the year 2019, supporting that 1917 is a 2019 film."
+ },
+ "d0c77eda5a127ca24ed43697": {
+  "entailed": true,
+  "reason": "The passage states Disney moved the release of Infinity War in the United States to April 27, 2018."
+ },
+ "5eb8dbb263d1107269be4d58": {
+  "entailed": true,
+  "reason": "The passage states Avatar had a $68 million third weekend compared to Zootopia's $37.2 million, implying Avatar had a higher gross at that point, and Avatar is listed ahead of Zootopia in the ranking."
+ },
+ "b998f0adcd4a406449b9bb20": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film earned $75.1 million in its opening weekend."
+ },
+ "583331fd11260f3f80bbc2dd": {
+  "entailed": true,
+  "reason": "The passage explicitly states Avatar grossed '$77 million on 18–20 December 2009' as its opening weekend figure."
+ },
+ "53aeeaa6435b5b44913a4fe0": {
+  "entailed": true,
+  "reason": "The passage explicitly states Avatar grossed $77 million in 2009 as the best opening for a live-action original film."
+ },
+ "8c24ec258ce29b383c3722e6": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film grossed '$77,025,481 over its opening weekend.'"
+ },
+ "74bb2369b9fe7b2fe7e9fba7": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Insomnia is a 2002 film directed by Christopher Nolan."
+ },
+ "7e6e2aec161e57a57588b810": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Memento is a 2000 American psychological thriller film directed by Christopher Nolan."
+ },
+ "4f3b845d1820106d5636e96b": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The Dark Knight (2008)' and later refers to 'director Christopher Nolan,' establishing that The Dark Knight is a 2008 film directed by Christopher Nolan."
+ },
+ "c855a6ba5c645d2c707841c9": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'The Dark Knight is a 2008 superhero film directed by Christopher Nolan.'"
+ },
+ "a562ebbb53b3f094ece56fa2": {
+  "entailed": true,
+  "reason": "The passage explicitly refers to 'the 2010 Christopher Nolan film Inception'."
+ },
+ "6ea0cb4acbcbaabc231f8c69": {
+  "entailed": true,
+  "reason": "The passage explicitly states that 'Nolan directed, co-wrote and produced The Prestige (2006)', confirming the nugget's claim."
+ },
+ "9fe5d08d038106561b6e072c": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'In 2005, Nolan directed Warner Bros' superhero film Batman Begins'."
+ },
+ "c33ab442993b081c17b31960": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Batman Begins (2005) was directed by Nolan (Christopher Nolan), confirming the nugget."
+ },
+ "62e931eee812c81069d039a0": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Nolan directed The Prestige (2006)."
+ },
+ "e67fd668683175d08e4ee60d": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'In 2010, he directed the action film Inception starring Leonardo DiCaprio.'"
+ },
+ "aca04de96df07bfb4f6b5752": {
+  "entailed": false,
+  "reason": "The passage only mentions one film (Pikanchi Life Is Hard Dakedo Happy) featuring Ninomiya and does not support the claim that he acted in 5 movies between 2000 and 2010."
+ },
+ "80d9f41f787c6264bfa665d4": {
+  "entailed": true,
+  "reason": "The passage explicitly states that in 2007, all members of Arashi co-starred in Kiiroi Namida (Yellow Tears), with Ninomiya playing the main role."
+ },
+ "b14713261cc29ecef0636323": {
+  "entailed": true,
+  "reason": "The passage explicitly lists Heaven's Door with the year 2009."
+ },
+ "38e955da2df060b3fd510618": {
+  "entailed": true,
+  "reason": "The passage explicitly states the film stars Ken Watanabe and Kazunari Ninomiya."
+ },
+ "349bcd7aa4bc230ebcaf25f4": {
+  "entailed": true,
+  "reason": "The passage lists 'Letters from Iwo Jima' under Year: 2006, directly supporting the claim that it was released in 2006."
+ },
+ "b997289d75300be9562de10e": {
+  "entailed": true,
+  "reason": "The passage explicitly lists 'Pikanchi Life Is Hard Dakara Happy' with the year 2004."
+ },
+ "ed57fbcb77b624ab4bd2a973": {
+  "entailed": true,
+  "reason": "The passage states that the live-action adaptation of Ōoku: The Inner Chambers, which starred Ninomiya, was released on October 1, 2010."
+ },
+ "77ed7327bb5b8fd06d7353cc": {
+  "entailed": true,
+  "reason": "The passage explicitly lists 'The Blue Light' with the year 2003."
+ },
+ "d6bb0d1cbcea0f85a8b39b56": {
+  "entailed": true,
+  "reason": "The passage lists Tekkon Kinkreet with Year: 2006, directly supporting the claim that it was released in 2006."
+ },
+ "939cf069b6bd56c174cbcaad": {
+  "entailed": true,
+  "reason": "The passage explicitly lists Kiiroi Namida with Year: 2007."
+ },
+ "5996ee5a0dae69ba54e0aa11": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Samantha \"Sam\" Cavanaugh', directly supporting the nugget."
+ },
+ "f8853f1577129ad53572ff4b": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Chloe', directly supporting the nugget."
+ },
+ "a8efa6e663a790f949417b59": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Venna Wilcox'."
+ },
+ "e9e3720ee07378f504f640d2": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Jennifer \"J\" Wilson,' directly supporting the nugget."
+ },
+ "54cf968e10d5370a83fcdfec": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Ruby Baker,' directly supporting the nugget."
+ },
+ "5d0b2a3269c88a3f287c85b9": {
+  "entailed": true,
+  "reason": "The passage explicitly states 'Leelee Sobieski as Muriella,' directly supporting the nugget."
+ },
+ "22b8dcd48656f8471b934f5d": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Leelee Sobieski portrayed one of the two young white women in the film."
+ },
+ "1032a6faa90f247b7da41f39": {
+  "entailed": true,
+  "reason": "The passage explicitly states that Sevigny played the lead character in Lying (2006) with Jena Malone and Leelee Sobieski."
  }
 }

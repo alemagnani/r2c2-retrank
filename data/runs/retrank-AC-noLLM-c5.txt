@@ -1,0 +1,184 @@
+<D0001>Bor Gullet;59
+1;BITEM-PG-1;1;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.
+</D0001>
+<D0002>Black Widow;99
+1;BITEM-PG-1;3;She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm;88
+1;BITEM-PG-1;1;Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm." The premise of robots turning on their creators, originating in Karel Čapek's play R.U.R.
+</D0003>
+<D0004>Roger Moore;90
+1;BITEM-PG-1;2;Moonraker is a 1979 spy-fi film, the eleventh in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond.
+</D0004>
+<D0005>one;80
+1;BITEM-PG-1;2;Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.
+</D0005>
+<D0006>Soul Stone;74
+1;BITEM-PG-1;1;Romanoff continues to command several teams from around the galaxy in the Avengers headquarters at the beginning of the film, which Joe Russo said stemmed from her inability to move on from their failure to stop Thanos: "[S]he's doing everything she can to try and hold the community together [...] She's the watcher on the wall still." On the decision for Romanoff to sacrifice herself for Barton to acquire the Soul Stone to bring everyone back, Joe Russo said that it was part of a larger theme of the desires to sacrifice or protect in Infinity War: "When she gets to that [Soul Stone] scene, I think she understands that the only way to bring the community back is for her to sacrifice herself." McFeely said, "Her journey, in our minds, had come to an end if she could get the Avengers back.
+</D0006>
+<D0007>Troggs';68
+1;BITEM-PG-1;1;With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song "Love Is All Around", titling it "Christmas Is All Around".
+</D0007>
+<D0008>Ryan Reynolds;80
+1;BITEM-PG-2;7;He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns.
+</D0008>
+<D0009>National Gallery;90
+1;BITEM-PG-1;1;In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+</D0009>
+<D0010>Christopher Lloyd;90
+1;BITEM-PG-1;6;Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.
+</D0010>
+<D0011>Princess Mononoke;70
+1;BITEM-PG-2;6;As with Princess Mononoke, the staff experimented with computer animation, but kept the technology at a level to enhance the story, not to "steal the show".
+</D0011>
+<D0012>Gareth;99
+1;BITEM-PG-1;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+</D0012>
+<D0013>Michael J. Fox;90
+1;BITEM-PG-1;2;Marty Jr.
+</D0013>
+<D0014>I don't know;5
+</D0014>
+<D0015>Donnie Yen;99
+1;BITEM-PG-2;2;there are multiple John Wick projects in development: an untitled film which will follow the blind assassin Caine, portrayed by Donnie Yen in John Wick: Chapter 4; a television series, John Wick: Under the High Table, set after the events of John Wick: Chapter 4, in a world where John's actions have left the criminal underworld in chaos; and an untitled anime film which will serve as a prequel to John Wick.
+</D0015>
+<D0016>Infinity War;51
+1;BITEM-PG-1;4;Avengers: Infinity War and Avengers: Endgame were directed by Anthony and Joe Russo, from a script by Christopher Markus and Stephen McFeely.
+</D0016>
+<D0017>Avatar;58
+1;BITEM-PG-1;20;In the domestic market, Avatar set the record for the highest-grossing film of all time as well as several weekend records.
+</D0017>
+<D0018>I don't know;5
+</D0018>
+<D0019>I don't know;5
+</D0019>
+<D0020>I don't know;5
+</D0020>
+<D0021>Neta-Lee Hershlag;90
+1;BITEM-PG-1;5;Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padmé Amidala in the prequel trilogy.
+</D0021>
+<D0022>Katharine Hepburn;70
+1;BITEM-PG-2;2;Most awards for Best Actress ; Katharine Hepburn with 4 awards (1933, 1967, 1968, 1981) ; Most awards for Best Actor ; Daniel Day-Lewis with 3 awards (1989, 2007, 2012) ; Most awards for Best Supporting Actor ; Walter Brennan with 3 awards (1936, 1938, 1940) ; Most awards for Best Supporting Actress ; Shelley Winters (1959, 1965) and Dianne Wiest (1986, 1994) with 2 awards each ; Most consecutive Best Actress nominations ; Two actresses have been nominated 5 years in a row: ; Bette Davis (1938–1942) ; Greer Garson (1941–1945) ; Most consecutive Best Actor nominations ; Marlon Brando with 4 nominations (1951 to 1954) ; Most consecutive Best Supporting Actress nominations ; Thelma Ritter with 4 nominations (1950 to 1953) ; Most consecutive acting nominations across categories ; Two actors have been nominated 4 years in a row: ; Jennifer Jones (1943 Best Actress; 1944 Best Supporting Actress; 1945–1946 Best Actress) ; Al Pacino (1972 Best Supporting Actor; 1973–1975 Best Actor) ; Actor with most nominations for acting ; Jack Nicholson with 12 nominations ; Actress with most nominations for acting ; Meryl Streep with 21 nominations ; Most nominations for an actor without a win ;
+</D0022>
+<D0023>Ingrid Bergman;80
+1;BITEM-PG-1;4;Ingrid Bergman became the second actress to win three Academy Awards for acting: two for Best Actress, and one for Best Supporting Actress.
+</D0023>
+<D0024>I don't know;5
+</D0024>
+<D0025>I don't know;5
+</D0025>
+<D0026>Christopher Plummer;60
+1;BITEM-PG-1;6;Title: The Rebel Gladiators ; Release date: 1962 ; Notes: directed by Domenico Paolella Title: The Fall of the Roman Empire ; Release date: 1964 ; Notes: latter half set in Rome, with Christopher Plummer as Commodus (dir.
+</D0026>
+<D0027>liver;70
+1;BITEM-PG-1;1;He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver "with some fava beans and a nice Chianti" (a "big Amarone" in the novel).
+</D0027>
+<D0028>amnesiac;60
+1;BITEM-PG-1;5;The film focuses on the amnesiac fish Dory (DeGeneres), who journeys to be reunited with her parents (Keaton and Levy).
+</D0028>
+<D0029>sewage pipe;80
+1;BITEM-PG-1;1;The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.
+</D0029>
+<D0030>McKellen;60
+1;BITEM-PG-1;1;In 1999, McKellen was cast, again under the direction of Bryan Singer, to play the comic book supervillain Magneto in the 2000 film X-Men and its sequels X2: X-Men United (2003) and X-Men: The Last Stand (2006).
+</D0030>
+<D0031>Humphrey Bogart;99
+1;BITEM-PG-2;14;Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.
+</D0031>
+<D0032>eight;99
+1;BITEM-PG-1;1;The Dark Knight was the year's highest-grossing film, while Slumdog Millionaire won the Academy Award for Best Picture (out of eight Academy Awards).
+</D0032>
+<D0033>Predator 2;70
+1;BITEM-PG-1;7;In 1990, Paxton appeared in Predator 2 (1990).
+</D0033>
+<D0034>seven;90
+1;BITEM-PG-1;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+</D0034>
+<D0035>2009;41
+1;BITEM-PG-1;8;It was the highest-grossing film of all time from July 2019 to March 2021, when it was surpassed by the previous record-holder, Avatar (2009).
+</D0035>
+<D0036>Lotso;99
+1;BITEM-PG-1;1;Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.
+</D0036>
+<D0037>"We Scare Because We Care";79
+1;BITEM-PG-1;1;Taking place after the events of the film, the factory's new slogan has been changed from "We Scare Because We Care" to "It's Laughter We're After", something that was later used in the film's sequel television series Monsters at Work.
+</D0037>
+<D0038>two;39
+1;BITEM-PG-2;8;Then-studio head of Pixar John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.
+</D0038>
+<D0039>June 21, 2019;53
+1;BITEM-PG-1;13;Toy Story 4 was released on June 21, 2019, with most of the main cast returning for the film.
+</D0039>
+<D0040>A113;99
+1;BITEM-PG-1;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.
+</D0040>
+<D0041>George Carlin;70
+1;BITEM-PG-1;2;Fillmore (based on Route 66 artist Bob Waldmire and voiced by George Carlin in Cars, the video game, and Cars Toons (via archival recordings), Scott Wood in Cars Mater-National Championship, and Lloyd Sherr in all other media after the first film due to Carlin's death) is a green 1960 Volkswagen Type 2(T1) who owns a store that sells his own recipe of organic biofuel, which he also gives McQueen during his races.
+</D0041>
+<D0042>Laputa: Castle in the Sky;99
+1;BITEM-PG-1;3;He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.
+</D0042>
+<D0043>Totoro;60
+1;BITEM-PG-1;1;Miyazaki additionally uses Totoro as a part of his logo for Studio Ghibli.
+</D0043>
+<D0044>Die Ratten;80
+1;BITEM-PG-2;15;The fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten.
+</D0044>
+<D0045>I don't know;5
+</D0045>
+<D0046>four;57
+1;BITEM-PG-2;13;The Avengers series is next, with four films on the list.
+</D0046>
+<D0047>I don't know;5
+</D0047>
+<D0048>Furious 7;50
+1;BITEM-PG-1;5;In Furious 7, it is revealed that Owen Shaw survived the events of the previous film but is comatose, and his older brother Deckard Shaw has gone rogue and is hunting Dom's team.
+</D0048>
+<D0049>tenth;50
+1;BITEM-PG-1;3;The sequel to F9 (2021), it is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise.
+</D0049>
+<D0050>F9;80
+1;BITEM-PG-1;8;F9 was released in June 2021.
+</D0050>
+<D0051>Lilli;90
+1;BITEM-PG-2;9;Cooper has three children—Eddie, Alex, and Lilli—from his first marriage.
+</D0051>
+<D0052>Jessica Chastain;59
+1;BITEM-PG-1;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+</D0052>
+<D0053>I don't know;5
+</D0053>
+<D0054>I don't know;5
+</D0054>
+<D0055>Tomorrowland;80
+1;BITEM-PG-1;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+</D0055>
+<D0056>Hoth;70
+1;BITEM-PG-1;6;Code 1-5 was the Rebel Alliance order to begin evacuating Echo Base on the planet Hoth.
+</D0056>
+<D0057>Plo Koon;90
+1;BITEM-PG-2;10;Tano would be discovered by the Jedi Order when Jedi Master Plo Koon visited the planet and noticed that Tano was Force-sensitive.
+</D0057>
+<D0058>activate a communication switch;52
+1;BITEM-PG-2;15;Many members of Rogue One perished on the beach, but Îmwe was able to activate a communication switch before being killed by an explosion.
+</D0058>
+<D0059>Coinneach Alexander;80
+1;BITEM-PG-1;5;Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.
+</D0059>
+<D0060>Ilum;90
+1;BITEM-PG-2;2;Held in secret by the First Order, its modifications allowed Ilum to act as a mobile base and major weapons platform until it was destroyed by the Resistance in desperation after Starkiller's destruction of the Hosnian system.
+</D0060>
+<D0061>I don't know;5
+</D0061>
+<D0062>Kestrel Dawn;60
+1;BITEM-PG-1;3;Jyn Erso, known by the aliases Kestrel Dawn, Jyn Dawn, Tanith Ponta, Liana Hallik, Lyra Rallik, and Nari McVee, was a human female soldier and former criminal who became a pivotal member of the Alliance to Restore the Republic when she led Rogue One in stealing the Death Star plans during the Battle of Scarif.
+</D0062>
+<D0063>mechanical AT-ATs;70
+1;BITEM-PG-1;7;This level 1 early reader retells classic scenes from Star Wars: The Empire Strikes Back as the rebels face off against the Empires dreaded mechanical AT-ATs.
+</D0063>
+<D0064>Rogue One;90
+1;BITEM-PG-1;5;Deadline Hollywood noted that it was tracking higher than the previous Star Wars spin-off film, Rogue One (which debuted to $155 million), and had more interest from audiences than the likes of fellow blockbusters Spider-Man: Homecoming and Guardians of the Galaxy Vol.
+</D0064>
+<D0065>Ne Zha 2;31
+1;BITEM-PG-1;19;Beyond Disney and Pixar animation, China's Ne Zha 2 (the highest-grossing animated film), and the Despicable Me and Shrek series have met with the most success.
+</D0065>

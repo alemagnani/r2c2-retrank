@@ -1,0 +1,155 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - img [ref=e5]
+      - img [ref=e6]
+    - generic [ref=e7]:
+      - heading "早稲田大学 基幹理工学部 情報理工学科" [level=2] [ref=e8]
+      - heading "基幹理工学研究科 情報理工・情報通信専攻" [level=2] [ref=e9]
+      - heading "酒井研究室" [level=1] [ref=e10]
+  - link "THE SAKAI LABORATORY (English)" [ref=e12] [cursor=pointer]:
+    - /url: http://sakailab.com/english/
+  - list [ref=e14]:
+    - link "トップ" [ref=e15] [cursor=pointer]:
+      - /url: /
+      - listitem [ref=e16]: トップ
+    - link "研究内容" [ref=e17] [cursor=pointer]:
+      - /url: /projects
+      - listitem [ref=e18]: 研究内容
+    - link "メンバー" [ref=e19] [cursor=pointer]:
+      - /url: /members
+      - listitem [ref=e20]: メンバー
+    - link "研究室環境" [ref=e21] [cursor=pointer]:
+      - /url: /environment
+      - listitem [ref=e22]: 研究室環境
+    - link "関連リンク" [ref=e23] [cursor=pointer]:
+      - /url: /links
+      - listitem [ref=e24]: 関連リンク
+    - link "連絡先" [ref=e25] [cursor=pointer]:
+      - /url: /contact
+      - listitem [ref=e26]: 連絡先
+  - generic [ref=e27]:
+    - generic [ref=e28]:
+      - 'heading "NTCIR-19 R2C2 (RAG Responses: Confident and Correct?) Task" [level=2] [ref=e30]'
+      - separator [ref=e31]
+      - heading "Updates" [level=1] [ref=e32]
+      - paragraph [ref=e33]: "April 15, 2026: Task registration deadline extended to April 20! PR run submission deadline extended to April 24!"
+      - paragraph [ref=e34]:
+        - text: "Mar 13, 2026: ok here is the"
+        - link "topic set file" [ref=e35] [cursor=pointer]:
+          - /url: https://waseda.box.com/ntcir19r2c2topics
+        - text: "! Enjoy!"
+        - text: "Feb 13, 2026: Released the dry run results to currently registered participants!"
+        - text: "Dec 20, 2025: Please register to our task through the"
+        - link "NTCIR task registration page" [ref=e36] [cursor=pointer]:
+          - /url: https://research.nii.ac.jp/ntcir/ntcir-19/howto.html
+        - text: to obtain our Wikipedia/Wookieepedia corpus!
+        - text: "Dec 19, 2025:"
+        - link "Dry run submission instructions" [ref=e37] [cursor=pointer]:
+          - /url: https://sakailab.com/r2c2-run-submission-instructions/
+        - text: updated! Dry run submission extended to Jan 10!
+        - text: "Dec 17, 2025:"
+        - link "Paper" [ref=e38] [cursor=pointer]:
+          - /url: https://brev-rag-workshop.github.io/paper-02.pdf
+        - text: and
+        - link "slides" [ref=e39] [cursor=pointer]:
+          - /url: https://waseda.box.com/brev-rag2025r2c2-slides
+        - text: of our BREV-RAG@SIGIR-AP2025 paper are available now!
+        - text: "Nov 8, 2025: The corpus and the organisers’ passages are available to participants! The dry run topics are"
+        - link "here" [ref=e40] [cursor=pointer]:
+          - /url: https://waseda.box.com/v/r2c2dryruntopics
+        - text: .
+        - text: "Aug 22, 2025: Check out the R2C2 introduction slides for the"
+        - link "NTCIR-19 Kickoff event (Sep 3)" [ref=e41] [cursor=pointer]:
+          - /url: https://research.nii.ac.jp/ntcir/ntcir-19/kickoffcfp.html
+        - text: ":"
+        - link "slides" [ref=e42] [cursor=pointer]:
+          - /url: https://waseda.box.com/r2c2ntcir19kickoff20250903
+        - text: "Jul 25, 2025: Check out this one-minute introduction to the NTCIR-19 R2C2 (RAG Responses: Confidence and Correct?) Task! ("
+        - link "video" [ref=e43] [cursor=pointer]:
+          - /url: https://waseda.box.com/r2c2pitch-June2025
+        - text: )
+      - separator [ref=e44]
+      - heading "Important Dates AoE for participants and organisers" [level=1] [ref=e45]
+      - paragraph [ref=e46]:
+        - text: Nov 8, 2025
+        - generic [ref=e47]:
+          - text: Corpus, organisers’ passages, and
+          - link "dry run topics" [ref=e48] [cursor=pointer]:
+            - /url: https://waseda.box.com/v/r2c2dryruntopics
+          - text: are ready
+        - text: Nov 21, 2025 Sample dry run PR-runs released
+        - text: Dec 10, 2025
+        - link "BREV-RAG workshop" [ref=e49] [cursor=pointer]:
+          - /url: https://sakailab.com/brev-rag/
+        - text: at
+        - link "SIGIR-AP 2025" [ref=e50] [cursor=pointer]:
+          - /url: https://www.sigir-ap.org/sigir-ap-2025/
+        - text: Jan 10, 2026 Dry run PR-runs and AC-runs due
+        - text: Feb 13, 2026 Dry run results released
+        - text: Mar 13, 2026 Topics released
+        - text: Apr 17, 2026 1st batch of PR-runs shared to participants
+      - paragraph [ref=e51]: Apr 20, 2026 Task registrations due
+      - paragraph [ref=e52]:
+        - text: Apr 24, 2026
+        - generic [ref=e53]: PR-runs due; 2nd batch of PR-runs shared to participants
+        - text: May 15, 2026 AC-runs due
+        - text: Aug 1, 2026 evaluation results and draft overview released
+        - text: Sep 1, 2026 draft participant papers due
+        - text: Nov 1, 2026 all camera ready papers due
+        - text: Dec 8-10, 2026 NTCIR-19
+      - separator [ref=e54]
+      - heading "Organisers" [level=1] [ref=e55]
+      - paragraph [ref=e56]:
+        - text: Tetsuya Sakai (Waseda University/Naver Corporation)
+        - text: Sijie Tao (Waseda University)
+        - text: Atsuya Ishikawa (Waseda University)
+        - text: Hanpei Fang (Waseda University)
+        - text: Ziliang Zhao (Renmin University of China)
+        - text: Yujia Zhou (Tsinghua University)
+        - text: Nuo Chen (The Hong Kong Polytechnic University)
+        - text: Young-In Song (Naver Corporation)
+      - heading "Contact" [level=2] [ref=e57]
+      - paragraph [ref=e58]:
+        - text: ntcir19r2c2org
+        - emphasis [ref=e59]: at
+        - text: list.waseda.jp
+      - separator [ref=e60]
+      - heading "Run submission instructions" [level=1] [ref=e61]
+      - paragraph [ref=e62]:
+        - text: Please visit
+        - link "this page" [ref=e63] [cursor=pointer]:
+          - /url: https://sakailab.com/r2c2-run-submission-instructions/
+        - text: for dry run submission instructions.
+      - separator [ref=e64]
+      - heading "Links" [level=1] [ref=e65]
+      - paragraph [ref=e66]:
+        - link "NTCIR-19" [ref=e67] [cursor=pointer]:
+          - /url: https://research.nii.ac.jp/ntcir/ntcir-19/index.html
+        - link "BREV RAG (Beyond Relevance-based EValuation of RAG systems) workshop" [ref=e68] [cursor=pointer]:
+          - /url: https://sakailab.com/brev-rag/
+      - paragraph
+    - generic [ref=e69]:
+      - search [ref=e71]:
+        - generic [ref=e72]:
+          - generic [ref=e73]: "検索:"
+          - textbox "検索:" [ref=e74]
+          - button "検索" [ref=e75]
+      - generic [ref=e76]:
+        - heading "最近の投稿" [level=3] [ref=e77]
+        - list [ref=e78]:
+          - listitem [ref=e79]:
+            - 'link "Visitor Talk: “On Robustness and Reliability of Benchmark-Based Evaluation of LLMs” by Riccardo Lunardi" [ref=e80] [cursor=pointer]':
+              - /url: https://sakailab.com/visitor-talk-on-robustness-and-reliability-of-benchmark-based-evaluation-of-llms-by-riccardo-lunardi/
+          - listitem [ref=e81]:
+            - link "WSDM 2026 best paper award! (Rikiya Takehi, Gen 12)" [ref=e82] [cursor=pointer]:
+              - /url: https://sakailab.com/wsdm2026/
+          - listitem [ref=e83]:
+            - link "DEIM2026にて根岸君・小林君(Gen 12)が学生プレゼンテーション賞受賞！" [ref=e84] [cursor=pointer]:
+              - /url: https://sakailab.com/deim2026/
+          - listitem [ref=e85]:
+            - link "SIGIR-AP 2025 参加報告 (学部4年生！平松里彩さん)" [ref=e86] [cursor=pointer]:
+              - /url: https://sakailab.com/sigir-ap2025/
+          - listitem [ref=e87]:
+            - link "Shonan Offsite 2025 (with Tsukuba University)" [ref=e88] [cursor=pointer]:
+              - /url: https://sakailab.com/offsite2025/

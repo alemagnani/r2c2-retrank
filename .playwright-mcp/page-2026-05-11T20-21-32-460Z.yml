@@ -1,0 +1,124 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - button [ref=e4] [cursor=pointer]
+    - link "Homepage" [ref=e6] [cursor=pointer]:
+      - /url: /schhp?hl=en&as_sdt=0,5
+    - generic [ref=e9]:
+      - textbox "Search" [ref=e11]: "\"Efficient Re-ranking with Cross-encoders via Early Exit\""
+      - button "Search" [ref=e12] [cursor=pointer]
+    - link "Sign in" [ref=e16] [cursor=pointer]:
+      - /url: https://accounts.google.com/Login?hl=en&continue=https://scholar.google.com/scholar%3Fq%3D%2522Efficient%2BRe-ranking%2Bwith%2BCross-encoders%2Bvia%2BEarly%2BExit%2522
+  - generic [ref=e17]:
+    - generic [ref=e21]: Articles
+    - generic [ref=e23]:
+      - link "My profile" [ref=e24] [cursor=pointer]:
+        - /url: /citations?hl=en
+        - generic [ref=e26]: My profile
+      - link "My library" [ref=e27] [cursor=pointer]:
+        - /url: /scholar?scilib=1&scioq=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+        - generic [ref=e29]: My library
+  - generic [ref=e30]:
+    - navigation [ref=e31]:
+      - generic [ref=e32]:
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "Any time" [ref=e36] [cursor=pointer]:
+              - /url: /scholar?q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+          - listitem [ref=e37]:
+            - link "Since 2026" [ref=e38] [cursor=pointer]:
+              - /url: /scholar?as_ylo=2026&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+          - listitem [ref=e39]:
+            - link "Since 2025" [ref=e40] [cursor=pointer]:
+              - /url: /scholar?as_ylo=2025&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+          - listitem [ref=e41]:
+            - link "Since 2022" [ref=e42] [cursor=pointer]:
+              - /url: /scholar?as_ylo=2022&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+          - listitem [ref=e43]:
+            - link "Custom range..." [ref=e44] [cursor=pointer]:
+              - /url: javascript:void(0)
+        - list [ref=e45]:
+          - listitem [ref=e46]:
+            - link "Sort by relevance" [ref=e47] [cursor=pointer]:
+              - /url: /scholar?hl=en&as_sdt=0,5&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22
+          - listitem [ref=e48]:
+            - link "Sort by date" [ref=e49] [cursor=pointer]:
+              - /url: /scholar?hl=en&as_sdt=0,5&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&scisbd=1
+        - list [ref=e50]:
+          - listitem [ref=e51]:
+            - link "Any type" [ref=e52] [cursor=pointer]:
+              - /url: /scholar?q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+          - listitem [ref=e53]:
+            - link "Review articles" [ref=e54] [cursor=pointer]:
+              - /url: /scholar?q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5&as_rr=1
+        - list [ref=e55]:
+          - listitem [ref=e56]:
+            - checkbox "include patents" [ref=e57] [cursor=pointer]:
+              - generic [ref=e58]: include patents
+          - listitem [ref=e61]:
+            - checkbox "include citations" [checked] [ref=e62] [cursor=pointer]:
+              - generic [ref=e63]: include citations
+    - main [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e69]:
+          - link "[PDF] acm.org" [ref=e73] [cursor=pointer]:
+            - /url: https://dl.acm.org/doi/pdf/10.1145/3726302.3729962
+          - generic [ref=e74]:
+            - heading "Efficient re-ranking with cross-encoders via early exit" [level=3] [ref=e75]:
+              - link "Efficient re-ranking with cross-encoders via early exit" [ref=e76] [cursor=pointer]:
+                - /url: https://dl.acm.org/doi/abs/10.1145/3726302.3729962
+            - generic [ref=e77]:
+              - generic [ref=e78]:
+                - link "F Busolin" [ref=e79] [cursor=pointer]:
+                  - /url: /citations?user=LimenHAAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "C Lucchese" [ref=e80] [cursor=pointer]:
+                  - /url: /citations?user=bdoG6ScAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "FM Nardini" [ref=e81] [cursor=pointer]:
+                  - /url: /citations?user=ASTiB-QAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "S Orlando" [ref=e82] [cursor=pointer]:
+                  - /url: /citations?user=njCMBiwAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "R Perego" [ref=e83] [cursor=pointer]:
+                  - /url: /citations?user=T371ouoAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "S Trani" [ref=e84] [cursor=pointer]:
+                  - /url: /citations?user=um7tG_UAAAAJ&hl=en&oi=sra
+                - text: ","
+                - link "A Veneri" [ref=e85] [cursor=pointer]:
+                  - /url: /citations?user=0duBTz4AAAAJ&hl=en&oi=sra
+              - text: Proceedings of the 48th International ACM SIGIR Conference on Research and …, 2025•dl.acm.org
+            - generic [ref=e89]:
+              - generic [ref=e90]:
+                - generic [ref=e93]: Pre-trained language models based on transformer networks are highly effective for document re-ranking in ad-hoc search. Among these, cross-encoders stand out for their effectiveness, as they process query-document pairs through the entire transformer network to compute ranking scores. However, this traversal is computationally expensive. To address this, prior work has explored early-exit strategies, enabling the model to terminate the traversal of query-document pairs. These techniques rely on learned classifiers, placed after each transformer block, that decide if a query-document pair can be dropped. Diverging from previous approaches, we propose Similarity-based Early Exit (SEE), a novel-non-learned-strategy that exploits the similarities between query and document token embeddings to early-terminate the inference of documents that will most likely be non-relevant to the query. Even though SEE can be used after every transformer block, we show that the best advantage is achieved when applied before the first transformer block, thus saving most of the inference cost for the query-document pairs. Reproducible experiments on 17 public datasets covering in-domain and out-of-domain evaluation show that SEE can be effectively applied to four different cross-encoders, achieving speedups of up to 3.5× with a limited loss in ranking effectiveness.
+                - generic [ref=e95]:
+                  - img [ref=e96]
+                  - text: ACM Digital Library
+              - link "Show more" [ref=e98] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - text: Show more
+            - generic [ref=e100]:
+              - button "Save" [ref=e101] [cursor=pointer]:
+                - img [ref=e102]
+                - text: Save
+              - button "Cite" [ref=e104] [cursor=pointer]:
+                - img [ref=e105]
+                - text: Cite
+              - link "Cited by 7" [ref=e107] [cursor=pointer]:
+                - /url: /scholar?cites=11877534629117644415&as_sdt=2005&sciodt=0,5&hl=en
+              - link "Related articles" [ref=e108] [cursor=pointer]:
+                - /url: /scholar?q=related:f071t9B61aQJ:scholar.google.com/&scioq=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+              - link "All 3 versions" [ref=e109] [cursor=pointer]:
+                - /url: /scholar?cluster=11877534629117644415&hl=en&as_sdt=0,5
+        - generic [ref=e111]:
+          - text: Showing the best result for this search.
+          - link "See all results" [ref=e112] [cursor=pointer]:
+            - /url: /scholar?lookup=0&q=%22Efficient+Re-ranking+with+Cross-encoders+via+Early+Exit%22&hl=en&as_sdt=0,5
+  - contentinfo [ref=e113]:
+    - generic [ref=e114]:
+      - link "Privacy" [ref=e115] [cursor=pointer]:
+        - /url: //www.google.com/intl/en/policies/privacy/
+      - link "Terms" [ref=e116] [cursor=pointer]:
+        - /url: //www.google.com/intl/en/policies/terms/
+      - button "Help" [ref=e117] [cursor=pointer]

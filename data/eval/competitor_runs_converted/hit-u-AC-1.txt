@@ -1,0 +1,750 @@
+<D0001>Bor Gullet;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;4;Saw Gerrera had Bodhi Rook tortured by a Mairan to verify if he was telling the truth about the Death Star.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Saw Gerrera used Bor Gullet to torture Bodhi Rook on Jedha to ascertain the truth behind his claim of being in contact with Galen Erso.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Saw Gerrera uses the torturous creature Bor Gullet to determine if Bodhi Rook is truthful.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;4;Saw Gerrera tortured Klik-Klak with electricity from stuncuffs for information on what the Empire was building at Geonosis.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Saw Gerrera does not trust Bodhi Rook and fears he is being lured into a trap.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;After being tortured by Bor Gullet, Bodhi Rook was left a gibbering wreck, unable to speak a coherent thought and acting very panicky.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Saw Gerrera's Partisan soldiers, including Benthic, capture Bodhi Rook and bring him before Gerrera.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;The experience with Bor Gullet leads to a temporary loss of Bodhi Rook's sanity.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;4;The Grand Inquisitor attempted to torture Kanan Jarrus with a Mind probe for information on other rebels, and later tortured him with electricity in an Interrogation chair for information on Fulcrum and the Rebel network.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;4;Han Solo, Chewbacca, and Sagwa were tortured by Pyke sentinels with electrostaffs during the Raid on Kessel in 'Solo: A Star Wars Story.'
+</D0001>
+<D0002>Black Widow;17
+1;Hitotsubashi University Keyaki Lab Team-PO-4;7;Scarlett Johansson stars as Natasha Romanoff / Black Widow in Black Widow (2021).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff is depicted as an expert spy.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;In March 2009, Scarlett Johansson signed on to play Natasha Romanoff / Black Widow.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;6;In March 2009, Scarlett Johansson signed on to play Natasha Romanoff / Black Widow in Iron Man 2 (2010).
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff adopted the alias Black Widow.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Scarlett Johansson's final live-action appearance as Natasha Romanoff was in Black Widow (2021).
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Scarlett Johansson reprised the role of Natasha Romanoff in Avengers: Infinity War (2018).
+8;Hitotsubashi University Keyaki Lab Team-PO-4;6;Scarlett Johansson reprised her role as Black Widow in The Avengers (2012), Captain America: The Winter Soldier (2014), Avengers: Age of Ultron (2015), Captain America: Civil War (2016), Avengers: Infinity War (2018), and Avengers: Endgame (2019).
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Scarlett Johansson first portrayed Natasha Romanoff in Iron Man 2 (2010).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Scarlett Johansson's deal to play Natasha Romanoff included options for multiple films.
+</D0002>
+<D0003>A robot may not harm humanity, or, by inaction, allow humanity to come to harm.;11
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Asimov developed the idea of prioritizing humanity as a whole into the Zeroth Law of Robotics: 'A robot may not harm humanity, or, by inaction, allow humanity to come to harm.'
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;The premise of a robot, such as VIKI in 'I, ROBOT', prioritizing the needs of humankind as a whole over individual humans can be found in Asimov's story 'The Evitable Conflict'.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Asimov entered the robot genre to protest the 'Frankenstein complex' associated with robots turning on their creators.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Many concepts in 'I, ROBOT' are derivative of other works.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Sonny's struggle and desire to understand humanity in 'I, ROBOT' resembles the robot protagonist's journey in Asimov's 'The Bicentennial Man'.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;The positronic brains of Sonny and his fellow robots in 'I, ROBOT' first appeared in Asimov's story 'Catch That Rabbit'.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;The final script of 'I, ROBOT' used few of Isaac Asimov's characters and ideas.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;The characters and ideas from Asimov's works that were used in 'I, ROBOT' were heavily adapted.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Sonny's attempt to hide from Spooner in a sea of identical robots in 'I, ROBOT' is loosely based on a scene in Asimov's 'Little Lost Robot'.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Sonny's dream about a man liberating the NS-5 robots in 'I, ROBOT' alludes to Asimov's 'Robot Dreams' and its main character Elvex.
+</D0003>
+<D0004>Roger Moore;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Moonraker is a James Bond film starring Roger Moore.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” is the fourth James Bond film to star Roger Moore as the fictional MI6 agent James Bond.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” is the eleventh film in the James Bond series produced by Eon Productions.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” is a 1979 spy-fi film.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” is the third and final James Bond film directed by Lewis Gilbert.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” became the highest-grossing film of the James Bond series at the time with $210.3 million worldwide.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;In the plot of “Moonraker,” M, head of MI6, assigns James Bond, Agent 007, to investigate the hijacking.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;In “Moonraker,” James Bond works to prevent a plot to wipe out the world population and repopulate humanity with a master race.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;In “Moonraker,” James Bond investigates the vanishing of a Space Shuttle orbiter.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;“Moonraker” held the record for highest-grossing James Bond film until 1995's “GoldenEye.”
+</D0004>
+<D0005>One;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Lazenby's tenure as James Bond is the shortest among the actors in the series, as he appeared in only one film.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;George Lazenby is the only actor to play James Bond just once.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;6;Ono. O'Rahilly became manager of the Australian model-turned-actor George Lazenby.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;6;George Lazenby played James Bond in one film.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;George Lazenby is an Australian actor.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;George Robert Lazenby is an Australian retired actor.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;George Lazenby had only acted in commercials when he took over the role of James Bond from Sean Connery in 'On Her Majesty's Secret Service' (1969).
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;George Lazenby declined to return for subsequent James Bond films.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Lazenby played the character James Bond in 'On Her Majesty's Secret Service' (1969).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Lazenby's single portrayal of James Bond and lack of standing as a favourite in the series has resulted in his name being used as a metaphor for forgettable or unremarkable acting efforts in other entertainment franchises.
+</D0005>
+<D0006>Soul Stone;3
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;On Vormir, Romanoff and Barton encounter the Red Skull, who reveals a life sacrifice is needed to obtain the Soul Stone.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff reunites with her adopted family, including her sister Yelena Belova, to destroy General Dreykov's Red Room program.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff sacrifices herself to obtain the Soul Stone.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Following the Avengers Civil War, Natasha Romanoff becomes a fugitive.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Romanoff tries to stop Barton from sacrificing himself, ultimately subduing him, and falls to her death.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;After Thanos initiates the Blip, Natasha Romanoff leads the Avengers for five years.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff's sacrifice helps the Avengers restore everyone.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Barton and Maximoff discuss Romanoff's sacrifice and his desire to let her know they won.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Barton successfully explains that Romanoff sacrificed herself to save the world and describes his close relationship with her.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natasha Romanoff assists the Avengers in taking down various supervillains, including Loki and Ultron.
+</D0006>
+<D0007>Love Is All Around;8
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song ‘Love Is All Around,’ titling it ‘Christmas Is All Around.’
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;The song 'Love Is All Around' was later adapted into 'Christmas Is All Around' and sung by the character Billy Mack in Richard Curtis' 2003 film Love Actually.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Billy Mack’s song ‘Christmas Is All Around’ becomes the Christmas number-one single.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Wet Wet Wet's cover of 'Love Is All Around' became the ninth biggest selling single of all time in Britain.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Billy Mack believes the record ‘Christmas Is All Around’ is terrible but promotes it in the hope it will become the Christmas number-one single.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Wet Wet Wet's cover of 'Love Is All Around' remained at number 1 on the UK Singles Chart for fifteen weeks.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;The movie Four Weddings and a Funeral featured a soundtrack of popular songs, including a cover version of The Troggs' 'Love Is All Around' performed by Wet Wet Wet.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Billy Mack realizes that Christmas is the time to be with the people one loves.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Billy Mack forgoes a victory party hosted by Elton John to celebrate Christmas with his manager Joe.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Love Actually’ is often a staple film shown during the Christmas period in both the United Kingdom and United States.
+</D0007>
+<D0008>Ryan Reynolds;10
+1;Hitotsubashi University Keyaki Lab Team-PO-4;6;Ryan Reynolds stars as Hal Jordan / Green Lantern in the film ‘Green Lantern’.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ryan Reynolds experienced a career turnaround when he played the titular antihero in the superhero film Deadpool (2016), which he also produced.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ryan Reynolds starred in the title role of the superhero film Green Lantern (2011), which received a generally negative reception from critics and underperformed at the box office.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;6;Ryan Reynolds' performance in ‘Green Lantern’ was praised by critics.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;6;‘Green Lantern’ is a 2011 American superhero film based on the character from DC Comics.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;6;The film ‘Green Lantern’ also stars Blake Lively, Peter Sarsgaard, Mark Strong, Angela Bassett, and Tim Robbins.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ryan Reynolds reprised the role of Deadpool in its sequels Deadpool 2 (2018) and Deadpool & Wolverine (2024).
+8;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ryan Reynolds is a Canadian actor and producer.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ryan Reynolds garnered a nomination for the Golden Globe Award for Best Actor – Motion Picture Musical or Comedy for Deadpool (2016).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;6;Hal Jordan is a test pilot who is selected to become the first human member of the Green Lantern Corps.
+</D0008>
+<D0009>National Gallery;12
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean is a clumsy and destructive security guard at the National Gallery in London.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;In the film 'Bean', Mr. Bean works as a security guard at the National Gallery in London.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;The National Gallery's sentimental chairman prevents the board of directors from firing Mr. Bean.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean causes a panic at the airport by pretending to draw a gun.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean accidentally destroys the Langley family's prized possessions.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean is arrested for tampering with a simulator ride at Pacific Park.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean accidentally sneezes on the painting 'Whistler's Mother'.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean accidentally ruins a dinner with Mr. Grierson and his wife.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean replaces the face on 'Whistler's Mother' with a cartoon face.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mr. Bean is sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting 'Whistler's Mother'.
+</D0009>
+<D0010>P. J. Benjamin;15
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin is best known for his performances as Amos Hart in 'Chicago' and the Wizard of Oz in 'Wicked.'
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin played the Wizard of Oz on Broadway from 2008 to 2011.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin returned to the Broadway production of 'Wicked' as the Wizard of Oz in 2015 and again in 2017.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin joined 'Wicked's' first North American tour as the Wizard of Oz in 2006.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Between 1997 and 2006, P.J. Benjamin played Amos Hart in the Broadway production and two national tours of 'Chicago.'
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin performed as the Wizard of Oz in the 'Wicked' tour in 2012.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;As of November 2011, P.J. Benjamin had performed as Amos Hart on Broadway for 1,989 days, more than any other actor for any other character in the production.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin made his Broadway debut in the 1973 revival of 'The Pajama Game.'
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin has performed in at least seven other Broadway shows.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;P.J. Benjamin is an American actor known for his work in theatre.
+</D0010>
+<D0011>Zeniba;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;5;In 2024, Natsuki reprised her roles of Yubaba/Zeniba for the stage production of Spirited Away.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;3;A shikigami stowed away on Sen's back shapeshifts into Yubaba's twin sister Zeniba.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;6;Suzanne Pleshette provided the voices of Yubaba and Zeniba in the English dub of Hayao Miyazaki's Academy Award-winning film 'Spirited Away.'
+4;Hitotsubashi University Keyaki Lab Team-PO-4;5;Natsuki performed the stage production of Spirited Away in Japan and London in 2024.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;5;Natsuki provided the voice of Yubaba in Spirited Away (2001).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;5;Natsuki provided the voice of Yubaba in Spirited Away.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Haku strikes the shikigami, causing Zeniba to vanish.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;3;Zeniba turns Yubaba's son, Boh, into a mouse.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;5;Natsuki acted in Okusama wa Majo (2004).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;Zeniba reveals that Yubaba used the slug to control Haku.
+</D0011>
+<D0012>Gareth;33
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;At Gareth's funeral, Carrie and Charles share a brief moment.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Carrie arrives and tells Charles that she and Hamish have separated following a difficult marriage.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Charles retreats to an empty hotel suite and notices Carrie and Hamish departing by taxi.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Carrie is accompanied by Hamish, her older, wealthy Scottish fiancé.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;David and Matthew counsel Charles during his emotional crisis.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;A month later, Charles receives an invitation to Carrie and Hamish's wedding.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Charles has an emotional crisis inside the church's back room.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;A month later, Charles and his friends attend Carrie and Hamish's wedding.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Charles confirms that he has doubts and loves someone else.
+</D0012>
+<D0013>Michael J. Fox;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Marty Jr. and Marlene McFly are Marty McFly and Jennifer Parker's future children in 2015 in Part II.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;In the future witnessed in Back to the Future Part II, Jennifer Parker and Marty McFly have two children, Marlene and Marty Jr.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;4;J. Fox voiced Marty McFly Senior, Marty McFly Junior, and Marlene McFly in the TV Asahi edition of 'Back to the Future Part II.'
+4;Hitotsubashi University Keyaki Lab Team-PO-4;7;Michael J. Fox played Marty McFly, Marty McFly Junior, and Marlene McFly in “Back to the Future Part II (VHS/DVD edition).”
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Marlene and Marty Jr. are both played by Michael J. Fox.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;In 2015, as seen in Back to the Future Part II, Jennifer Parker and Marty McFly are married.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;4;J. Fox voiced Marty McFly and Seamus McFly in the TV Asahi and TV Nippon editions of 'Back to the Future Part III.'
+8;Hitotsubashi University Keyaki Lab Team-PO-4;7;Michael J. Fox played Marty McFly and Seamus McFly in “Back to the Future Part III (VHS/DVD edition).”
+9;Hitotsubashi University Keyaki Lab Team-PO-4;4;J. Fox voiced Marty McFly in the TV Asahi edition of 'Back to the Future.'
+10;Hitotsubashi University Keyaki Lab Team-PO-4;7;Michael J. Fox played Marty McFly in “Back to the Future (VHS/DVD edition).”
+</D0013>
+<D0014>The Last Jedi;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Star Wars: Episode VIII The Last Jedi was directed and written by Rian Johnson.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;The ''Star Wars'' sequel trilogy consists of episodes VII through IX.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;'Star Wars: The Last Jedi' is a 2017 film written and directed by Rian Johnson.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Rian Johnson was the screenwriter and director of ''The Last Jedi''.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Star Wars: Episode VII The Force Awakens was directed by J.J. Abrams.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Star Wars: Episode IX The Rise of Skywalker was directed by J.J. Abrams.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;The ''Star Wars'' sequel trilogy serves as the final act of the 'Skywalker Saga'.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;12;J.J. Abrams returned as director of ‘Star Wars: The Rise of Skywalker.’
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;The ''Star Wars'' sequel trilogy chronologically follows the prequel trilogy (Episodes I–III; 1999–2005) and the original trilogy (Episodes IV–VI; 1977–1983).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;The ''Star Wars'' sequel trilogy is the third trilogy of the main Star Wars franchise.
+</D0014>
+<D0015>Donnie Yen;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Donnie Yen appeared in the American films Shanghai Knights (2003), Rogue One (2016), XXX: Return of Xander Cage (2017), Mulan (2020), and John Wick: Chapter 4 (2023).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Donnie Yen portrays Caine, a blind High Table assassin and an old friend of Wick.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;3;Caine is forced out of retirement to kill Wick to ensure the safety of his daughter.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Director Gareth Edwards allowed Donnie Yen to flesh out the character of Chirrut Îmwe as he saw fit.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Donnie Yen made his American debut in Highlander: Endgame (2000).
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Donnie Yen appeared in the well-received Hong Kong films Hero (2002), SPL: Sha Po Lang (2005), Flash Point (2007), 14 Blades (2010), Wu Xia (2011), Kung Fu Jungle (2014), Chasing the Dragon (2017), Enter the Fat Dragon (2020), Raging Fire (2021), and The Prosecutor (2024).
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Donnie Yen appeared in several other Hong Kong kung fu films, including Iron Monkey (1993) and Wing Chun (1994).
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Chirrut Îmwe's blindness in Rogue One was inspired by the Japanese fictional character Zatoichi, a blind masseur and samurai.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Donnie Yen is a Hong Kong actor, filmmaker, martial artist, and action director.
+</D0015>
+<D0016>Avengers: Infinity War;17
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ was released in the United States on April 27, 2018.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;11;The film was released in limited theatres in the United States on 25 December 2019.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ premiered at the Dolby Theatre in Hollywood, Los Angeles, on April 23, 2018.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film ‘Avengers: Infinity War’ was announced in October 2014 as ‘Avengers: Infinity War – Part 1.’
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;The production of ‘Avengers: Infinity War’ lasted until July 2017.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ became the highest-grossing film of 2018.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ is the 19th film in the Marvel Cinematic Universe (MCU).
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ is the sequel to ‘Avengers: Age of Ultron’ (2015).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Avengers: Infinity War’ is the sequel to ‘The Avengers’ (2012).
+</D0016>
+<D0017>Avatar;10
+1;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia grossed $341.3 million in the U.S. and Canada.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia earned $75.1 million in its opening weekend in the U.S. and Canada.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia earned $19.5 million on its opening day in the U.S. and Canada.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;11;Pre-release tracking suggested Zootopia would open to $60–70 million from 3,827 theaters in its opening weekend in the U.S. and Canada.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;12;'Zootopia' (2016) is the fifth highest-grossing animated film in North America with a box office gross of $341,268,248.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia earned $1.7 million from Thursday previews in the U.S. and Canada, a record for a non-Pixar Disney animated film.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia's worldwide total gross was $1.024 billion against a budget of $150 million.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;'Avatar' is the fourth highest-grossing film in the U.S. and Canada with an unadjusted gross of $749,766,139 and a lifetime gross of $785,221,649 as of 2009.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;11;Zootopia grossed $682.5 million in other countries.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;11;On March 18, 2016, Zootopia reached the $500 million mark in gross revenue.
+</D0017>
+<D0018>6;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Nolan's filmography includes the following films: Following (1998), Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010), The Dark Knight Rises (2012), Interstellar (2014), Dunkirk (2017), Tenet (2020), Oppenheimer (2023), and The Odyssey (2026).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;4;Thomas' filmography includes Doodlebug (1997), Following (1998), Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010), The Dark Knight Rises (2012), Man of Steel (2013), Interstellar (2014), Dunkirk (2017), Tenet (2020), Oppenheimer (2023), and The Odyssey (2026).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;In 2005, Christopher Nolan directed Warner Bros' superhero film 'Batman Begins'.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;In 2010, Christopher Nolan directed the action film 'Inception'.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Christopher Nolan's feature directorial debut was the neo-noir crime thriller 'Following' (1998).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Christopher Nolan directed the psychological thriller 'Memento' (2000).
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Christopher Nolan directed the mystery thriller remake 'Insomnia' (2002).
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Insomnia' was Christopher Nolan's first film for Warner Bros.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Nolan has described Memento and Inception as 'masterworks.'
+10;Hitotsubashi University Keyaki Lab Team-PO-4;14;Syncopy Inc. partnered with Legendary Pictures to produce Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), Inception (2010), and The Dark Knight Rises (2012).
+</D0018>
+<D0019>6;3
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;In the 2003 film The Blue Light, Ninomiya played Shuichi, a high school student trying to get rid of his abusive stepfather, alongside Aya Matsuura as his co-star.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;In 2007, all members of Arashi co-starred in their third movie together, with Ninomiya playing the main role of an aspiring manga artist.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ninomiya made his motion picture debut in Arashi's first movie together in 2002.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;The live-action adaptation of Fumi Yoshinaga's Ōoku: The Inner Chambers manga, starring Ninomiya and Kou Shibasaki, was released in Japan on October 1, 2010.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;In 2004, Arashi reprised their roles for the sequel of Pikanchi Life Is Hard Dakedo Happy.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;8;Kazunari Ninomiya played the lead role of Kazunari Ninomiya in the 1999 drama 'V no Arashi' with Arashi members.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ninomiya played Saigo, a reluctant soldier, in Clint Eastwood's Academy Award-winning film Letters from Iwo Jima.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ninomiya's performance in Letters from Iwo Jima was praised by film critics such as Jim Emerson, Claudia Puig, James Berardinelli, and Kirk Honeycutt.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;8;Kazunari Ninomiya played the lead role of Shōhei Asai in the 2003 drama 'Stand Up!!' with Anne Suzuki.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ninomiya played a young man living in a matriarchal society in the live-action adaptation of Ōoku: The Inner Chambers.
+</D0019>
+<D0020>10;3
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leelee Sobieski was nominated for the Teen Choice Award for Choice Breakout Movie Star for her role in the 2000 film ''Here on Earth.''
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leelee Sobieski was nominated for the Golden Raspberry Award for Worst Supporting Actress for her role in the 2007 film ''In the Name of the King: A Dungeon Siege Tale.''
+3;Hitotsubashi University Keyaki Lab Team-PO-4;7;Leelee Sobieski appeared in the 2016 film 'Stalker', which was filmed in 2010.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leelee Sobieski was nominated for the Young Artist Award for Best Leading Young Actress – Feature Film for her role in the 1998 film ''Deep Impact.''
+5;Hitotsubashi University Keyaki Lab Team-PO-4;7;Leelee Sobieski played Olivia Flyn in the 2010 film 'Acts of Violence'.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leelee Sobieski confirmed in 2016, 'I don't do movie stuff anymore.'
+7;Hitotsubashi University Keyaki Lab Team-PO-4;7;Leelee Sobieski played Tosia Altman in the 2001 television film 'Uprising' and was nominated for a Golden Globe Award for Best Actress – Miniseries or Television Film.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;7;Leelee Sobieski played Polly Hamilton in the 2009 film 'Public Enemies'.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leelee Sobieski commented that ninety percent of acting roles involve sexual content with other people, which she does not want to do.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;7;Leelee Sobieski played Jody Balaban in the 2009 film 'Finding Bliss'.
+</D0020>
+<D0021>Natalie Portman;9
+1;Hitotsubashi University Keyaki Lab Team-PO-4;6;Natalie Portman was born on June 9, 1981.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;7;Natalie Portman was born on June 9, 1981.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;5;Natalie Portman is born on June 9, 1981.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;4;Natalie Portman was born in 1981.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Natalie Portman was born as Neta-Lee Hershlag on June 9, 1981.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Natalie Portman was born in Jerusalem, Israel, in 1981.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;11;Liliane Rudabet Gloria Elsveta 'Leelee' Sobieski was born on June 10, 1983.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;11;Leelee Sobieski was born in New York City.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Natalie Portman was born in Jerusalem.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;12;Leelee Sobieski is an American retired actress.
+</D0021>
+<D0022>Katharine Hepburn;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Hepburn earned various accolades, including four Academy Awards for Best Actress—a record for any performer.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Katharine Hepburn won 4 Academy Awards for Best Actress in 1933, 1967, 1968, and 1981.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Katharine Hepburn received 12 nominations for Best Actress.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Audrey Hepburn received 5 nominations for Best Actress.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Katharine Houghton Hepburn was an American actress whose career as a Hollywood leading lady spanned six decades.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Meryl Streep received 17 nominations for Best Actress.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Olivia de Havilland won 2 Academy Awards for Best Actress in 1946 and 1949.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Kate Winslet received 4 nominations for Best Actress.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Vivien Leigh won 2 Academy Awards for Best Actress in 1939 and 1951.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Olivia de Havilland received 4 nominations for Best Actress.
+</D0022>
+<D0023>Ingrid Bergman;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;11;Ingrid Bergman became the second actress to win three Academy Awards for acting: two for Best Actress and one for Best Supporting Actress.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Grace Patricia Kelly won the Academy Award for Best Actress for her performance in 'The Country Girl' (1954).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;12;Ingrid Bergman received numerous global nominations and awards for her work, including three Academy Awards.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;19;Ingrid Bergman won 2 Academy Awards for Best Actress in 1944 and 1956.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;12;Ingrid Bergman won the Academy Award for Best Actress for Gaslight (1944) and Anastasia (1956).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Grace Patricia Kelly received an Academy Award and three Golden Globe Awards.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;11;In 1960, Ingrid Bergman became the second actress to complete the American Triple Crown of Acting status after winning an Emmy Award.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;11;Ingrid Bergman is tied for second place in Oscars won with Walter Brennan, Jack Nicholson, Meryl Streep, Frances McDormand, and Daniel Day-Lewis.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;19;Ingrid Bergman received 6 nominations for Best Actress.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Grace Patricia Kelly earned an Academy Award nomination for Best Supporting Actress for her role in 'Mogambo' (1953).
+</D0023>
+<D0024>3;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Disney released a fourth film, subtitled ‘On Stranger Tides,’ in 2011.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;The franchise's second film, subtitled ‘Dead Man's Chest,’ was released in 2006.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film series started in 2003 with ‘Pirates of the Caribbean: The Curse of the Black Pearl.’
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;The third film in the series, subtitled ‘At World's End,’ was released in 2007.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film series is a major component of the Pirates of the Caribbean media franchise.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Pirates of the Caribbean’ is an American fantasy supernatural swashbuckler film series.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Pirates of the Caribbean franchise is the first film franchise to produce two or more films that grossed over $1 billion.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Dead Man's Chest’ became the top-grossing movie of 2006 with almost $1.1 billion at the worldwide box office.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Pirates of the Caribbean: The Curse of the Black Pearl’ received positive reception from audiences and critics.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;A fifth film, subtitled ‘Dead Men Tell No Tales,’ was released in 2017.
+</D0024>
+<D0025>12.12: The Day;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;11;By the end of February 2024, “12.12: The Day” had grossed over $97 million.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;11;“12.12: The Day” has grossed $34.2 million and sold 4.66 million tickets.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;11;“12.12: The Day” became the biggest film of 2023 in Korea, grossing $90.5 million by the end of December 2023.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;The second highest-grossing South Korean film released in 2007 was 'May 18', distributed by CJ Entertainment, with a domestic gross of $35,838,135.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;11;Principal photography for “12.12: The Day” began in February 2022 and ended in July 2022.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;11;“12.12: The Day” received praise for its production quality.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;11;“12.12: The Day” was nominated for Best Film at the 2024 Asian Film Awards.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;11;“12.12: The Day” was nominated for Best Film at the 2024 Baeksang Arts Awards.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;11;The Escapist praised “12.12: The Day” for being both historically accurate and entertaining.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;11;The film “12.12: The Day” is set in the 1980s.
+</D0025>
+<D0026>Joaquin Phoenix;11
+1;Hitotsubashi University Keyaki Lab Team-PO-4;5;Phoenix earned his first nominations for an Academy Award, a Golden Globe Award, and a BAFTA Award in the Best Supporting Actor category for his role in 'Gladiator.'
+2;Hitotsubashi University Keyaki Lab Team-PO-4;6;Joaquin Phoenix received a nomination for the Academy Award for Best Supporting Actor for his portrayal of Commodus in the historical drama Gladiator (2000).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;5;In the film 'Gladiator,' Phoenix portrayed a fictionalized version of Roman Emperor Commodus.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris star in 'Gladiator'.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Commodus is the ambitious son of Emperor Marcus Aurelius.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Russell Crowe portrays Maximus Decimus Meridius in 'Gladiator'.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Maximus Decimus Meridius is a Roman general who is betrayed when Commodus murders his father and seizes the throne.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;6;Joaquin Rafael Phoenix is an American actor.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;6;Joaquin Phoenix portrayed the title role in the historical drama Napoleon (2023).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;'Gladiator' won five Academy Awards, including Best Picture and Best Actor for Russell Crowe.
+</D0026>
+<D0027>liver;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;The most famous example of Lecter preparing meals from his victims is his admission that he once ate a census taker's liver 'with some fava beans and a nice Chianti' (or 'a big Amarone' in the novel).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lecter is frequently shown preparing gourmet meals from his victims' flesh.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lecter is depicted as having refined tastes in art, music, and cuisine.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;One of the Lithuanian Hilfswillige claimed that Lecter unwittingly ate his sister Mischa as well.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;In *Hannibal Rising*, it is revealed that Lecter was traumatized as a child in Lithuania in 1944 when he witnessed his sister Mischa being murdered and cannibalized by a group of deserting Lithuanian Hilfswillige.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;In the film adaptation of *The Silence of the Lambs*, Clarice Starling says of Lecter, 'They don't have a name for what he is'.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;In *Hannibal*, Lecter performs plastic surgery on his own face on several occasions.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Will Graham says Lecter 'has no remorse or guilt at all' and tortured animals as a child.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lecter is described as the 'Robin Hood of killers', who kills 'the terminally rude'.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;The American Film Institute named Hannibal Lecter (as portrayed by Hopkins) the number one film villain of all time.
+</D0027>
+<D0028>Regal blue tang;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;Dory gets separated from her parents, Jenny and Charlie, as a child.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Dory is a female Pacific regal blue tang in Disney Pixar's 'Finding Nemo'.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Dory is a regal blue tang fish.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;3;Dory eventually meets and joins the clownfish Marlin, who is looking for his son, Nemo.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Finding Nemo’ features the voices of Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe, and Geoffrey Rush.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;Dory gradually forgets her parents due to her short-term memory loss.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Dory, a forgetful regal blue tang, is voiced by Ellen DeGeneres in ‘Finding Nemo’.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;3;Dory journeys to be reunited with her parents, Jenny and Charlie, voiced by Diane Keaton and Eugene Levy, respectively.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;3;The film “Finding Dory” focuses on the amnesiac fish Dory, voiced by Ellen DeGeneres.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ellen DeGeneres and Albert Brooks reprise their roles from “Finding Nemo” in “Finding Dory.”
+</D0028>
+<D0029>Poster;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;4;The poster in Andy Dufresne's cell in the 1994 film The Shawshank Redemption that hid his escape tunnel was the famous pinup image of Raquel Welch in One Million Years B.C.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Norton throws a rock at a poster of Raquel Welch in Andy's cell, revealing a tunnel that Andy had dug over 19 years.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;6;In the film 'The Shawshank Redemption,' a poster of Rita Hayworth is used for the first third of the film, followed by Marilyn Monroe and Raquel Welch posters in subsequent parts.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;6;In Stephen King's novella 'Rita Hayworth and Shawshank Redemption,' a succession of posters, starting with one of Rita Hayworth, hides a hole in a jail cell wall.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;6;The prison movie night in 'The Shawshank Redemption' includes a scene showing Rita Hayworth's film 'Gilda.'
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Andy escaped through the tunnel and prison sewage pipe the previous night.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Andy promises to keep the money laundering a secret, but Norton sends him to solitary confinement.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Andy took Norton's suit, shoes, and the ledger containing evidence of corruption at Shawshank.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Andy experiences a moment of personal freedom before being punished with solitary confinement.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;6;In the film 'Mulholland Drive,' an amnesiac character names herself Rita after seeing a poster of Rita Hayworth's film 'Gilda.'
+</D0029>
+<D0030>Ian McKellen;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;McKellen achieved worldwide fame for his film roles, including the titular King in Richard III (1995), James Whale in Gods and Monsters (1998), Magneto in the X-Men films, Cogsworth in Beauty and the Beast (2017), and Gandalf in The Lord of the Rings (2001–2003) and The Hobbit (2012–2014) trilogies.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;While filming the first X-Men film in 1999, McKellen was cast as the wizard Gandalf in Peter Jackson's film trilogy adaptation of The Lord of the Rings.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;McKellen provided the voice of Gandalf for several video game adaptations of The Lord of the Rings films.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;McKellen was nominated for the Academy Award for Best Supporting Actor for his role in The Fellowship of the Ring.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;McKellen won the Screen Actors Guild Award for Best Supporting Actor in a Motion Picture for his work in The Fellowship of the Ring.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;McKellen reprised his role of Magneto in 2014's X-Men: Days of Future Past, sharing the role with Michael Fassbender, who played a younger version of the character in 2011's X-Men: First Class.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Sir Ian Murray McKellen is an English actor.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;3;McKellen has played roles on the screen and stage in genres ranging from Shakespearean dramas and modern theatre to popular fantasy and science fiction.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Lord of the Rings film trilogy consists of The Fellowship of the Ring, The Two Towers, and The Return of the King, released between 2001 and 2003.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;McKellen is regarded as a British cultural icon.
+</D0030>
+<D0031>Humphrey Bogart;12
+1;Hitotsubashi University Keyaki Lab Team-PO-4;20;Humphrey Bogart portrayed Rick Blaine in Casablanca and is voiced by Maurice LaMarche.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Humphrey Bogart's first romantic lead role was as Rick Blaine in 'Casablanca' (1942).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;10;Humphrey Bogart played Rick Blaine in the film.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;In 'Casablanca,' Humphrey Bogart was paired with Ingrid Bergman as Ilsa Lund.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;20;Claude Rains portrayed Captain Louis Renault in Casablanca and is voiced by Maurice LaMarche.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rick Blaine, Humphrey Bogart's character in 'Casablanca,' was ranked as the fourth greatest hero of American cinema by the American Film Institute.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;10;Ingrid Bergman played Ilsa Lund in the film.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Humphrey DeForest Bogart was an American actor.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Humphrey Bogart catapulted to stardom as the lead in John Huston's 'The Maltese Falcon' (1941).
+10;Hitotsubashi University Keyaki Lab Team-PO-4;20;Ingrid Bergman portrayed Isla Lund in Casablanca and is voiced by Kath Soucie.
+</D0031>
+<D0032>8;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;5;Slumdog Millionaire (2008) was nominated for ten Academy Awards in 2009 and won eight, including Best Picture, Best Director, and Best Adapted Screenplay.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;9;Danny Boyle's Slumdog Millionaire (2008) was inspired by mainstream Hindi films and is considered an homage to Hindi commercial cinema.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Slumdog Millionaire’ won 8 Academy Awards in 2009, the most of any 2008 film.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;On 22 February 2009, 'Slumdog Millionaire' won eight out of ten Academy Awards for which it was nominated, including Best Picture and Best Director.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;9;Danny Boyle's Slumdog Millionaire (2008) won four Golden Globes and eight Academy Awards.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;4;The film 'Slumdog Millionaire' won the most awards (8) at the 81st Academy Awards in 2008.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Slumdog Millionaire’ was nominated for 10 Academy Awards in 2009.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;9;Danny Boyle's Slumdog Millionaire (2008) was inspired by Mumbai-underworld crime films such as Deewaar (1975), Satya (1998), Company (2002), and Black Friday (2007).
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘Slumdog Millionaire’ won the Academy Award for Best Adapted Screenplay in 2009.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;5;Slumdog Millionaire won seven BAFTA awards, including Best Film.
+</D0032>
+<D0033>Titanic;7
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Bill Paxton portrays Brock Lovett, a treasure hunter searching for the Heart of the Ocean in the wreck of the Titanic.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Brock Lovett's expedition to find the Heart of the Ocean is running out of time and funding.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Brock Lovett reflects that he never understood the Titanic until hearing Rose's story.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jack Dawson travels on the Titanic with his friend Fabrizio.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Leonardo DiCaprio portrays Jack Dawson, a fictional character.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jack Dawson wins two third-class tickets for the Titanic in a poker game.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rose meets Jack Dawson aboard the Titanic.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jack Dawson is a fictional character.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jack Dawson has traveled the world, including Paris.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jack Dawson is attracted to Rose at first sight.
+</D0033>
+<D0034>14;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Each Quidditch team is made up of seven players: three Chasers, two Beaters, one Keeper, and one Seeker.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Quidditch is played between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Quidditch matches are played on a large oval pitch with three ring-shaped goals of different heights on each side.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Quidditch matches are played on an oval-shaped pitch with a scoring area at each end consisting of three hooped goal posts at different heights.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;The Keeper defends the hoops and tries to block goals while passing the Quaffle to fellow Chasers.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Harry Potter plays as Seeker for his house team at Hogwarts.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Chasers score with the Quaffle.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Keeper defends the goals against the Quaffle.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;The two Beaters bat the Bludgers away from their teammates and towards their opponents.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;The Chasers' job is to keep possession of the scarlet Quaffle and attempt to score goals worth 10 points by throwing it through one of the opponents' three hoops.
+</D0034>
+<D0035>10;20
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Avatar is ranked as the highest-grossing film worldwide.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Avengers: Endgame grossed $2,797,501,328 worldwide.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Avatar grossed $2,923,710,708 worldwide.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Avatar: The Way of Water grossed $2,343,096,253 worldwide.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;All of the films on the chart had a theatrical run in the 21st century.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Pixar's Cars generated over $8 billion in global merchandise sales within five years of its 2006 release.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Both films earned over $3 billion each after home video income was accounted for.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Seven films have grossed in excess of $2 billion worldwide.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Television broadcast rights can substantially add to a film's earnings.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Films not played during the 21st century do not appear on the chart due to ticket-price inflation, population size, and ticket purchasing trends.
+</D0035>
+<D0036>Lotso;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ned Beatty voices Lots-o'-Huggin' Bear, a strawberry-scented teddy bear.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lotso, short for Lots-o'-Huggin' Bear, is the main antagonist of Toy Story 3.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lotso is a plush, pink, strawberry-scented, Southern-accented teddy bear.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Jeff Pidgeon voices the Aliens in Toy Story 3.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Tom Hanks voices Woody, an old pullstring cowboy rag doll who is fiercely loyal to his owner.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Barbie takes a stand with Woody and the other toys against Lotso.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Michael Keaton voices Ken, a flamboyant Ken doll in league with Lotso.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Jeff Garlin joined the cast of Toy Story 3 as Buttercup.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Kristen Schaal joined the cast of Toy Story 3 as Trixie.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Tim Allen voices Buzz Lightyear, a noble Space Ranger action figure who is Woody's best friend and Jessie's love interest.
+</D0036>
+<D0037>We Scare Because We Care;61
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;The attraction is located at the entrance of Tomorrowland under the guise of the Monsters, Inc. scare factory from the film.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;The storyline of the attraction takes place after the events of the film Monsters, Inc.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;The slogan 'It's Laughter We're After' was later used in the film's sequel television series Monsters at Work.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;The factory's slogan has been changed from 'We Scare Because We Care' to 'It's Laughter We're After.'
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The attraction is based on the 2001 Disney·Pixar film Monsters, Inc.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;The queue building's exterior and interior are intricately themed to replicate the Monsters, Inc. factory building from the film.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Monsters, Inc. Ride & Go Seek is an interactive dark ride attraction at Tokyo Disneyland.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mike Wazowski stands near a power generator that supposedly powers all of Monstropolis.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Posters along the exterior of the factory inform guests about 'Flashlight Tag,' an upcoming activity.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Randall's evil laugh echoes through the factory.
+</D0037>
+<D0038>4;10
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lasseter personally directed Toy Story (1995), A Bug's Life (1998), Toy Story 2 (1999), Cars (2006), and Cars 2 (2011).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Monsters, Inc.' was directed by Pete Docter and co-directed by Lee Unkrich and David Silverman.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Finding Nemo' was directed by Andrew Stanton and co-directed by Lee Unkrich.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;John Alan Lasseter is an American film director, producer, screenwriter, and animator.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Toy Story' was directed by John Lasseter.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lasseter oversaw all of Pixar's films and associated projects.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Finding Nemo' was produced by Graham Walters.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;'A Bug's Life' was directed by John Lasseter and co-directed by Andrew Stanton.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;The story of 'Monsters, Inc.' was written by Pete Docter, Jill Culton, Jeff Pidgeon, and Ralph Eggleston.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;'Toy Story 2' was directed by John Lasseter and co-directed by Ash Brannon and Lee Unkrich.
+</D0038>
+<D0039>10;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ was released in the United States on June 21, 2019.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;9;‘’Toy Story’’ was released in theaters in North America on November 22, 1995.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;9;‘’Toy Story’’ premiered at the El Capitan Theatre in Los Angeles on November 19, 1995.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ premiered in Hollywood, Los Angeles, on June 11, 2019.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ is a 2019 American animated comedy-drama film produced by Pixar Animation Studios for Walt Disney Pictures.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;9;‘’Toy Story’’ is a 1995 American animated adventure comedy film produced by Pixar Animation Studios for Walt Disney Pictures.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ was officially announced in November 2014 during an investor's call.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;9;‘’Toy Story’’ is the first installment in the Toy Story franchise.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ is the fourth installment in Pixar's Toy Story film series.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;4;‘Toy Story 4’ is set after the events of Toy Story 3.
+</D0039>
+<D0040>A113;9
+1;Hitotsubashi University Keyaki Lab Team-PO-4;4;Forthright issued directive A113 preventing anyone from returning to Earth.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth due to toxicity levels making Earth unlivable.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;6;In accordance with the A113 directive order imposed by Forthright, AUTO refuses to allow the ship to return to Earth.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Shelby Forthright issued directive A113, preventing anyone from returning to Earth.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;6;Forthright announces the A113 order, which bans all Axiom starliner ships from returning to Earth.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;AUTO is loyal only to directive A113 and is not influenced by WALL-E.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;6;All the humans and other Axiom robots return to Earth to complete Operation Cleanup themselves against the A113 directive.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;WALL-E is the only robot still functioning on Earth.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;WALL-E and EVE are designated rogue robots.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;6;Forthright causes himself and all of mankind to flee from Earth due to garbage overflooding.
+</D0040>
+<D0041>Lloyd Sherr;11
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;George Carlin, who voiced Fillmore in Cars, died of heart failure in June 2008, and Fillmore was voiced by Lloyd Sherr in Cars 2.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Paul Newman, who voiced Doc Hudson in Cars, died of cancer in September 2008.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Joe Ranft, who voiced Red in Cars, died in an automobile accident in 2005, and Red has no vocal role in Cars 2.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Lloyd Sherr also voices Tony Trihull in Cars 2.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Three voice actors from the first Cars film had died since its release, leading to changes in their characters' roles in Cars 2.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jeff Garlin voices Otis in Cars 2.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Doc Hudson was eventually dropped from Cars 2 and implied to have died a few years before the events of the film.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Richard Kind voices Van in Cars 2.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jeff Gordon voices Jeff Gorvette in Cars 2.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Fernando Alonso voices Jeff Gorvette in the Spanish release of Cars 2.
+</D0041>
+<D0042>Laputa: Castle in the Sky;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki returned to Wales in May 1985 to research his next film, Laputa: Castle in the Sky.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Laputa: Castle in the Sky was the first film produced by Studio Ghibli.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Laputa: Castle in the Sky was released on August 2, 1986, by the Toei Company.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki worked long hours during the tight production schedule of Laputa: Castle in the Sky, including before and after normal working hours.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki used the floating island of Laputa from Gulliver's Travels in Laputa: Castle in the Sky.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Several staff members hired at Studio Ghibli in 1985 had previously worked with Miyazaki at studios such as Telecom, Topcraft, Toei Doga, Madhouse, Inc., and Oh! Production.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Laputa: Castle in the Sky was partly created to fund the production of The Story of Yanagawa's Canals.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki wrote the lyrics for the end theme of Laputa: Castle in the Sky.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki and Suzuki expressed disappointment with the box office figures of Laputa: Castle in the Sky.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;After the success of Nausicaä, Miyazaki visited Yanagawa and considered imitating its canal system in an animated film.
+</D0042>
+<D0043>Totoro;9
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Totoro makes a cameo appearance in Toy Story 3.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;3;Totoro is a plush toy of the titular character from Studio Ghibli's My Neighbor Totoro.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Totoro makes a cameo appearance in the Pixar film Toy Story 3 (2010).
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Totoro was not included in Toy Story 4 due to licensing problems.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Totoro became a mascot and official logo for Studio Ghibli.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;Totoro's appearance in Toy Story 3 was influenced by Disney's role in dubbing Studio Ghibli films for English-language releases.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Totoro does not appear in Toy Story 4.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;3;Totoro's appearance in Toy Story 3 was intended as a tribute to Hayao Miyazaki, a close friend of former Pixar executive John Lasseter.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Miyazaki uses Totoro as part of his logo for Studio Ghibli.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;The Peas-in-a-Pod do not appear in Toy Story 4 except for a drawing from the previous film and a cameo in 'We Got a Friend in Me'.
+</D0043>
+<D0044>Cinderella;11
+1;Hitotsubashi University Keyaki Lab Team-PO-4;14;Cinderella screened at the inaugural edition of the Berlin International Film Festival in June 1951, where it won the Golden Bear for Best Music Film.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;14;Cinderella was the fifth highest-grossing film released in North America in 1950.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;14;The film Cinderella was originally released in theaters on February 15, 1950, in Boston, Massachusetts.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;14;Cinderella was the fifth most popular movie at the British box office in 1951.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;14;The success of Cinderella allowed Disney to carry on producing films throughout the 1950s.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;14;Cinderella was Disney's greatest box office success since Snow White and the Seven Dwarfs, earning nearly $4.28 million in distributor rentals from the United States and Canada.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;14;The soundtrack for Cinderella was re-released in 2015 as part of the Legacy Collection.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;14;Cinderella is France's sixteenth biggest film of all time in terms of admissions, with 13.2 million tickets sold.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;14;To celebrate Disney's 100th anniversary, Cinderella was re-released in cinemas across the UK from August 25 to 31, 2023.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;14;Adjusted for inflation, and incorporating subsequent releases, Cinderella has had a lifetime gross of $565 million.
+</D0044>
+<D0045>5;7
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;This is a list of works by the Japanese animation studio Studio Ghibli.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;5;Miyazaki's selected filmography includes The Castle of Cagliostro (1979), Nausicaä of the Valley of the Wind (1984), Laputa: Castle in the Sky (1986), My Neighbor Totoro (1988), Kiki's Delivery Service (1989), Porco Rosso (1992), Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), The Wind Rises (2013), and The Boy and the Heron (2023).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Hayao Miyazaki's later films—Howl's Moving Castle (2004), Ponyo (2008), and The Wind Rises (2013)—enjoyed critical and commercial success.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Studio Ghibli has produced feature films, television works, and shorts.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film 'Spirited Away' was directed by Hayao Miyazaki and produced by Toshio Suzuki.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;Spirited Away is frequently ranked among the greatest films of the 21st century.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film 'Tales from Earthsea' was directed by Gorō Miyazaki and produced by Toshio Suzuki.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film 'Howl's Moving Castle' was directed by Hayao Miyazaki and produced by Toshio Suzuki.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;3;Hayao Miyazaki's Spirited Away (2001) became Japan's highest-grossing film.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;Hayao Miyazaki wrote and directed My Neighbor Totoro (1988).
+</D0045>
+<D0046>2;2
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Avengers: Doomsday and Avengers: Secret Wars are the fifth and sixth installments in the Avengers film series following Avengers: Endgame (2019).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;14;Phase Six will include Spider-Man: Brand New Day, Avengers: Doomsday, and Avengers: Secret Wars, released between 2026 and 2027.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;The Avengers, Wakandans, Fantastic Four, New Avengers, and the 'original' X-Men team up to face Doctor Doom in Avengers: Doomsday.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Avengers: Doomsday and Avengers: Secret Wars are the 39th and 40th films of the Marvel Cinematic Universe (MCU).
+5;Hitotsubashi University Keyaki Lab Team-PO-4;14;Phase Six of the Marvel Cinematic Universe began with The Fantastic Four: First Steps in 2025.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Avengers: Doomsday and Avengers: Secret Wars are American superhero films based on the Marvel Comics superhero team the Avengers.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Avengers: Doomsday and Avengers: Secret Wars are part of Phase Six of the MCU.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;In Avengers: Doomsday, the Avengers, Wakandans, Fantastic Four, New Avengers, and the X-Men team up to face Doctor Doom (played by Robert Downey Jr.).
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Avengers: Doomsday is scheduled to be released on December 18, 2026.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Avengers: Doomsday is scheduled for release on December 18, 2026.
+</D0046>
+<D0047>Three;25
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Three helicopters sent to rescue the British royal family from Balmoral Castle crash in Scotland after flying into a superstorm's eye.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Tokyo is struck by a giant hailstorm.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Astronauts from the International Space Station spot three gigantic superstorms above Canada, Europe, and Siberia.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Remnants of a hurricane spawn a destructive tornado outbreak over the L.A. Basin.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film depicts catastrophic climatic effects following the disruption of the North Atlantic Ocean circulation.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rapson notifies Jack Hall that siphoned air from the upper troposphere flash freezes anything caught in the eyes of the cyclones.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rapson's team in Scotland notices severe temperature drops from multiple buoys in the North Atlantic.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film is based on the 1999 book *The Coming Global Superstorm* by Art Bell and Whitley Strieber.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;US Vice President Raymond Becker dismisses Jack Hall's findings about climate change.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Larsen Ice Shelf splits away moments after Jack Hall and his colleagues drill for ice-core samples.
+</D0047>
+<D0048>Furious 7;2
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ramsey is the creator of God's Eye, a program capable of tracking a specific person through digital services.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;4;Mose Jakande is a Nigerian-born terrorist who led a Private Military Base.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ramsey is a British computer hacker.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;4;Mose Jakande is hired by Cipher to capture the hacker known as Ramsey.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;3;God's Eye was coveted by mercenary Mose Jakande.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;4;Ramsey created a device called God's Eye, which can find anyone on Earth.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;In ‘Furious 7’, Dominic Toretto, Brian O'Conner, and their team are recruited by covert ops leader Mr. Nobody.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;The film ‘Furious 7’ stars an ensemble cast including Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez, Tyrese Gibson, Ludacris, Jordana Brewster, Djimon Hounsou, Kurt Russell, and Jason Statham.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;4;Mose Jakande is powerful and violent, with no allegiance to anyone.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;In ‘Furious 7’, the team is tasked with preventing Mose Jakande, a terrorist, from obtaining a hacking program known as God's Eye.
+</D0048>
+<D0049>Two;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Justin Lin co-wrote the screenplay for ‘F9’ with Daniel Casey.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Justin Lin retained writing and producing credits for ‘Fast X’.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;‘Fast X’ is based on a screenplay by Dan Mazeau and Justin Lin.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Dan Mazeau and Justin Lin co-wrote the story of ‘Fast X’ with Zach Dean.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;2;Justin Lin was initially set to direct ‘Fast X’.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Louis Leterrier performed several uncredited rewrites to the screenplay of ‘Fast X’.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Justin Lin was confirmed as the director of ‘F9’ in October 2017.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Justin Lin left as director of ‘Fast X’ in April 2022 due to creative differences.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Louis Leterrier replaced Justin Lin as the director of ‘Fast X’.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;‘F9’ is a 2021 action film directed by Justin Lin.
+</D0049>
+<D0050>F9;27
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 achieved a worldwide total gross of $726.2 million.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;11;Fast X achieved a worldwide total gross of $714.4 million.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 grossed $173 million in the United States and Canada.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;11;TheWrap estimated that Fast X would need to gross $800–850 million worldwide to turn a profit during its theatrical run.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 debuted to $70 million in its opening weekend.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 crossed $500 million internationally in record time for the COVID-19 pandemic era.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 grossed $553.2 million in other territories.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9's opening weekend was the highest-grossing since Star Wars: The Rise of Skywalker ($72.4 million) in December 2019.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;F9 was the fifth-highest-grossing film of 2021.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;11;A 2024 Forbes report stated that Universal's share of Fast X's box office gross amounted to $357.2 million.
+</D0050>
+<D0051>Murphy;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;6;Mackenzie Foy, Jessica Chastain, and Ellen Burstyn portrayed Murphy Cooper in 'Interstellar' (2014).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Murphy 'Murph' Cooper eventually becomes a NASA scientist working under Professor Brand.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;6;Timothée Chalamet and Casey Affleck portrayed Tom Cooper in 'Interstellar' (2014).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ellen Burstyn plays elderly Murph.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ellen Burstyn plays elderly Murph.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Anne Hathaway plays Dr. Amelia Brand, Professor Brand's daughter and a NASA scientist aboard the Endurance mission, responsible for conducting planet colonization.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Michael Caine plays Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Anne Hathaway plays Dr. Amelia Brand, Professor Brand's daughter and a NASA scientist aboard the Endurance mission.
+</D0051>
+<D0052>Murph;10
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;5;Mackenzie Foy, Jessica Chastain, and Ellen Burstyn portrayed Murphy Cooper in 'Interstellar' (2014).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Murphy 'Murph' Cooper eventually becomes a NASA scientist working under Professor Brand.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;5;Timothée Chalamet and Casey Affleck portrayed Tom Cooper in 'Interstellar' (2014).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ellen Burstyn plays elderly Murph.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ellen Burstyn plays elderly Murph.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Anne Hathaway plays Dr. Amelia Brand, Professor Brand's daughter and a NASA scientist aboard the Endurance mission, responsible for conducting planet colonization.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Michael Caine plays Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Anne Hathaway plays Dr. Amelia Brand, Professor Brand's daughter and a NASA scientist aboard the Endurance mission.
+</D0052>
+<D0053>10;21
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Mackenzie Foy plays 10-year-old Murph.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Mackenzie Foy plays 10-year-old Murph.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ellen Burstyn plays elderly Murph.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Ellen Burstyn plays elderly Murph.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;Timothée Chalamet plays 15-year-old Tom.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Topher Grace plays Getty, Murph's colleague and love interest.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Cooper reunites with Murph, now elderly and on her deathbed.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Cooper realizes that he had always been Murph's 'ghost'.
+</D0053>
+<D0054>The Phoenician Scheme;10
+</D0054>
+<D0055>Tomorrowland;28
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Tomorrowland was the first film to be released in Dolby Vision format in Dolby Cinema.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Tomorrowland was released in theaters and IMAX on May 22, 2015.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California, on May 9, 2015.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Tomorrowland was released by Walt Disney Studios Home Entertainment on Blu-ray, DVD, and digital download on October 13, 2015.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;A physical release of the Tomorrowland soundtrack album followed on June 2, 2015.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Disney released the film in several European markets, including the Netherlands, Belgium, and Luxembourg, as Project T.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;A soundtrack album for Tomorrowland was released digitally on May 19, 2015.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Disney released the film in the United Kingdom as Tomorrowland: A World Beyond.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;During its first week of home media release in the U.S., Tomorrowland debuted at number 4 on the Blu-ray Disc sales chart, with 47% of unit sales coming from Blu-ray.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;During its first week of home media release in the U.S., Tomorrowland debuted at number 3 on the Nielsen VideoScan First Alert chart, which tracks overall disc sales.
+</D0055>
+<D0056>Hoth;8
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;The Echo Base was the Rebel Alliance facility established on Hoth after the Battle of Yavin.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;The rebellion spent two years constructing Echo Base on Hoth.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Hoth was chosen as the rebel base in 1 ABY, one year after the events of 'Star Wars: Episode IV - A New Hope'.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;3;Hoth was chosen as the primary location for the new Rebel Alliance base.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;3;Construction of the Echo Base was completed after two standard years.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;The Rebellion abandoned the Echo Base following the Battle of Hoth.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;Saponza's Gang, a rebel cell, established a base on Hoth following the Battle of Yavin.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Rebel engineers expanded ice caverns into a base over two years.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;3;The outside of the Echo Base was protected by a Rebel Alliance Fortress and other military buildings.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;A defense bunker was connected to the Echo Base.
+</D0056>
+<D0057>Porter Engle;61
+</D0057>
+<D0058>I am one with the Force, and the Force is with me;4
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;Malbus began repeating Îmwe's mantra, 'I am one with the Force, and the Force is with me.'
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Before he died, Chirrut Îmwe heard Baze Malbus repeat his mantra, and the words echoed in his heart once more.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Îmwe told Malbus that if he looked for the Force, he would always find him.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;3;Malbus felt conviction in Îmwe's mantra, as if it provided a key to the forgotten faith of his youth.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;3;Malbus once more felt the significance of the Force in each breath he took.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;Chirrut Îmwe used his last words to softly reassure Baze Malbus that it was okay and that if he looked for the Force, he would always find him.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Malbus pleaded with Îmwe not to die as he held his friend’s hand.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;With his final words, Chirrut Îmwe reminded Baze Malbus of his connection to the Force and his teachings as a Guardian of the Whills.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;3;Chirrut Îmwe died in Malbus's arms.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;1;Baze Malbus cradled Chirrut Îmwe and pleaded with him not to die.
+</D0058>
+<D0059>Matt Sloan;7
+1;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan filled in for the role of Jedi Master Plo Koon in Star Wars: Episode II – Attack of the Clones and Star Wars: Episode III – Revenge of the Sith due to financial practicality as he matched the height of the previous actor.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan worked as a technical director on Avatar (2009), The Avengers (2012), and The Hobbit (film series) for Weta Digital.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan is an Australian visual effects supervisor.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan worked as a visual effects supervisor on the X-Men (film series) and The Martian (2015).
+5;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan was the droid unit technician for Star Wars: Episode III – Revenge of the Sith.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan was the lead animatronics foreman for Star Wars: Episode II – Attack of the Clones.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan was previously a special effects and animatronics technician.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan began transitioning from special effects to visual effects around 2000.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;19;Matt Sloan started in the film industry as a 'runner' and pyrotechnician for the special effects team of Fortress (1992) in 1991.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;19;In 2013, Matt Sloan moved from Weta Digital to 20th Century Fox.
+</D0059>
+<D0060>Starkiller Base;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;1;Han Solo died and fell into the depths of Starkiller Base with his DL-44 heavy blaster pistol.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ben Solo found himself face-to-face with a memory of Han Solo, the father he murdered at Starkiller Base.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;The collapse of Starkiller Base destroyed everything on the superweapon, including Han Solo's remains and his heavy blaster pistol.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ben Solo was shaken by his mother's demise.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;3;Ben heard his father tell him that Kylo Ren was dead, and his son was Ben Solo once more.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ren usurped Snoke's role as Supreme Leader.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;Rey dueled with Ren in the Death Star ruins for hindering her efforts to find Exegol.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ben Solo found his way back to the light through the sacrifice and forgiveness of his mother, Leia Organa.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ren killed Han Solo on Starkiller Base.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Ren confronted Skywalker on Crait.
+</D0060>
+<D0061>Home;10
+1;Hitotsubashi University Keyaki Lab Team-PO-4;11;‘Spider-Man: No Way Home’ is the sequel to ‘Spider-Man: Homecoming’ (2017) and ‘Spider-Man: Far From Home’ (2019).
+2;Hitotsubashi University Keyaki Lab Team-PO-4;3;Two sequels to ‘Spider-Man: Homecoming’ have been released: ‘Spider-Man: Far From Home’ (2019) and ‘Spider-Man: No Way Home’ (2021).
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;‘Spider-Man: Homecoming’ is part of Phase Three of the MCU.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;11;‘Spider-Man: No Way Home’ is the 27th film in the Marvel Cinematic Universe (MCU).
+5;Hitotsubashi University Keyaki Lab Team-PO-4;11;‘Spider-Man: No Way Home’ is part of Phase Four of the Marvel Cinematic Universe (MCU).
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;‘Spider-Man: Homecoming’ is the 16th film in the Marvel Cinematic Universe (MCU).
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;Spider-Man: Far From Home (2019) was developed as the final film of the third phase of the MCU's Infinity Saga.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;11;‘Spider-Man: No Way Home’ serves as a crossover between the MCU and the previous Spider-Man films directed by Sam Raimi and Marc Webb.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;A sequel, 'Spider-Man: Far From Home,' was released on July 2, 2019.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;Spider-Man: Far From Home was released theatrically in July 2019.
+</D0061>
+<D0062>Stardust;6
+1;Hitotsubashi University Keyaki Lab Team-PO-4;3;Jyn stopped at a file labeled 'Stardust' and realized it must be the plans.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jyn Erso identified the Death Star plans under the file name 'Stardust.'
+3;Hitotsubashi University Keyaki Lab Team-PO-4;3;Jyn and Andor skimmed through the files in search of the plans.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;Stardust is a project name associated with the Death Star plans.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;3;Jyn retrieved the data-tape.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;3;Jyn realized they were trapped.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;3;K2 told Jyn that her behavior was continually unexpected.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;1;Jyn Erso and Cassian Andor removed their disguises inside the vault.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;The mission to Scarif aimed to steal the Death Star plans.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;3;Jyn shot the glass and jumped across onto the data tower.
+</D0062>
+<D0063>Imperial-class Star Destroyer;8
+1;Hitotsubashi University Keyaki Lab Team-PO-4;5;The Avenger was an Imperial II-class Star Destroyer in the Imperial Navy's Death Squadron.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Tyrant was an Imperial II-class Star Destroyer in the Imperial Navy.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;4;An 'Imperial'-class Star Destroyer served with Sith Lord Darth Vader's Imperial Death Squadron during the aftermath of the Hoth campaign of 3 ABY.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Tyrant is an Imperial II-class Star Destroyer that is 1,600 meters long.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;5;The Avenger was owned by the Imperial Navy.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Tyrant was one of the five main Imperial-class Star Destroyers in Death Squadron.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;1;The Tyrant served as part of Darth Vader's personal fleet, Death Squadron.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;5;The Avenger was part of the Galactic Empire's Project Swarm.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;5;Following the Battle of Hoth, the Avenger and the rest of Death Squadron pursued the Millennium Falcon.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;4;Darth Vader's Death Squadron was the Sith Lord's personal fleet used to track down the Rebel Alliance's base of operations.
+</D0063>
+<D0064>Rogue One;5
+1;Hitotsubashi University Keyaki Lab Team-PO-4;2;Episode VII: The Force Awakens and Rogue One were critical and commercial successes.
+2;Hitotsubashi University Keyaki Lab Team-PO-4;2;Between 2015 and 2018, Lucasfilm released several cinematic films, including Episode VII: The Force Awakens and Rogue One.
+3;Hitotsubashi University Keyaki Lab Team-PO-4;1;Bob Iger announced a 'slow down' of Star Wars film releases following Solo's poor box-office performance.
+4;Hitotsubashi University Keyaki Lab Team-PO-4;2;Solo: A Star Wars Story was less successful at the box office.
+5;Hitotsubashi University Keyaki Lab Team-PO-4;1;The first two anthology films, Rogue One and Solo, were released in an alternating pattern with the sequel trilogy releases.
+6;Hitotsubashi University Keyaki Lab Team-PO-4;2;Lucasfilm launched several programs on Disney+, including the successful series The Mandalorian.
+7;Hitotsubashi University Keyaki Lab Team-PO-4;2;After the mixed performance of Solo, Disney CEO Bob Iger confirmed a slowdown in the release of new Star Wars films.
+8;Hitotsubashi University Keyaki Lab Team-PO-4;2;Only selected works, including the six episodic films and The Clone Wars, were deemed canon by Lucasfilm.
+9;Hitotsubashi University Keyaki Lab Team-PO-4;1;A series of 'anthology' films began development concurrent with the sequel trilogy.
+10;Hitotsubashi University Keyaki Lab Team-PO-4;2;The first standalone Star Wars film, Rogue One, premiered in 2016.
+</D0064>
+<D0065>Darth Vader;70
+</D0065>

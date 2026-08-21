@@ -1,0 +1,34 @@
+- generic [ref=f9e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f9e5]:
+    - button "Skip to main content" [ref=f9e6] [cursor=pointer]
+    - main [ref=f9e8]
+    - generic [ref=f9e11]:
+      - banner [ref=f9e12]:
+        - link [ref=f9e14] [cursor=pointer]:
+          - /url: /v/r2c2officialresults/folder/387653324947
+          - button "Close Preview" [ref=f9e15]
+        - generic [ref=f9e16]:
+          - img "spreadsheet file" [ref=f9e17]
+          - generic [ref=f9e21]:
+            - heading "official.PRruns.cons.directL0-L4.nev.MSnDCG@0020.tsmdressed.csv" [level=1] [ref=f9e23]
+            - generic [ref=f9e24]:
+              - link "OfficialResults" [ref=f9e25] [cursor=pointer]:
+                - /url: /v/r2c2officialresults/folder/387653324947
+              - generic [ref=f9e27]: ·
+              - generic [ref=f9e28]: Updated Jun 10, 2026 by 酒井 哲也
+        - generic [ref=f9e30]:
+          - button "Click here for more actions" [ref=f9e31] [cursor=pointer]
+          - button "Download" [ref=f9e32] [cursor=pointer]
+          - link [ref=f9e35] [cursor=pointer]:
+            - /url: https://www.box.com/pricing/individual?utm_campaign=asset-signup-button&utm_medium=Collaboration&utm_source_link=link
+            - button "Sign up" [ref=f9e36]
+          - link [ref=f9e38] [cursor=pointer]:
+            - /url: https://waseda.account.box.com/login?redirect_url=https%3A%2F%2Fwaseda.app.box.com%2Fv%2Fr2c2officialresults%2Ffile%2F2277678952567&utm_campaign=asset-login-button&utm_medium=Collaboration&utm_source_link=link
+            - button "Log in" [ref=f9e39]
+      - main "Preview" [ref=f9e41]:
+        - region "Notifications (F8)":
+          - list
+    - button [ref=f9e46] [cursor=pointer]:
+      - generic [ref=f9e47]: Drop files on this page to upload them into this folder.

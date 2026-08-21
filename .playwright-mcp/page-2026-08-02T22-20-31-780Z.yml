@@ -1,0 +1,63 @@
+- generic [ref=f9e2]:
+  - region "Notifications (F8)":
+    - list
+  - generic [ref=f9e5]:
+    - button "Skip to main content" [ref=f9e6] [cursor=pointer]
+    - main [ref=f9e8]
+    - generic [ref=f9e11]:
+      - banner [ref=f9e12]:
+        - link [ref=f9e14] [cursor=pointer]:
+          - /url: /v/r2c2officialresults/folder/372287930267
+          - button "Close Preview" [ref=f9e15]
+        - generic [ref=f9e16]:
+          - img "default file" [ref=f9e17]
+          - generic [ref=f9e20]:
+            - heading "hit-u-AC-1" [level=1] [ref=f9e22]
+            - generic [ref=f9e23]:
+              - link "ACruns" [ref=f9e24] [cursor=pointer]:
+                - /url: /v/r2c2officialresults/folder/372287930267
+              - generic [ref=f9e26]: ·
+              - generic [ref=f9e27]: Updated May 14, 2026 by 酒井 哲也
+        - generic [ref=f9e29]:
+          - button "Click here for more actions" [ref=f9e30] [cursor=pointer]
+          - button "Download" [ref=f9e31] [cursor=pointer]
+          - link [ref=f9e34] [cursor=pointer]:
+            - /url: https://www.box.com/pricing/individual?utm_campaign=asset-signup-button&utm_medium=Collaboration&utm_source_link=link
+            - button "Sign up" [ref=f9e35]
+          - link [ref=f9e37] [cursor=pointer]:
+            - /url: https://waseda.account.box.com/login?redirect_url=https%3A%2F%2Fwaseda.app.box.com%2Fv%2Fr2c2officialresults%2Ffile%2F2230578513365&utm_campaign=asset-login-button&utm_medium=Collaboration&utm_source_link=link
+            - button "Log in" [ref=f9e38]
+      - main "Preview" [ref=f9e40]:
+        - region "Notifications (F8)":
+          - list
+        - generic [ref=f9e42]:
+          - generic [ref=f9e43]:
+            - region "File preview" [active] [ref=f9e47]:
+              - generic [ref=f9e48]:
+                - paragraph [ref=f9e54]: This preview didn’t load because the file type is unsupported. Please try to open or download the file to view.
+                - button "Download" [ref=f9e55] [cursor=pointer]
+            - button "Previous File" [ref=f9e56] [cursor=pointer]
+            - button "Next File" [ref=f9e57] [cursor=pointer]
+          - complementary [ref=f9e58]:
+            - generic "Sidebar" [ref=f9e60]:
+              - tablist [ref=f9e62]:
+                - tab "Details" [selected] [ref=f9e63] [cursor=pointer]
+              - button "Hide Sidebar" [ref=f9e67] [cursor=pointer]
+            - tabpanel "Details" [ref=f9e68]:
+              - heading "Details" [level=2] [ref=f9e70]
+              - generic [ref=f9e74]:
+                - button "File Properties" [expanded] [ref=f9e75] [cursor=pointer]
+                - generic [ref=f9e79]:
+                  - term [ref=f9e80]: Owner
+                  - definition [ref=f9e81]: 学内管理者
+                  - term [ref=f9e82]: Uploader
+                  - definition [ref=f9e83]: 酒井 哲也
+                  - term [ref=f9e84]: Created
+                  - definition [ref=f9e85]: May 14, 2026, 8:06 PM
+                  - term [ref=f9e86]: Modified
+                  - definition [ref=f9e87]: May 14, 2026, 8:06 PM
+                  - term [ref=f9e88]: Size
+                  - definition [ref=f9e89]:
+                    - paragraph [ref=f9e90]: 89.1 KB
+    - button [ref=f9e91] [cursor=pointer]:
+      - generic [ref=f9e92]: Drop files on this page to upload them into this folder.

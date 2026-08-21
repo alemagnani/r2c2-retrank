@@ -1,0 +1,180 @@
+<D0001>Bor Gullet;58
+1;BITEM-PG-1;1;Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.
+</D0001>
+<D0002>Black Widow;99
+1;BITEM-PG-1;3;She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).
+</D0002>
+<D0003>A robot may not harm humanity;75
+1;BITEM-PG-1;1;Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: "A robot may not harm humanity, or, by inaction, allow humanity to come to harm." The premise of robots turning on their creators, originating in Karel Čapek's play R.U.R.
+</D0003>
+<D0004>Roger Moore;75
+1;BITEM-PG-1;2;Moonraker is a 1979 spy-fi film, the eleventh in the James Bond series produced by Eon Productions, and the fourth to star Roger Moore as the fictional MI6 agent James Bond.
+</D0004>
+<D0005>one;99
+1;BITEM-PG-1;2;Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.
+</D0005>
+<D0006>Black Widow;50
+1;BITEM-PG-2;12;Scarlett Johansson as Natasha Romanoff / Black Widow:An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.
+</D0006>
+<D0007>Love Is All Around;72
+1;BITEM-PG-1;1;With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song "Love Is All Around", titling it "Christmas Is All Around".
+</D0007>
+<D0008>Ryan Reynolds;99
+1;BITEM-PG-2;7;He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns.
+</D0008>
+<D0009>National Gallery;99
+1;BITEM-PG-1;1;In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+</D0009>
+<D0010>Cynthia Erivo;45
+1;BITEM-PG-1;2;The film stars Cynthia Erivo as Elphaba Thropp and Ariana Grande as Glinda Upland, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode (in her film debut), Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.
+</D0010>
+<D0011>I don't know;5
+</D0011>
+<D0012>Gareth;99
+1;BITEM-PG-1;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+</D0012>
+<D0013>Michael J. Fox;99
+1;BITEM-PG-1;2;Marty Jr.
+</D0013>
+<D0014>I don't know;5
+</D0014>
+<D0015>Donnie Yen;99
+1;BITEM-PG-2;2;there are multiple John Wick projects in development: an untitled film which will follow the blind assassin Caine, portrayed by Donnie Yen in John Wick: Chapter 4; a television series, John Wick: Under the High Table, set after the events of John Wick: Chapter 4, in a world where John's actions have left the criminal underworld in chaos; and an untitled anime film which will serve as a prequel to John Wick.
+</D0015>
+<D0016>I don't know;5
+</D0016>
+<D0017>Skyfall;75
+1;BITEM-PG-1;2;This made it the second-biggest third weekend for a film that did not open at over $100 million, behind Avatar ($68 million) and ahead of Skyfall ($35 million).
+</D0017>
+<D0018>I don't know;5
+</D0018>
+<D0019>I don't know;5
+</D0019>
+<D0020>I don't know;5
+</D0020>
+<D0021>June 9, 1981;68
+1;BITEM-PG-1;5;Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padmé Amidala in the prequel trilogy.
+</D0021>
+<D0022>Meryl Streep;99
+1;BITEM-PG-1;4;Hepburn won four Academy Awards, the record number for a performer, and received a total of 12 Oscar nominations for Best Actress—a number surpassed only by Meryl Streep.
+</D0022>
+<D0023>Ingrid Bergman;71
+1;BITEM-PG-1;20;Ingrid Bergman and Streep each have two statuettes for leading and one supporting actress win, while Jack Nicholson nabbed the same tally for male actors.
+</D0023>
+<D0024>I don't know;5
+</D0024>
+<D0025>I don't know;5
+</D0025>
+<D0026>Christopher Plummer;75
+1;BITEM-PG-1;6;Title: The Rebel Gladiators ; Release date: 1962 ; Notes: directed by Domenico Paolella Title: The Fall of the Roman Empire ; Release date: 1964 ; Notes: latter half set in Rome, with Christopher Plummer as Commodus (dir.
+</D0026>
+<D0027>fava beans and a nice Chianti;75
+1;BITEM-PG-1;1;He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver "with some fava beans and a nice Chianti" (a "big Amarone" in the novel).
+</D0027>
+<D0028>amnesiac;75
+1;BITEM-PG-1;5;The film focuses on the amnesiac fish Dory (DeGeneres), who journeys to be reunited with her parents (Keaton and Levy).
+</D0028>
+<D0029>prison sewage pipe;74
+1;BITEM-PG-1;1;The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.
+</D0029>
+<D0030>McKellen;50
+1;BITEM-PG-1;1;In 1999, McKellen was cast, again under the direction of Bryan Singer, to play the comic book supervillain Magneto in the 2000 film X-Men and its sequels X2: X-Men United (2003) and X-Men: The Last Stand (2006).
+</D0030>
+<D0031>Humphrey Bogart;99
+1;BITEM-PG-2;14;Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.
+</D0031>
+<D0032>eight;99
+1;BITEM-PG-1;1;The Dark Knight was the year's highest-grossing film, while Slumdog Millionaire won the Academy Award for Best Picture (out of eight Academy Awards).
+</D0032>
+<D0033>Predator 2;75
+1;BITEM-PG-1;7;In 1990, Paxton appeared in Predator 2 (1990).
+</D0033>
+<D0034>seven;99
+1;BITEM-PG-1;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+</D0034>
+<D0035>I don't know;5
+</D0035>
+<D0036>Lotso;99
+1;BITEM-PG-1;1;Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.
+</D0036>
+<D0037>"We Scare Because We Care";74
+1;BITEM-PG-1;1;Taking place after the events of the film, the factory's new slogan has been changed from "We Scare Because We Care" to "It's Laughter We're After", something that was later used in the film's sequel television series Monsters at Work.
+</D0037>
+<D0038>two;43
+1;BITEM-PG-2;8;Then-studio head of Pixar John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.
+</D0038>
+<D0039>June 11, 2019;52
+1;BITEM-PG-1;1;Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.
+</D0039>
+<D0040>A113;98
+1;BITEM-PG-1;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.
+</D0040>
+<D0041>George Carlin;50
+1;BITEM-PG-1;2;Fillmore (based on Route 66 artist Bob Waldmire and voiced by George Carlin in Cars, the video game, and Cars Toons (via archival recordings), Scott Wood in Cars Mater-National Championship, and Lloyd Sherr in all other media after the first film due to Carlin's death) is a green 1960 Volkswagen Type 2(T1) who owns a store that sells his own recipe of organic biofuel, which he also gives McQueen during his races.
+</D0041>
+<D0042>Laputa: Castle in the Sky;99
+1;BITEM-PG-1;3;He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.
+</D0042>
+<D0043>Totoro;75
+1;BITEM-PG-1;1;Miyazaki additionally uses Totoro as a part of his logo for Studio Ghibli.
+</D0043>
+<D0044>Die Ratten;99
+1;BITEM-PG-2;15;The fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten.
+</D0044>
+<D0045>I don't know;5
+</D0045>
+<D0046>four;57
+1;BITEM-PG-2;13;The Avengers series is next, with four films on the list.
+</D0046>
+<D0047>I don't know;5
+</D0047>
+<D0048>Furious 7;50
+1;BITEM-PG-1;5;In Furious 7, it is revealed that Owen Shaw survived the events of the previous film but is comatose, and his older brother Deckard Shaw has gone rogue and is hunting Dom's team.
+</D0048>
+<D0049>tenth;50
+1;BITEM-PG-1;3;The sequel to F9 (2021), it is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise.
+</D0049>
+<D0050>F9;99
+1;BITEM-PG-1;8;F9 was released in June 2021.
+</D0050>
+<D0051>Murph;50
+1;BITEM-PG-1;1;Joseph Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald.
+</D0051>
+<D0052>Murph;75
+1;BITEM-PG-1;2;Joseph Cooper, a widowed former NASA test pilot, works as a farmer and raises his children, Murph and Tom, alongside his father-in-law Donald.
+</D0052>
+<D0053>I don't know;5
+</D0053>
+<D0054>I don't know;5
+</D0054>
+<D0055>Tomorrowland;71
+1;BITEM-PG-1;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+</D0055>
+<D0056>Hoth;75
+1;BITEM-PG-1;6;Code 1-5 was the Rebel Alliance order to begin evacuating Echo Base on the planet Hoth.
+</D0056>
+<D0057>Plo Koon;73
+1;BITEM-PG-2;6;Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.
+</D0057>
+<D0058>connection to the Force;67
+1;BITEM-PG-1;7;With his final words, Îmwe was able to remind Malbus of his connection to the Force and to reconnect with his teachings as a Guardian of the Whills.
+</D0058>
+<D0059>Coinneach Alexander;74
+1;BITEM-PG-1;5;Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.
+</D0059>
+<D0060>Ilum;75
+1;BITEM-PG-2;2;Held in secret by the First Order, its modifications allowed Ilum to act as a mobile base and major weapons platform until it was destroyed by the Resistance in desperation after Starkiller's destruction of the Hosnian system.
+</D0060>
+<D0061>I don't know;5
+</D0061>
+<D0062>Jyn Odan;75
+1;BITEM-PG-1;5;Jyn may refer to the following individuals: Jyn Erso, who led Rogue One in stealing the Death Star plans Jyn Odan, a smuggler who worked for the Rebel Alliance Jyn Freila, a Chandrilan rebel pilot ; Jyn N'oram, captain of the Fricasseed Nerf ; Jyn Obah, a Pirate of Tarnoonga ; Jyn Odan, a smuggler who worked for the Rebel Alliance "Jyn: The Rebel," a featurette for Rogue One: A Star Wars Story
+</D0062>
+<D0063>mechanical AT-ATs;75
+1;BITEM-PG-1;7;This level 1 early reader retells classic scenes from Star Wars: The Empire Strikes Back as the rebels face off against the Empires dreaded mechanical AT-ATs.
+</D0063>
+<D0064>Rogue One;75
+1;BITEM-PG-1;5;Deadline Hollywood noted that it was tracking higher than the previous Star Wars spin-off film, Rogue One (which debuted to $155 million), and had more interest from audiences than the likes of fellow blockbusters Spider-Man: Homecoming and Guardians of the Galaxy Vol.
+</D0064>
+<D0065>I don't know;5
+</D0065>

@@ -1,0 +1,1387 @@
+{
+  "metrics": {
+    "accuracy": 0.4461538461538462,
+    "mean_nugget_precision": 0.4461538461538462,
+    "R_O": 0.22638888888888886,
+    "R_U": 0.9586206896551724,
+    "HMR": 0.3662773309622923,
+    "n_questions": 65
+  },
+  "per_question": {
+    "0001": {
+      "question": "What did Saw Gerrera use as a torturing device in a Star Wars spinoff movie from 2016?",
+      "answer": "Bor Gullet",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Bor Gullet was indeed the creature Saw Gerrera used as a torturing device in Rogue One (2016), and nugget [1] confirms Bor Gullet's identity as a Mairan with mind-reading abilities.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage's opening sentence directly states that Bor Gullet was a purple-skinned Mairan with the ability to read thoughts.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0002": {
+      "question": "What was Scarlett Johansson's superhero name in the Marvel Cinematic Universe?",
+      "answer": "Black Widow",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that Scarlett Johansson played Black Widow in the MCU, matching the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010).",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'She played Black Widow in the Marvel Cinematic Universe (MCU) superhero film Iron Man 2 (2010),' which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0003": {
+      "question": "In the movie \"I, Robot\" from 2004, Asimov's laws of robotics are cited. Now, what does his zeroth law say?",
+      "answer": "A robot may not harm humanity, or, by inaction, allow humanity to come to harm",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer exactly matches the Zeroth Law definition provided in nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Asimov would further develop this idea in his Robot series as the Zeroth Law of Robotics: \"A robot may not harm humanity, or, by inaction, allow humanity to come to harm.\" The premise of robots turning on their creators, originating in Karel Čapek's play R.U.R.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states the Zeroth Law quote and attributes the premise of robots turning on their creators to Karel Čapek's play R.U.R.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0004": {
+      "question": "Who played James Bond in the movie in which the climax take place in outer space?",
+      "answer": "Jake Lombard",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Jake Lombard was a stuntman used for testing equipment, not the actor who played James Bond; the movie with a climax in outer space is 'Moonraker' (1979), in which Roger Moore played James Bond.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "Worth developed the equipment for the scene, which included a 1 in parachute pack that could be concealed beneath the suit to give the impression of the missing parachute, and equipment to prevent the freefalling cameraman from suffering whiplash while opening his parachute, they brought in stuntman Jake Lombard to test it all.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states all the details in the nugget about Worth developing equipment including the 1in parachute pack and whiplash prevention equipment, and bringing in Jake Lombard to test it.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0005": {
+      "question": "Actor George Lazenby played James Bond in how many movies?",
+      "answer": "one",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] explicitly states Lazenby appeared in only one film, confirming the system answer of 'one'.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Since he appeared in only one film, Lazenby's tenure as Bond is the shortest among the actors in the series.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0006": {
+      "question": "In Avengers: Endgame, the Scarlett Johansson character died to obtain which inifinity stone?",
+      "answer": "Black Widow",
+      "confidence": 0.9,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks which infinity stone was obtained by the sacrifice, which was the Soul Stone, but the system answer incorrectly states 'Black Widow' (the character's name) instead of the Soul Stone.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 12,
+          "text": "Scarlett Johansson as Natasha Romanoff / Black Widow:An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that Scarlett Johansson plays Natasha Romanoff / Black Widow, described as 'An Avenger, highly trained former-KGB assassin, and former agent of S.H.I.E.L.D.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0007": {
+      "question": "\"Love, Actually\" features a cover song called \"Christmas is All Around.\" What was the original song title?",
+      "answer": "1967",
+      "confidence": 0.92,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answered '1967' (the year), but the question asks for the original song title, which is 'Love Is All Around'.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "With his long-time manager Joe, rock and roll legend Billy Mack records a Christmas version of the Troggs' 1967 song \"Love Is All Around\", titling it \"Christmas Is All Around\".",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Billy Mack records a Christmas version of the Troggs' 1967 song 'Love Is All Around' with his manager Joe, titling it 'Christmas Is All Around'.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0008": {
+      "question": "Name the actor who played Green Lantern in the DCEU and then played Deadpool in the MCU.",
+      "answer": "Ryan Reynolds",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms Ryan Reynolds played Green Lantern in the 2011 film, and it is well-established that Ryan Reynolds also plays Deadpool in the MCU.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 7,
+          "text": "He made his cinematic debut in the 2011 film Green Lantern, portrayed by Ryan Reynolds, and will be portrayed by Kyle Chandler in the DC Universe, beginning with the series Lanterns.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that Hal Jordan made his cinematic debut in the 2011 film Green Lantern portrayed by Ryan Reynolds and will be portrayed by Kyle Chandler in the DC Universe beginning with Lanterns.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0009": {
+      "question": "In Bean the movie, Mr Bean works for which gallery?",
+      "answer": "National Gallery",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'National Gallery' matches the nugget which states Bean works as a security guard at the National Gallery in London.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of Whistler's Mother, a 1871 painting by James Abbott McNeill Whistler.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0010": {
+      "question": "Who plays the Wizard of Oz in Wicked the movie?",
+      "answer": "Christopher Lloyd",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Christopher Lloyd as the Wizard of Oz, which matches nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 6,
+          "text": "Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Christopher Lloyd as the Wizard of Oz, the ruler of the Emerald City.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0011": {
+      "question": "In Miyazaki's Spirited Away, what is the name of the old lady who looks exactly like Yubaba?",
+      "answer": "Chihiro",
+      "confidence": 0.75,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answered 'Chihiro' but the question asks for the name of the old lady who looks exactly like Yubaba, which is Zeniba (also known as Granny), not Chihiro who is the main protagonist.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "Along with its function within the ostensible coming of age theme, Yubaba's act of taking Chihiro's name and replacing it with Sen (an alternate reading of chi, the first character in Chihiro's name, ) can be thought of as symbolic of capitalism's single-minded concern with value.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Yubaba's act of taking Chihiro's name and replacing it with Sen can be thought of as symbolic of capitalism's single-minded concern with value, matching the nugget exactly.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0012": {
+      "question": "In Four Weddings And A Funeral, who dies of a heart attack at the wedding of Hamish and Carrie?",
+      "answer": "Gareth",
+      "confidence": 0.96,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Gareth' matches the nugget which states Gareth suffers a fatal heart attack at Hamish and Carrie's wedding.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "During Hamish's speech, Gareth suffers a fatal heart attack.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'During Hamish's speech, Gareth suffers a fatal heart attack,' which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0013": {
+      "question": "In Back To The Future Part Two, who plays Marlene McFly?",
+      "answer": "Michael J. Fox",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Michael J. Fox played both Marty Jr. and Marlene McFly in Back to the Future Part II, and the nugget confirms this by listing Marty Jr. as another character Fox played, implying he played multiple McFly roles including Marlene.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Marty Jr.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly mentions Marty Jr. as a character portrayed by Michael J. Fox in Part II.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0014": {
+      "question": "Of the Star Wars sequel trilogy, which movie was NOT directed by J. J. Abrams?",
+      "answer": "Star Wars: The Force Awakens",
+      "confidence": 0.66,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The Force Awakens was directed by J. J. Abrams, so it cannot be the answer to which film was NOT directed by him; the correct answer would be The Last Jedi (directed by Rian Johnson).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 5,
+          "text": "Abrams was named director of the first episode in the trilogy, Star Wars: The Force Awakens, in January 2013.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'J. J. Abrams was named director of the first episode in the trilogy, Star Wars: The Force Awakens, in January 2013,' which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0015": {
+      "question": "Who plays a blind person in both John Wick 4 and Rogue One, the Star Wars spinoff?",
+      "answer": "Donnie Yen",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Donnie Yen played blind character Chirrut Îmwe in Rogue One and also played a blind character (Caine) in John Wick 4, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0016": {
+      "question": "Which movie was released earlier, Avengers: Infinity War or 1917 ?",
+      "answer": "2017",
+      "confidence": 0.84,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answer '2017' is a year, not a movie title; the question asks which movie was released earlier, expecting 'Avengers: Infinity War' (2018) or '1917' (2019) as the answer, and the nugget provided does not help determine which film was released earlier.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 9,
+          "text": "Principal photography began on January 23, 2017, under the working title Mary Lou, at Pinewood Atlanta Studios in Fayette County, Georgia, with Trent Opaloch as director of photography.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that principal photography began on January 23, 2017, under the working title Mary Lou, at Pinewood Atlanta Studios in Fayette County, Georgia, with Trent Opaloch as director of photography.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0017": {
+      "question": "Which movie had a higher initial gross, Avatar or Zootopia?",
+      "answer": "Zootopia",
+      "confidence": 0.91,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The provided nugget only discusses Zootopia's 2020 re-release gross and provides no information to compare initial gross figures between Avatar and Zootopia; Avatar had a significantly higher initial gross than Zootopia.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "In June 2020, due the worldwide closure of cinemas during the COVID-19 pandemic and limits on which films played, Zootopia returned to 280 theaters—mostly drive-ins—and grossed $393,600.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that in June 2020, due to the COVID-19 pandemic's worldwide cinema closures, Zootopia returned to 280 theaters (mostly drive-ins) and grossed $393,600.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0018": {
+      "question": "How many long films did Christopher Nolan direct between 2000 and 2010?",
+      "answer": "2005–2012",
+      "confidence": 0.63,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answer '2005–2012' is a date range, not a count of films, and does not answer the question about how many long films Nolan directed between 2000 and 2010.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "He became a high-profile director with The Dark Knight trilogy (2005–2012) and found further success with The Prestige (2006), Inception (2010), Interstellar (2014) and Dunkirk (2017).",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states the same information about Nolan becoming a high-profile director with The Dark Knight trilogy and finding further success with those same films in identical wording.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0019": {
+      "question": "How many movies did Kazunari Ninomiya act in between 2000 and 2010?",
+      "answer": "two",
+      "confidence": 0.73,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nugget only mentions two films in the rest of 2006, but doesn't provide a complete count of all movies Kazunari Ninomiya acted in between 2000 and 2010, so the system answer of 'two' cannot be verified as correct for the entire decade.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 17,
+          "text": "He went on to appear in two different films for the rest of 2006 before taking up Haikei, Chichiue-sama (拝啓、父上様, Dear Father) on January 11, 2007.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Ninomiya appeared in two different films for the rest of 2006 before taking up Haikei, Chichiue-sama on January 11, 2007.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0020": {
+      "question": "How many movies did Leelee Sobieski act in between 2000 and 2010?",
+      "answer": "2012",
+      "confidence": 0.82,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks for the number of movies Leelee Sobieski acted in between 2000 and 2010, but the system answer '2012' is the year she retired from acting, not a count of movies.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Sobieski continued to work in films and on television until retiring from acting in 2012, after which she focused on her children and art career.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that Sobieski continued to work in films and on television until retiring from acting in 2012, after which she focused on her children and art career.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0021": {
+      "question": "Who was born earlier? Natalie Portman or Leelee Sobieski",
+      "answer": "June 9, 1981",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Stage B failed: RuntimeError",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Natalie Portman (born Neta-Lee Hershlag on June 9, 1981) portrayed Padmé Amidala in the prequel trilogy.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Natalie Portman was born Neta-Lee Hershlag on June 9, 1981, and portrayed Padmé Amidala in the prequel trilogy.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0022": {
+      "question": "Who won the Academy Award for Best Actress more times, Katharine Hepburn or Audrey Hepburn?",
+      "answer": "Meryl Streep",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks to compare Katharine Hepburn vs Audrey Hepburn; Katharine Hepburn won four Academy Awards for Best Actress (the record), not Meryl Streep.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Hepburn won four Academy Awards, the record number for a performer, and received a total of 12 Oscar nominations for Best Actress—a number surpassed only by Meryl Streep.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that Hepburn won four Academy Awards, the record number for a performer, and received 12 Oscar nominations for Best Actress, surpassed only by Meryl Streep.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0023": {
+      "question": "Who won the Academy Award for Best Actress more times, Grace Kelly or Ingrid Bergman?",
+      "answer": "Meryl Streep",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks to compare Grace Kelly and Ingrid Bergman's wins, not who has won the most overall; Meryl Streep is not relevant to the comparison asked.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 10,
+          "text": "Meryl Streep has received the most nominations in the category—seventeen—and has won twice.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Meryl Streep has received the most nominations in the category—seventeen—and has won twice.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0024": {
+      "question": "How many films in the Pirates of the Caribbean series were released between 2000 and 2010?",
+      "answer": "four",
+      "confidence": 0.72,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Stage B failed: RuntimeError",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "It has been followed by four sequels: Dead Man's Chest (2006), At World's End (2007), On Stranger Tides (2011), and Dead Men Tell No Tales (2017), with the second installment winning an Oscar for Best Visual Effects in 2007.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states the four sequels with their release years and that the second installment won an Oscar for Best Visual Effects in 2007, matching the nugget exactly.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0025": {
+      "question": "Which movie had a higher box office, May 18 (Hwaryeohan Hyooga) or 12.12: The Day (Seourui bom)?",
+      "answer": "I don't know",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0026": {
+      "question": "In Gladiator (2000), who plays the Roman emperor Commodus?",
+      "answer": "Joaquin Phoenix",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies Joaquin Phoenix as the actor who plays Commodus, matching nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'Joaquin Phoenix as Commodus: The amoral and power-hungry son of Marcus Aurelius.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0027": {
+      "question": "In The Silence of the Lambs (1991), what food is Hannibal Lecter famously associated with when he describes eating a census taker?",
+      "answer": "liver \"with some fava beans and a nice Chianti",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer correctly identifies liver with fava beans and a nice Chianti as the famous food association from Hannibal Lecter's census taker description, matching nugget [1].",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver \"with some fava beans and a nice Chianti\" (a \"big Amarone\" in the novel).",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage contains this exact statement verbatim about Lecter preparing gourmet meals from victims' flesh and the census taker's liver example.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0028": {
+      "question": "In Finding Nemo (2003), what kind of fish is Dory?",
+      "answer": "blue tang",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms Dory is a 'regal blue tang', and 'blue tang' is the common shorthand for this species.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 2,
+          "text": "It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould).",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states this information about Marlin, Dory, and Nemo word-for-word.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0029": {
+      "question": "In The Shawshank Redemption (1994), Andy Dufresne escapes from prison through what object in his cell wall?",
+      "answer": "sewage pipe",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answer says 'sewage pipe' but the question asks about the object in his cell wall through which he escaped, which was the tunnel (the poster-hidden tunnel he dug), not the sewage pipe; the sewage pipe came after the tunnel.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "The previous night, Andy escaped through the tunnel and prison sewage pipe, taking with him Norton's suit, shoes, and the ledger containing evidence of the corruption at Shawshank.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Andy escaped through the tunnel and prison sewage pipe, taking Norton's suit, shoes, and the ledger containing evidence of corruption at Shawshank.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0030": {
+      "question": "Which actor played both Magneto in the X-Men films and Gandalf in The Lord of the Rings trilogy?",
+      "answer": "Ian McKellen",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms Ian McKellen portrayed Magneto in the X-Men films, and it is widely known that Ian McKellen also played Gandalf in The Lord of the Rings trilogy.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Erik Magnus Lehnsherr, also known as Magneto, is a character primarily portrayed by Ian McKellen and Michael Fassbender in 20th Century Fox's X-Men film series.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0031": {
+      "question": "In Casablanca (1942), Rick Blaine owns a nightclub. What is the name of the actor who portrayed this nightclub owner?",
+      "answer": "Humphrey Bogart",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that Rick Blaine in Casablanca (1942) was played by Humphrey Bogart, matching the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 14,
+          "text": "Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Allan identifies with the 1942 film Casablanca and the character Rick Blaine as played by Humphrey Bogart.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0032": {
+      "question": "How many Academy Awards did Slumdog Millionaire (2008) win?",
+      "answer": "eight",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] explicitly states the film won eight Academy Awards, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "And as we drew closer to the shoot date, Danny asked me to step in as the co-director.\" The film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage contains the exact same text as the nugget, stating Danny asked her to step in as co-director and that the film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0033": {
+      "question": "Actor Bill Paxton appeared in both Titanic and Aliens. Which film featured him as Brock Lovett?",
+      "answer": "Titanic",
+      "confidence": 0.93,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that Brock Lovett was played by Bill Paxton in Titanic (1997).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 4,
+          "text": "Writer Lewis Abernathy would go on to work with The Abyss director James Cameron and make a memorable appearance in his film Titanic (1997) as Brock Lovett (Bill Paxton)'s colleague Lewis Bodine.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Lewis Abernathy worked with James Cameron and appeared in Titanic (1997) as Lewis Bodine, Brock Lovett (Bill Paxton)'s colleague.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0034": {
+      "question": "In the Harry Potter series, how many total players are on the field at the start of a Quidditch match?",
+      "answer": "seven",
+      "confidence": 0.96,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Each team has seven players, so the total number of players on the field at the start of a Quidditch match is 14, not seven.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each consisting of three Chasers, two Beaters, the Keeper, and the Seeker.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0035": {
+      "question": "How many years apart were the theatrical releases of Avatar and Avengers: Endgame?",
+      "answer": "2019",
+      "confidence": 0.86,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks for the number of years between the theatrical releases of Avatar (2009) and Avengers: Endgame (2019), which is 10 years, but the system answered '2019' which is just the release year of Endgame, not the difference.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 7,
+          "text": "In July 2019, this position was overtaken by Avengers: Endgame, but with a re-release in China in March 2021, it returned to becoming the highest-grossing film since then.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that in July 2019 Avengers: Endgame overtook Avatar's record, and that a re-release in China in March 2021 returned Avatar to the highest-grossing film position.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0036": {
+      "question": "What is the nickname of Lots-o'-Huggin' Bear from Toy Story?",
+      "answer": "Lotso",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'Lotso' matches the nickname given in nugget [1], which states the character is 'often shortened to Lotso'.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states this exact information about Lotso's voice actors, appearance, and role as main antagonist in the third film.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0037": {
+      "question": "What is the slogan of Monsters, Inc. in the movie?",
+      "answer": "Monsters, Incorporated",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answer provides the full name of the company 'Monsters, Incorporated' but does not provide the actual slogan of Monsters, Inc. from the movie, which is 'We Scare Because We Care.'",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 2,
+          "text": "(also known as Monsters, Incorporated) is a 2001 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Monsters, Inc. (also known as Monsters, Incorporated) is a 2001 American animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0038": {
+      "question": "How many of the first five Pixar feature films were directed by John Lasseter?",
+      "answer": "two",
+      "confidence": 0.91,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms Lasseter directed the first two Pixar films, matching the system answer of 'two'.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 8,
+          "text": "Then-studio head of Pixar John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that John Lasseter, who directed the first two films and executive-produced the third, was scheduled to return to direct after writing a film treatment with Andrew Stanton, with input from Pete Docter and Lee Unkrich.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0039": {
+      "question": "How many days passed between the US premiere of \"Toy Story\" and the US premiere of \"Toy Story 4\"?",
+      "answer": "June 11, 2019",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks for the number of days between the two premieres, but the system answer only provides the premiere date of Toy Story 4 without calculating the difference.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Toy Story 4 premiered on June 11, 2019, at the El Capitan Theatre in Hollywood, Los Angeles.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0040": {
+      "question": "In the movie WALL-E, what is the code name for the secret directive received by AUTO, the Axiom's autopilot, which prohibits the return to Earth?",
+      "answer": "A113",
+      "confidence": 0.94,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that the secret no-return directive is named A113, matching the system answer exactly.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that AUTO reveals his secret no-return directive A113, which orders them not to return to Earth due to toxicity levels making Earth unlivable.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0041": {
+      "question": "Who voiced Fillmore in Cars 2?",
+      "answer": "Lloyd Sherr",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget 1 explicitly states that Lloyd Sherr voiced Fillmore in Cars 2.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "; Stanley Townsend as: ; Vladimir Trunkov ; Ivan ; Victor Hugo ; Lloyd Sherr as: ; Fillmore ; Tony Trihull, a combat ship ; Paul Dooley as Sarge ; Michel Michelis as Tomber ; Sig Hansen as Crabby the Boat ; Franco Nero as Uncle Topolino.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly lists all the character-voice actor pairings mentioned in the nugget in the same order and with the same details.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0042": {
+      "question": "What was the first movie produced by Studio Ghibli?",
+      "answer": "Laputa: Castle in the Sky",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] explicitly states that Laputa: Castle in the Sky was the first film by Studio Ghibli, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 3,
+          "text": "He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states 'He returned in May 1985 to research his next film, Laputa: Castle in the Sky, the first by Studio Ghibli,' which matches the nugget verbatim.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0043": {
+      "question": "What Ghibli movie character made a cameo appearance in Toy Story 3?",
+      "answer": "Sid",
+      "confidence": 0.94,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Sid is a character from Toy Story 1, not a Ghibli movie; the question asks about a Studio Ghibli character (the correct answer is Totoro from My Neighbor Totoro).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 17,
+          "text": "The last straw is Woody coming alive while Sid is holding him and telling him to \"play nice\".",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The last straw is Woody coming alive while Sid is holding him and telling him to \"play nice\"', which directly matches the nugget.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0044": {
+      "question": "What was the first animated movie to win the Golden Bear (Goldener Bär)?",
+      "answer": "Die Ratten",
+      "confidence": 0.88,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nugget describes Die Ratten as the first West German film to win the Golden Bear, not the first animated movie; Die Ratten is a live-action film, not an animated movie.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 15,
+          "text": "The fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the fifth edition in 1955 saw the first (West) German film to win the Golden Bear, Robert Siodmak's Die Ratten.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0045": {
+      "question": "How many movies produced by Studio Ghibli since 2000 have been directed by Hayao Miyazaki?",
+      "answer": "I don't know",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0046": {
+      "question": "By the end of August 2025, how many Marvel Avengers series movies are there?",
+      "answer": "four",
+      "confidence": 0.9,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The system answer 'four' exactly matches the nugget stating there are four films in the Avengers series.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 13,
+          "text": "The Avengers series is next, with four films on the list.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The Avengers series is next, with four films on the list.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0047": {
+      "question": "In the movie, the day after tomorrow, how many helicopters were sent to rescue the British royal family from Balmoral Castle?",
+      "answer": "I don't know",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0048": {
+      "question": "In which movie of The Fast & the Furious series, did the \"God's Eye\" first appear?",
+      "answer": "Fast & Furious 6",
+      "confidence": 0.96,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": false,
+      "answer_reason": "Nugget [1] implies the movie is set after Fast & Furious 6 and continues from Tokyo Drift's ending, which describes Furious 7, where the 'God's Eye' device actually first appeared, not Fast & Furious 6.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift, with Lucas Black reprising his role as Sean Boswell.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'The film is set after the events of Fast & Furious 6 and continues from the ending of Tokyo Drift, with Lucas Black reprising his role as Sean Boswell.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0049": {
+      "question": "How many mainline films of The Fast & the Furious series did Justin Lin work as a screenwriter?",
+      "answer": "ninth",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks how many mainline films Justin Lin worked as a screenwriter, which requires a count (a number), but the system answer 'ninth' refers to a film's position in the franchise, not a count of films he wrote.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 1,
+          "text": "The sequel to The Fate of the Furious (2017), it is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states F9 'is the ninth mainline installment and the tenth installment overall in the Fast & Furious franchise' and identifies it as 'The sequel to The Fate of the Furious (2017).'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0050": {
+      "question": "Which The Fast & the Furious movie had the higher worldwide box office, F9 or Fast X?",
+      "answer": "F9",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": true,
+      "answer_reason": "F9 (2021) grossed approximately $726 million worldwide compared to Fast X (2023) which grossed approximately $714 million worldwide, making F9 the higher-grossing film, but none of the provided nuggets directly support this conclusion.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 8,
+          "text": "F9 was released in June 2021.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states 'F9 was released in June 2021.'",
+          "passage_present": true
+        }
+      ]
+    },
+    "0051": {
+      "question": "In Interstellar, what is the full name of Joseph Cooper's daughter?",
+      "answer": "Lilli",
+      "confidence": 0.95,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks for the full name of Cooper's daughter, but the system answer only provides 'Lilli' without a last name, and more importantly, in the actual film Interstellar, Cooper's daughter is named Murph (Murphy Cooper), not Lilli.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 9,
+          "text": "Cooper has three children—Eddie, Alex, and Lilli—from his first marriage.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Cooper has three children—Eddie, Alex, and Lilli—from his first marriage.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0052": {
+      "question": "In Interstellar, what is the nick name of Joseph Cooper's daughter?",
+      "answer": "Murphy \"Murph\" Cooper",
+      "confidence": 0.94,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that Joseph's daughter's nickname is 'Murph', matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Jessica Chastain, as Murphy \"Murph\" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Jessica Chastain plays Murphy 'Murph' Cooper, Joseph's daughter, who eventually becomes a NASA scientist working under Professor Brand.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0053": {
+      "question": "In Interstellar, how old is Joseph Cooper's daughter before Joseph started his mission?",
+      "answer": "10",
+      "confidence": 0.66,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The nugget explicitly states Mackenzie Foy plays the 10-year-old Murph, confirming Cooper's daughter is 10 years old before the mission.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Ellen Burstyn as elderly Murph Mackenzie Foy as 10-year-old Murph John Lithgow as Donald, Cooper's elderly father-in-law Michael Caine as Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions Casey Affleck as Tom Cooper, Joseph's son, who eventually takes charge of his father's farm Timothée Chalamet as 15-year-old Tom Wes Bentley as Doyle, a high-ranking NASA member, and Endurance crew member Bill Irwin as TARS (voice and puppetry) and CASE (puppetry), robots assigned to assist the crew of the Endurance Topher Grace as Getty, Murph's colleague and love interest David Gyasi as Professor Romilly, a high-ranking NASA member, and Endurance crew member Matt Damon as Dr.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The nugget is a direct subset of the passage text, listing the same cast members and their roles without adding or contradicting any information.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0054": {
+      "question": "By the end of August 2025, what is the most recent movie directed by the director of Interstellar?",
+      "answer": "I don't know",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0055": {
+      "question": "What is the first film to be released in Dolby Vision format in Dolby Cinema?",
+      "answer": "Tomorrowland",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nugget only confirms Tomorrowland's premiere date and location, but does not establish it as the first film released in Dolby Vision format in Dolby Cinema, so the system answer cannot be verified as correct.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0056": {
+      "question": "In The Empire Strikes Back, on which planet did the Rebel Alliance first establish their base?",
+      "answer": "Brigia",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that the Rebel Alliance's main base was located on Brigia, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "The main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that the main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0057": {
+      "question": "In the Star Wars universe, who first discovered the Jedi that wields two white lightsabers and brought her to the Jedi Temple?",
+      "answer": "Plo Koon",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "Nugget [1] confirms that Plo Koon discovered Ahsoka Tano (the Jedi who wields two white lightsabers) and brought her to the Jedi Temple.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 6,
+          "text": "Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0058": {
+      "question": "In Rogue One, what was Chirrut Îmwe repeating before he died?",
+      "answer": "\"May the Force of Others be with you,\"",
+      "confidence": 0.93,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "Chirrut was repeating 'I am one with the Force, and the Force is with me' before he died, not 'May the Force of Others be with you,' which was a phrase he used while proselytizing.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 16,
+          "text": "The Guardian of the Whills Chirrut Îmwe used a variation of this phrase, \"May the Force of Others be with you,\" during his time proselytizing on the streets of Jedha City.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Chirrut Îmwe, Guardian of the Whills, used the variation 'May the Force of Others be with you' while proselytizing on the streets of Jedha City.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0059": {
+      "question": "Name the actor who played a Jedi in Star Wars: Episode III – Revenge of the Sith and then played in Avengers of MCU.",
+      "answer": "Coinneach Alexander",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "While nugget [1] confirms Coinneach Alexander played a Jedi in Star Wars: Episode III, there is no information provided (nor is it generally known) that he appeared in an Avengers MCU film, which is a required condition of the question.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage directly states that Coinneach Alexander played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith, which matches the nugget exactly.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0060": {
+      "question": "In Star Wars, on which planet did Han Solo die?",
+      "answer": "Starkiller Base",
+      "confidence": 0.99,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 1,
+      "correct": true,
+      "answer_reason": "The nugget confirms Han Solo's death occurred during the Battle of Starkiller Base, matching the system answer.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 1,
+          "text": "During the Battle of Starkiller Base, Han Solo attempted to turn his son Kylo Ren away from the First Order and the dark side of the Force, trying to convince him that Supreme Leader Snoke was just using him for his power.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Han Solo attempted to turn Kylo Ren away from the First Order and the dark side, and tried to convince him that Snoke was using him for his power.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0061": {
+      "question": "In the first three MCU Spider-Man movies, what is the common word in their subtitles?",
+      "answer": "I don't know",
+      "confidence": 0.05,
+      "n_returned": 0,
+      "n_entailed": 0,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "no entailed nuggets",
+      "nuggets": []
+    },
+    "0062": {
+      "question": "In Rogue One, what is Jyn Erso's nickname?",
+      "answer": "Jyn",
+      "confidence": 0.93,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nuggets don't mention a nickname for Jyn Erso, and 'Jyn' is her actual first name, not a nickname; her known nickname is 'Stardust' (given by her father Galen Erso).",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 5,
+          "text": "Jyn may refer to the following individuals: Jyn Erso, who led Rogue One in stealing the Death Star plans Jyn Odan, a smuggler who worked for the Rebel Alliance Jyn Freila, a Chandrilan rebel pilot ; Jyn N'oram, captain of the Fricasseed Nerf ; Jyn Obah, a Pirate of Tarnoonga ; Jyn Odan, a smuggler who worked for the Rebel Alliance \"Jyn: The Rebel,\" a featurette for Rogue One: A Star Wars Story",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The nugget is identical to the passage text, so it is directly entailed.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0063": {
+      "question": "In The Empire Strikes Back, what kind of giant vehicle did the empire use to attack the rebel base?",
+      "answer": "GR-75",
+      "confidence": 0.98,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The question asks about the giant vehicles used to attack the rebel base on Hoth in The Empire Strikes Back, which were AT-AT walkers, not GR-75 transports; the nugget describes a different event entirely.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-2",
+          "rank": 10,
+          "text": "In 4 ABY, Squadron Five of the Galactic Empire's 204th Imperial Fighter Wing attacked a GR-75 medium transport which served as a mobile recruitment base for the Rebel Alliance.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states this exact information in its opening sentence.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0064": {
+      "question": "Which Star Wars spinoff movie is more successful, Solo or Rogue One?",
+      "answer": "Solo: A Star Wars Story",
+      "confidence": 0.97,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The nuggets only confirm that both Solo and Rogue One exist as standalone films but provide no information about their relative box office success or critical reception to determine which was more successful; by widely known metrics, Rogue One (~$1.06B) outperformed Solo (~$393M), making the system answer incorrect.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 7,
+          "text": "Two standalone films were produced and released between the sequel trilogy films: Rogue One (2016) and Solo: A Star Wars Story (2018), both set between the original and prequel trilogies.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states this information in its opening sentence, word for word.",
+          "passage_present": true
+        }
+      ]
+    },
+    "0065": {
+      "question": "In the most successful Star Wars spinoff movie, who killed the characters that are played by Chinese actors?",
+      "answer": "The Deep",
+      "confidence": 0.64,
+      "n_returned": 1,
+      "n_entailed": 1,
+      "n_relevant": 0,
+      "correct": false,
+      "answer_reason": "The system answer 'The Deep' is the name of a movie that temporarily dethroned the Star Wars spinoff, not an answer to who killed characters played by Chinese actors in that film.",
+      "nuggets": [
+        {
+          "num": 1,
+          "pr_run": "BITEM-PG-1",
+          "rank": 7,
+          "text": "It was dethroned by The Deep, but gradually added screens and returned to number one in its seventh week, building up to $7-million weekends as it entered wide release ($ in dollars) and remained number one for the next 15 weeks.",
+          "nugget_num": 1,
+          "entailed": true,
+          "reason": "The passage explicitly states that Star Wars was dethroned by The Deep, returned to number one in its seventh week with $7-million weekends entering wide release, and remained number one for the next 15 weeks.",
+          "passage_present": true
+        }
+      ]
+    }
+  }
+}

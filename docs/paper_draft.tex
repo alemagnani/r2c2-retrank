@@ -22,9 +22,8 @@
     citecolor=blue!50!black
 }
 
-\title{Optimising Under HMR: A Case Study \\
-  \Large Conservative Answer-First Pipelines on NTCIR-19 R2C2's
-  65-Topic Answering-with-Confidence Benchmark}
+\title{retrank at the NTCIR-19 R2C2 Task \\
+  \Large Optimising Under HMR with a Conservative Answer-First Pipeline}
 \author{retrank team}
 \date{\today}
 
@@ -38,44 +37,54 @@
 \begin{abstract}
 We present \textbf{retrank}'s submission to the NTCIR-19 R2C2 (\emph{RAG
 Responses: Confident and Correct?}) Answering-with-Confidence (AC) subtask.
-The task scores systems with the Harmonic Mean of Rewards (HMR), which
-jointly penalises overconfidence on incorrect answers and underconfidence
-on correct ones. \textbf{This paper is a case study in optimising under
-HMR on the 65-topic R2C2 benchmark.} Our principal observation is
-operational and benchmark-qualified: on this benchmark, at the
-$\geq 90$\% accuracy operating point, AC quality is dominated by a small
-number of confident wrong answers rather than by missed answers, and the
-design choices that move HMR most --- pool curation, answer-conditional
-refinement, verifier-based abstention, confidence saturation --- all act
-on $R_O$, while $R_U$ varies in a much narrower band. We do not claim
-this as a general principle of confidence-scored RAG; we claim it as a
-documented behaviour of HMR on this 65-topic set. We design a 7-stage answer-first
-pipeline that proposes a candidate answer, refines the pool conditional
-on it, extracts targeted nuggets, filters bogus citations, and uses an
-independent verifier as a calibration signal. Self-evaluated under a
-Claude Sonnet 4.6 judge (with Claude Opus 4.7 cross-validation on every
-candidate), \textbf{our main submitted system --- a single-pool BITEM-only
-answer-first pipeline with Sonnet pointwise refinement --- reaches HMR
-0.963 with 94\% accuracy, 6\% refusal rate, and zero confident-wrong
-answers under both judges.} A post-hoc confidence-saturation
-recalibration of the same pipeline reaches HMR 0.974, but we treat that
-as a calibration artifact (a single voter trivially agrees with itself,
-saturating confidence at 1.0), not as a separate method. We additionally report engineering tradeoffs
-relevant to AC-style RAG: pool quality matters more than pool count
-(a strong single-team pool beats naive multi-team pooling, but a weak
-single-team pool loses to it); Sonnet-class reasoning is most critical
-at the candidate-answer stage ($\Delta\HMR=-0.13$ vs Haiku) and least
-at the verifier ($-0.05$). HMR should be read alongside accuracy and
-refusal rate --- an always-refuse baseline at confidence $0.05$ achieves
-HMR $0.974$ on this benchmark --- but our submitted system reaches the
-same HMR while correctly answering $94$\% of topics. We treat this as
-a structural property of HMR when $|I^+|=0$, not as an indictment of the
-metric; the official ranking is informed jointly by HMR, Accuracy, and
-Mean Nugget Precision, which together pin down both modesty and substance.
-\textbf{All quantitative claims in this paper are self-evaluated under a
-Sonnet judge with Opus cross-validation; absent official organiser scores
-(expected August 2026), every finding should be read as a
-benchmark-and-judge-conditional observation.}
+The task scores systems with the Harmonic Mean of Rewards (\HMR), which
+jointly penalises overconfidence on incorrect answers ($R_O$) and
+underconfidence on correct ones ($R_U$), reported alongside Accuracy and
+Mean Nugget Precision (\MNP). \textbf{Under official organiser scoring,
+retrank's four runs occupy the top four \HMR{} positions among all 25 runs
+from 7 teams: our best run reaches \HMR{} 0.974 and our main system 0.963,
+against 0.761 for the strongest non-retrank run --- retrank's \emph{weakest}
+run (0.868) outscores every other team's \emph{best}. retrank also ranks
+first on Accuracy (0.969) and on Mean Nugget Precision (0.840), sweeping the
+top four positions on both \HMR{} and \MNP; its \MNP{} lead is statistically
+significant over every team except BITEM (randomised Tukey HSD~\cite{sakai-sigtest}, $B{=}5000$).}
+
+We design a 7-stage answer-first pipeline that proposes a candidate answer,
+refines the passage pool conditional on it, extracts targeted nuggets,
+filters unsupported citations, and uses an independent verifier as a
+calibration signal. Our \textbf{main submitted system} --- a single-pool,
+BITEM-only answer-first pipeline with Sonnet pointwise refinement (run
+AC-2) --- reaches \textbf{official \HMR{} 0.963 at 95\% accuracy} with
+near-zero overconfidence; a post-hoc confidence-saturation recalibration of
+the same pipeline (AC-1) reaches \HMR{} 0.974 with essentially perfect
+calibration (mean confidence 0.956 vs accuracy 0.953), which we present as
+a calibration variant rather than a separate method.
+
+Our principal observation is operational, benchmark-qualified, and
+\emph{confirmed by the official scores}: at the $\geq 90$\%-accuracy
+operating point, AC quality is dominated by a small number of confident
+wrong answers rather than by missed answers --- across our runs $R_U$ stays
+in a narrow high band (0.96--1.00) while $R_O$ (0.79--0.95) moves \HMR.
+The design choices that matter most --- pool curation, answer-conditional
+refinement, verifier-based abstention, confidence saturation --- all act on
+$R_O$. We do not claim this as a general principle of confidence-scored
+RAG; we claim it as a documented, officially-confirmed behaviour of \HMR{}
+on this 65-topic set. Two further findings the official scores corroborate:
+(i) \emph{pool quality dominates pool count} --- our BITEM-only two-run pool
+beats our own ten-run multi-team pool (0.963 vs 0.868), and every other team
+scored 0.27--0.49 \HMR{} on the \emph{same} BITEM passages, isolating the
+pipeline rather than the pool as the source of the gain; (ii) \HMR{} must be
+read alongside accuracy --- an always-refuse baseline scores high \HMR, but
+retrank reaches top \HMR{} \emph{while} answering 95\% of topics correctly,
+unlike mid-table systems that pair 0.73--0.76 \HMR{} with $\sim$55\% accuracy.
+
+\textbf{We validate our self-evaluator against the official judge: a Claude
+Sonnet 4.6 judge (Opus 4.7 cross-validated) predicted the official \HMR{} of
+our two main runs to within 0.0004}, which both anchors the internal
+ablations in this paper and offers evidence that a carefully-specified LLM
+self-evaluator can track the official R2C2 methodology. Headline numbers are
+official organiser scores (65 topics, 64 scored); per-stage ablations use
+the validated self-evaluator where noted.
 \end{abstract}
 
 \section{Introduction}
@@ -1288,6 +1297,14 @@ After establishing the BITEM-only refined-Sonnet + Variant A pipeline at
 reduced \HMR}. We document them here because the failure modes are
 informative and arguably more useful than the successes.
 
+\emph{One methodological caveat applies to every model-tier result in this paper
+(the all-Haiku and all-Opus regressions, RQ10): prompts are held fixed at their
+Sonnet-developed form across tiers, so these ablations measure \textbf{naive model
+substitution without re-tuning}, not intrinsic model capability. We do not claim a
+larger model is intrinsically worse --- only that the pipeline is co-adapted to its
+model and cannot be re-tiered for free. The one-directional claim that our actual
+(Sonnet-prompted) pipeline run on Haiku would still rank first is unaffected.}
+
 \paragraph{Per-topic pool selection (oracle-style).} For each topic,
 pick the candidate pipeline whose Stage~4 verifier most strongly agrees
 with its candidate answer (highest match\_score, then \texttt{c\_self}).
@@ -1629,6 +1646,184 @@ on incorrect (= refusing means low confidence on every topic, all of
 which are technically incorrect). For the R2C2 task, we recommend
 reporting \HMR{} \emph{paired with} accuracy, since \HMR{} alone
 does not penalise a fully-refusing system.
+
+\section{A No-LLM Lower Bound: How Far Does a Cheap Encoder Committee Get?}
+\label{sec:nollm}
+To separate what the \emph{pipeline} contributes from what the \emph{base LLM}
+contributes --- and to answer directly the objection that our result merely
+reflects using a strong LLM --- we rebuild the AC system with \textbf{no
+generative model}, using only small pre-trained encoders, and ask how close it
+comes. The architecture is preserved (answer-first, verify, calibrate, abstain);
+each generative step is replaced by an encoder. Retrieval reranking uses
+\texttt{ms-marco-MiniLM-L-12}; answers are produced by a \emph{committee} of
+extractive QA models (SQuAD2-tuned RoBERTa, ELECTRA, MiniLM, BERT, TinyRoBERTa)
+that vote span-by-span; confidence is a logistic calibrator over the
+answerability margin and committee agreement, fit on the held-out synthetic
+val250 set (the 65 official topics are never used for tuning); abstention fires
+below a val250-tuned threshold. All runs are scored by the same self-evaluator we
+validate against the official judge (\S\ref{sec:judge_xval}).
+
+\begin{table}[t]
+\centering\small
+\caption{No-LLM committee ladder (answer-everything operating point). Voting
+raises accuracy to a plateau at $\approx0.52$ (the extractive ceiling); a single
+encoder's margin already calibrates at AUC $0.85$. HMR peaks at a two-model
+committee: growing the committee trades per-answer calibration for accuracy.}
+\label{tab:nollm}
+\begin{tabular}{lccc}
+\toprule
+System & Accuracy & HMR & margin AUC (official) \\
+\midrule
+Committee-1 (RoBERTa)          & 0.415 & 0.629 & 0.849 \\
+Committee-2 (+ELECTRA)         & 0.462 & \textbf{0.677} & 0.85 \\
+Committee-3 (+MiniLM)          & \textbf{0.523} & 0.659 & 0.766 \\
+Committee-5 (+BERT,+TinyRoBERTa) & 0.523 & 0.644 & 0.736 \\
+\midrule
+LLM pipeline (retrank-AC-2)    & 0.953 & 0.963 & --- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Voting scales accuracy, then plateaus.} Committee voting raises answer
+accuracy from $0.415$ (one model) to $0.523$ (three), then \emph{saturates}: a
+fourth and fifth answerer add nothing, because the extra models make correlated
+errors (TinyRoBERTa is distilled from RoBERTa; BERT catches no new cases). The
+extractive ceiling on this task is $\approx0.52$.
+
+\paragraph{Calibration is cheap; accuracy is not.} A single QA model's
+answerability margin predicts correctness at AUC $0.85$ on the official set, so
+the \emph{confidence} layer needs no LLM at all. Growing the committee trades
+per-answer calibration (the voted answer's margin becomes a noisier signal, AUC
+$0.85\!\to\!0.73$) for accuracy, so HMR is non-monotone and peaks near a two-model
+committee.
+
+\paragraph{Where it lands.} At the honest answer-everything point the committee
+reaches HMR $0.66$ at accuracy $0.52$ --- $\sim$11th of 25 official runs,
+\emph{mid-field and ahead of three LLM-using teams} (Error404, BITEM, hit-u). It
+beats BITEM's best AC run (HMR $0.49$) despite BITEM answering at $0.92$
+accuracy: a calibrated $0.52$-accuracy system outscores an overconfident
+$0.92$-accuracy one --- the same lesson as \S\ref{sec:rq1}. Tuning the abstention
+threshold aggressively instead lifts HMR to $0.90$ (3rd overall) at accuracy
+$0.22$, a direct demonstration that HMR alone rewards modesty
+(\S\ref{sec:hmr_diagnostics}); we report it only to make that point.
+
+\paragraph{Interpretation.} The decomposition is clean. An encoder-only committee
+reproduces the \emph{calibration} that wins HMR (AUC $0.85$) and roughly half the
+\emph{accuracy} ($0.52$), but the remaining $0.52\!\to\!0.95$ accuracy gap is
+\emph{generative multi-hop reasoning} that no committee of extractors closes. The
+LLM's contribution is therefore concentrated in answer generation --- legitimate
+task performance --- not in the confidence machinery and not in exploiting an
+LLM judge. ``You only won because you used a strong LLM'' reduces to ``the LLM
+answers harder questions,'' which is precisely the task.
+
+\subsection{Which non-LLM confidence and accuracy techniques help?}
+\label{sec:nollm_sweep}
+Motivated by recent Hessian-based interaction analysis (e.g.\ SmoothHess'
+gradient-only estimate of a network's second-order feature
+interactions~\cite{smoothhess}) and the Bayesian-uncertainty literature, we swept
+the confidence and accuracy techniques available \emph{without} a generative model
+(Table~\ref{tab:sweep}). Three findings stand out.
+
+\emph{(i) Confidence is aleatoric and cheap.} The extractive answerability margin
+alone predicts correctness at AUC $0.85$; second-order \emph{feature interactions}
+over a small curated feature set (margin, agreement, reranker score) sharpen
+discrimination to $\approx0.80$, but only under strict parsimony --- interactions
+over all features overfit the synthetic tuning set and collapse transfer to AUC
+$0.60$. \emph{Every variance-based uncertainty estimator failed}: ensemble score
+dispersion (AUC $0.51$) and MC-dropout variance (AUC $0.53$) are no better than
+chance, and a last-layer Laplace approximation targets the same posterior-predictive
+variance, so we expect it to behave identically. The useful signal is the point
+estimate, not its spread.
+
+\emph{(ii) Abstention should be coverage-controlled, not HMR-maximised.} Tuning the
+abstention threshold to maximise HMR on val250 games the metric (answering $17\%$ of
+topics at $0.14$ accuracy for HMR $0.95$); conformal target-coverage selection
+instead gives a well-behaved answer-rate$\leftrightarrow$accuracy knob, though the
+guarantee is loose (target $0.90 \to$ realised $0.71$) because the synthetic tuning
+set and the real topics are not exchangeable.
+
+\emph{(iii) Accuracy needs scale, not merely generation.} A small generative reader
+(flan-t5-base, 250M) reaches only $0.48$ accuracy --- \emph{below} the extractive
+committee's $0.52$ --- over-generalising where extraction stays precise. The
+$0.52\!\to\!0.95$ accuracy gap is therefore not the generative modality but
+large-scale reasoning capacity: the one component no cheap model reproduces.
+
+\begin{table}[t]
+\centering\small
+\caption{Non-LLM technique sweep (official 65 topics). Confidence is recovered
+cheaply; variance-based uncertainty fails; accuracy needs scale.}
+\label{tab:sweep}
+\begin{tabular}{llc}
+\toprule
+Technique & Metric & Result \\
+\midrule
+Committee voting (1$\to$3 answerers) & Accuracy & 0.42 $\to$ 0.52 (plateau) \\
+Interaction calibrator (2nd-order) & disc.\ AUC & 0.766 $\to$ \textbf{0.803} \\
+Discrete agreement & AUC & 0.76 \\
+Ensemble score-variance & AUC & 0.51 \\
+MC-dropout variance & AUC & 0.53 \\
+Last-layer Laplace & --- & predicted $\approx$0.5 \\
+Conformal abstention & --- & coverage knob (loose) \\
+Small generative reader (flan-t5) & Accuracy & 0.48 ($<$0.52) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Statistical significance and per-topic failure analysis}
+\label{sec:nollm_stats}
+Following the organisers' guidance and Sakai's advocacy for reporting significance and
+power~\cite{sakai-sigtest,sakai-reform}, we apply the randomised Tukey HSD
+test~\cite{sakai-sigtest} ($B{=}5000$) to the committee ladder. The one-to-three
+answerer voting gain is \emph{suggestive but not significant}
+($\Delta\text{Acc}{=}{+}0.108$, $p{=}0.14$): voting fixes 12 wrong single-model
+answers but breaks 5 correct ones. A simulation-based power analysis puts the minimum
+accuracy difference detectable at $n{=}65$ ($80\%$ power) at $\approx0.15$, above the
+observed gain --- the committee ladder is underpowered on this collection, not null;
+only the $0.52\!\to\!0.95$ committee-vs-LLM gap clears the threshold. A rule-based
+per-topic analysis (no LLM) localises the gap: the committee handles factoid and person
+questions at $\approx0.6$ but collapses on \emph{count} (``how many\dots'') aggregation
+questions to $0.29$ (LLM $0.86$), and the LLM leads on every question type --- the
+reasoning advantage is pervasive and peaks on aggregation.
+
+\subsection{Cross-family transfer of the calibration layer}
+\label{sec:crossfamily}
+The no-LLM committee swaps both answerer and calibrator; two further experiments isolate
+whether \emph{our confidence layer} transfers across model families.
+
+\paragraph{Calibration transfer onto competitors' answers.} Holding each competitor's
+\emph{answers} fixed and replacing only their confidence with our verifier-capped Stage-5
+layer (scored under our self-evaluator), \HMR{} improves for four of five teams. We quarantine
+slr2c2 (its $+0.38$ is the largest gain but it is the run our self-evaluator mis-scores worst,
+self $0.29$ vs.\ official $0.73$); across the other four the mean gain is $+0.065$, concentrated
+on the overconfident systems (Error404 $+0.14$, BITEM $+0.13$), near zero for the
+already-calibrated WaterlooClarke ($+0.01$), and a small loss for the sandbagger hit-u
+($-0.02$) --- our layer only \emph{suppresses} overconfidence, the $\RO$ asymmetry.
+
+\paragraph{Base-model swap onto GPT.} We reran a streamlined pipeline (candidate, nuggets,
+verifier, Stage-5; top-20 pool, no CE re-rank or Stage-3 filter) with three OpenAI models on
+the 65 topics, scoring with a fixed GPT-5.5 judge and comparing calibration on vs.\ off
+(Table~\ref{tab:gptswap}). All three improve via $\RO$ (mean $\Delta\HMR{=}+0.27$); the
+direction is 3/3 positive but underpowered per model (the $\ge93\%$-accurate GPT-5.6 variants
+have $3$--$4$ errors, so their bootstrap CIs cross zero; only GPT-4.1-mini is individually
+significant, CI $[+0.10,+0.81]$). Scored under a GPT judge, not the official Qwen$+$GPT
+ensemble, so absolute \HMR{} is context. Together these give cross-family evidence that the
+verifier-cap rule is not a Claude artefact.
+
+\begin{table}[t]
+\centering\small
+\caption{Base-model swap: streamlined pipeline on three OpenAI models, fixed GPT-5.5 judge.
+$\Delta\HMR{}$ with $95\%$ paired-bootstrap CI ($^\ast$ excludes zero).}
+\label{tab:gptswap}
+\begin{tabular}{lcccc}
+\toprule
+Model & Acc & \HMR{} off & \HMR{} on & $\Delta$\HMR{} [95\% CI] \\
+\midrule
+gpt-5.6-sol  & 0.939 & 0.444 & 0.599 & $+$0.156 [$-$0.03,$+$0.63] \\
+gpt-5.6-luna & 0.954 & 0.577 & 0.717 & $+$0.140 [$-$0.04,$+$0.49] \\
+gpt-4.1-mini & 0.923 & 0.399 & 0.899 & $+$0.500 [$+$0.10,$+$0.81]$^\ast$ \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \section{Limitations}\label{sec:limitations}
 

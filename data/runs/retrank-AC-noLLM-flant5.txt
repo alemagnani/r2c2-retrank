@@ -1,0 +1,195 @@
+<D0001>electricity from stuncuffs;50
+1;BITEM-PG-1;2;Saw Gerrera tortured Klik-Klak with electricity from stuncuffs, for information on what the Empire was building at Geonosis Hera Syndulla was tortured with electricity in a Interrogation chair, by Governor Arihnda Pryce for pleasure and for information on the Rebel fleet, after the failed Attack on Lothal.
+</D0001>
+<D0002>Natalia Alianovna Romanova;50
+1;BITEM-PG-1;1;Natalia Alianovna Romanova, more commonly known as Natasha Romanoff, is a fictional character primarily portrayed by Scarlett Johansson in the Marvel Cinematic Universe (MCU) media franchise based on the Marvel Comics character of the same name.
+</D0002>
+<D0003>Three Laws of Robotics;50
+1;BITEM-PG-1;2;The film is named after Isaac Asimov's 1950 short-story collection and incorporates Asimov's three laws of robotics and several characters, though it is not a direct adaptation.
+</D0003>
+<D0004>Sean Connery;50
+1;BITEM-PG-1;12;Sean Connery, who had played James Bond in six of the first seven films in the series, stated in an interview that: "I went in London to see Moonraker with Roger and I think it's departed so much from any sort of credence from the reality that we had [in my six films]." He also criticised the film for having "such a dependence on the effects" and that it had "no substance".
+</D0004>
+<D0005>once;50
+1;BITEM-PG-1;1;He began his working life as a model, and he had only acted in commercials when he took over the role of James Bond from Sean Connery—the first 007—in On Her Majesty's Secret Service (1969).He declined to return for subsequent Bond films, so becoming the only actor to play the character just once.
+</D0005>
+<D0006>Soul Stone;50
+1;BITEM-PG-1;1;Romanoff continues to command several teams from around the galaxy in the Avengers headquarters at the beginning of the film, which Joe Russo said stemmed from her inability to move on from their failure to stop Thanos: "[S]he's doing everything she can to try and hold the community together [...] She's the watcher on the wall still." On the decision for Romanoff to sacrifice herself for Barton to acquire the Soul Stone to bring everyone back, Joe Russo said that it was part of a larger theme of the desires to sacrifice or protect in Infinity War: "When she gets to that [Soul Stone] scene, I think she understands that the only way to bring the community back is for her to sacrifice herself." McFeely said, "Her journey, in our minds, had come to an end if she could get the Avengers back.
+</D0006>
+<D0007>Love Is All Around;50
+1;BITEM-PG-1;2;The movie also featured a soundtrack of popular songs, including a cover version of The Troggs' "Love Is All Around" performed by Wet Wet Wet that remained at number 1 on the UK Singles Chart for fifteen weeks and was then the ninth biggest selling single of all time in Britain.
+</D0007>
+<D0008>Ryan Reynolds;50
+1;BITEM-PG-1;5;The MCU film Deadpool & Wolverine (2024), the sequel to the X-Men films Deadpool (2016) and Deadpool 2 (2018) and a follow-up to Logan (2017), integrated the series' iteration of Wade Wilson / Deadpool, reprised by Ryan Reynolds, and an alternate version of Hugh Jackman's Logan / Wolverine, into the continuity of the MCU, while serving as a tribute to the series.
+</D0008>
+<D0009>National Gallery;50
+1;BITEM-PG-1;1;In the film, Bean works as a security guard at the National Gallery in London before being sent to the United States to talk about the unveiling of James Abbott McNeill Whistler's 1871 painting Whistler's Mother.
+</D0009>
+<D0010>Cynthia Erivo;50
+1;BITEM-PG-1;2;The film stars Cynthia Erivo as Elphaba Thropp and Ariana Grande as Glinda Upland, with Jonathan Bailey, Ethan Slater, Bowen Yang, Marissa Bode (in her film debut), Peter Dinklage, Michelle Yeoh, and Jeff Goldblum in supporting roles.
+</D0010>
+<D0011>Chihiro "Sen" Ogino;50
+1;BITEM-PG-1;10;It follows a young girl named Chihiro "Sen" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore).
+</D0011>
+<D0012>Gareth;50
+1;BITEM-PG-1;1;During Hamish's speech, Gareth suffers a fatal heart attack.
+</D0012>
+<D0013>Michael J. Fox;50
+1;BITEM-PG-1;2;Marty Jr. and Marlene McFly (both portrayed by Michael J. Fox) are Marty McFly and Jennifer Parker's future children in 2015 in Part II. Originally, 17-year-old Marty Jr. was to be arrested and senten
+</D0013>
+<D0014>The Last Jedi;50
+1;BITEM-PG-1;1;The film, produced by Lucasfilm president Kathleen Kennedy, is a continuation of 2015's The Force Awakens, which Abrams also directed and co-wrote, and 2017's The Last Jedi.
+</D0014>
+<D0015>Donnie Yen;50
+1;BITEM-PG-2;1;Chirrut Îmwe is portrayed by Donnie Yen in the Star Wars stand-alone film Rogue One: A Star Wars Story.
+</D0015>
+<D0016>1917;50
+1;BITEM-PG-1;3;Avengers: Infinity War is a 2018 American superhero film based on the Marvel Comics superhero team the Avengers. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it i
+</D0016>
+<D0017>Avatar;50
+1;BITEM-PG-1;2;This made it the second-biggest third weekend for a film that did not open at over $100 million, behind Avatar ($68 million) and ahead of Skyfall ($35 million).
+</D0017>
+<D0018>2;50
+1;BITEM-PG-1;2;Two years later, he directed the psychological thriller Memento (2000) which starred Guy Pearce as a man suffering from anterograde amnesia (short-term memory loss) searching for his wife's killer.
+</D0018>
+<D0019>2;50
+1;BITEM-PG-1;7;However, in 2004, Ninomiya appeared in his first lead role in the stage play Shibuya Kara Tooku Hanarete (シブヤから遠く離れて) directed by Yukio Ninagawa.
+</D0019>
+<D0020>4;50
+1;BITEM-PG-1;4;Liliane Rudabet Gloria Elsveta "Leelee" Sobieski (born June 10, 1983) is an American artist and retired actress. She achieved fame in her teens with roles in films such as Deep Impact (1998), Never Be
+</D0020>
+<D0021>Natalie Portman;50
+1;BITEM-PG-1;3;Liliane Rudabet Gloria Elsveta "Leelee" Sobieski (born June 10, 1983) is an American artist and retired actress. She achieved fame in her teens with roles in films such as Deep Impact (1998), Never Be
+</D0021>
+<D0022>Katharine Hepburn;50
+1;BITEM-PG-1;3;The record for most wins is four, held by Katharine Hepburn; Frances McDormand has won three times, and thirteen other actresses have won the award twice.
+</D0022>
+<D0023>Ingrid Bergman;50
+1;BITEM-PG-1;4;Ingrid Bergman became the second actress to win three Academy Awards for acting: two for Best Actress, and one for Best Supporting Actress.
+</D0023>
+<D0024>2;50
+1;BITEM-PG-1;1;Pirates of the Caribbean: Dead Man's Chest was released on July 7, 2006.
+</D0024>
+<D0025>May 18;50
+1;BITEM-PG-1;1;May 18 is a 2007 South Korean historical drama film directed by Kim Ji-hoon was released in 27 July 2007, starring Kim Sang-kyung, Ahn Sung-ki, Lee Yo-won and Lee Joon-gi.
+</D0025>
+<D0026>Crowe;50
+1;BITEM-PG-1;3;It stars Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed, Derek Jacobi, Djimon Hounsou, and Richard Harris.
+</D0026>
+<D0027>liver;50
+1;BITEM-PG-1;1;He is frequently depicted preparing gourmet meals from his victims' flesh, the most famous example being his admission that he once ate a census taker's liver "with some fava beans and a nice Chianti" (a "big Amarone" in the novel).
+</D0027>
+<D0028>blue tang;50
+1;BITEM-PG-1;3;Conservationists warned that, very much like Finding Nemo, the film could lead to uninformed customers buying regal blue tang fish, Dory's species, for home aquariums.
+</D0028>
+<D0029>a gun;50
+1;BITEM-PG-1;4;The Shawshank Redemption is a 1994 American prison drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. The film tells the 
+</D0029>
+<D0030>McKellen;50
+1;BITEM-PG-1;1;In 1999, McKellen was cast, again under the direction of Bryan Singer, to play the comic book supervillain Magneto in the 2000 film X-Men and its sequels X2: X-Men United (2003) and X-Men: The Last Stand (2006).
+</D0030>
+<D0031>Bogart;50
+1;BITEM-PG-1;2;Bogart played his first romantic lead in Casablanca (1942): Rick Blaine, an expatriate nightclub owner hiding from a suspicious past and negotiating a fine line among Nazis, the French underground, the Vichy prefect and unresolved feelings for his ex-girlfriend.
+</D0031>
+<D0032>eight;50
+1;BITEM-PG-1;4;And as we drew closer to the shoot date, Danny asked me to step in as the co-director." The film won eight Academy Awards, five Critics' Choice Awards, four Golden Globes and seven BAFTA Awards.
+</D0032>
+<D0033>Titanic;50
+1;BITEM-PG-1;4;Writer Lewis Abernathy would go on to work with The Abyss director James Cameron and make a memorable appearance in his film Titanic (1997) as Brock Lovett (Bill Paxton)'s colleague Lewis Bodine.
+</D0033>
+<D0034>seven;50
+1;BITEM-PG-1;1;Matches are played on a large oval pitch with three ring-shaped goals of different heights on each side, between two opposing teams of seven players each: three Chasers, two Beaters, the Keeper, and the Seeker.
+</D0034>
+<D0035>2;50
+1;BITEM-PG-1;4;It was the highest-grossing film of all time until it was surpassed by Avatar (2009) due to the 2021 re-release in China, and was the second-highest-grossing film of all time in the United States and Canada.
+</D0035>
+<D0036>Lotso;50
+1;BITEM-PG-1;1;Lots-o'-Huggin' Bear, often shortened to Lotso, (voiced by Ned Beatty in Toy Story 3 and Toy Story 3: The Video Game and Fred Tatasciore in Disney Speedstorm) is a plush, pink, strawberry-scented Southern-accented teddy bear and the main antagonist of the third film.
+</D0036>
+<D0037>We Scare Because We Care;50
+1;BITEM-PG-1;1;Taking place after the events of the film, the factory's new slogan has been changed from "We Scare Because We Care" to "It's Laughter We're After", something that was later used in the film's sequel television series Monsters at Work.
+</D0037>
+<D0038>none;50
+1;BITEM-PG-1;13;In February 2023, during the Q1 earnings call, Disney CEO Bob Iger confirmed that a fifth main film in the Toy Story franchise was in active development. This marked it the first main film in the seri
+</D0038>
+<D0039>0;50
+1;BITEM-PG-1;1;The film was initially scheduled for release on June 16, 2017, but was postponed to June 15, 2018, and finally to June 21, 2019.
+</D0039>
+<D0040>A113;50
+1;BITEM-PG-1;1;AUTO reveals his secret no-return directive A113, which orders them to not return to Earth on account of toxicity levels making Earth unlivable.
+</D0040>
+<D0041>George Carlin;50
+1;BITEM-PG-1;2;Fillmore (based on Route 66 artist Bob Waldmire and voiced by George Carlin in Cars, the video game, and Cars Toons (via archival recordings), Scott Wood in Cars Mater-National Championship, and Lloyd Sherr in all other media after the first film due to Carlin's death) is a green 1960 Volkswagen Type 2(T1) who owns a store that sells his own recipe of organic biofuel, which he also gives McQueen during his races.
+</D0041>
+<D0042>Shiki-Jitsu;50
+1;BITEM-PG-1;9;Kajino is run by Ghibli's president Toshio Suzuki, and its first release was Shiki-Jitsu in 2000.
+</D0042>
+<D0043>Totoro;50
+1;BITEM-PG-1;1;Miyazaki additionally uses Totoro as a part of his logo for Studio Ghibli.
+</D0043>
+<D0044>The Golden Bear;50
+1;BITEM-PG-1;14;The Golden Bear (Goldener Bär) is the highest prize awarded for the best film at the Berlin International Film Festival.
+</D0044>
+<D0045>1;50
+1;BITEM-PG-1;4;Studio Ghibli announced that Hosoda was to direct the film Howl's Moving Castle in September 2001, which was scheduled for a summer 2003 release.
+</D0045>
+<D0046>unanswerable;50
+1;BITEM-PG-1;5;From August 30 to September 6, 2018, in conjunction with Marvel Studios' 10-year anniversary celebrations, all 20 films released at the time (Iron Man through Ant-Man and the Wasp) were screened in IM
+</D0046>
+<D0047>unanswerable;50
+1;BITEM-PG-1;6;The Day After Tomorrow is a 2004 American science fiction disaster film co-written, co-produced, and directed by Roland Emmerich, based on the 1999 book The Coming Global Superstorm by Art Bell and Wh
+</D0047>
+<D0048>Furious 7;50
+1;BITEM-PG-1;1;Furious 7 (also known as Fast & Furious 7) is a 2015 action film directed by James Wan and written by Chris Morgan.
+</D0048>
+<D0049>9;50
+1;BITEM-PG-2;1;F9 (also known as F9: The Fast Saga or Fast & Furious 9) is a 2021 action film directed by Justin Lin, who co-wrote the screenplay with Daniel Casey.
+</D0049>
+<D0050>F9;50
+1;BITEM-PG-1;1;F9 was originally scheduled to be theatrically released on May 22, 2020, but was pushed back a year to April 2, 2021, due to the COVID-19 pandemic.
+</D0050>
+<D0051>Murphy "Murph" Cooper;50
+1;BITEM-PG-1;2;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+</D0051>
+<D0052>Murphy "Murph" Cooper;50
+1;BITEM-PG-1;1;Jessica Chastain, as Murphy "Murph" Cooper, Joseph's daughter, eventually becomes a NASA scientist working under Professor Brand.
+</D0052>
+<D0053>10;50
+1;BITEM-PG-1;1;Ellen Burstyn as elderly Murph Mackenzie Foy as 10-year-old Murph John Lithgow as Donald, Cooper's elderly father-in-law Michael Caine as Professor John Brand, a high-ranking NASA scientist, father of Amelia, former mentor of Cooper, and director of the Lazarus and Endurance missions Casey Affleck as Tom Cooper, Joseph's son, who eventually takes charge of his father's farm Timothée Chalamet as 15-year-old Tom Wes Bentley as Doyle, a high-ranking NASA member, and Endurance crew member Bill Irwin as TARS (voice and puppetry) and CASE (puppetry), robots assigned to assist the crew of the Endurance Topher Grace as Getty, Murph's colleague and love interest David Gyasi as Professor Romilly, a high-ranking NASA member, and Endurance crew member Matt Damon as Dr.
+</D0053>
+<D0054>The Science of Interstellar;50
+1;BITEM-PG-1;2;Theoretical physicist Kip Thorne was an executive producer and scientific consultant on the film, and wrote the tie-in book The Science of Interstellar.
+</D0054>
+<D0055>Tomorrowland;50
+1;BITEM-PG-1;1;Tomorrowland held its world premiere at the Disneyland Resort in Anaheim, California on May 9, 2015.
+</D0055>
+<D0056>Brigia;50
+1;BITEM-PG-2;6;The main base of the Alliance to Restore the Republic was located on the planet Brigia after the Rebels left Chrellis Base.
+</D0056>
+<D0057>Inquisitor Sixth Brother;50
+1;BITEM-PG-2;5;The kyber crystals within, as well as their mountings, came from the lightsaber of the Inquisitor Sixth Brother, whom Tano had defeated on Raada.
+</D0057>
+<D0058>mantra;50
+1;BITEM-PG-1;3;Before he died, Îmwe heard Malbus repeat his mantra, and the words echoed in his heart once more.
+</D0058>
+<D0059>Coinneach Alexander;50
+1;BITEM-PG-1;5;Coinneach Alexander is an actor who played Jedi Padawan Whie Malreaux in Star Wars: Episode III Revenge of the Sith.
+</D0059>
+<D0060>K43;50
+1;BITEM-PG-2;9;C-3PO interjects that Darth Vader himself is on the volcanic planet K43.
+</D0060>
+<D0061>Spider-Man;50
+1;BITEM-PG-1;2;Spider-Man, a superhero created by Stan Lee and Steve Ditko for comic books published by Marvel Comics, has appeared in film since the 1970s.
+</D0061>
+<D0062>Kestrel Dawn;50
+1;BITEM-PG-1;3;Jyn Erso, known by the aliases Kestrel Dawn, Jyn Dawn, Tanith Ponta, Liana Hallik, Lyra Rallik, and Nari McVee, was a human female soldier and former criminal who became a pivotal member of the Alliance to Restore the Republic when she led Rogue One in stealing the Death Star plans during the Battle of Scarif.
+</D0062>
+<D0063>SB-20 Slicer Droid;50
+1;BITEM-PG-2;9;The Empire used a SB-20 Slicer Droid to gather information before executing the assault.
+</D0063>
+<D0064>Solo;50
+1;BITEM-PG-1;5;Many analysts and publications, including Deadline, The Atlantic, Entertainment Weekly and CNN, interpreted the low box office returns as a case of "Star Wars fatigue", since Solo was the fourth film of the series released in 29 months, and came just five months after The Last Jedi.
+</D0064>
+<D0065>Galactic Empire;50
+1;BITEM-PG-1;2;In the film, he portrays Baze Malbus, a native of the moon of Jedha who is drawn into the war against the Galactic Empire.
+</D0065>

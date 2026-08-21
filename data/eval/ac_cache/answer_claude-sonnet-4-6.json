@@ -9758,5 +9758,1072 @@
    4
   ],
   "reason": "The system answer correctly identifies that Imperial death troopers killed both Chinese actors' characters, with Chirrut killed by a death trooper explosion and Baze killed by a fragmentation grenade from a dying death trooper, matching nuggets 2, 3, and 4."
+ },
+ "b91266e91c9f751cbcdadb53": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Bor Gullet was indeed the creature Saw Gerrera used as a torturing device in Rogue One (2016), and nugget [1] confirms Bor Gullet's identity as a Mairan with mind-reading abilities."
+ },
+ "eab6ad7e039b60bae2c396c8": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Scarlett Johansson played Black Widow in the MCU, matching the system answer exactly."
+ },
+ "df3d93684a0a5ff5973aa38f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer exactly matches the Zeroth Law definition provided in nugget [1]."
+ },
+ "3daa051f2e7438a6b7cb77b4": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Jake Lombard was a stuntman used for testing equipment, not the actor who played James Bond; the movie with a climax in outer space is 'Moonraker' (1979), in which Roger Moore played James Bond."
+ },
+ "ba9663eabdf0bdc91f8d9678": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] explicitly states Lazenby appeared in only one film, confirming the system answer of 'one'."
+ },
+ "686f9c428f8a4c12f3a3aebd": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks which infinity stone was obtained by the sacrifice, which was the Soul Stone, but the system answer incorrectly states 'Black Widow' (the character's name) instead of the Soul Stone."
+ },
+ "2bdc25e49c69014ca6240f6d": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answered '1967' (the year), but the question asks for the original song title, which is 'Love Is All Around'."
+ },
+ "6f1470976e45069993c75d1e": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Ryan Reynolds played Green Lantern in the 2011 film, and it is well-established that Ryan Reynolds also plays Deadpool in the MCU."
+ },
+ "d67d980cb494fa9ef2336df9": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'National Gallery' matches the nugget which states Bean works as a security guard at the National Gallery in London."
+ },
+ "b539303549ac1dd94611c795": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer correctly identifies Christopher Lloyd as the Wizard of Oz, which matches nugget [1]."
+ },
+ "31a38fe846a061d7e5d8669a": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answered 'Chihiro' but the question asks for the name of the old lady who looks exactly like Yubaba, which is Zeniba (also known as Granny), not Chihiro who is the main protagonist."
+ },
+ "7cb13845c37c535074937775": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'Gareth' matches the nugget which states Gareth suffers a fatal heart attack at Hamish and Carrie's wedding."
+ },
+ "83e794a179504400583839f1": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Michael J. Fox played both Marty Jr. and Marlene McFly in Back to the Future Part II, and the nugget confirms this by listing Marty Jr. as another character Fox played, implying he played multiple McFly roles including Marlene."
+ },
+ "50ce78f67697a4357904876c": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Donnie Yen played blind character Chirrut Îmwe in Rogue One and also played a blind character (Caine) in John Wick 4, matching the system answer."
+ },
+ "295b237f0fb0a9a92ab77188": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The provided nugget only discusses Zootopia's 2020 re-release gross and provides no information to compare initial gross figures between Avatar and Zootopia; Avatar had a significantly higher initial gross than Zootopia."
+ },
+ "7d9e330c8255e47cdd405871": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "acf716f5d01b7103bf8aec41": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks to compare Katharine Hepburn vs Audrey Hepburn; Katharine Hepburn won four Academy Awards for Best Actress (the record), not Meryl Streep."
+ },
+ "5705296dbb8ef3cfccce37c3": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks to compare Grace Kelly and Ingrid Bergman's wins, not who has won the most overall; Meryl Streep is not relevant to the comparison asked."
+ },
+ "f2e43e6e893066a7126e53c4": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer correctly identifies Joaquin Phoenix as the actor who plays Commodus, matching nugget [1]."
+ },
+ "bda1232f73a94eae03b5b77e": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer correctly identifies liver with fava beans and a nice Chianti as the famous food association from Hannibal Lecter's census taker description, matching nugget [1]."
+ },
+ "786b0e5aca81c86fbef8da42": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Dory is a 'regal blue tang', and 'blue tang' is the common shorthand for this species."
+ },
+ "818f7d9f8a8d6b8fbb426e1e": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer says 'sewage pipe' but the question asks about the object in his cell wall through which he escaped, which was the tunnel (the poster-hidden tunnel he dug), not the sewage pipe; the sewage pipe came after the tunnel."
+ },
+ "04bbfce2c4238a114218da67": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Ian McKellen portrayed Magneto in the X-Men films, and it is widely known that Ian McKellen also played Gandalf in The Lord of the Rings trilogy."
+ },
+ "44a11e05bdc3d8ea3460bc5d": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Rick Blaine in Casablanca (1942) was played by Humphrey Bogart, matching the system answer exactly."
+ },
+ "e74a40f039a01eeee635a323": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] explicitly states the film won eight Academy Awards, matching the system answer."
+ },
+ "5cfff2237e2ee6dd8f71fa0b": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Each team has seven players, so the total number of players on the field at the start of a Quidditch match is 14, not seven."
+ },
+ "a7aa5c0d7c23ea49221ddbaa": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'Lotso' matches the nickname given in nugget [1], which states the character is 'often shortened to Lotso'."
+ },
+ "1ac0e278bbfc3081c4f69e16": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer provides the full name of the company 'Monsters, Incorporated' but does not provide the actual slogan of Monsters, Inc. from the movie, which is 'We Scare Because We Care.'"
+ },
+ "af7f7ca2d980f7be9c8840bc": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Lasseter directed the first two Pixar films, matching the system answer of 'two'."
+ },
+ "fce77eb9a1b18a08fbd83479": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the number of days between the two premieres, but the system answer only provides the premiere date of Toy Story 4 without calculating the difference."
+ },
+ "1d1d9e546f33686c1032a0a3": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that the secret no-return directive is named A113, matching the system answer exactly."
+ },
+ "bc16f4fc4e081d230eaa809c": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget 1 explicitly states that Lloyd Sherr voiced Fillmore in Cars 2."
+ },
+ "fcb0107eae58ce96a7a195a9": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] explicitly states that Laputa: Castle in the Sky was the first film by Studio Ghibli, matching the system answer."
+ },
+ "a2f0d3b733e895e968e41803": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Sid is a character from Toy Story 1, not a Ghibli movie; the question asks about a Studio Ghibli character (the correct answer is Totoro from My Neighbor Totoro)."
+ },
+ "af93fa7594750a257c9e2407": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'four' exactly matches the nugget stating there are four films in the Avengers series."
+ },
+ "70a35bd93402068cb251a105": {
+  "correct": false,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] implies the movie is set after Fast & Furious 6 and continues from Tokyo Drift's ending, which describes Furious 7, where the 'God's Eye' device actually first appeared, not Fast & Furious 6."
+ },
+ "76f02870c9ebd0db8b9635b4": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks how many mainline films Justin Lin worked as a screenwriter, which requires a count (a number), but the system answer 'ninth' refers to a film's position in the franchise, not a count of films he wrote."
+ },
+ "d39dbe679a4731893c918355": {
+  "correct": true,
+  "relevant_nugget_indices": [],
+  "reason": "F9 (2021) grossed approximately $726 million worldwide compared to Fast X (2023) which grossed approximately $714 million worldwide, making F9 the higher-grossing film, but none of the provided nuggets directly support this conclusion."
+ },
+ "fc212db2a75af147bb286d4e": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the full name of Cooper's daughter, but the system answer only provides 'Lilli' without a last name, and more importantly, in the actual film Interstellar, Cooper's daughter is named Murph (Murphy Cooper), not Lilli."
+ },
+ "4b36a6f4fd48fcade615e1ff": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Joseph's daughter's nickname is 'Murph', matching the system answer."
+ },
+ "0f55ac432b5d877b01bf3ebe": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget only confirms Tomorrowland's premiere date and location, but does not establish it as the first film released in Dolby Vision format in Dolby Cinema, so the system answer cannot be verified as correct."
+ },
+ "76296d7e600754ac0155929e": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that the Rebel Alliance's main base was located on Brigia, matching the system answer."
+ },
+ "403fcafa4697acd0e962dc31": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Plo Koon discovered Ahsoka Tano (the Jedi who wields two white lightsabers) and brought her to the Jedi Temple."
+ },
+ "67671496fba0d54644a69b7a": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Chirrut was repeating 'I am one with the Force, and the Force is with me' before he died, not 'May the Force of Others be with you,' which was a phrase he used while proselytizing."
+ },
+ "1969d057ec48e03ddf9dfaae": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "While nugget [1] confirms Coinneach Alexander played a Jedi in Star Wars: Episode III, there is no information provided (nor is it generally known) that he appeared in an Avengers MCU film, which is a required condition of the question."
+ },
+ "660f30de4f3aede735d0259c": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget confirms Han Solo's death occurred during the Battle of Starkiller Base, matching the system answer."
+ },
+ "faeb678a802e0223efbc2042": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nuggets don't mention a nickname for Jyn Erso, and 'Jyn' is her actual first name, not a nickname; her known nickname is 'Stardust' (given by her father Galen Erso)."
+ },
+ "44e10b6c50c1fccacd39f188": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks about the giant vehicles used to attack the rebel base on Hoth in The Empire Strikes Back, which were AT-AT walkers, not GR-75 transports; the nugget describes a different event entirely."
+ },
+ "a5923ba9727d64c42a73ff20": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nuggets only confirm that both Solo and Rogue One exist as standalone films but provide no information about their relative box office success or critical reception to determine which was more successful; by widely known metrics, Rogue One (~$1.06B) outperformed Solo (~$393M), making the system answer incorrect."
+ },
+ "4afdc3732b99a50d2a99c989": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The Force Awakens was directed by J. J. Abrams, so it cannot be the answer to which film was NOT directed by him; the correct answer would be The Last Jedi (directed by Rian Johnson)."
+ },
+ "a6319394450c9762cc6d6ccb": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer '2017' is a year, not a movie title; the question asks which movie was released earlier, expecting 'Avengers: Infinity War' (2018) or '1917' (2019) as the answer, and the nugget provided does not help determine which film was released earlier."
+ },
+ "70650ea4540c85e165ca98b7": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer '2005–2012' is a date range, not a count of films, and does not answer the question about how many long films Nolan directed between 2000 and 2010."
+ },
+ "c18539b8527d941438f7d1dc": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget only mentions two films in the rest of 2006, but doesn't provide a complete count of all movies Kazunari Ninomiya acted in between 2000 and 2010, so the system answer of 'two' cannot be verified as correct for the entire decade."
+ },
+ "bab492202e77351bd86c5383": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the number of movies Leelee Sobieski acted in between 2000 and 2010, but the system answer '2012' is the year she retired from acting, not a count of movies."
+ },
+ "52478a79fea1b5e87d31d2d3": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "71d24f15e6384e1a3913076d": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Brock Lovett was played by Bill Paxton in Titanic (1997)."
+ },
+ "a24c8472c59ab3f45e8be2ad": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the number of years between the theatrical releases of Avatar (2009) and Avengers: Endgame (2019), which is 10 years, but the system answered '2019' which is just the release year of Endgame, not the difference."
+ },
+ "566d0894c1eaa7d70b7ecf96": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget describes Die Ratten as the first West German film to win the Golden Bear, not the first animated movie; Die Ratten is a live-action film, not an animated movie."
+ },
+ "69a61bd64517e4f744ca6003": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget explicitly states Mackenzie Foy plays the 10-year-old Murph, confirming Cooper's daughter is 10 years old before the mission."
+ },
+ "048a3a21a131617394cb968b": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer 'The Deep' is the name of a movie that temporarily dethroned the Star Wars spinoff, not an answer to who killed characters played by Chinese actors in that film."
+ },
+ "c580a48e954396e3d235aa5e": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer correctly captures the first part of the Zeroth Law, though it omits the second clause about inaction."
+ },
+ "19c43d4749373cda2b6acbff": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Roger Moore starred as James Bond in Moonraker, the film whose climax takes place in outer space."
+ },
+ "3191ba98d88151148ae033e3": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'Love Is All Around' matches the original song title referenced in nugget [1]."
+ },
+ "54541d3301aea4083482266d": {
+  "correct": false,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "According to nugget [1], Jeff Goldblum plays the Wizard of Oz, while Cynthia Erivo plays Elphaba Thropp."
+ },
+ "17d20e025053b8d5f68994c2": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Donnie Yen plays the blind assassin Caine in John Wick: Chapter 4, and Donnie Yen is also known for playing the blind warrior Chirrut Îmwe in Rogue One."
+ },
+ "b1bfc4e3325a9977f37a8d3b": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answered 'Skyfall' but the question asks which had a higher initial gross between Avatar and Zootopia; the nugget mentions Avatar had a $68M third weekend vs Skyfall's $35M but doesn't directly compare Avatar to Zootopia, and the system answer is entirely wrong regardless."
+ },
+ "c0aaa122388e9f5902bcd9ca": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] indicates Ingrid Bergman won two Academy Awards for Best Actress (leading role), while Grace Kelly won only one, making Bergman the correct answer."
+ },
+ "c941b8d7cd4b838c4767bc16": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Christopher Plummer played Commodus in 'The Fall of the Roman Empire' (1964), not in 'Gladiator' (2000); Joaquin Phoenix played Commodus in Gladiator (2000)."
+ },
+ "7a0adf79fbfd8f54389fcf01": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'fava beans and a nice Chianti' exactly matches the famous quote from the film as confirmed by nugget [1]."
+ },
+ "477a50feeeac20252a709f27": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the species/type of fish Dory is (she is a Blue Tang/Regal Tang), not a character trait like 'amnesiac'."
+ },
+ "08f7d58d9309fbfc7cbd4da5": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks what object in his cell wall Andy escaped through, which is the tunnel (poster-covered hole), not the sewage pipe; the sewage pipe came after the tunnel."
+ },
+ "6341b13df0b98185af05d76b": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'McKellen' correctly identifies Ian McKellen as the actor who played both Magneto in X-Men and Gandalf in Lord of the Rings, which is supported by nugget [1]."
+ },
+ "551193bb42efc6f834cc225a": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] explicitly states Slumdog Millionaire won eight Academy Awards."
+ },
+ "b10382d11caab5f3b67e2ed9": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Brock Lovett is Bill Paxton's character in Titanic (1997), not Predator 2; the nugget about Predator 2 does not support the system's answer."
+ },
+ "963306a91a772bf3636aa465": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget confirms 'We Scare Because We Care' was the original slogan used in the film, which matches the system answer."
+ },
+ "33fddc59c92d96de8cb3484f": {
+  "correct": false,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "In Cars 2, Fillmore was voiced by Lloyd Sherr (not George Carlin, who had died and whose recordings were only used in archival capacity for Cars Toons)."
+ },
+ "67d324fdab6cc52187a1cee7": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Totoro is the Studio Ghibli character who made a cameo in Toy Story 3, and nugget [1] confirms Totoro's association with Studio Ghibli (a Ghibli character)."
+ },
+ "4ea584ee5c9a025fec66ad40": {
+  "correct": true,
+  "relevant_nugget_indices": [],
+  "reason": "The God's Eye device does first appear in Furious 7, which is correct based on general knowledge, though the provided nugget does not directly address this fact."
+ },
+ "c2aa98d55c4af003054a0751": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks how many mainline films Justin Lin worked as a screenwriter, but the system answer 'tenth' refers to a film's installment number, not the count of films he wrote."
+ },
+ "142334449a7149c033e13dc8": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the full name, but 'Murph' is only a nickname; her full name is Murphy Cooper, which the system answer fails to provide."
+ },
+ "e2601cd9ef217a9803582579": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Cooper's daughter is named Murph, which matches the system answer."
+ },
+ "0a5ad63d85565a87ca0041ab": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Echo Base was located on the planet Hoth, matching the system answer."
+ },
+ "c406d83873d9ddbb08799cbc": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks what Chirrut Îmwe was *repeating* (i.e., the specific mantra 'I am one with the Force, and the Force is with me'), not the thematic meaning of his final words; the system answer describes the effect/meaning rather than the actual repeated phrase."
+ },
+ "2458e28e3cfec48a46036f8b": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Han Solo died on Starkiller Base (which was built from the planet Ilum), but the planet's name in the question's context is Starkiller Base, not Ilum, and furthermore Han Solo did not die on Ilum itself but on the weapon constructed from it."
+ },
+ "38a066f4fb080e50876f2b46": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Jyn Odan is a different character (a smuggler) not Jyn Erso's nickname; the nuggets do not indicate that 'Jyn Odan' is a nickname for Jyn Erso."
+ },
+ "1f58c56147730fc2128a2f3f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'mechanical AT-ATs' matches the nugget's description of the Empire's dreaded mechanical AT-ATs used against the rebels."
+ },
+ "b3df98e4084752a7924f5ea8": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Rogue One debuted to $155 million while Solo was tracking higher initially but ultimately underperformed, and the nugget confirms Rogue One's stronger box office baseline, making Rogue One the more successful spinoff."
+ },
+ "9ffae9b235341059d2758e6c": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for Scarlett Johansson's superhero name, which is 'Black Widow', not 'Natasha Romanoff' (which is her civilian/real name)."
+ },
+ "3382b62b48281335c9828d90": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The correct answer is Zeniba (also called Granny), not Luxo Jr, which is a Pixar lamp character unrelated to the question about Yubaba's twin sister in Spirited Away."
+ },
+ "b8d6d3578494f7760cbc19d1": {
+  "correct": true,
+  "relevant_nugget_indices": [],
+  "reason": "Avengers: Infinity War was released in April 2018, while 1917 was released in December 2019, so Infinity War was released earlier; none of the provided nuggets helped verify this fact."
+ },
+ "b479a102144ea60cca9c352f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Avatar set records as the highest-grossing film, implying its initial gross was higher than Zootopia's."
+ },
+ "c430961c67efa3e97227a8c4": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "ffa66b35b6d2374b2a2e9102": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Katharine Hepburn won Best Actress 4 times, while Audrey Hepburn won only once, making Katharine Hepburn the correct answer."
+ },
+ "e2a36d21789427b02793e933": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Ingrid Bergman won two Best Actress awards, while Grace Kelly won only one, making Bergman the correct answer."
+ },
+ "19d143f2de35fabe577982ff": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "640ad33b31f2363b245921a1": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the number of days between the two premieres, but the system answer only provides the release date of Toy Story 4 (June 21, 2019) without calculating the difference."
+ },
+ "bffe9e5cfeb72ba11d0e82c3": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Kestrel Dawn is listed as one of Jyn Erso's aliases in nugget [1], making the system answer correct."
+ },
+ "15c8e6bdc108343753073a99": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Romanoff sacrificed herself to acquire the Soul Stone."
+ },
+ "9e74e964bc738b34285f5131": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer only says 'Troggs'' (the artist name) but does not provide the original song title, which is 'Love Is All Around'."
+ },
+ "bb9e5c0ca9b746b4afe5b322": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The correct answer is Zeniba (also called Zeniiba), the twin sister of Yubaba, not Princess Mononoke, which is a different Miyazaki film entirely."
+ },
+ "23b39484bd32c6e91a5d6693": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'liver' matches the nugget which states Lecter ate a census taker's liver with fava beans and Chianti."
+ },
+ "47c3cb52aa291c98f6adb54d": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks how many years apart the two films were released (the answer should be 10 years, since Avatar was released in 2009 and Avengers: Endgame in 2019), but the system answer only gives '2009', which is Avatar's release year, not the difference in years."
+ },
+ "4031faebc5dc76b0187ce153": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer provides only the release date of Toy Story 4 (June 21, 2019) rather than calculating the number of days between the US premieres of Toy Story (November 22, 1995) and Toy Story 4, which is what the question asks for."
+ },
+ "827cd10cf4aea554079acbaf": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the nickname of Cooper's daughter, which is 'Murph' (short for Murphy), but the system answer provided the actress's name (Jessica Chastain) instead."
+ },
+ "f98da750527eb110a0465255": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Jedi Master Plo Koon discovered Ahsoka Tano (the Jedi who wields two white lightsabers) and brought her to the Jedi Order."
+ },
+ "9f7ce5909aaf0a42ce992ce3": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks what Chirrut Îmwe was repeating before he died, which refers to his mantra 'I am one with the Force and the Force is with me,' not activating a communication switch."
+ },
+ "8bcbdf49311b9f79c4b83091": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks about the most successful Star Wars spinoff movie and who killed the Chinese actors' characters, but the system answer 'Ne Zha 2' is unrelated to Star Wars spinoffs entirely."
+ },
+ "b987eeb5499e6ff5c74bd2b9": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer correctly identifies electricity from stuncuffs as the torturing device used by Saw Gerrera, which matches the nugget about Saw Gerrera torturing Klik-Klak with electricity from stuncuffs."
+ },
+ "d1224bde0c6b262b01a3eb2e": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for Scarlett Johansson's superhero name, which is 'Black Widow' (or Natasha Romanoff as her alias), not her full birth name 'Natalia Alianovna Romanova'."
+ },
+ "ab3cafbdad2916527be98a80": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer only mentions 'Three Laws of Robotics' but does not state what the Zeroth Law says (a robot may not harm humanity, or through inaction allow humanity to come to harm), and the provided nuggets don't address the Zeroth Law either."
+ },
+ "37276874782ccc713f99d602": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The movie with a climax in outer space is Moonraker (1979), in which Roger Moore played James Bond, not Sean Connery."
+ },
+ "95cf358f1efcc7c765317731": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Lazenby played Bond only once, which matches the system answer 'once'."
+ },
+ "55dc2a647772069702f8f7e1": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'Love Is All Around' matches the original song title mentioned in nugget [1], which was The Troggs' 'Love Is All Around' that was covered and renamed 'Christmas is All Around' in the film."
+ },
+ "f886b90c75dce3c6ec650d6b": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Ryan Reynolds reprised the role of Deadpool in the MCU, and it is widely known he also played Green Lantern in the 2011 DC film."
+ },
+ "bfa3eb95fd9eb84879e159eb": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks for the name of the old lady who looks exactly like Yubaba (the answer is Zeniba), but the system answered with the main character's name instead."
+ },
+ "f284572ccaf403a9df45cfca": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms that Marlene McFly was portrayed by Michael J. Fox, matching the system answer exactly."
+ },
+ "2a990ca1f956085923111d19": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Abrams directed The Force Awakens (2015) and implies The Last Jedi (2017) was directed by someone else, supporting the system answer that The Last Jedi was NOT directed by Abrams."
+ },
+ "2a05a7b77066b24140e3c089": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Avengers: Infinity War was released in 2018, while 1917 was released in 2019, making Avengers: Infinity War the earlier film, not 1917."
+ },
+ "950e10c97629a4fbcc746b04": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] mentions Avatar's third weekend gross of $68 million, which implies a high initial gross, supporting that Avatar had a higher initial gross than Zootopia."
+ },
+ "86734fa2a51e2079583e33db": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nuggets only mention Memento (2000) but Christopher Nolan directed many more films between 2000 and 2010 including Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008), and Inception (2010), making the answer of 2 incorrect."
+ },
+ "19a86fe2734b5f8093259da1": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget mentions a stage play, not a movie, and doesn't provide enough information to verify the count of 2 movies between 2000 and 2010."
+ },
+ "1ecc18921203e7f510f909d6": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nuggets don't provide enough information about the number of movies Leelee Sobieski acted in between 2000 and 2010, and based on her actual filmography (which includes films like Joy Ride, The Glass House, Road to Perdition, Eyes Wide Shut era follow-ups, In a Dark Place, 88 Minutes, Public Enemies, and others), the count is significantly more than 4."
+ },
+ "16d2dec7e50f5d77b6742f19": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "14671255872371eaf109a718": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Katharine Hepburn holds the record with four wins, which is more than Audrey Hepburn's one win."
+ },
+ "f0c91e04d4ca5d312378f880": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "13d7fe60d9a45dcd4d39e8b1": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The provided nuggets contain no box office information for either film, so the system answer cannot be verified, and '12.12: The Day' actually had a significantly higher box office than 'May 18'."
+ },
+ "0ae4e6be091c07f6451e8c9c": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answered 'Crowe' but Russell Crowe plays Maximus, not Commodus; Joaquin Phoenix plays Commodus, and the nuggets don't specify character-actor mappings explicitly enough to confirm 'Crowe' for Commodus."
+ },
+ "d4489f4194e7f859f8697f4a": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "Nugget [1] confirms Dory's species is regal blue tang, which matches the system answer of 'blue tang'."
+ },
+ "6178b415a1c6114bb44a4533": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Andy Dufresne escapes through a tunnel he dug in his cell wall (hidden behind a poster), not through a gun; the provided nugget doesn't address the escape method."
+ },
+ "22665ff16cc88647fe4d0749": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer 'Bogart' correctly identifies the actor (Humphrey Bogart) who portrayed Rick Blaine, as confirmed by nugget [1]."
+ },
+ "cc07fc452c1908f9a21cfcf0": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Avatar was released in 2009 and Avengers: Endgame in 2019, making them 10 years apart, not 2."
+ },
+ "1c6a2ce9ce861f830369b8fd": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget confirms that 'We Scare Because We Care' was the original slogan used in the film, which matches the system answer."
+ },
+ "7ac9df60af993ccada9d5ba2": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget provided is about Toy Story 5 development and doesn't address the question about John Lasseter directing early Pixar films; however, the system answer 'none' is factually incorrect as John Lasseter directed Toy Story (1995) and A Bug's Life (1998), at minimum two of the first five Pixar feature films."
+ },
+ "4bf0bf48849e93d08d5e9445": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "0c7f46d1e305dde3e1591d60": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Shiki-Jitsu was the first release of Kajino (a subdivision), not Studio Ghibli itself; the first Studio Ghibli film was Nausicaä of the Valley of the Wind (1984) or Castle in the Sky (1986)."
+ },
+ "26e05600c41efad63104750c": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The system answer 'The Golden Bear' is the name of the award itself, not the name of the first animated movie to win it, so it does not answer the question."
+ },
+ "8cc00a3cb91c6050c686bba8": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Hayao Miyazaki directed multiple Studio Ghibli films since 2000, including Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023), making the answer of 1 incorrect; the nugget provided is about Hosoda, not Miyazaki, and doesn't help validate the system answer."
+ },
+ "f6dafaa9b0cae24c7c1d1ed3": {
+  "correct": false,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget indicates there were 20 Marvel films through Ant-Man and the Wasp (2018), and by August 2025 more Avengers-related films have been released, making the question answerable rather than unanswerable."
+ },
+ "6809099d4724033ae1526bec": {
+  "correct": true,
+  "relevant_nugget_indices": [],
+  "reason": "The nuggets provided do not contain any information about helicopters being sent to rescue the British royal family from Balmoral Castle, and this specific detail does not appear to be a verifiable fact from the movie, making 'unanswerable' a reasonable response."
+ },
+ "1c7e98d59b3da4f0ea73537b": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The 'God's Eye' device first appeared in Furious 7, which is confirmed as a real film in the Fast & Furious series by nugget [1]."
+ },
+ "6c1d342b393672e18ab7d904": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget only confirms Justin Lin co-wrote F9, which is just one film as a screenwriter, not 9 mainline films."
+ },
+ "b70ea028ec0dfcab7f598b3b": {
+  "correct": true,
+  "relevant_nugget_indices": [],
+  "reason": "F9 had a higher worldwide box office (~$726M) than Fast X (~$704M), but none of the provided nuggets directly support this claim about box office performance."
+ },
+ "b8093a60d7183bea75d1d38d": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The nugget confirms that Joseph's daughter's full name is Murphy 'Murph' Cooper, which matches the system answer."
+ },
+ "ff31203dada5fa8b9463c25d": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The director of Interstellar is Christopher Nolan, and his most recent film by August 2025 is Oppenheimer (2023), not 'The Science of Interstellar' which is a book by Kip Thorne, not a movie directed by Nolan."
+ },
+ "6ae9e4e6a0846622ed4d7034": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks who first discovered Ahsoka Tano and brought her to the Jedi Temple, but the nugget only mentions the Sixth Brother in relation to the source of her white lightsaber crystals, not as the one who discovered her and brought her to the Temple."
+ },
+ "b737dedf6ab323f0cfbb791f": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks what specific words/mantra Chirrut was repeating, not just that it was a 'mantra'; the system answer is too vague and doesn't name the specific mantra ('I am one with the Force and the Force is with me')."
+ },
+ "a82b16c77a0b7214f3014d89": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget mentions K43 as a volcanic planet where Darth Vader is located, but Han Solo did not die in Star Wars (the original 1977 film); he died in The Force Awakens on Starkiller Base, not on K43."
+ },
+ "8ecc4f856dbac0add106017d": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The first three MCU Spider-Man movies are 'Homecoming', 'Far From Home', and 'No Way Home', and the common word in their subtitles is 'Home', not 'Spider-Man'. The provided nugget does not help verify the correct answer."
+ },
+ "6a72c78454b5c532668599c3": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The question asks about the giant vehicles used to attack the rebel base, which were AT-AT walkers (All Terrain Armored Transports), not SB-20 Slicer Droids, which were used for intelligence gathering, not as giant attack vehicles."
+ },
+ "bf31610c9cb8c9b0dab0346e": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "The nugget indicates Solo had low box office returns, implying Rogue One was more successful, making the system answer of Solo incorrect."
+ },
+ "4244697a86713120b8aefd70": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "239f352284fd405ddffbd538": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   5,
+   6
+  ],
+  "reason": "The system answer 'Bor Gullet' exactly matches the torturing device Saw Gerrera used as confirmed by nuggets 5 and 6."
+ },
+ "19aa20d0abcd5083fc4efbe1": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   3,
+   4,
+   5
+  ],
+  "reason": "The system answer 'Black Widow' matches the superhero name Scarlett Johansson's character Natasha Romanoff is known by in the MCU, as confirmed by multiple nuggets."
+ },
+ "c50ba5db082311b129970b0a": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1
+  ],
+  "reason": "The system answer exactly matches the Zeroth Law of Robotics as stated in nugget [1]."
+ },
+ "75de75e0067898532717a3f1": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   2,
+   5
+  ],
+  "reason": "Roger Moore played James Bond in Moonraker, whose climax takes place in outer space on Drax's space station."
+ },
+ "e0d241d80bca0f08594ab1f7": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   10
+  ],
+  "reason": "The system answer correctly states '1' and names the specific film 'On Her Majesty's Secret Service', matching the nuggets that confirm Lazenby appeared in exactly one Bond film."
+ },
+ "7846b59ba82b5f2bce2a1ee2": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   3,
+   4,
+   5
+  ],
+  "reason": "The system answer correctly identifies the Soul Stone as the infinity stone obtained through Natasha Romanoff's sacrifice."
+ },
+ "7766493f540909a65d091d85": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2
+  ],
+  "reason": "The system answer 'Love Is All Around' matches the original song title confirmed by both nuggets."
+ },
+ "5da17a6bdc77cf6096f5c79f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   3,
+   4,
+   5
+  ],
+  "reason": "Ryan Reynolds is confirmed as the actor who played Green Lantern (2011) and Deadpool in the MCU, matching the system answer exactly."
+ },
+ "88a2a92f8f399fa90f70195e": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "reason": "The system answer 'National Gallery' matches the nuggets which state Mr. Bean works at the National Gallery."
+ },
+ "3518e78d6e6b938e1a0d7581": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   2,
+   4,
+   5
+  ],
+  "reason": "The system answer correctly identifies Jeff Goldblum as the actor who plays the Wizard of Oz in Wicked (2024), which is confirmed by multiple nuggets."
+ },
+ "f251f115b2f1894aafbe53a2": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2
+  ],
+  "reason": "The system answer 'Zeniba' exactly matches the nuggets stating that Zeniba is the old lady who looks exactly like Yubaba (her twin sister)."
+ },
+ "d17dc50878bf89023f0be224": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2
+  ],
+  "reason": "The system answer 'Gareth' exactly matches nugget [1] which states Gareth is the one who dies of a heart attack at the wedding of Hamish and Carrie."
+ },
+ "cf630fb4ff81216f0e75b97f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   3,
+   5
+  ],
+  "reason": "The system answer correctly identifies Michael J. Fox as the actor who plays Marlene McFly in Back to the Future Part II, which is directly confirmed by nuggets 3 and 5."
+ },
+ "793fd2f1df9445c3e331f62b": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   5
+  ],
+  "reason": "The system answer 'The Last Jedi' matches nugget [1] which directly states it is the correct answer, and nugget [5] confirms it was directed by Rian Johnson, not J.J. Abrams."
+ },
+ "0c61e003a219417b6860f289": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "reason": "Donnie Yen plays blind characters in both John Wick: Chapter 4 (Caine) and Rogue One (Chirrut Îmwe), matching the system answer exactly."
+ },
+ "1f3a2ab55722ae534bf1e7af": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   3,
+   4,
+   5,
+   7,
+   8
+  ],
+  "reason": "Avengers: Infinity War was released in April 2018, while 1917 is a 2019 film, making Avengers: Infinity War the earlier release."
+ },
+ "2c392c72c8c4777dd4e1ec2f": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   5
+  ],
+  "reason": "The system answer 'Avatar' matches nugget [1] which directly states Avatar had the higher initial gross, supported by nugget [5] confirming Avatar's opening weekend gross."
+ },
+ "2d4e4df185aac9751ca70bc4": {
+  "correct": true,
+  "relevant_nugget_indices": [
+   1,
+   2,
+   3,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "reason": "The system answer correctly identifies all 6 films directed by Christopher Nolan between 2000 and 2010, matching the nuggets provided."
+ },
+ "95bef856d4de3b1f4f396d56": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
+ },
+ "8454f20a78455da99562acd5": {
+  "correct": false,
+  "relevant_nugget_indices": [],
+  "reason": "Stage B failed: RuntimeError"
  }
 }

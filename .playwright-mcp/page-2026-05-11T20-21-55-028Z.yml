@@ -1,0 +1,831 @@
+- generic [active] [ref=e1]:
+  - paragraph
+  - generic [ref=e2]:
+    - paragraph
+    - generic [ref=e3]:
+      - list:
+        - listitem [ref=e4]:
+          - link "Home" [ref=e5] [cursor=pointer]:
+            - /url: ../index.html
+            - generic [ref=e6]: Home
+        - listitem [ref=e7]:
+          - link "Publications" [ref=e8] [cursor=pointer]:
+            - /url: ../publications/index.html
+            - generic [ref=e9]: Publications
+        - listitem [ref=e10]:
+          - link "Teaching" [ref=e11] [cursor=pointer]:
+            - /url: ../teaching/index.html
+            - generic [ref=e12]: Teaching
+        - listitem [ref=e13]:
+          - link "Archive" [ref=e14] [cursor=pointer]:
+            - /url: ../archives/index.html
+            - generic [ref=e15]: Archive
+        - listitem [ref=e16]:
+          - link "About Me" [ref=e17] [cursor=pointer]:
+            - /url: ../about/index.html
+            - generic [ref=e18]: About Me
+      - paragraph
+    - heading "Publications" [level=2] [ref=e20]
+    - paragraph [ref=e21]:
+      - text: Below my complete publication list. You may also check
+      - link "Google-Scholar" [ref=e22] [cursor=pointer]:
+        - /url: http://scholar.google.com/citations?user=bdoG6ScAAAAJ&hl=en
+      - text: ","
+      - link "Scopus" [ref=e23] [cursor=pointer]:
+        - /url: https://www.scopus.com/authid/detail.uri?authorId=8873518400
+      - text: ","
+      - link "DBLP" [ref=e24] [cursor=pointer]:
+        - /url: http://www.informatik.uni-trier.de/~ley/pers/hd/l/Lucchese:Claudio
+      - text: ","
+      - link "ACM" [ref=e25] [cursor=pointer]:
+        - /url: http://dl.acm.org/author_page.cfm?id=81324491771&coll=DL&dl=GUIDE&CFID=340911159&CFTOKEN=70493766
+      - text: ","
+      - link "Semantic Scholar" [ref=e26] [cursor=pointer]:
+        - /url: https://www.semanticscholar.org/author/Claudio-Lucchese/1730904
+      - text: .
+    - generic [ref=e27]:
+      - heading "Journals" [level=3] [ref=e28]: Journals
+      - generic [ref=e29]:
+        - paragraph [ref=e30]:
+          - generic [ref=e31]: "[1]"
+          - generic [ref=e32]: Trani, S., Losada, D.
+          - generic [ref=e33]: E., Lucchese, C., Perego, R.,
+          - generic [ref=e34]: Ceccarelli, D., and Orlando, S.
+          - text: "Sel: a uniﬁed algorithm for salient entity linking. Wiley Computational Intelligence 34, 1 (2018), 2–29. IF. 1.352."
+          - link "doi" [ref=e35] [cursor=pointer]:
+            - /url: https://doi.org/10.1111/coin.12147
+          - text: .
+        - paragraph [ref=e36]:
+          - generic [ref=e37]: "[2]"
+          - generic [ref=e38]: Lucchese, C., Nardini, F.
+          - generic [ref=e39]: M., Orlando, S., Perego, R.,
+          - generic [ref=e40]: Silvestri, F., and Trani, S.
+          - text: "X-cleaver: Learning ranking ensembles by growing and pruning trees. ACM Transactions on Intelligent Systems and Technology 9, 6 (2018), 62:1–62:26."
+          - link "doi" [ref=e41] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3205453
+          - text: .
+        - paragraph [ref=e42]:
+          - generic [ref=e43]: "[3]"
+          - generic [ref=e44]: Lettich, F., Lucchese, C., Nardini, F.
+          - generic [ref=e45]: M., Orlando, S.,
+          - generic [ref=e46]: Perego, R., Tonellotto, N., and Venturini, R.
+          - text: Parallel traversal of large ensembles of decision trees. IEEE Transactions on Parallel and Distributed Systems, In Press (2018).
+          - link "doi" [ref=e47] [cursor=pointer]:
+            - /url: https://doi.org/10.1109/TPDS.2018.2860982
+          - text: .
+        - paragraph [ref=e48]:
+          - generic [ref=e49]: "[4]"
+          - generic [ref=e50]: Lulli, A., Carlini, E., Dazzi, P., Lucchese, C., and Ricci,
+          - text: L. Fast connected components computation in large graphs by vertex pruning. IEEE Transactions on Parallel and Distributed Systems 28, 3 (2017), 760–773. IF. 3.971.
+          - link "doi" [ref=e51] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1109/TPDS.2016.2591038
+          - text: .
+        - paragraph [ref=e52]:
+          - generic [ref=e53]: "[5]"
+          - generic [ref=e54]: Coletto, M., Garimella, K., Gionis, A., and Lucchese, C.
+          - text: "Automatic controversy detection in social media: a content-independent motif-based approach. Elsevier Online Social Networks and Media 3–4 (2017), 22–31."
+          - link "doi" [ref=e55] [cursor=pointer]:
+            - /url: https://doi.org/10.1016/j.osnem.2017.10.001
+          - text: .
+        - paragraph [ref=e56]:
+          - generic [ref=e57]: "[6]"
+          - generic [ref=e58]: Coletto, M., Esuli, A., Lucchese, C., Muntean, C.
+          - text: I.,
+          - generic [ref=e59]: Nardini, F.
+          - generic [ref=e60]: M., Perego, R., and Renso, C.
+          - text: Perception of social phenomena through the multidimensional analysis of online social networks. Elsevier Online Social Networks and Media 1 (2017), 14 – 32.
+          - link "doi" [ref=e61] [cursor=pointer]:
+            - /url: https://doi.org/10.1016/j.osnem.2017.03.001
+          - text: .
+        - paragraph [ref=e62]:
+          - generic [ref=e63]: "[7]"
+          - generic [ref=e64]: Coletto, M., Aiello, L.
+          - generic [ref=e65]: M., Lucchese, C., and Silvestri, F.
+          - text: Adult content consumption in online social networks. Springer Social Network Analysis and Mining 7, 1 (2017), 28.
+          - link "doi" [ref=e66] [cursor=pointer]:
+            - /url: https://doi.org/10.1007/s13278-017-0449-y
+          - text: .
+        - paragraph [ref=e67]:
+          - generic [ref=e68]: "[8]"
+          - generic [ref=e69]: Dato, D., Lucchese, C., Nardini, F.
+          - generic [ref=e70]: M., Orlando, S.,
+          - generic [ref=e71]: Perego, R., Tonellotto, N., and Venturini, R.
+          - text: Fast ranking with additive ensembles of oblivious and non-oblivious regression trees. ACM Transactions on Information Systems 35, 2 (2016), 15:1–15:31. IF. 2.312.
+          - link "doi" [ref=e72] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/2987380
+          - text: .
+        - paragraph [ref=e73]:
+          - generic [ref=e74]: "[9]"
+          - generic [ref=e75]: Capannini, G., Lucchese, C., Nardini, F.
+          - generic [ref=e76]: M., Orlando, S.,
+          - generic [ref=e77]: Perego, R., and Tonellotto, N.
+          - text: Quality versus eﬃciency in document scoring with learning-to-rank models. Information Processing & Management (2016). IF. 2.391.
+          - link "doi" [ref=e78] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1016/j.ipm.2016.05.004
+          - text: .
+        - paragraph [ref=e79]:
+          - generic [ref=e80]: "[10]"
+          - generic [ref=e81]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: A unifying framework for mining approximate top-k binary patterns. IEEE Transactions On Knowledge and Data Engineering 26, 12 (2014), 2900–2913. IF. 2.067.
+          - link "doi" [ref=e82] [cursor=pointer]:
+            - /url: http://doi.ieeecomputersociety.org/10.1109/TKDE.2013.181
+          - text: .
+        - paragraph [ref=e83]:
+          - generic [ref=e84]: "[11]"
+          - generic [ref=e85]: Freris, N.
+          - generic [ref=e86]: M., Lucchese, C., Vlachos, M., and Zoumpoulis,
+          - text: S. Right-protected data publishing with provable distance-based mining. IEEE Transactions On Knowledge and Data Engineering 26, 8 (2014), 2014–2028. IF. 2.067.
+          - link "doi" [ref=e87] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1109/TKDE.2013.90
+          - text: .
+        - paragraph [ref=e88]:
+          - generic [ref=e89]: "[12]"
+          - generic [ref=e90]: Lucchese, C., Orlando, S., Perego, R., Silvestri, F., and
+          - generic [ref=e91]: Tolomei, G.
+          - text: Discovering tasks from search engine query logs. ACM Trans. Inf. Syst. 31, 3 (2013), 14. (ACM Notable Article), IF. 1.300.
+          - link "doi" [ref=e92] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1145/2493175.2493179
+          - text: .
+        - paragraph [ref=e93]:
+          - generic [ref=e94]: "[13]"
+          - generic [ref=e95]: Falchi, F., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e96]: Rabitti, F.
+          - text: Similarity caching in large-scale image retrieval. Information Processing & Management (Special Issue on Large-Scale and Distributed Systems for Information Retrieval) 48, 5 (2012), 803–818. IF. 0.817.
+          - link "doi" [ref=e97] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1016/j.ipm.2010.12.006
+          - text: .
+        - paragraph [ref=e98]:
+          - generic [ref=e99]: "[14]"
+          - generic [ref=e100]: Lucchese, C., Rayan, D., Vlachos, M., and Yu, P.
+          - text: S. Rights protection of trajectory datasets with nearest-neighbor preservation. VLDB Journal 19, 4 (2010), 531–556. IF. 2.198.
+          - link "doi" [ref=e101] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/s00778-010-0178-6
+          - text: .
+        - paragraph [ref=e102]:
+          - generic [ref=e103]: "[15]"
+          - generic [ref=e104]: Lucchese, C., Mastroianni, C., Orlando, S., and Talia,
+          - text: "D. Mining@home: Towards a public resource computing framework for distributed data mining. Concurrency and Computation: Practice and Experience 22, 5 (2010), 658–682. IF. 0.907."
+          - link "doi" [ref=e105] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1002/cpe.1545
+          - text: .
+        - paragraph [ref=e106]:
+          - generic [ref=e107]: "[16]"
+          - generic [ref=e108]: Batko, M., Falchi, F., Lucchese, C., Novak, D., Perego, R.,
+          - generic [ref=e109]: Rabitti, F., Sedmidubsky, J., and Zezula, P.
+          - text: Building a web-scale image similarity search system. Multimedia Tools and Applications 47, 3 (2010), 599–629. IF. 0.885.
+          - link "doi" [ref=e110] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/s11042-009-0339-z
+          - text: .
+        - paragraph [ref=e111]:
+          - generic [ref=e112]: "[17]"
+          - generic [ref=e113]: Kozat, S.
+          - generic [ref=e114]: S., Vlachos, M., Lucchese, C., Herle, H.
+          - text: V.,
+          - generic [ref=e115]: and Yu, P.
+          - text: S. Embedding and retrieving private metadata in electrocardiograms. Journal of Medical Systems 33, 4 (2009), 241–259. IF. 0.654.
+          - link "doi" [ref=e116] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/s10916-008-9185-1
+          - text: .
+        - paragraph [ref=e117]:
+          - generic [ref=e118]: "[18]"
+          - generic [ref=e119]: Bonchi, F., Giannotti, F., Lucchese, C., Orlando, S.,
+          - generic [ref=e120]: Perego, R., and Trasarti, R.
+          - text: A constraint-based querying system for exploratory pattern discovery. Information Systems 34, 1 (2009), 3–27. IF. 1.966.
+          - link "doi" [ref=e121] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1016/j.is.2008.02.007
+          - text: .
+        - paragraph [ref=e122]:
+          - generic [ref=e123]: "[19]"
+          - generic [ref=e124]: Bonchi, F., and Lucchese, C.
+          - text: Extending the state-of-the-art of constraint-based pattern discovery. Data and Knowledge Engineering 60, 2 (2007), 377–399. IF. 1.144.
+          - link "doi" [ref=e125] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1016/j.datak.2006.02.006
+          - text: .
+        - paragraph [ref=e126]:
+          - generic [ref=e127]: "[20]"
+          - generic [ref=e128]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: Fast and memory eﬃcient mining of frequent closed itemsets. IEEE Transactions On Knowledge and Data Engineering 18, 1 (2006), 21–36. IF. 2.063.
+          - link "doi" [ref=e129] [cursor=pointer]:
+            - /url: http://doi.ieeecomputersociety.org/10.1109/TKDE.2006.10
+          - text: .
+        - paragraph [ref=e130]:
+          - generic [ref=e131]: "[21]"
+          - generic [ref=e132]: Bonchi, F., and Lucchese, C.
+          - text: On condensed representations of constrained frequent patterns. Knowledge and Information Systems 9, 2 (2006), 180–201. IF. 0.833.
+          - link "doi" [ref=e133] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/s10115-005-0201-1
+          - text: .
+    - generic [ref=e134]:
+      - heading "Conferences" [level=3] [ref=e135]: Conferences
+      - generic [ref=e136]:
+        - paragraph [ref=e137]:
+          - generic [ref=e138]: "[22]"
+          - generic [ref=e139]: Lucchese, C., Nardini, F.
+          - generic [ref=e140]: M., Pasumarthi, R.
+          - generic [ref=e141]: K., Bruch,
+          - generic [ref=e142]: S., Bendersky, M., Wang, X., Oosterhuis, H., Jagerman, R.,
+          - generic [ref=e143]: and de
+          - generic [ref=e144]: Rijke, M.
+          - text: "Learning to rank in theory and practice: From gradient boosting to neural networks and unbiased learning. In SIGIR ’19: Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (2019), ACM, pp. 1419–1420. (Tutorial)."
+          - link "doi" [ref=e145] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3331184.3334824
+          - text: .
+        - paragraph [ref=e146]:
+          - generic [ref=e147]: "[23]"
+          - generic [ref=e148]: Calzavara, S., Lucchese, C., and Tolomei, G.
+          - text: "Adversarial training of gradient-boosted decision trees. In CIKM ’19: Proceedings of the The 28th ACM International Conference on Information and Knowledge Management (2019). (Short), (acceptance 21.3%)."
+        - paragraph [ref=e149]:
+          - generic [ref=e150]: "[24]"
+          - generic [ref=e151]: Lucchese, C., Nardini, F.
+          - generic [ref=e152]: M., Perego, R., Trani, R., and
+          - generic [ref=e153]: Venturini, R.
+          - text: "Eﬃcient and eﬀective query expansion for web search. In CIKM ’18: Proceedings of the The 27th ACM International Conference on Information and Knowledge Management (2018). (Short), (acceptance 23.4%)."
+        - paragraph [ref=e154]:
+          - generic [ref=e155]: "[25]"
+          - generic [ref=e156]: Lucchese, C., Nardini, F.
+          - generic [ref=e157]: M., Orlando, S., Perego, R.,
+          - generic [ref=e158]: and Trani, S.
+          - text: "Selective gradient boosting for eﬀective learning to rank. In SIGIR ’18: Proceedings of the 41th International ACM SIGIR Conference on Research and Development in Information Retrieval (2018). (acceptance 21%)."
+        - paragraph [ref=e159]:
+          - generic [ref=e160]: "[26]"
+          - generic [ref=e161]: Lucchese, C., and Nardini, F.
+          - text: "M. Eﬃciency/eﬀectiveness trade-oﬀs in learning to rank. In ECML PKDD ’18: Machine Learning and Knowledge Discovery in Databases - European Conference (2018). (Tutorial)."
+        - paragraph [ref=e162]:
+          - generic [ref=e163]: "[27]"
+          - generic [ref=e164]: Ferro, N., Lucchese, C., Maistro, M., and Perego, R.
+          - text: "Continuation methods and curriculum learning for learning to rank. In CIKM ’18: Proceedings of the The 27th ACM International Conference on Information and Knowledge Management (2018). (Short), (acceptance 23.4%)."
+        - paragraph [ref=e165]:
+          - generic [ref=e166]: "[28]"
+          - generic [ref=e167]: Ruback, L., Casanova, M.
+          - generic [ref=e168]: A., Lucchese, C., and Renso, C.
+          - text: "SELEcTor: Discovering similar entities on linked data by ranking their features. In ICSC ’17: IEEE International Conference on Semantic Computing (2017). (acceptance 20%)."
+        - paragraph [ref=e169]:
+          - generic [ref=e170]: "[29]"
+          - generic [ref=e171]: Lucchese, C., Nardini, F.
+          - generic [ref=e172]: M., Orlando, S., Perego, R., and
+          - generic [ref=e173]: Trani, S.
+          - text: "X-dart: Blending dropouts and pruning for eﬃcient learning to rank. In SIGIR ’17: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (2017). (Short), (acceptance 30%)."
+        - paragraph [ref=e174]:
+          - generic [ref=e175]: "[30]"
+          - generic [ref=e176]: Lucchese, C., and Nardini, F.
+          - text: "M. Eﬃciency/eﬀectiveness trade-oﬀs in learning to rank. In ICTIR ’17: Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval, Amsterdam, The Netherlands (2017), ACM, pp. 329–330. (Tutorial)."
+          - link "doi" [ref=e177] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3121050.3121109
+          - text: .
+        - paragraph [ref=e178]:
+          - generic [ref=e179]: "[31]"
+          - generic [ref=e180]: Lucchese, C., Muntean, C.
+          - generic [ref=e181]: I., Nardini, F.
+          - generic [ref=e182]: M., Perego, R.,
+          - generic [ref=e183]: and Trani, S.
+          - text: "Rankeval: An evaluation and analysis framework for learning-to-rank solutions. In SIGIR ’17: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (2017). (Demo), (acceptance 47%)."
+        - paragraph [ref=e184]:
+          - generic [ref=e185]: "[32]"
+          - generic [ref=e186]: Ferro, N., Lucchese, C., Maistro, M., and Perego, R.
+          - text: "On including the user dynamic in learning to rank. In SIGIR ’17: Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (2017). (Short), (acceptance 30%)."
+        - paragraph [ref=e187]:
+          - generic [ref=e188]: "[33]"
+          - generic [ref=e189]: Coletto, M., Garimella, K., Gionis, A., and Lucchese, C.
+          - text: "A motif-based approach for identifying controversy. In ICWSM ’17: International AAAI Conference on Web and Social Media (2017). (Short)."
+        - paragraph [ref=e190]:
+          - generic [ref=e191]: "[34]"
+          - generic [ref=e192]: Zneika, M., Lucchese, C., Vodislav, D., and Kotzinos, D.
+          - text: "Summarizing linked data rdf graphs using approximate graph pattern mining. In EDBT ’16: Proceedings of the 19th International Conference on Extending Database Technology (2016). (poster)."
+        - paragraph [ref=e193]:
+          - generic [ref=e194]: "[35]"
+          - generic [ref=e195]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Evaluating top-k approximate patterns via text clustering. In DAWAK ’16: 18th International Conference on Data Warehousing and Knowledge Discovery (2016)."
+        - paragraph [ref=e196]:
+          - generic [ref=e197]: "[36]"
+          - generic [ref=e198]: Lucchese, C., Nardini, F.
+          - generic [ref=e199]: M., Orlando, S., and Tolomei, G.
+          - text: "Learning to rank user queries to detect search tasks. In ICTIR ’16: International Conference on the Theory of Information Retrieval (2016)."
+        - paragraph [ref=e200]:
+          - generic [ref=e201]: "[37]"
+          - generic [ref=e202]: Lucchese, C., Nardini, F.
+          - generic [ref=e203]: M., Orlando, S., Perego, R.,
+          - generic [ref=e204]: Tonellotto, N., and Venturini, R.
+          - text: "Exploiting cpu simd extensions to speed-up document scoring with tree ensembles. In SIGIR ’16: Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (2016). (Short)."
+        - paragraph [ref=e205]:
+          - generic [ref=e206]: "[38]"
+          - generic [ref=e207]: Lucchese, C., Nardini, F.
+          - generic [ref=e208]: M., Orlando, S., Perego, R.,
+          - generic [ref=e209]: Silvestri, F., and Trani, S.
+          - text: "Post-learning optimization of tree ensembles for eﬃcient ranking. In SIGIR ’16: Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (2016). (Short)."
+        - paragraph [ref=e210]:
+          - generic [ref=e211]: "[39]"
+          - generic [ref=e212]: Gigli, A., Lucchese, C., Nardini, F.
+          - generic [ref=e213]: M., and Perego, R.
+          - text: "Fast feature selection for learning to rank. In ICTIR ’16: International Conference on the Theory of Information Retrieval (2016). (Short)."
+        - paragraph [ref=e214]:
+          - generic [ref=e215]: "[40]"
+          - generic [ref=e216]: Coletto, M., Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Polarized user and topic tracking in twitter. In SIGIR ’16: Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (2016). (Short)."
+        - paragraph [ref=e217]:
+          - generic [ref=e218]: "[41]"
+          - generic [ref=e219]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e220]: Trani, S.
+          - text: "SEL: a uniﬁed algorithm for entity linking and saliency detection. In DocEng ’16: Proceedings of the 2015 ACM Symposium on Document Engineering (2016). ((best student paper))."
+        - paragraph [ref=e221]:
+          - generic [ref=e222]: "[42]"
+          - generic [ref=e223]: Aiello, L.
+          - generic [ref=e224]: M., Coletto, M., Lucchese, C., and Silvestri, F.
+          - text: "On the behaviour of deviant communities in online social networks. In ICWSM ’16: International AAAI Conference on Web and Social Media (2016)."
+        - paragraph [ref=e225]:
+          - generic [ref=e226]: "[43]"
+          - generic [ref=e227]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Supervised evaluation of top-k itemset mining algorithms. In DAWAK ’15: 17th International Conference on Data Warehousing and Knowledge Discovery (2015)."
+        - paragraph [ref=e228]:
+          - generic [ref=e229]: "[44]"
+          - generic [ref=e230]: Lucchese, C., Nardini, F.
+          - generic [ref=e231]: M., Orlando, S., Perego, R.,
+          - generic [ref=e232]: Tonellotto, N., and Venturini, R.
+          - text: "Quickscorer: a fast algorithm to rank documents with additive ensembles of regression trees. In SIGIR ’15: Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (2015). (best paper) (ACM Notable Article)."
+        - paragraph [ref=e233]:
+          - generic [ref=e234]: "[45]"
+          - generic [ref=e235]: Lucchese, C., Nardini, F.
+          - generic [ref=e236]: M., Orlando, S., Perego, R., and
+          - generic [ref=e237]: Tonellotto, N.
+          - text: "Speeding up document ranking with rank-based features. In SIGIR ’15: Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval (2015). (Short)."
+        - paragraph [ref=e238]:
+          - generic [ref=e239]: "[46]"
+          - generic [ref=e240]: Coletto, M., Lucchese, C., Orlando, S., Perego, R., Chessa,
+          - generic [ref=e241]: A., and Puliga, M.
+          - text: "Twitter for election forecasts: a joint machine learning and complex network approach applied to an italian case study. In IC2S2 ’15: Proceedings of the International Conference on Computational Social Science (2015). (poster)."
+        - paragraph [ref=e242]:
+          - generic [ref=e243]: "[47]"
+          - generic [ref=e244]: Carlini, E., Dazzi, P., Lulli, A., Lucchese, C., and Ricci,
+          - text: "L. Cracker: Crumbling large graphs into connected components. In ISCC ’15: Proceedings of the 20th IEEE Symposium on Computers and Communications (2015)."
+        - paragraph [ref=e245]:
+          - generic [ref=e246]: "[48]"
+          - generic [ref=e247]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R.,
+          - generic [ref=e248]: and Trani, S.
+          - text: "Manual annotation of semi-structured documents for entity-linking. In CIKM ’14: Proceedings of the 23rd ACM Intl. Conference on Information and Knowledge Management (2014), pp. 2075–2077. (Demo)."
+        - paragraph [ref=e249]:
+          - generic [ref=e250]: "[49]"
+          - generic [ref=e251]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R.,
+          - generic [ref=e252]: and Trani, S.
+          - text: "Dexter 2.0 – an open source tool for semantically enriching data. In ISWC ’14: Proceedings of the 13th Intl. Semantic Web Conference (2014), pp. 417–420. (Demo)."
+        - paragraph [ref=e253]:
+          - generic [ref=e254]: "[50]"
+          - generic [ref=e255]: Lucchese, C., Orlando, S., Perego, R., Silvestri, F., and
+          - generic [ref=e256]: Tolomei, G.
+          - text: "Modeling and predicting the task-by-task behavior of search engine users. In OAIR ’13: Proceedings of the 10th Conference on Open Research Areas in Information Retrieval (2013), pp. 77–84."
+        - paragraph [ref=e257]:
+          - generic [ref=e258]: "[51]"
+          - generic [ref=e259]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e260]: Trani, S.
+          - text: "Learning relatedness measures for entity linking. In CIKM ’13: Proceedings of the 22st ACM international conference on Information and knowledge management (2013). (acceptance 16.9%)."
+          - link "doi" [ref=e261] [cursor=pointer]:
+            - /url: http://dl.acm.org/citation.cfm?id=2505711
+          - text: .
+        - paragraph [ref=e262]:
+          - generic [ref=e263]: "[52]"
+          - generic [ref=e264]: Ceccarelli, D., Gordea, S., Lucchese, C., Nardini, F.
+          - text: M.,
+          - generic [ref=e265]: and Perego, R.
+          - text: "When entities meet query recommender systems: semantic search shortcuts. In Proceedings of the 28th Annual ACM Symposium on Applied Computing (2013), pp. 933–938."
+        - paragraph [ref=e266]:
+          - generic [ref=e267]: "[53]"
+          - generic [ref=e268]: Morales, G. D.
+          - generic [ref=e269]: F., Gionis, A., and Lucchese, C.
+          - text: "From chatter to headlines: Harnessing the real-time web for personalized news recommendation. In WSDM ’12: ACM International Conference on Web Search and Data Mining (2012). (acceptance 20.7%)."
+          - link "doi" [ref=e270] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1145/2124295.2124315
+          - text: .
+        - paragraph [ref=e271]:
+          - generic [ref=e272]: "[54]"
+          - generic [ref=e273]: Lucchese, C., Perego, R., Silvestri, F., Vahabi, H., and
+          - generic [ref=e274]: Venturini, R.
+          - text: "How random walks can help tourism. In ECIR ’12: Proceedings of the 34th European conference on Advances in Information Retrieval (2012), pp. 195–206. (Short), (acceptance 21%)."
+          - link "doi" [ref=e275] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/978-3-642-28997-2_17
+          - text: .
+        - paragraph [ref=e276]:
+          - generic [ref=e277]: "[55]"
+          - generic [ref=e278]: Blanco, R., Ceccarelli, D., Lucchese, C., Perego, R.,
+          - generic [ref=e279]: and Silvestri, F.
+          - text: "You should read this! let me explain you why: explaining news recommendations to users. In CIKM ’12: Proceedings of the 21st ACM international conference on Information and knowledge management (2012), pp. 1995–1999. (Short), (acceptance 27.8%)."
+          - link "doi" [ref=e280] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/2396761.2398559
+          - text: .
+        - paragraph [ref=e281]:
+          - generic [ref=e282]: "[56]"
+          - generic [ref=e283]: Lucchese, C., Orlando, S., Perego, R., Silvestri, F., and
+          - generic [ref=e284]: Tolomei, G.
+          - text: "Identifying task-based sessions in search engine query logs. In WSDM ’11: ACM International Conference on Web Search and Data Mining (February 2011). (best 6), (acceptance 22%)."
+          - link "doi" [ref=e285] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1935826.1935875
+          - text: .
+        - paragraph [ref=e286]:
+          - generic [ref=e287]: "[57]"
+          - generic [ref=e288]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e289]: Silvestri, F.
+          - text: "Caching query-biased snippets for eﬃcient retrieval. In EDBT ’11: ACM 14th International Conference on Extending Database Technology (2011), pp. 93–104."
+        - paragraph [ref=e290]:
+          - generic [ref=e291]: "[58]"
+          - generic [ref=e292]: Ceccarelli, D., Gordea, S., Lucchese, C., Nardini, F.
+          - text: M.,
+          - generic [ref=e293]: and Tolomei, G.
+          - text: "Improving europeana search experience using query logs. In TPDL ’11: International Conference on Theory and Practice of Digital Libraries (Septemebr 2011)."
+        - paragraph [ref=e294]:
+          - generic [ref=e295]: "[59]"
+          - generic [ref=e296]: Boley, M., Lucchese, C., Paurat, D., and G
+          - generic [ref=e297]: ärtner, T.
+          - text: "Direct local pattern sampling by eﬃcient two-step random procedures. In KDD ’11: Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (August 21-24 2011), pp. 582–590. (VQR: 0.7), (acceptance 7.8%)."
+          - link "doi" [ref=e298] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/2020408.2020500
+          - text: .
+        - paragraph [ref=e299]:
+          - generic [ref=e300]: "[60]"
+          - generic [ref=e301]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Mining top-k patterns from binary datasets in presence of noise. In SDM ’10: Proceedings of the 2010 SIAM International Conference on Data Mining (April 2010). (best 12), (VQR: 1), (acceptance 24%)."
+          - link "doi" [ref=e302] [cursor=pointer]:
+            - /url: http://www.siam.org/proceedings/datamining/2010/dm10_015_lucchesec.pdf
+          - text: .
+        - paragraph [ref=e303]:
+          - generic [ref=e304]: "[61]"
+          - generic [ref=e305]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "A generative pattern model for mining binary datasets. In SAC ’10: Proceedings of the 25"
+          - superscript [ref=e306]: th
+          - text: ACM Symposium on Applied Computing (March 2010). (poster), (acceptance 33%).
+          - link "doi" [ref=e307] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1774088.1774320
+          - text: .
+        - paragraph [ref=e308]:
+          - generic [ref=e309]: "[62]"
+          - generic [ref=e310]: Baraglia, R., Lucchese, C., and De Francisci Morales, G.
+          - text: "Document similarity self-join with mapreduce. In ICDM ’10: Proceedings of the tenth IEEE International Conference on Data Mining (December 2010). (Short), (acceptance 19%)."
+          - link "doi" [ref=e311] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1109/ICDM.2010.70
+          - text: .
+        - paragraph [ref=e312]:
+          - generic [ref=e313]: "[63]"
+          - generic [ref=e314]: Falchi, F., Lucchese, C., Orlando, S., Perego, R.,
+          - generic [ref=e315]: and Rabitti, F.
+          - text: "Caching content-based queries for robust and eﬃcient image retrieval. In EDBT ’09: Proceedings of the twelfth International Conference on Extending Database Technology (March 2009), pp. 780–790. (VQR: 0.8), (acceptance 32%)."
+          - link "doi" [ref=e316] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1516360.1516450
+          - text: .
+        - paragraph [ref=e317]:
+          - generic [ref=e318]: "[64]"
+          - generic [ref=e319]: Lucchese, C., Rayan, D., Vlachos, M., and Yu, P.
+          - text: "S. Rights protection of multidimensional time-series datasets with neighborhood preservation. In ICDE ’08: Proceedings of the 2008 IEEE International Conference on Data Engineering (2008), pp. 1349–1351. (poster), (acceptance 31%)."
+          - link "doi" [ref=e320] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1109/ICDE.2008.4497552
+          - text: .
+        - paragraph [ref=e321]:
+          - generic [ref=e322]: "[65]"
+          - generic [ref=e323]: Lucchese, C., Rayan, D., Vlachos, M., and Yu, P.
+          - text: "S. Ownership protection of shapes with geodesic distance preservation. In EDBT ’08: Proceedings of the eleventh International Conference on Extending Database Technology (2008), pp. 276–286. (VQR: 0.8), (acceptance 17%)."
+          - link "doi" [ref=e324] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1353343.1353379
+          - text: .
+        - paragraph [ref=e325]:
+          - generic [ref=e326]: "[66]"
+          - generic [ref=e327]: Falchi, F., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e328]: Rabitti, F.
+          - text: A metric cache for similarity search. In Proceedings of the 2008 ACM workshop on Large-Scale distributed systems for information retrieval (2008), ACM, pp. 43–50.
+        - paragraph [ref=e329]:
+          - generic [ref=e330]: "[67]"
+          - generic [ref=e331]: Baraglia, R., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e332]: Silvestri, F.
+          - text: "(Query) History teaches everything, including the future. In LA-WEB ’08: Proceedings of the sixth Latin American Web Congress (Invited) (2008), pp. 12–22. (invited)."
+          - link "doi" [ref=e333] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1109/LA-WEB.2008.21
+          - text: .
+        - paragraph [ref=e334]:
+          - generic [ref=e335]: "[68]"
+          - generic [ref=e336]: Lucchese, C., Orlando, S., Perego, R., and Silvestri, F.
+          - text: "Mining query logs to optimize index partitioning in parallel web search engines. In INFOSCALE ’07: Proceedings of the Second International Conference on Scalable Information Systems (June 2007). (acceptance 16%)."
+          - link "doi" [ref=e337] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1366804.1366860
+          - text: .
+        - paragraph [ref=e338]:
+          - generic [ref=e339]: "[69]"
+          - generic [ref=e340]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Parallel mining of frequent closed patterns: Harnessing modern computer architectures. In ICDM ’07: Proceedings of the Seventh IEEE International Conference on Data Mining (November 2007), pp. 242–251. (VQR: 1), (acceptance 7%)."
+          - link "doi" [ref=e341] [cursor=pointer]:
+            - /url: http://doi.ieeecomputersociety.org/10.1109/ICDM.2007.13
+          - text: .
+        - paragraph [ref=e342]:
+          - generic [ref=e343]: "[70]"
+          - generic [ref=e344]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Mining frequent closed itemsets out of core. In SDM ’06: Proceedings of the third SIAM International Conference on Data Mining (April 2006). (acceptance 16%)."
+          - link "doi" [ref=e345] [cursor=pointer]:
+            - /url: http://www.siam.org/meetings/sdm06/proceedings/038lucchesec.pdf
+          - text: .
+        - paragraph [ref=e346]:
+          - generic [ref=e347]: "[71]"
+          - generic [ref=e348]: Bonchi, F., Giannotti, F., Lucchese, C., Orlando, S.,
+          - generic [ref=e349]: Perego, R., and Trasarti, R.
+          - text: "Conquest: a constraint-based querying system for exploratory pattern discovery. In ICDE ’06: Proceedings of the 2006 IEEE International Conference on Data Engineering (Demo) (2006), pp. 159–160."
+        - paragraph [ref=e350]:
+          - generic [ref=e351]: "[72]"
+          - generic [ref=e352]: Baraglia, R., Lucchese, C., Orlando, S., Serran
+          - generic [ref=e353]: ò, M., and
+          - generic [ref=e354]: Silvestri, F.
+          - text: "A privacy preserving web recommender system. In SAC ’06: Proceedings of the 21st ACM Symposium on Applied Computing (April 2006), pp. 559–563. (acceptance 32%)."
+          - link "doi" [ref=e355] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1141277.1141407
+          - text: .
+        - paragraph [ref=e356]:
+          - generic [ref=e357]: "[73]"
+          - generic [ref=e358]: Bonchi, F., and Lucchese, C.
+          - text: "Pushing tougher constraints in frequent pattern mining. In PAKDD ’05: Proceedings of the Ninth Paciﬁc-Asia Conference on Knowledge Discovery and Data Mining (Hanoi, Vietnam, May 2005), pp. 114–124. (acceptance 15%)."
+          - link "doi" [ref=e359] [cursor=pointer]:
+            - /url: http://dx.doi.org/10.1007/11430919_15
+          - text: .
+        - paragraph [ref=e360]:
+          - generic [ref=e361]: "[74]"
+          - generic [ref=e362]: Bonchi, F., and Lucchese, C.
+          - text: "On closed constrained frequent pattern mining. In ICDM ’04: Proceedings of the Fourth IEEE International Conference on Data Mining (November 2004), pp. 35–42. (acceptance 9%)."
+          - link "doi" [ref=e363] [cursor=pointer]:
+            - /url: http://csdl.computer.org/comp/proceedings/icdm/2004/2142/00/21420035abs.htm
+          - text: .
+    - generic [ref=e364]:
+      - heading "Workshops, Chapters in Books and other publications" [level=3] [ref=e365]: Workshops, Chapters in Books and other publications
+      - generic [ref=e366]:
+        - paragraph [ref=e367]:
+          - generic [ref=e368]: "[75]"
+          - generic [ref=e369]: Coletto, M., and Lucchese, C.
+          - text: Social–Spatiotemporal Analysis of Topical and Polarized Communities in Online Social Networks. Springer New York, New York, NY, 2017, pp. 1–16.
+        - paragraph [ref=e370]:
+          - generic [ref=e371]: "[76]"
+          - generic [ref=e372]: Coletto, M., Lucchese, C., and Orlando, S.
+          - text: "Do violent people smile: Social media analysis of their proﬁle pictures. In Companion of the The Web Conference 2018 on The Web Conference 2018, WWW 2018, Lyon , France, April 23-27, 2018 (2018), ACM, pp. 1465–1468."
+          - link "doi" [ref=e373] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3184558.3191594
+          - text: .
+        - paragraph [ref=e374]:
+          - generic [ref=e375]: "[77]"
+          - generic [ref=e376]: Pollacci, L., S
+          - generic [ref=e377]: îrbu, A., Giannotti, F., Pedreschi, D.,
+          - generic [ref=e378]: Lucchese, C., and Muntean, C.
+          - text: "I. Sentiment spreading: An epidemic model for lexicon-based sentiment analysis on twitter. In AI*IA 2017 Advances in Artiﬁcial Intelligence - XVIth International Conference of the Italian Association for Artiﬁcial Intelligence, Bari, Italy, November 14-17, 2017, Proceedings (2017), vol. 10640 of Lecture Notes in Computer Science, Springer, pp. 114–127."
+          - link "doi" [ref=e379] [cursor=pointer]:
+            - /url: https://doi.org/10.1007/978-3-319-70169-1_9
+          - text: .
+        - paragraph [ref=e380]:
+          - generic [ref=e381]: "[78]"
+          - generic [ref=e382]: Lucchese, C., Nardini, F.
+          - generic [ref=e383]: M., Perego, R., and Trani, S.
+          - text: The impact of negative samples on learning to rank. In Proceedings of the 1st International Workshop on LEARning Next gEneration Rankers co-located with the 3rd ACM International Conference on the Theory of Information Retrieval (ICTIR 2017), Amsterdam, The Netherlands, October 1, 2017. (2017), CEUR Workshop Proceedings, CEUR-WS.org.
+        - paragraph [ref=e384]:
+          - generic [ref=e385]: "[79]"
+          - generic [ref=e386]: Lettich, F., Lucchese, C.,
+          - generic [ref=e387]: Nardini, F.
+          - generic [ref=e388]: M., Orlando, S., Perego, R., Tonellotto, N., and
+          - generic [ref=e389]: Venturini, R.
+          - text: Multicore/manycore parallel traversal of large forests of regression trees. In 2017 International Conference on High Performance Computing & Simulation, HPCS 2017, Genoa, Italy, July 17-21, 2017 (2017), IEEE, p. 915.
+          - link "doi" [ref=e390] [cursor=pointer]:
+            - /url: https://doi.org/10.1109/HPCS.2017.154
+          - text: .
+        - paragraph [ref=e391]:
+          - generic [ref=e392]: "[80]"
+          - generic [ref=e393]: Ferro, N., Lucchese, C., Maistro, M., and Perego, R.
+          - text: "Report on LEARNER 2017: 1st international workshop on learning next generation rankers. SIGIR Forum 51, 3 (2017), 145–151."
+          - link "doi" [ref=e394] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3190580.3190602
+          - text: .
+        - paragraph [ref=e395]:
+          - generic [ref=e396]: "[81]"
+          - generic [ref=e397]: Ferro, N., Lucchese, C., Maistro, M., and Perego, R.
+          - text: Learning next generation rankers (LEARNER 2017). In Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval, ICTIR 2017, Amsterdam, The Netherlands, October 1-4, 2017 (2017), ACM, pp. 331–332.
+          - link "doi" [ref=e398] [cursor=pointer]:
+            - /url: https://doi.org/10.1145/3121050.3121110
+          - text: .
+        - paragraph [ref=e399]:
+          - generic [ref=e400]: "[82]"
+          - generic [ref=e401]: Lucchese, C., Nardini, F.
+          - generic [ref=e402]: M., Orlando, S., Perego, R.,
+          - generic [ref=e403]: Tonellotto, N., and Venturini, R.
+          - text: "Speeding-up document scoring with tree ensembles using cpu simd extensions. IIR ’16: 7th Italian Information Retrieval Workshop (2016)."
+        - paragraph [ref=e404]:
+          - generic [ref=e405]: "[83]"
+          - generic [ref=e406]: Lucchese, C., Nardini, F.
+          - generic [ref=e407]: M., Orlando, S., Perego, R.,
+          - generic [ref=e408]: Tonellotto, N., and Venturini, R.
+          - text: "Ranking documents eﬃciently with quickscorer. In SEBD ’16: Proceedings of the 24th Italian Symposium on Advanced Database Systems (June 2016)."
+        - paragraph [ref=e409]:
+          - generic [ref=e410]: "[84]"
+          - generic [ref=e411]: Lucchese, C., Nardini, F.
+          - generic [ref=e412]: M., Orlando, S., Perego, R.,
+          - generic [ref=e413]: Silvestri, F., and Trani, S.
+          - text: "Post-learning optimization of tree ensembles. IIR ’16: 7th Italian Information Retrieval Workshop (2016)."
+        - paragraph [ref=e414]:
+          - generic [ref=e415]: "[85]"
+          - generic [ref=e416]: Lettich, F., Lucchese, C., Nardini, F.
+          - generic [ref=e417]: M., Orlando, S.,
+          - generic [ref=e418]: Perego, R., Tonellotto, N., and Venturini, R.
+          - text: "Gpu-based parallelization of quickscorer to speed-up document ranking with tree ensembles. IIR ’16: 7th Italian Information Retrieval Workshop (2016)."
+        - paragraph [ref=e419]:
+          - generic [ref=e420]: "[86]"
+          - generic [ref=e421]: Coletto, M., Esuli, A., Lucchese, C., Muntean, C.
+          - text: I.,
+          - generic [ref=e422]: Nardini, F.
+          - generic [ref=e423]: M., Perego, R., and Renso, C.
+          - text: "Sentiment-enhanced multidimensional analysis of online social networks: Perception of the mediterranean refugees crisis. SNAST ’16: Workshop on Social Network Analysis Surveillance Technologies, colocated with ASONAM ’16: IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (2016)."
+        - paragraph [ref=e424]:
+          - generic [ref=e425]: "[87]"
+          - generic [ref=e426]: Zneika, M., Lucchese, C., Vodislav, D., and Kotzinos, D.
+          - text: "Rdf graph summarization based on approximate patterns. In ISIP ’15: PostProceeding of the 9th International Workshop on Information Search, Integration and Personalization (2015), Springer CCIS Series."
+        - paragraph [ref=e427]:
+          - generic [ref=e428]: "[88]"
+          - generic [ref=e429]: Coletto, M., Lucchese, C., Orlando, S., Perego, R., Chessa,
+          - generic [ref=e430]: A., and Puliga, M.
+          - text: "Twitter for election forecasts: a joint machine learning and complex network approach applied to an italian case study. ISTI 2015-TR-009: Poster accepted at ICCSS 2015 (2015)."
+        - paragraph [ref=e431]:
+          - generic [ref=e432]: "[89]"
+          - generic [ref=e433]: Coletto, M., Lucchese, C., Orlando, S., and Perego, R.
+          - text: "Electoral predictions with twitter: a machine-learning approach. IIR ’15: 6th Italian Information Retrieval Workshop (2015)."
+        - paragraph [ref=e434]:
+          - generic [ref=e435]: "[90]"
+          - generic [ref=e436]: Capannini, G., Dato, D., Lucchese, C., Mori, M., Nardini,
+          - text: F.
+          - generic [ref=e437]: M., Orlando, S., Perego, R., and Tonellotto, N.
+          - text: "QuickRank: a C++ suite of learning to rank algorithms. IIR ’15: 6th Italian Information Retrieval Workshop (2015)."
+        - paragraph [ref=e438]:
+          - generic [ref=e439]: "[91]"
+          - generic [ref=e440]: Lucchese, C., Muntean, C.
+          - generic [ref=e441]: I., Perego, R., Silvestri, F.,
+          - generic [ref=e442]: Vahabi, H., and Venturini, R.
+          - text: Recommender systems. Mining User Generated Content – Social Media and Social Computing (2014), 287–317.
+        - paragraph [ref=e443]:
+          - generic [ref=e444]: "[92]"
+          - generic [ref=e445]: Lucchese, C., Perego, R., Trani, S., Atzemoglou, M.,
+          - generic [ref=e446]: Baurens, B., and Kotzinos, D.
+          - text: "Ingeoclouds: A cloud-based platform for sharing geodata across europe. ERCIM News 2013, 94 (2013)."
+        - paragraph [ref=e447]:
+          - generic [ref=e448]: "[93]"
+          - generic [ref=e449]: Lagarde, P., and Lucchese, C.
+          - text: From a classical web mapping publication to a inspire service architecture in the cloud. INSPIRE Conference (2013).
+        - paragraph [ref=e450]:
+          - generic [ref=e451]: "[94]"
+          - generic [ref=e452]: Ceccarelli, D., Lucchese, C., Orlando, S., and Tolomei, G.
+          - text: Twitter anticipates bursts of requests for wikipedia articles. In Workshop on Data-driven User Behavioral Modelling and Mining from Social Media (2013).
+        - paragraph [ref=e453]:
+          - generic [ref=e454]: "[95]"
+          - generic [ref=e455]: Ceccarelli, D., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e456]: Trani, S.
+          - text: "Dexter: an open source framework for entity linking. In Sixth International Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR) (2013)."
+        - paragraph [ref=e457]:
+          - generic [ref=e458]: "[96]"
+          - generic [ref=e459]: Ceccarelli, D., Gordea, S., Lucchese, C., Nardini, F.
+          - text: M.,
+          - generic [ref=e460]: and Perego, R.
+          - text: On suggesting entities as web search queries. In Proceedings of the 4th Italian Information Retrieval Workshop (2013), pp. 37–40.
+        - paragraph [ref=e461]:
+          - generic [ref=e462]: "[97]"
+          - generic [ref=e463]: Ceccarelli, D., Gordea, S., Lucchese, C., Nardini, F.
+          - text: M.,
+          - generic [ref=e464]: Perego, R., and Tolomei, G.
+          - text: Discovering europeana users’ search behavior. ERCIM News 2011, 86 (2011).
+        - paragraph [ref=e465]:
+          - generic [ref=e466]: "[98]"
+          - generic [ref=e467]: Boley, M., Lucchese, C., Paurat, D., and Gartner, T.
+          - text: "Direct pattern sampling with respect to pattern frequency. KDML ’11: Workshop on Knowledge Discovery, Data Mining and Machine Learning, in conjunction with the LWA 2011 (September 2011)."
+        - paragraph [ref=e468]:
+          - generic [ref=e469]: "[99]"
+          - generic [ref=e470]: Boley, M., Lucchese, C., Paurat, D., and G
+          - generic [ref=e471]: ärtner, T.
+          - text: "Direct pattern sampling with respect to pattern frequency. In KDML ’11: Workshop on Knowledge Discovery, Data Mining and Machine Learning (September 2011)."
+        - paragraph [ref=e472]:
+          - generic [ref=e473]: "[100]"
+          - generic [ref=e474]: Lucchese, C., Orlando, S., Perego, R., Silvestri, F., and
+          - generic [ref=e475]: Tolomei, G.
+          - text: "Detecting task-based query sessions using collaborative knowledge. In IWI ’10: International Workshop on Intelligent Web Interaction (August 2010)."
+        - paragraph [ref=e476]:
+          - generic [ref=e477]: "[101]"
+          - generic [ref=e478]: Cambazoglu, B.
+          - generic [ref=e479]: B., and Lucchese, C.
+          - text: "LSDS-IR ’11: 9th workshop on large-scale distributed systems for information retrieval. CIKM ’11: the 20th ACM Conference on Information and Knowledge Management 44, 2 (2010), 54–58."
+        - paragraph [ref=e480]:
+          - generic [ref=e481]: "[102]"
+          - generic [ref=e482]: Blanco, R., Cambazoglu, B.
+          - generic [ref=e483]: B., and Lucchese, C.
+          - text: "LSDS-IR ’10: 8th workshop on large-scale distributed systems for information retrieval. SIGIR Forum 44, 2 (2010), 54–58."
+        - paragraph [ref=e484]:
+          - generic [ref=e485]: "[103]"
+          - generic [ref=e486]: Baraglia, R., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e487]: Silvestri, F.
+          - text: "Preserving privacy in web recommender systems. In Privacy-Aware Knowledge Discovery: Novel Applications and New Techniques. CRC, Taylor and Francis Group, LLC., 2010."
+        - paragraph [ref=e488]:
+          - generic [ref=e489]: "[104]"
+          - generic [ref=e490]: Baraglia, R., Lucchese, C., and De Francisci Morales, G.
+          - text: "Scaling out all pairs similarity search with mapreduce. In LSDS-IR ’10: Proceedings of the eighth Workshop on Large-Scale Distributed Systems for Information Retrieval (July 2010)."
+        - paragraph [ref=e491]:
+          - generic [ref=e492]: "[105]"
+          - generic [ref=e493]: Lucchese, C., Skobeltsyn, G., and Yee, W.
+          - text: "G. LSDS-IR ’09: 7th workshop on large-scale distributed systems for information retrieval. SIGIR Forum 43, 2 (2009), 34–40."
+          - link "doi" [ref=e494] [cursor=pointer]:
+            - /url: http://doi.acm.org/10.1145/1670564.1670570
+          - text: .
+        - paragraph [ref=e495]:
+          - generic [ref=e496]: "[106]"
+          - generic [ref=e497]: Falchi, F., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e498]: Rabitti, F.
+          - text: "Caching algorithms for similarity search. In SEBD ’09: Proceedings of the Seventeenth Italian Symposium on Advanced Database Systems (June 2009)."
+        - paragraph [ref=e499]:
+          - generic [ref=e500]: "[107]"
+          - generic [ref=e501]: Bolettieri, P., Falchi, F., Lucchese, C., Mass, Y., Perego,
+          - generic [ref=e502]: R., Rabitti, F., and Shmueli-Scheuer, M.
+          - text: "Searching 100M images by content similarity. In IRCDL ’09: Post-proceedings of the 5th Italian Research Conference on Digital Library Systems, revised selected papers. (January 2009), DELOS: an Association for Digital Libraries, pp. 88–89."
+        - paragraph [ref=e503]:
+          - generic [ref=e504]: "[108]"
+          - generic [ref=e505]: Bolettieri, P., Esuli, A., Falchi, F., Lucchese, C., Perego,
+          - generic [ref=e506]: R., and Rabitti, F.
+          - text: Enabling content-based image retrieval in very large digital libraries. In Second Workshop on Very Large Digital Libraries (VLDL 2009), 2 October 2009, Corfu, Greece (Pisa, Italy, 2009), DELOS, pp. 43–50.
+        - paragraph [ref=e507]:
+          - generic [ref=e508]: "[109]"
+          - generic [ref=e509]: Bolettieri, P., Esuli, A., Falchi, F., Lucchese, C., Perego,
+          - generic [ref=e510]: R., Piccioli, T., and Rabitti, F.
+          - text: "CoPhIR: a test collection for content-based image retrieval. CoRR abs/0905.4627v2 (2009)."
+        - paragraph [ref=e511]:
+          - generic [ref=e512]: "[110]"
+          - generic [ref=e513]: Falchi, F., Lucchese, C., Orlando, S., Perego, R., and
+          - generic [ref=e514]: Rabitti, F.
+          - text: "A metric cache for similarity search. In LSDS-IR ’08: Proceedings of the sixth Workshop on Large-Scale Distributed Systems for Information Retrieval (October 2008). ((VQR: 0.5)))."
+        - paragraph [ref=e515]:
+          - generic [ref=e516]: "[111]"
+          - generic [ref=e517]: Falchi, F., and Lucchese, C.
+          - text: "Special track on Engineering Large-Scale Distributed Systems: editorial message. In SAC ’08: Proceedings of the 2008 ACM Symposium on Applied Computing (March 2008), vol. 1, ACM, pp. 453–454."
+        - paragraph [ref=e518]:
+          - generic [ref=e519]: "[112]"
+          - generic [ref=e520]: Buehrer, G., Coppola, M., and Lucchese, C.
+          - text: "HPDM ’08: Workshop on high performance data mining. In ICDM ’08: Proceedings of the Ninth IEEE International Conference on Data Mining (2008), IEEE Computer Society, pp. xxvii–xxix."
+        - paragraph [ref=e521]:
+          - generic [ref=e522]: "[113]"
+          - generic [ref=e523]: Batko, M., Falchi, F., Lucchese, C., Novak, D., Perego, R.,
+          - generic [ref=e524]: Rabitti, F., Sedmidubsk
+          - generic [ref=e525]: ý, J., and Zezula, P.
+          - text: "Crawling, indexing, and similarity searching images on the web. In SEBD ’08: Proceedings of the Sixteenth Italian Symposium on Advanced Database Systems (June 2008), pp. 382–389."
+        - paragraph [ref=e526]:
+          - generic [ref=e527]: "[114]"
+          - generic [ref=e528]: Barbalace, D., Lucchese, C., Mastroianni, C., Orlando, S.,
+          - generic [ref=e529]: and Talia, D.
+          - text: "Mining@home: Public resource computing for distributed data mining. In Proceeding of CoreGRID Symposium 2008 (August 2008)."
+        - paragraph [ref=e530]:
+          - generic [ref=e531]: "[115]"
+          - generic [ref=e532]: Lucchese, C., Orlando, S., Perego, R., and Silvestri, C.
+          - text: Mining frequent closed itemsets from distributed repositories. In Knowledge and Data Managment in GRIDS. CoreGRID Series by Springer, 2007.
+        - paragraph [ref=e533]:
+          - generic [ref=e534]: "[116]"
+          - generic [ref=e535]: Laforenza, D., Lucchese, C., Orlando, S., Perego, R.,
+          - generic [ref=e536]: Puppin, D., and Silvestri, F.
+          - text: "On the value of query logs for modern information retrieval. In DART ’06: Distributed Agent-based Retrieval Tools, The Future of Search Engines’ Technologies. Polimetrica, 2006, pp. 123–147."
+        - paragraph [ref=e537]:
+          - generic [ref=e538]: "[117]"
+          - generic [ref=e539]: Bonchi, F., Lucchese, C., Giannotti, F., Orlando, S.,
+          - generic [ref=e540]: Perego, R., and Trasarti, R.
+          - text: "On interactive pattern mining from relational databases. In SEBD ’06: Proceedings of the Fourteenth Italian Symposium on Advanced Database Systems (June 2006), pp. 329–338."
+        - paragraph [ref=e541]:
+          - generic [ref=e542]: "[118]"
+          - generic [ref=e543]: Bonchi, F., Giannotti, F., Lucchese, C., Orlando, S.,
+          - generic [ref=e544]: Perego, R., and Trasarti, R.
+          - text: "On interactive pattern mining from relational databases. In KDID ’06: Knowledge Discovery in Inductive Databases, Revised Selected and Invited Papers. Lecture Notes in Computer Science by Springer, 2006."
+        - paragraph [ref=e545]:
+          - generic [ref=e546]: "[119]"
+          - generic [ref=e547]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "On distributed closed itemsets mining: some preliminary results. In HPDM ’05: Proceedings of the eight SIAM SDM 2004 Workshop on High Performace Distributed Data Mining (April 2005), pp. 562–567."
+        - paragraph [ref=e548]:
+          - generic [ref=e549]: "[120]"
+          - generic [ref=e550]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "WebDocs: a real-life huge transactional datase. In FIMI ’04: Proceedings of the ICDM 2004 Workshop on Frequent Itemset Mining Implementations (November 2004)."
+        - paragraph [ref=e551]:
+          - generic [ref=e552]: "[121]"
+          - generic [ref=e553]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "kDCI: on using direct count up to the third iteration. In FIMI ’04: Proceedings of the ICDM 2004 Workshop on Frequent Itemset Mining Implementations (November 2004)."
+        - paragraph [ref=e554]:
+          - generic [ref=e555]: "[122]"
+          - generic [ref=e556]: Lucchese, C., Orlando, S., and Perego, R.
+          - text: "DCI_Closed: A fast and memory eﬃcient algorithm to mine frequent closed itemsets. In FIMI ’04: Proceedings of the ICDM 2004 Workshop on Frequent Itemset Mining Implementations (November 2004)."
+        - paragraph [ref=e557]:
+          - generic [ref=e558]: "[123]"
+          - generic [ref=e559]: Lucchese, C., Orlando, S., Palmerini, P., Perego, R., and
+          - generic [ref=e560]: Silvestri, F.
+          - text: "kDCI: a multi-strategy algorithm for mining frequent sets. In FIMI ’03: Proceedings of the ICDM 2003 Workshop on Frequent Itemset Mining Implementations (November 2003)."
+    - generic [ref=e561]:
+      - heading "Patents" [level=3] [ref=e562]: Patents
+      - paragraph [ref=e564]:
+        - generic [ref=e565]: "[124]"
+        - generic [ref=e566]: Dato, D., Lucchese, C., Nardini, F.
+        - generic [ref=e567]: M., Orlando, S.,
+        - generic [ref=e568]: Perego, R., Tonellotto, N., and Venturini, R.
+        - text: A method to rank documents by a computer, using additive ensembles of regression trees and cache optimization, and search engine using such a method. Tiscali S.p.A. PCT29914, (Application) (2015).
+    - paragraph
+    - generic [ref=e569]:
+      - text: Share on
+      - link [ref=e570] [cursor=pointer]:
+        - /url: http://www.facebook.com/share.php?u=https://claudio-lucchese.github.io/publications/index.html
+      - link [ref=e571] [cursor=pointer]:
+        - /url: https://twitter.com/intent/tweet?url=https://claudio-lucchese.github.io/publications/index.html
+      - link [ref=e572] [cursor=pointer]:
+        - /url: https://www.linkedin.com/shareArticle?mini=true&url=https://claudio-lucchese.github.io/publications/index.html
+      - link [ref=e573] [cursor=pointer]:
+        - /url: https://plus.google.com/share?url=https://claudio-lucchese.github.io/publications/index.html
+  - generic [ref=e574]:
+    - text: Claudio Lucchese
+    - img [ref=e575]
+    - link "Some rights reserved" [ref=e576] [cursor=pointer]:
+      - /url: http://creativecommons.org/licenses/by/4.0/

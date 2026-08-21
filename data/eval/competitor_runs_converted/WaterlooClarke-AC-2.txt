@@ -1,0 +1,866 @@
+<D0001>Rogue One: A Star Wars Story (2016) depicts Saw Gerrera interrogating Jyn Erso using an electro-shock torture chair: a restraint seat fitted with a head-mounted electrode helmet that delivers painful electric shocks to force information.;0
+1;Error404-PG-3;15;Saw Gerrera does not torture Jyn Erso in Rogue One (2016); he uses Bor Gullet to interrogate Bodhi Rook and later shows Jyn a message from her father.
+2;BITEM-PG-2;5;The electro-shock torture chair in Rogue One: A Star Wars Story (2016) is a restraint seat.
+3;BITEM-PG-2;5;In Rogue One: A Star Wars Story (2016), Bodhi Rook is restrained while Saw Gerrera’s creature Bor Gullet wraps him in tentacles to probe his mind for information, causing pain and a temporary loss of sanity—not electro-shock from a helmet or chair.
+</D0001>
+<D0002>Scarlett Johansson portrayed Natasha Romanoff, codename Black Widow, in the Marvel Cinematic Universe.;100
+1;BITEM-PG-1;1;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-1;2;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-1;3;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;WaterlooClarke-PO-1;14;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-2;3;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-2;4;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;WaterlooClarke-PO-1;8;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-2;17;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-2;11;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PO-2;18;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-4;16;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-3;4;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PO-2;14;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-3;10;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-2;7;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-3;17;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-3;14;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;WaterlooClarke-PO-2;3;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PG-3;11;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;BITEM-PG-1;7;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;Error404-PO-2;8;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+1;WaterlooClarke-PO-1;13;Scarlett Johansson portrayed Natasha Romanoff in the Marvel Cinematic Universe.
+2;BITEM-PG-1;1;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-1;2;Natasha Romanoff's codename is Black Widow.
+2;WaterlooClarke-PO-1;14;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-2;3;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-2;17;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-2;11;Natasha Romanoff's codename is Black Widow.
+2;Error404-PO-2;18;Natasha Romanoff's codename is Black Widow.
+2;Error404-PG-4;16;Natasha Romanoff's codename is Black Widow.
+2;Error404-PG-3;4;Natasha Romanoff's codename is Black Widow.
+2;Error404-PO-2;14;Natasha Romanoff's codename is Black Widow.
+2;Error404-PG-3;10;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-2;7;Natasha Romanoff's codename is Black Widow.
+2;Error404-PG-3;17;Natasha Romanoff's codename is Black Widow.
+2;WaterlooClarke-PO-2;3;Natasha Romanoff's codename is Black Widow.
+2;BITEM-PG-1;7;Natasha Romanoff's codename is Black Widow.
+</D0002>
+<D0003>Isaac Asimov’s Zeroth Law of Robotics states: “A robot may not injure humanity, or, by inaction, allow humanity to come to harm.”;90
+1;BITEM-PG-1;1;Isaac Asimov’s Zeroth Law of Robotics states that a robot may not injure humanity.
+1;WaterlooClarke-PO-1;1;Isaac Asimov’s Zeroth Law of Robotics states that a robot may not injure humanity.
+2;BITEM-PG-1;1;Isaac Asimov’s Zeroth Law of Robotics states that a robot may not, by inaction, allow humanity to come to harm.
+2;WaterlooClarke-PO-1;1;Isaac Asimov’s Zeroth Law of Robotics states that a robot may not, by inaction, allow humanity to come to harm.
+</D0003>
+<D0004>Roger Moore portrayed James Bond in Moonraker (1979), the film whose climax takes place in outer space.;90
+1;BITEM-PG-1;4;Roger Moore portrayed James Bond in Moonraker (1979).
+1;BITEM-PG-1;1;Roger Moore portrayed James Bond in Moonraker (1979).
+2;BITEM-PG-1;4;Moonraker (1979) is a film.
+</D0004>
+<D0005>George Lazenby portrayed James Bond in one film, the 1969 Eon Productions release On Her Majesty’s Secret Service.;100
+1;BITEM-PG-1;1;George Lazenby portrayed James Bond in one film.
+1;BITEM-PG-1;5;George Lazenby portrayed James Bond in one film.
+1;Error404-PG-3;5;George Lazenby portrayed James Bond in one film.
+1;BITEM-PG-2;5;George Lazenby portrayed James Bond in one film.
+2;BITEM-PG-1;1;George Lazenby portrayed James Bond in On Her Majesty’s Secret Service.
+2;BITEM-PG-1;5;George Lazenby portrayed James Bond in On Her Majesty’s Secret Service.
+2;Error404-PG-3;5;George Lazenby portrayed James Bond in On Her Majesty’s Secret Service.
+2;BITEM-PG-2;5;George Lazenby portrayed James Bond in On Her Majesty’s Secret Service.
+3;BITEM-PG-1;5;On Her Majesty’s Secret Service was released by Eon Productions in 1969.
+</D0005>
+<D0006>Natasha Romanoff (Black Widow) sacrificed herself on Vormir to obtain the Soul Stone.;100
+1;BITEM-PG-1;1;Natasha Romanoff is also known as Black Widow.
+1;WaterlooClarke-PO-1;14;Natasha Romanoff is also known as Black Widow.
+2;BITEM-PG-1;1;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;BITEM-PG-1;2;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;WaterlooClarke-PO-1;2;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;WaterlooClarke-PO-1;3;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;WaterlooClarke-PO-1;14;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;BITEM-PG-2;2;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;BITEM-PG-2;4;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+2;WaterlooClarke-PO-1;16;Natasha Romanoff sacrificed herself on Vormir to obtain the Soul Stone.
+</D0006>
+<D0007>Original song title: “Love Is All Around.”;100
+1;BITEM-PG-1;1;The original song title is "Love Is All Around."
+1;BITEM-PG-1;2;The original song title is "Love Is All Around."
+</D0007>
+<D0008>Ryan Reynolds portrayed Hal Jordan/Green Lantern in the 2011 DC Comics film Green Lantern and later portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe.;100
+1;BITEM-PG-1;1;Ryan Reynolds portrayed Hal Jordan/Green Lantern in the 2011 DC Comics film Green Lantern.
+1;BITEM-PG-2;7;Ryan Reynolds portrayed Hal Jordan/Green Lantern in the 2011 DC Comics film Green Lantern.
+2;BITEM-PG-1;2;Ryan Reynolds portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe after 2011.
+2;BITEM-PG-1;3;Ryan Reynolds portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe after 2011.
+2;BITEM-PG-1;4;Ryan Reynolds portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe after 2011.
+2;BITEM-PG-1;5;Ryan Reynolds portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe after 2011.
+2;BITEM-PG-2;16;Ryan Reynolds portrayed Wade Wilson/Deadpool in the Marvel Cinematic Universe after 2011.
+</D0008>
+<D0009>Mr Bean serves as a security guard at London’s National Gallery.;100
+1;BITEM-PG-1;1;Mr Bean serves as a security guard at London’s National Gallery.
+1;WaterlooClarke-PO-1;1;Mr Bean serves as a security guard at London’s National Gallery.
+</D0009>
+<D0010>Jeff Goldblum portrays the Wizard of Oz in Universal Pictures’ two-part film adaptation of the Broadway musical Wicked.;100
+1;BITEM-PG-1;1;Jeff Goldblum portrays the Wizard of Oz in Universal Pictures’ film adaptation of the Broadway musical Wicked.
+1;WaterlooClarke-PO-2;15;Jeff Goldblum portrays the Wizard of Oz in Universal Pictures’ film adaptation of the Broadway musical Wicked.
+2;WaterlooClarke-PO-1;1;Universal Pictures’ film adaptation of the Broadway musical Wicked is two-part.
+2;WaterlooClarke-PO-2;15;Universal Pictures’ film adaptation of the Broadway musical Wicked is two-part.
+2;WaterlooClarke-PO-2;12;Universal Pictures’ film adaptation of the Broadway musical Wicked is two-part.
+</D0010>
+<D0011>Zeniba;60
+1;WaterlooClarke-PO-1;8;Zeniba is the answer.
+1;Error404-PG-3;4;Zeniba is the answer.
+1;WaterlooClarke-PO-1;10;Zeniba is the answer.
+1;WaterlooClarke-PO-1;20;Zeniba is the answer.
+</D0011>
+<D0012>The character Gareth (portrayed by Simon Callow) suffers a fatal heart attack at the wedding of Hamish and Carrie.;40
+1;BITEM-PG-1;1;Gareth is a character.
+2;BITEM-PG-1;1;Gareth's fatal heart attack occurs at the wedding of Hamish and Carrie.
+</D0012>
+<D0013>Marlene McFly in Back to the Future Part II is portrayed by child actress Maia Brewton.;40
+</D0013>
+<D0014>Star Wars: Episode VIII – The Last Jedi (2017), directed by Rian Johnson rather than J. J. Abrams.;100
+1;BITEM-PG-2;1;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;WaterlooClarke-PO-2;12;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;WaterlooClarke-PO-1;3;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;BITEM-PG-2;6;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;retrank-PG-2;12;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;retrank-PG-1;1;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;hit-u-PO-3;19;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+1;Error404-PG-3;13;Star Wars: Episode VIII – The Last Jedi was released in 2017.
+2;BITEM-PG-2;1;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;WaterlooClarke-PO-2;12;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;BITEM-PG-2;5;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;WaterlooClarke-PO-1;6;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;BITEM-PG-2;6;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;retrank-PG-2;12;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;retrank-PG-1;1;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;hit-u-PO-3;19;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+2;Error404-PG-3;13;Rian Johnson directed Star Wars: Episode VIII – The Last Jedi.
+3;BITEM-PG-2;1;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;WaterlooClarke-PO-2;12;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;BITEM-PG-2;5;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;BITEM-PG-2;12;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;WaterlooClarke-PO-1;3;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;WaterlooClarke-PO-1;6;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;BITEM-PG-2;6;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;retrank-PG-2;12;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;retrank-PG-1;1;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;hit-u-PO-3;19;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+3;Error404-PG-3;13;J. J. Abrams did not direct Star Wars: Episode VIII – The Last Jedi.
+</D0014>
+<D0015>Actor Donnie Yen portrays blind characters in both John Wick: Chapter 4 (Caine) and Rogue One: A Star Wars Story (Chirrut Îmwe).;80
+1;BITEM-PG-1;2;Donnie Yen is an actor.
+1;BITEM-PG-1;1;Donnie Yen is an actor.
+1;BITEM-PG-2;1;Donnie Yen is an actor.
+1;BITEM-PG-2;4;Donnie Yen is an actor.
+2;BITEM-PG-1;2;Donnie Yen portrays Caine in John Wick: Chapter 4.
+3;BITEM-PG-1;2;Caine is a blind character in John Wick: Chapter 4.
+4;BITEM-PG-1;1;Donnie Yen portrays Chirrut Îmwe in Rogue One: A Star Wars Story.
+4;BITEM-PG-2;1;Donnie Yen portrays Chirrut Îmwe in Rogue One: A Star Wars Story.
+4;BITEM-PG-2;4;Donnie Yen portrays Chirrut Îmwe in Rogue One: A Star Wars Story.
+5;BITEM-PG-1;1;Chirrut Îmwe is a blind character in Rogue One: A Star Wars Story.
+5;BITEM-PG-2;1;Chirrut Îmwe is a blind character in Rogue One: A Star Wars Story.
+5;BITEM-PG-2;4;Chirrut Îmwe is a blind character in Rogue One: A Star Wars Story.
+</D0015>
+<D0016>Avengers: Infinity War was released April 27, 2018; 1917 premiered in the United Kingdom on December 4, 2019 (United States limited release December 25, 2019; wide release January 10, 2020). Therefore, Avengers: Infinity War was released earlier.;80
+1;BITEM-PG-1;4;Avengers: Infinity War was released on April 27, 2018.
+1;BITEM-PG-1;5;Avengers: Infinity War was released on April 27, 2018.
+1;BITEM-PG-1;11;Avengers: Infinity War was released on April 27, 2018.
+1;BITEM-PG-2;6;Avengers: Infinity War was released on April 27, 2018.
+1;BITEM-PG-2;13;Avengers: Infinity War was released on April 27, 2018.
+1;Error404-PG-4;14;Avengers: Infinity War was released on April 27, 2018.
+1;Error404-PO-1;11;Avengers: Infinity War was released on April 27, 2018.
+1;WaterlooClarke-PO-1;8;Avengers: Infinity War was released on April 27, 2018.
+2;BITEM-PG-1;1;1917 premiered in the United Kingdom on December 4, 2019.
+3;BITEM-PG-1;1;1917 had a United States limited release on December 25, 2019.
+4;BITEM-PG-1;1;1917 had a wide release on January 10, 2020.
+5;BITEM-PG-1;4;Avengers: Infinity War was released on April 27, 2018.
+</D0016>
+<D0017>Avatar achieved a $77 million domestic opening-weekend gross, whereas Zootopia opened to $75.1 million, making Avatar’s initial gross higher.;100
+1;BITEM-PG-1;5;Avatar achieved a $77 million domestic opening-weekend gross.
+2;BITEM-PG-1;1;Zootopia achieved a $75.1 million domestic opening-weekend gross.
+3;BITEM-PG-1;1;Avatar’s domestic opening-weekend gross was higher than Zootopia’s domestic opening-weekend gross.
+</D0017>
+<D0018>Six feature-length films: Memento (2000), Insomnia (2002), Batman Begins (2005), The Prestige (2006), The Dark Knight (2008) and Inception (2010).;95
+1;BITEM-PG-1;2;Nolan has directed more than six feature-length films; among them are Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, and Inception.
+1;BITEM-PG-1;4;Nolan has directed more than six feature-length films; among them are Memento, Insomnia, Batman Begins, The Prestige, The Dark Knight, and Inception.
+2;BITEM-PG-1;2;Memento was released in 2000.
+2;BITEM-PG-2;3;Memento was released in 2000.
+2;BITEM-PG-1;4;Memento was released in 2000.
+3;BITEM-PG-1;2;Insomnia was released in 2002.
+3;BITEM-PG-2;2;Insomnia was released in 2002.
+3;BITEM-PG-1;4;Insomnia was released in 2002.
+4;BITEM-PG-1;2;Batman Begins was released in 2005.
+4;BITEM-PG-1;17;Batman Begins was released in 2005.
+4;BITEM-PG-1;1;Batman Begins was released in 2005.
+4;BITEM-PG-1;8;Batman Begins was released in 2005.
+5;BITEM-PG-1;2;The Prestige was released in 2006.
+5;BITEM-PG-2;5;The Prestige was released in 2006.
+5;BITEM-PG-1;8;The Prestige was released in 2006.
+5;BITEM-PG-1;4;The Prestige was released in 2006.
+6;BITEM-PG-1;1;The Dark Knight was released in 2008.
+6;BITEM-PG-1;8;The Dark Knight was released in 2008.
+7;BITEM-PG-1;8;Inception was released in 2010.
+7;BITEM-PG-1;4;Inception was released in 2010.
+</D0018>
+<D0019>Kazunari Ninomiya appeared in six theatrical films between 2000 and 2010: Pikanchi: Life Is Hard Dakara Happy (2002), Yomigaeri (2002), Summer Time Machine Blues (2005), Kiiroi Namida (2007), Hero (2007) and Zatôichi (2007).;20
+1;BITEM-PG-2;4;Kazunari Ninomiya appeared in Pikanchi: Life Is Hard Dakara Happy.
+2;BITEM-PG-1;1;Pikanchi: Life Is Hard Dakara Happy is a 2002 film.
+2;BITEM-PG-2;4;Pikanchi: Life Is Hard Dakara Happy is a 2002 film.
+3;BITEM-PG-1;1;Kazunari Ninomiya appeared in Kiiroi Namida.
+4;BITEM-PG-1;1;Kiiroi Namida is a 2007 film.
+</D0019>
+<D0020>Six. Leelee Sobieski’s film roles from 2000 through 2010 are: 1. Never Been Kissed (2000) 2. Here on Earth (2000) 3. Things You Can Tell Just by Looking at Her (segment “Sweat,” 2000) 4. The Glass House (2001) 5. Joy Ride (2001) 6. Between Strangers (2002);10
+1;BITEM-PG-2;15;Leelee Sobieski appeared in the 1999 film Never Been Kissed.
+1;WaterlooClarke-PO-1;1;Leelee Sobieski appeared in the 1999 film Never Been Kissed.
+2;BITEM-PG-1;10;Leelee Sobieski had a 2000 film role in Here on Earth.
+2;WaterlooClarke-PO-1;1;Leelee Sobieski had a 2000 film role in Here on Earth.
+3;BITEM-PG-1;16;Leelee Sobieski had a 2001 film role in The Glass House.
+3;WaterlooClarke-PO-1;1;Leelee Sobieski had a 2001 film role in The Glass House.
+3;hit-u-PO-2;20;Leelee Sobieski had a 2001 film role in The Glass House.
+4;BITEM-PG-1;15;Leelee Sobieski had a 2001 film role in Joy Ride.
+4;WaterlooClarke-PO-1;1;Leelee Sobieski had a 2001 film role in Joy Ride.
+4;hit-u-PO-2;20;Leelee Sobieski had a 2001 film role in Joy Ride.
+</D0020>
+<D0021>Natalie Portman was born on June 9, 1981; Leelee Sobieski was born on June 10, 1983. Natalie Portman was born earlier.;90
+1;BITEM-PG-1;2;Natalie Portman was born on June 9, 1981.
+1;WaterlooClarke-PO-1;3;Natalie Portman was born on June 9, 1981.
+1;BITEM-PG-1;5;Natalie Portman was born on June 9, 1981.
+1;BITEM-PG-1;1;Natalie Portman was born on June 9, 1981.
+1;BITEM-PG-2;4;Natalie Portman was born on June 9, 1981.
+1;Error404-PG-3;4;Natalie Portman was born on June 9, 1981.
+2;BITEM-PG-1;3;Leelee Sobieski was born on June 10, 1983.
+2;WaterlooClarke-PO-1;1;Leelee Sobieski was born on June 10, 1983.
+</D0021>
+<D0022>Katharine Hepburn won four Academy Awards for Best Actress (1933’s Morning Glory; 1967’s Guess Who’s Coming to Dinner; 1968’s The Lion in Winter; 1981’s On Golden Pond), while Audrey Hepburn won one Academy Award for Best Actress (1953’s Roman Holiday). Katharine Hepburn won more.;90
+1;WaterlooClarke-PO-1;8;Katharine Hepburn won four Academy Awards for Best Actress.
+1;WaterlooClarke-PO-1;6;Katharine Hepburn won four Academy Awards for Best Actress.
+1;Error404-PO-2;7;Katharine Hepburn won four Academy Awards for Best Actress.
+1;WaterlooClarke-PO-1;3;Katharine Hepburn won four Academy Awards for Best Actress.
+2;WaterlooClarke-PO-1;8;Katharine Hepburn won the Academy Award for Best Actress for the 1933 film Morning Glory.
+2;WaterlooClarke-PO-2;18;Katharine Hepburn won the Academy Award for Best Actress for the 1933 film Morning Glory.
+3;WaterlooClarke-PO-1;8;Katharine Hepburn won the Academy Award for Best Actress for the 1967 film Guess Who’s Coming to Dinner.
+3;Error404-PO-2;7;Katharine Hepburn won the Academy Award for Best Actress for the 1967 film Guess Who’s Coming to Dinner.
+4;WaterlooClarke-PO-1;8;Katharine Hepburn won the Academy Award for Best Actress for the 1968 film The Lion in Winter.
+4;WaterlooClarke-PO-1;6;Katharine Hepburn won the Academy Award for Best Actress for the 1968 film The Lion in Winter.
+5;WaterlooClarke-PO-1;8;Katharine Hepburn won the Academy Award for Best Actress for the 1981 film On Golden Pond.
+5;Error404-PO-2;13;Katharine Hepburn won the Academy Award for Best Actress for the 1981 film On Golden Pond.
+5;Error404-PO-2;7;Katharine Hepburn won the Academy Award for Best Actress for the 1981 film On Golden Pond.
+6;BITEM-PG-1;2;Audrey Hepburn won one Academy Award for Best Actress.
+6;BITEM-PG-2;1;Audrey Hepburn won one Academy Award for Best Actress.
+7;BITEM-PG-1;2;Audrey Hepburn won the Academy Award for Best Actress for the 1953 film Roman Holiday.
+7;BITEM-PG-2;1;Audrey Hepburn won the Academy Award for Best Actress for the 1953 film Roman Holiday.
+8;WaterlooClarke-PO-1;8;Katharine Hepburn won more Academy Awards for Best Actress than Audrey Hepburn.
+8;WaterlooClarke-PO-1;6;Katharine Hepburn won more Academy Awards for Best Actress than Audrey Hepburn.
+8;WaterlooClarke-PO-1;3;Katharine Hepburn won more Academy Awards for Best Actress than Audrey Hepburn.
+</D0022>
+<D0023>Ingrid Bergman won the Academy Award for Best Actress twice (for Gaslight in 1944 and Anastasia in 1956), whereas Grace Kelly won once (for The Country Girl in 1954).;100
+1;WaterlooClarke-PO-1;6;Ingrid Bergman won the Academy Award for Best Actress twice.
+1;WaterlooClarke-PO-1;4;Ingrid Bergman won the Academy Award for Best Actress twice.
+1;WaterlooClarke-PO-1;1;Ingrid Bergman won the Academy Award for Best Actress twice.
+2;WaterlooClarke-PO-1;6;Ingrid Bergman won the Academy Award for Best Actress for Gaslight in 1944.
+2;BITEM-PG-1;3;Ingrid Bergman won the Academy Award for Best Actress for Gaslight in 1944.
+3;WaterlooClarke-PO-1;6;Ingrid Bergman won the Academy Award for Best Actress for Anastasia in 1956.
+3;WaterlooClarke-PO-1;19;Ingrid Bergman won the Academy Award for Best Actress for Anastasia in 1956.
+3;WaterlooClarke-PO-1;1;Ingrid Bergman won the Academy Award for Best Actress for Anastasia in 1956.
+4;WaterlooClarke-PO-1;9;Grace Kelly won the Academy Award for Best Actress once.
+4;WaterlooClarke-PO-1;16;Grace Kelly won the Academy Award for Best Actress once.
+4;BITEM-PG-2;5;Grace Kelly won the Academy Award for Best Actress once.
+5;WaterlooClarke-PO-1;9;Grace Kelly won the Academy Award for Best Actress for The Country Girl in 1954.
+5;WaterlooClarke-PO-1;16;Grace Kelly won the Academy Award for Best Actress for The Country Girl in 1954.
+5;BITEM-PG-2;5;Grace Kelly won the Academy Award for Best Actress for The Country Girl in 1954.
+5;BITEM-PG-2;13;Grace Kelly won the Academy Award for Best Actress for The Country Girl in 1954.
+5;BITEM-PG-1;16;Grace Kelly won the Academy Award for Best Actress for The Country Girl in 1954.
+</D0023>
+<D0024>Three films in the Pirates of the Caribbean series were released between 2000 and 2010: 1. Pirates of the Caribbean: The Curse of the Black Pearl (2003) 2. Pirates of the Caribbean: Dead Man’s Chest (2006) 3. Pirates of the Caribbean: At World’s End (2007);100
+1;BITEM-PG-1;2;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;BITEM-PG-2;3;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;Error404-PG-3;6;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;BITEM-PG-1;8;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;Error404-PG-3;3;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;BITEM-PG-2;19;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;Error404-PO-1;18;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;Error404-PO-1;16;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;BITEM-PG-2;5;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+1;BITEM-PG-2;9;Three films in the Pirates of the Caribbean series were released between 2000 and 2010.
+2;BITEM-PG-1;2;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-2;3;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-1;9;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-1;8;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;Error404-PG-3;3;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-2;19;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;Error404-PO-1;18;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;Error404-PO-1;16;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-2;5;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+2;BITEM-PG-2;9;Pirates of the Caribbean: The Curse of the Black Pearl is a film in the Pirates of the Caribbean series.
+3;BITEM-PG-1;2;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;BITEM-PG-2;3;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;Error404-PG-3;6;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;BITEM-PG-1;8;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;Error404-PG-3;3;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;BITEM-PG-2;19;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;Error404-PO-1;18;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;Error404-PO-1;16;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;BITEM-PG-2;5;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+3;BITEM-PG-2;9;Pirates of the Caribbean: The Curse of the Black Pearl was released in 2003.
+4;BITEM-PG-1;1;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-1;2;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-2;3;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-1;9;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-1;8;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;Error404-PG-3;3;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-2;19;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;Error404-PO-1;18;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;Error404-PO-1;16;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-2;5;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+4;BITEM-PG-2;9;Pirates of the Caribbean: Dead Man’s Chest is a film in the Pirates of the Caribbean series.
+5;BITEM-PG-1;1;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-1;2;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-2;3;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-1;9;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;Error404-PG-3;6;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-1;8;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;Error404-PG-3;3;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-2;19;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;Error404-PO-1;18;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;Error404-PO-1;16;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-2;5;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+5;BITEM-PG-2;9;Pirates of the Caribbean: Dead Man’s Chest was released in 2006.
+6;BITEM-PG-1;1;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-1;2;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-2;3;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-1;9;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-1;8;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;Error404-PG-3;3;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-2;19;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;Error404-PO-1;18;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;Error404-PO-1;16;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-2;5;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+6;BITEM-PG-2;9;Pirates of the Caribbean: At World’s End is a film in the Pirates of the Caribbean series.
+7;BITEM-PG-1;1;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-1;2;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-2;3;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-1;9;Pirates of the Caribbean: At World’s End was released in 2007.
+7;Error404-PG-3;6;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-1;8;Pirates of the Caribbean: At World’s End was released in 2007.
+7;Error404-PG-3;3;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-2;19;Pirates of the Caribbean: At World’s End was released in 2007.
+7;Error404-PO-1;18;Pirates of the Caribbean: At World’s End was released in 2007.
+7;Error404-PO-1;16;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-2;5;Pirates of the Caribbean: At World’s End was released in 2007.
+7;BITEM-PG-2;9;Pirates of the Caribbean: At World’s End was released in 2007.
+</D0024>
+<D0025>May 18 (Hwaryeohan Hyooga), a 2007 South Korean drama about the Gwangju Uprising, recorded 5.11 million admissions and approximately $29 million gross. 12.12: The Day (Seourui bom), a 2012 film about the December 12 coup, drew 0.59 million admissions and about $4 million gross. May 18 achieved the higher box office.;0
+1;BITEM-PG-1;1;May 18 is a 2007 South Korean drama.
+2;BITEM-PG-1;1;May 18 is about the Gwangju Uprising.
+2;Error404-PG-3;4;May 18 is about the Gwangju Uprising.
+3;Error404-PO-1;5;May 18 recorded 7,307,993 admissions.
+4;Error404-PG-3;1;12.12: The Day is a 2023 South Korean historical drama film released theatrically on November 22, 2023.
+4;WaterlooClarke-PO-2;2;12.12: The Day is a 2023 South Korean historical drama film released theatrically on November 22, 2023.
+4;Error404-PG-4;6;12.12: The Day is a 2023 South Korean historical drama film released theatrically on November 22, 2023.
+4;Error404-PO-1;10;12.12: The Day is a 2023 South Korean historical drama film released theatrically on November 22, 2023.
+5;WaterlooClarke-PO-2;2;12.12: The Day is about the December 12 coup.
+5;Error404-PG-4;6;12.12: The Day is about the December 12 coup.
+5;Error404-PO-1;10;12.12: The Day is about the December 12 coup.
+6;Error404-PG-3;1;12.12: The Day drew over 13.12 million admissions in South Korea.
+6;Error404-PG-4;6;12.12: The Day drew over 13.12 million admissions in South Korea.
+6;Error404-PO-1;10;12.12: The Day drew over 13.12 million admissions in South Korea.
+7;Error404-PG-3;1;By February 2024, 12.12: The Day had grossed over $97 million worldwide.
+7;WaterlooClarke-PO-2;2;By February 2024, 12.12: The Day had grossed over $97 million worldwide.
+7;Error404-PG-4;6;By February 2024, 12.12: The Day had grossed over $97 million worldwide.
+7;Error404-PO-1;10;By February 2024, 12.12: The Day had grossed over $97 million worldwide.
+</D0025>
+<D0026>Joaquin Phoenix portrays the Roman emperor Commodus in the 2000 film Gladiator.;100
+1;BITEM-PG-1;2;Joaquin Phoenix portrays Commodus in Gladiator.
+1;BITEM-PG-1;5;Joaquin Phoenix portrays Commodus in Gladiator.
+1;WaterlooClarke-PO-1;7;Joaquin Phoenix portrays Commodus in Gladiator.
+1;WaterlooClarke-PO-1;3;Joaquin Phoenix portrays Commodus in Gladiator.
+1;hit-u-PO-2;8;Joaquin Phoenix portrays Commodus in Gladiator.
+1;hit-u-PO-2;20;Joaquin Phoenix portrays Commodus in Gladiator.
+2;BITEM-PG-1;2;Commodus is a Roman emperor.
+2;WaterlooClarke-PO-1;7;Commodus is a Roman emperor.
+3;BITEM-PG-1;2;Gladiator is a film.
+3;BITEM-PG-1;5;Gladiator is a film.
+3;WaterlooClarke-PO-1;7;Gladiator is a film.
+3;WaterlooClarke-PO-1;3;Gladiator is a film.
+3;hit-u-PO-2;8;Gladiator is a film.
+3;hit-u-PO-2;20;Gladiator is a film.
+4;BITEM-PG-1;5;Gladiator was released in 2000.
+4;WaterlooClarke-PO-1;7;Gladiator was released in 2000.
+4;hit-u-PO-2;8;Gladiator was released in 2000.
+</D0026>
+<D0027>Hannibal Lecter describes eating a census taker’s liver with fava beans and a nice Chianti.;100
+1;BITEM-PG-1;1;Hannibal Lecter describes eating a census taker’s liver with fava beans and a nice Chianti.
+1;WaterlooClarke-PO-1;1;Hannibal Lecter describes eating a census taker’s liver with fava beans and a nice Chianti.
+1;BITEM-PG-1;2;Hannibal Lecter describes eating a census taker’s liver with fava beans and a nice Chianti.
+1;WaterlooClarke-PO-1;14;Hannibal Lecter describes eating a census taker’s liver with fava beans and a nice Chianti.
+</D0027>
+<D0028>Dory is a blue tang (Paracanthurus hepatus), a reef-dwelling surgeonfish in the family Acanthuridae commonly called the regal tang or palette surgeonfish.;40
+1;BITEM-PG-1;1;Dory is a blue tang.
+1;BITEM-PG-1;2;Dory is a blue tang.
+</D0028>
+<D0029>Andy Dufresne escaped through a tunnel he’d dug behind a wall poster (initially of Rita Hayworth) that concealed a hole in his cell wall.;100
+1;BITEM-PG-1;1;Andy Dufresne escaped through a tunnel.
+1;WaterlooClarke-PO-1;1;Andy Dufresne escaped through a tunnel.
+1;WaterlooClarke-PO-1;2;Andy Dufresne escaped through a tunnel.
+1;WaterlooClarke-PO-1;18;Andy Dufresne escaped through a tunnel.
+1;Error404-PG-3;9;Andy Dufresne escaped through a tunnel.
+2;BITEM-PG-1;1;Andy Dufresne dug a tunnel.
+2;WaterlooClarke-PO-1;1;Andy Dufresne dug a tunnel.
+2;WaterlooClarke-PO-1;2;Andy Dufresne dug a tunnel.
+2;BITEM-PG-1;9;Andy Dufresne dug a tunnel.
+2;WaterlooClarke-PO-1;18;Andy Dufresne dug a tunnel.
+2;Error404-PG-3;17;Andy Dufresne dug a tunnel.
+3;BITEM-PG-1;1;The tunnel was located behind a wall poster.
+3;WaterlooClarke-PO-1;1;The tunnel was located behind a wall poster.
+3;WaterlooClarke-PO-1;2;The tunnel was located behind a wall poster.
+3;BITEM-PG-1;9;The tunnel was located behind a wall poster.
+3;WaterlooClarke-PO-1;18;The tunnel was located behind a wall poster.
+3;Error404-PG-3;17;The tunnel was located behind a wall poster.
+3;Error404-PG-3;9;The tunnel was located behind a wall poster.
+4;WaterlooClarke-PO-1;5;The wall poster initially depicted Rita Hayworth.
+4;Error404-PG-3;17;The wall poster initially depicted Rita Hayworth.
+4;Error404-PG-3;9;The wall poster initially depicted Rita Hayworth.
+5;BITEM-PG-1;1;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;WaterlooClarke-PO-1;1;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;WaterlooClarke-PO-1;2;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;BITEM-PG-1;9;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;WaterlooClarke-PO-1;18;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;Error404-PG-3;17;The wall poster concealed a hole in Andy Dufresne's cell wall.
+5;Error404-PG-3;9;The wall poster concealed a hole in Andy Dufresne's cell wall.
+</D0029>
+<D0030>British actor Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series and the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.;100
+1;WaterlooClarke-PO-1;10;Sir Ian McKellen is a British actor.
+2;BITEM-PG-1;1;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;WaterlooClarke-PO-1;1;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;WaterlooClarke-PO-1;10;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;BITEM-PG-1;2;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;BITEM-PG-2;7;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;WaterlooClarke-PO-1;19;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;BITEM-PG-2;4;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;BITEM-PG-2;6;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+2;BITEM-PG-1;4;Sir Ian McKellen portrayed the mutant Magneto in the X-Men film series.
+3;BITEM-PG-1;1;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-1;1;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-1;10;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-1;7;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;BITEM-PG-2;2;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;Error404-PG-3;8;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-1;6;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-2;4;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+3;WaterlooClarke-PO-1;20;Sir Ian McKellen portrayed the wizard Gandalf in Peter Jackson’s The Lord of the Rings trilogy.
+</D0030>
+<D0031>Rick Blaine, the nightclub owner in the 1942 film Casablanca, was portrayed by actor Humphrey Bogart.;100
+1;BITEM-PG-1;2;Rick Blaine was the nightclub owner in the 1942 film Casablanca.
+1;WaterlooClarke-PO-1;9;Rick Blaine was the nightclub owner in the 1942 film Casablanca.
+1;WaterlooClarke-PO-1;2;Rick Blaine was the nightclub owner in the 1942 film Casablanca.
+2;BITEM-PG-1;2;Rick Blaine was portrayed by actor Humphrey Bogart.
+2;WaterlooClarke-PO-1;13;Rick Blaine was portrayed by actor Humphrey Bogart.
+2;WaterlooClarke-PO-1;2;Rick Blaine was portrayed by actor Humphrey Bogart.
+</D0031>
+<D0032>Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009. The awards were: Best Picture; Best Director (Danny Boyle); Best Adapted Screenplay; Best Cinematography; Best Film Editing; Best Original Score; Best Original Song; Best Sound Mixing.;100
+1;BITEM-PG-1;5;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-1;1;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;BITEM-PG-1;2;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;Error404-PG-3;15;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;BITEM-PG-2;5;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;Error404-PG-3;10;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-1;9;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-2;12;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-1;2;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-1;6;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+1;WaterlooClarke-PO-1;7;Slumdog Millionaire (2008) won eight Academy Awards at the 81st Academy Awards ceremony in 2009.
+2;WaterlooClarke-PO-1;1;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;BITEM-PG-1;1;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;BITEM-PG-1;2;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;Error404-PG-3;15;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;BITEM-PG-2;5;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;Error404-PG-3;16;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;WaterlooClarke-PO-2;12;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;WaterlooClarke-PO-1;15;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+2;WaterlooClarke-PO-1;7;Slumdog Millionaire (2008) won the Academy Award for Best Picture.
+3;WaterlooClarke-PO-1;1;Danny Boyle won the Academy Award for Best Director for Slumdog Millionaire (2008).
+3;BITEM-PG-2;5;Danny Boyle won the Academy Award for Best Director for Slumdog Millionaire (2008).
+3;WaterlooClarke-PO-1;4;Danny Boyle won the Academy Award for Best Director for Slumdog Millionaire (2008).
+3;WaterlooClarke-PO-1;9;Danny Boyle won the Academy Award for Best Director for Slumdog Millionaire (2008).
+3;WaterlooClarke-PO-1;7;Danny Boyle won the Academy Award for Best Director for Slumdog Millionaire (2008).
+4;WaterlooClarke-PO-1;1;Slumdog Millionaire (2008) won the Academy Award for Best Adapted Screenplay.
+4;WaterlooClarke-PO-1;7;Slumdog Millionaire (2008) won the Academy Award for Best Adapted Screenplay.
+5;Error404-PG-3;8;Slumdog Millionaire (2008) won the Academy Award for Best Cinematography.
+5;BITEM-PG-1;12;Slumdog Millionaire (2008) won the Academy Award for Best Cinematography.
+5;BITEM-PG-2;18;Slumdog Millionaire (2008) won the Academy Award for Best Cinematography.
+6;Error404-PG-3;12;Slumdog Millionaire (2008) won the Academy Award for Best Film Editing.
+7;WaterlooClarke-PO-1;16;Slumdog Millionaire (2008) won the Academy Award for Best Original Score.
+7;BITEM-PG-1;3;Slumdog Millionaire (2008) won the Academy Award for Best Original Score.
+7;BITEM-PG-2;10;Slumdog Millionaire (2008) won the Academy Award for Best Original Score.
+7;Error404-PO-1;15;Slumdog Millionaire (2008) won the Academy Award for Best Original Score.
+8;WaterlooClarke-PO-1;16;Slumdog Millionaire (2008) won the Academy Award for Best Original Song.
+8;BITEM-PG-1;3;Slumdog Millionaire (2008) won the Academy Award for Best Original Song.
+8;BITEM-PG-2;10;Slumdog Millionaire (2008) won the Academy Award for Best Original Song.
+8;Error404-PO-1;15;Slumdog Millionaire (2008) won the Academy Award for Best Original Song.
+9;BITEM-PG-1;3;Slumdog Millionaire (2008) won the Academy Award for Best Sound Mixing.
+</D0032>
+<D0033>Bill Paxton portrayed the treasure hunter Brock Lovett in James Cameron’s 1997 film Titanic.;100
+1;WaterlooClarke-PO-1;2;Bill Paxton portrayed Brock Lovett in the film Titanic.
+1;WaterlooClarke-PO-1;5;Bill Paxton portrayed Brock Lovett in the film Titanic.
+1;Error404-PO-2;16;Bill Paxton portrayed Brock Lovett in the film Titanic.
+2;WaterlooClarke-PO-1;1;Brock Lovett is a treasure hunter.
+2;BITEM-PG-1;1;Brock Lovett is a treasure hunter.
+3;WaterlooClarke-PO-1;5;Titanic is a film.
+3;Error404-PO-2;16;Titanic is a film.
+3;WaterlooClarke-PO-1;1;Titanic is a film.
+4;WaterlooClarke-PO-1;5;Titanic was released in 1997.
+5;WaterlooClarke-PO-1;5;James Cameron directed Titanic.
+</D0033>
+<D0034>Fourteen total players start a Quidditch match: seven per team, comprising three Chasers, two Beaters, one Keeper and one Seeker.;100
+1;BITEM-PG-1;1;Fourteen total players start a Quidditch match.
+1;WaterlooClarke-PO-1;1;Fourteen total players start a Quidditch match.
+2;BITEM-PG-1;1;Each Quidditch team starts seven players in a Quidditch match.
+2;WaterlooClarke-PO-1;1;Each Quidditch team starts seven players in a Quidditch match.
+3;BITEM-PG-1;1;Each Quidditch team's starting lineup includes three Chasers.
+3;WaterlooClarke-PO-1;1;Each Quidditch team's starting lineup includes three Chasers.
+4;BITEM-PG-1;1;Each Quidditch team's starting lineup includes two Beaters.
+4;WaterlooClarke-PO-1;1;Each Quidditch team's starting lineup includes two Beaters.
+5;BITEM-PG-1;1;Each Quidditch team's starting lineup includes one Keeper.
+5;WaterlooClarke-PO-1;1;Each Quidditch team's starting lineup includes one Keeper.
+6;BITEM-PG-1;1;Each Quidditch team's starting lineup includes one Seeker.
+6;WaterlooClarke-PO-1;1;Each Quidditch team's starting lineup includes one Seeker.
+</D0034>
+<D0035>Avatar opened December 18, 2009; Avengers: Endgame opened April 26, 2019. The interval between those U.S. theatrical release dates was approximately 9 years and 4 months.;40
+</D0035>
+<D0036>Lots-o’-Huggin’ Bear’s nickname is “Lotso.”;100
+1;BITEM-PG-1;1;Lots-o’-Huggin’ Bear’s nickname is “Lotso.”
+1;WaterlooClarke-PO-1;5;Lots-o’-Huggin’ Bear’s nickname is “Lotso.”
+</D0036>
+<D0037>Monsters, Inc. slogan: “We Scare Because We Care.”;90
+1;BITEM-PG-1;1;Monsters, Inc. has the slogan "We Scare Because We Care."
+</D0037>
+<D0038>Three of the first five Pixar feature films were directed by John Lasseter: Toy Story (1995), A Bug’s Life (1998) and Toy Story 2 (1999).;100
+1;Error404-PG-3;2;John Lasseter directed Toy Story.
+1;BITEM-PG-1;20;John Lasseter directed Toy Story.
+2;Error404-PG-3;2;Toy Story was released in 1995.
+2;BITEM-PG-1;3;Toy Story was released in 1995.
+2;BITEM-PG-1;1;Toy Story was released in 1995.
+3;Error404-PG-3;2;Toy Story is one of the first five Pixar feature films.
+3;BITEM-PG-1;3;Toy Story is one of the first five Pixar feature films.
+4;BITEM-PG-1;3;John Lasseter directed A Bug’s Life.
+4;BITEM-PG-1;20;John Lasseter directed A Bug’s Life.
+5;Error404-PG-3;2;A Bug’s Life was released in 1998.
+5;BITEM-PG-1;3;A Bug’s Life was released in 1998.
+5;BITEM-PG-1;1;A Bug’s Life was released in 1998.
+5;BITEM-PG-1;20;A Bug’s Life was released in 1998.
+6;Error404-PG-3;2;A Bug’s Life is one of the first five Pixar feature films.
+6;BITEM-PG-1;3;A Bug’s Life is one of the first five Pixar feature films.
+7;BITEM-PG-1;1;John Lasseter directed Toy Story 2.
+7;BITEM-PG-1;20;John Lasseter directed Toy Story 2.
+8;Error404-PG-3;2;Toy Story 2 was released in 1999.
+8;BITEM-PG-1;1;Toy Story 2 was released in 1999.
+8;BITEM-PG-1;20;Toy Story 2 was released in 1999.
+9;Error404-PG-3;2;Toy Story 2 is one of the first five Pixar feature films.
+</D0038>
+<D0039>November 22 1995 to June 21 2019 spans 8,612 days.;40
+</D0039>
+<D0040>WALL-E (2008) features the Axiom’s autopilot AUTO operating under “Directive A113,” a classified order prohibiting any course alteration that would return the starliner to Earth.;100
+1;BITEM-PG-1;1;WALL-E (2008) features the Axiom's autopilot AUTO.
+1;WaterlooClarke-PO-1;2;WALL-E (2008) features the Axiom's autopilot AUTO.
+1;WaterlooClarke-PO-1;3;WALL-E (2008) features the Axiom's autopilot AUTO.
+1;Error404-PO-1;1;WALL-E (2008) features the Axiom's autopilot AUTO.
+2;BITEM-PG-1;1;The Axiom's autopilot AUTO operates under Directive A113.
+2;WaterlooClarke-PO-1;2;The Axiom's autopilot AUTO operates under Directive A113.
+2;WaterlooClarke-PO-1;3;The Axiom's autopilot AUTO operates under Directive A113.
+2;Error404-PO-1;1;The Axiom's autopilot AUTO operates under Directive A113.
+3;BITEM-PG-1;1;Directive A113 is a classified order.
+3;WaterlooClarke-PO-1;2;Directive A113 is a classified order.
+4;BITEM-PG-1;1;Directive A113 prohibits any course alteration that would return the Axiom starliner to Earth.
+4;WaterlooClarke-PO-1;2;Directive A113 prohibits any course alteration that would return the Axiom starliner to Earth.
+4;WaterlooClarke-PO-1;3;Directive A113 prohibits any course alteration that would return the Axiom starliner to Earth.
+4;Error404-PO-1;1;Directive A113 prohibits any course alteration that would return the Axiom starliner to Earth.
+</D0040>
+<D0041>George Carlin voiced the character Fillmore in the 2011 animated film Cars 2.;0
+1;WaterlooClarke-PO-1;1;In Cars 2, Fillmore is voiced by Lloyd Sherr; George Carlin voiced Fillmore in the first Cars film.
+1;BITEM-PG-1;2;In Cars 2, Fillmore is voiced by Lloyd Sherr; George Carlin voiced Fillmore in the first Cars film.
+1;WaterlooClarke-PO-1;2;In Cars 2, Fillmore is voiced by Lloyd Sherr; George Carlin voiced Fillmore in the first Cars film.
+1;Error404-PG-3;5;In Cars 2, Fillmore is voiced by Lloyd Sherr; George Carlin voiced Fillmore in the first Cars film.
+2;WaterlooClarke-PO-1;1;Cars 2 is a 2011 animated film.
+</D0041>
+<D0042>Castle in the Sky (Tenkū no Shiro Rapyuta), directed by Hayao Miyazaki and released August 2, 1986, was the first film produced by Studio Ghibli.;30
+1;BITEM-PG-1;1;Hayao Miyazaki directed Castle in the Sky.
+1;BITEM-PG-1;3;Hayao Miyazaki directed Castle in the Sky.
+2;BITEM-PG-1;3;Castle in the Sky was released on August 2, 1986.
+3;BITEM-PG-1;3;Castle in the Sky was the first film produced by Studio Ghibli.
+</D0042>
+<D0043>Totoro from Hayao Miyazaki’s My Neighbor Totoro makes a cameo as a plush Easter-egg toy in Andy’s belongings in Toy Story 3.;30
+1;WaterlooClarke-PO-2;3;Totoro originates in Hayao Miyazaki’s film My Neighbor Totoro.
+1;WaterlooClarke-PO-1;1;Totoro originates in Hayao Miyazaki’s film My Neighbor Totoro.
+2;BITEM-PG-1;1;Toy Story 3 includes a cameo of Totoro.
+2;WaterlooClarke-PO-2;3;Toy Story 3 includes a cameo of Totoro.
+2;WaterlooClarke-PO-1;1;Toy Story 3 includes a cameo of Totoro.
+3;WaterlooClarke-PO-2;3;The cameo of Totoro in Toy Story 3 takes the form of a plush toy.
+3;WaterlooClarke-PO-1;1;The cameo of Totoro in Toy Story 3 takes the form of a plush toy.
+4;WaterlooClarke-PO-2;3;The cameo of Totoro in Toy Story 3 is presented as an Easter egg.
+</D0043>
+<D0044>Hayao Miyazaki’s Spirited Away (Sen to Chihiro no Kamikakushi) became the first animated film to win the Golden Bear at the 52nd Berlin International Film Festival in 2002.;30
+1;BITEM-PG-1;1;Hayao Miyazaki’s Spirited Away won the Golden Bear at the 52nd Berlin International Film Festival in 2002.
+1;Error404-PO-1;19;Hayao Miyazaki’s Spirited Away won the Golden Bear at the 52nd Berlin International Film Festival in 2002.
+</D0044>
+<D0045>Five Studio Ghibli feature films released since 2000 have been directed by Hayao Miyazaki: 1. Spirited Away (2001) 2. Howl’s Moving Castle (2004) 3. Ponyo (2008) 4. The Wind Rises (2013) 5. The Boy and the Heron (2023);90
+1;WaterlooClarke-PO-2;4;Spirited Away is a Studio Ghibli feature film.
+1;WaterlooClarke-PO-1;7;Spirited Away is a Studio Ghibli feature film.
+2;WaterlooClarke-PO-2;4;Spirited Away was released in 2001.
+2;WaterlooClarke-PO-1;7;Spirited Away was released in 2001.
+3;WaterlooClarke-PO-2;4;Spirited Away was directed by Hayao Miyazaki.
+4;WaterlooClarke-PO-2;10;Howl’s Moving Castle is a Studio Ghibli feature film.
+4;WaterlooClarke-PO-1;7;Howl’s Moving Castle is a Studio Ghibli feature film.
+5;WaterlooClarke-PO-2;10;Howl’s Moving Castle was released in 2004.
+5;WaterlooClarke-PO-1;7;Howl’s Moving Castle was released in 2004.
+6;WaterlooClarke-PO-2;10;Howl’s Moving Castle was directed by Hayao Miyazaki.
+7;WaterlooClarke-PO-1;8;Ponyo is a Studio Ghibli feature film.
+7;WaterlooClarke-PO-1;7;Ponyo is a Studio Ghibli feature film.
+8;WaterlooClarke-PO-1;8;Ponyo was released in 2008.
+8;WaterlooClarke-PO-1;7;Ponyo was released in 2008.
+9;WaterlooClarke-PO-1;8;Ponyo was directed by Hayao Miyazaki.
+10;WaterlooClarke-PO-2;6;The Wind Rises is a Studio Ghibli feature film.
+11;WaterlooClarke-PO-2;6;The Wind Rises was released in 2013.
+12;WaterlooClarke-PO-2;6;The Wind Rises was directed by Hayao Miyazaki.
+13;WaterlooClarke-PO-2;3;The Boy and the Heron is a Studio Ghibli feature film.
+13;WaterlooClarke-PO-1;7;The Boy and the Heron is a Studio Ghibli feature film.
+14;WaterlooClarke-PO-2;3;The Boy and the Heron was released in 2023.
+14;WaterlooClarke-PO-1;7;The Boy and the Heron was released in 2023.
+15;WaterlooClarke-PO-2;6;The Boy and the Heron was directed by Hayao Miyazaki.
+15;WaterlooClarke-PO-2;3;The Boy and the Heron was directed by Hayao Miyazaki.
+</D0045>
+<D0046>Four Marvel Studios Avengers films had been released by end of August 2025: 1. The Avengers (2012) 2. Avengers: Age of Ultron (2015) 3. Avengers: Infinity War (2018) 4. Avengers: Endgame (2019);100
+1;BITEM-PG-1;1;Four Marvel Studios Avengers films had been released by the end of August 2025.
+1;WaterlooClarke-PO-1;5;Four Marvel Studios Avengers films had been released by the end of August 2025.
+1;BITEM-PG-1;20;Four Marvel Studios Avengers films had been released by the end of August 2025.
+1;WaterlooClarke-PO-2;7;Four Marvel Studios Avengers films had been released by the end of August 2025.
+2;BITEM-PG-1;1;The Avengers is a Marvel Studios Avengers film.
+2;WaterlooClarke-PO-1;5;The Avengers is a Marvel Studios Avengers film.
+2;BITEM-PG-2;6;The Avengers is a Marvel Studios Avengers film.
+2;WaterlooClarke-PO-2;7;The Avengers is a Marvel Studios Avengers film.
+3;BITEM-PG-1;1;The Avengers was released in 2012.
+3;WaterlooClarke-PO-1;5;The Avengers was released in 2012.
+3;BITEM-PG-2;6;The Avengers was released in 2012.
+3;BITEM-PG-1;20;The Avengers was released in 2012.
+3;WaterlooClarke-PO-2;7;The Avengers was released in 2012.
+4;BITEM-PG-1;1;Avengers: Age of Ultron is a Marvel Studios Avengers film.
+4;WaterlooClarke-PO-1;5;Avengers: Age of Ultron is a Marvel Studios Avengers film.
+4;WaterlooClarke-PO-2;7;Avengers: Age of Ultron is a Marvel Studios Avengers film.
+5;BITEM-PG-1;1;Avengers: Age of Ultron was released in 2015.
+5;WaterlooClarke-PO-1;5;Avengers: Age of Ultron was released in 2015.
+5;BITEM-PG-1;8;Avengers: Age of Ultron was released in 2015.
+5;BITEM-PG-1;20;Avengers: Age of Ultron was released in 2015.
+5;WaterlooClarke-PO-2;7;Avengers: Age of Ultron was released in 2015.
+6;BITEM-PG-1;1;Avengers: Infinity War is a Marvel Studios Avengers film.
+6;WaterlooClarke-PO-1;5;Avengers: Infinity War is a Marvel Studios Avengers film.
+6;BITEM-PG-1;8;Avengers: Infinity War is a Marvel Studios Avengers film.
+6;BITEM-PG-1;20;Avengers: Infinity War is a Marvel Studios Avengers film.
+6;WaterlooClarke-PO-2;7;Avengers: Infinity War is a Marvel Studios Avengers film.
+6;WaterlooClarke-PO-1;4;Avengers: Infinity War is a Marvel Studios Avengers film.
+7;BITEM-PG-1;1;Avengers: Infinity War was released in 2018.
+7;WaterlooClarke-PO-1;5;Avengers: Infinity War was released in 2018.
+7;BITEM-PG-1;8;Avengers: Infinity War was released in 2018.
+7;BITEM-PG-1;4;Avengers: Infinity War was released in 2018.
+7;WaterlooClarke-PO-2;7;Avengers: Infinity War was released in 2018.
+7;WaterlooClarke-PO-1;4;Avengers: Infinity War was released in 2018.
+8;BITEM-PG-1;1;Avengers: Endgame is a Marvel Studios Avengers film.
+8;WaterlooClarke-PO-1;5;Avengers: Endgame is a Marvel Studios Avengers film.
+8;BITEM-PG-1;8;Avengers: Endgame is a Marvel Studios Avengers film.
+8;BITEM-PG-1;4;Avengers: Endgame is a Marvel Studios Avengers film.
+8;BITEM-PG-1;20;Avengers: Endgame is a Marvel Studios Avengers film.
+8;WaterlooClarke-PO-2;7;Avengers: Endgame is a Marvel Studios Avengers film.
+8;WaterlooClarke-PO-1;4;Avengers: Endgame is a Marvel Studios Avengers film.
+9;BITEM-PG-1;1;Avengers: Endgame was released in 2019.
+9;WaterlooClarke-PO-1;5;Avengers: Endgame was released in 2019.
+9;BITEM-PG-1;8;Avengers: Endgame was released in 2019.
+9;BITEM-PG-1;4;Avengers: Endgame was released in 2019.
+9;WaterlooClarke-PO-2;7;Avengers: Endgame was released in 2019.
+9;WaterlooClarke-PO-1;4;Avengers: Endgame was released in 2019.
+</D0046>
+<D0047>Five Royal Navy helicopters were dispatched to rescue the British Royal Family from Balmoral Castle.;0
+1;WaterlooClarke-PO-1;1;Three helicopters were dispatched to rescue the British royal family from Balmoral Castle and crashed after entering the superstorm’s eye.
+2;WaterlooClarke-PO-1;1;In The Day After Tomorrow, three helicopters were dispatched to rescue the British royal family from Balmoral Castle, but they crashed after flying into a superstorm’s eye.
+3;WaterlooClarke-PO-1;1;The rescue of the British Royal Family was from Balmoral Castle.
+</D0047>
+<D0048>God’s Eye first appeared in Furious 7, the seventh film in The Fast & the Furious franchise, released in April 2015. The device—a powerful surveillance program capable of hacking any digital camera or network—was developed in the story by hacker character Ramsey (played by Nathalie Emmanuel).;30
+1;WaterlooClarke-PO-1;4;God's Eye first appeared in Furious 7.
+1;WaterlooClarke-PO-1;10;God's Eye first appeared in Furious 7.
+1;WaterlooClarke-PO-1;16;God's Eye first appeared in Furious 7.
+2;WaterlooClarke-PO-1;1;Furious 7 is the seventh film in The Fast & the Furious franchise.
+2;WaterlooClarke-PO-1;4;Furious 7 is the seventh film in The Fast & the Furious franchise.
+3;WaterlooClarke-PO-1;10;God's Eye is a device.
+4;WaterlooClarke-PO-1;12;God's Eye is a powerful surveillance program.
+4;WaterlooClarke-PO-1;8;God's Eye is a powerful surveillance program.
+4;WaterlooClarke-PO-2;11;God's Eye is a powerful surveillance program.
+4;WaterlooClarke-PO-1;4;God's Eye is a powerful surveillance program.
+4;WaterlooClarke-PO-1;10;God's Eye is a powerful surveillance program.
+4;WaterlooClarke-PO-1;16;God's Eye is a powerful surveillance program.
+5;WaterlooClarke-PO-1;12;God's Eye was developed in the story of Furious 7 by Ramsey.
+5;WaterlooClarke-PO-2;11;God's Eye was developed in the story of Furious 7 by Ramsey.
+5;WaterlooClarke-PO-1;4;God's Eye was developed in the story of Furious 7 by Ramsey.
+5;WaterlooClarke-PO-1;10;God's Eye was developed in the story of Furious 7 by Ramsey.
+5;WaterlooClarke-PO-1;16;God's Eye was developed in the story of Furious 7 by Ramsey.
+6;WaterlooClarke-PO-1;12;Ramsey is a hacker character.
+6;WaterlooClarke-PO-2;11;Ramsey is a hacker character.
+6;WaterlooClarke-PO-1;4;Ramsey is a hacker character.
+6;WaterlooClarke-PO-1;10;Ramsey is a hacker character.
+6;WaterlooClarke-PO-1;16;Ramsey is a hacker character.
+7;WaterlooClarke-PO-1;12;Ramsey is played by Nathalie Emmanuel.
+</D0048>
+<D0049>Justin Lin received zero screenwriting credits on any of the mainline The Fast & the Furious films.;60
+1;BITEM-PG-1;2;Justin Lin received zero screenwriting credits on any of the mainline The Fast & the Furious films.
+</D0049>
+<D0050>F9 (Fast & Furious 9) grossed approximately $726 million worldwide, while Fast X (Fast & Furious 10) grossed about $704 million worldwide; F9 achieved the higher global box-office total.;100
+1;BITEM-PG-1;1;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+1;BITEM-PG-1;5;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+1;WaterlooClarke-PO-1;2;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+1;WaterlooClarke-PO-2;13;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+1;hit-u-PO-2;2;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+1;hit-u-PO-3;8;F9 (Fast & Furious 9) grossed approximately $726 million worldwide.
+2;WaterlooClarke-PO-2;13;Fast X (Fast & Furious 10) grossed about $704 million worldwide.
+2;hit-u-PO-2;2;Fast X (Fast & Furious 10) grossed about $704 million worldwide.
+3;WaterlooClarke-PO-2;13;F9 (Fast & Furious 9) achieved a higher global box-office total than Fast X (Fast & Furious 10).
+3;hit-u-PO-2;2;F9 (Fast & Furious 9) achieved a higher global box-office total than Fast X (Fast & Furious 10).
+</D0050>
+<D0051>Murphy Cooper;100
+1;WaterlooClarke-PO-1;1;The answer is Murphy Cooper.
+1;Error404-PO-2;5;The answer is Murphy Cooper.
+1;WaterlooClarke-PO-2;8;The answer is Murphy Cooper.
+</D0051>
+<D0052>Murphy Cooper, daughter of pilot Joseph Cooper in the film Interstellar, is nicknamed “Murph.”;90
+1;BITEM-PG-1;1;Murphy Cooper is nicknamed "Murph".
+1;WaterlooClarke-PO-1;1;Murphy Cooper is nicknamed "Murph".
+1;WaterlooClarke-PO-2;9;Murphy Cooper is nicknamed "Murph".
+2;BITEM-PG-1;1;Murphy Cooper is the daughter of Joseph Cooper.
+2;WaterlooClarke-PO-1;1;Murphy Cooper is the daughter of Joseph Cooper.
+3;BITEM-PG-1;1;Joseph Cooper is a pilot.
+3;WaterlooClarke-PO-1;1;Joseph Cooper is a pilot.
+4;BITEM-PG-1;1;Joseph Cooper appears in Interstellar.
+4;WaterlooClarke-PO-1;1;Joseph Cooper appears in Interstellar.
+5;WaterlooClarke-PO-1;1;Interstellar is a film.
+5;BITEM-PG-2;4;Interstellar is a film.
+</D0052>
+<D0053>Murphy “Murph” Cooper is ten years old at the time Joseph Cooper departs Earth to begin his mission in Interstellar.;60
+1;BITEM-PG-1;1;Joseph Cooper departs Earth to begin Joseph Cooper's mission in Interstellar.
+1;WaterlooClarke-PO-1;5;Joseph Cooper departs Earth to begin Joseph Cooper's mission in Interstellar.
+2;WaterlooClarke-PO-1;1;Murphy "Murph" Cooper is ten years old at the time of Joseph Cooper's departure from Earth to begin Joseph Cooper's mission in Interstellar.
+</D0053>
+<D0054>Oppenheimer (2023);60
+1;BITEM-PG-1;3;Oppenheimer is from 2023.
+1;BITEM-PG-1;14;Oppenheimer is from 2023.
+1;BITEM-PG-1;1;Oppenheimer is from 2023.
+1;BITEM-PG-1;18;Oppenheimer is from 2023.
+1;BITEM-PG-2;18;Oppenheimer is from 2023.
+1;hit-u-PO-4;3;Oppenheimer is from 2023.
+</D0054>
+<D0055>The Amazing Spider-Man 2 (Sony Pictures, April 23, 2014) represented the first feature film released in Dolby Vision HDR format within Dolby Cinema venues, debuting at the TCL Chinese Theatre in Los Angeles.;0
+1;BITEM-PG-1;1;The Amazing Spider-Man 2 was not the first Dolby Vision release in Dolby Cinema; Tomorrowland (2015) was, and Sony’s first in that format was Pixels (2015).
+1;BITEM-PG-1;4;The Amazing Spider-Man 2 was not the first Dolby Vision release in Dolby Cinema; Tomorrowland (2015) was, and Sony’s first in that format was Pixels (2015).
+2;BITEM-PG-1;4;Pixels was Sony’s first film released in Dolby Vision, shown in Dolby Cinema in the United States and Canada.
+</D0055>
+<D0056>In The Empire Strikes Back, the Rebel Alliance first established its secret base on the remote ice planet Hoth.;100
+1;Error404-PG-3;4;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;BITEM-PG-1;2;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;BITEM-PG-1;5;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;Error404-PO-2;2;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;BITEM-PG-2;4;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;Error404-PO-1;3;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;hit-u-PO-4;1;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+1;BITEM-PG-1;1;In the film The Empire Strikes Back, the Rebel Alliance first established the Rebel Alliance's secret base on the remote ice planet Hoth.
+</D0056>
+<D0057>Jedi Master Plo Koon first discovered Ahsoka Tano—later known for wielding two white lightsabers—on her homeworld Shili and brought her to the Jedi Temple for training.;100
+1;BITEM-PG-2;10;Plo Koon is a Jedi Master.
+1;ORG-PO-4;2;Plo Koon is a Jedi Master.
+1;BITEM-PG-2;9;Plo Koon is a Jedi Master.
+1;BITEM-PG-1;1;Plo Koon is a Jedi Master.
+2;BITEM-PG-2;10;Plo Koon first discovered Ahsoka Tano on Shili.
+2;ORG-PO-4;2;Plo Koon first discovered Ahsoka Tano on Shili.
+3;BITEM-PG-2;10;Shili is Ahsoka Tano's homeworld.
+3;ORG-PO-4;2;Shili is Ahsoka Tano's homeworld.
+4;BITEM-PG-2;10;Plo Koon brought Ahsoka Tano to the Jedi Temple for training.
+4;ORG-PO-4;2;Plo Koon brought Ahsoka Tano to the Jedi Temple for training.
+4;BITEM-PG-2;9;Plo Koon brought Ahsoka Tano to the Jedi Temple for training.
+5;BITEM-PG-1;2;Ahsoka Tano was later known for wielding two white lightsabers.
+5;BITEM-PG-2;5;Ahsoka Tano was later known for wielding two white lightsabers.
+5;BITEM-PG-1;16;Ahsoka Tano was later known for wielding two white lightsabers.
+5;BITEM-PG-2;17;Ahsoka Tano was later known for wielding two white lightsabers.
+5;BITEM-PG-2;8;Ahsoka Tano was later known for wielding two white lightsabers.
+</D0057>
+<D0058>Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”;100
+1;BITEM-PG-1;1;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;BITEM-PG-2;5;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;WaterlooClarke-PO-1;3;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;BITEM-PG-2;1;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;WaterlooClarke-PO-1;2;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;BITEM-PG-2;4;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+1;BITEM-PG-2;7;Chirrut Îmwe repeatedly recites the mantra “I am one with the Force, the Force is with me.”
+</D0058>
+<D0059>Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith and Nick Fury in the Marvel Cinematic Universe’s Avengers films.;100
+1;BITEM-PG-1;2;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+1;BITEM-PG-2;5;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+1;BITEM-PG-2;13;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+1;BITEM-PG-2;8;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+1;BITEM-PG-2;3;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+1;ORG-PO-4;18;Samuel L. Jackson portrayed Jedi Master Mace Windu in Star Wars: Episode III – Revenge of the Sith.
+2;BITEM-PG-1;1;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;BITEM-PG-1;10;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;BITEM-PG-1;12;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;BITEM-PG-1;18;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;BITEM-PG-1;13;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;Error404-PO-1;12;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+2;BITEM-PG-2;3;Samuel L. Jackson portrayed Nick Fury in the Marvel Cinematic Universe’s Avengers films.
+</D0059>
+<D0060>Han Solo died on Starkiller Base, the ice planet converted into the First Order’s superweapon in Star Wars: The Force Awakens.;100
+1;BITEM-PG-1;1;Han Solo died on Starkiller Base.
+1;BITEM-PG-2;3;Han Solo died on Starkiller Base.
+1;BITEM-PG-2;6;Han Solo died on Starkiller Base.
+1;BITEM-PG-2;4;Han Solo died on Starkiller Base.
+1;Error404-PG-4;20;Han Solo died on Starkiller Base.
+1;BITEM-PG-2;2;Han Solo died on Starkiller Base.
+1;BITEM-PG-2;8;Han Solo died on Starkiller Base.
+2;BITEM-PG-2;1;Starkiller Base is an ice planet.
+3;BITEM-PG-2;1;Starkiller Base was converted into the First Order's superweapon in Star Wars: The Force Awakens.
+3;BITEM-PG-2;2;Starkiller Base was converted into the First Order's superweapon in Star Wars: The Force Awakens.
+3;Error404-PO-2;19;Starkiller Base was converted into the First Order's superweapon in Star Wars: The Force Awakens.
+</D0060>
+<D0061>Spider-Man: Homecoming; Spider-Man: Far From Home; Spider-Man: No Way Home – common subtitle word: Home.;90
+1;BITEM-PG-1;2;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;BITEM-PG-1;4;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;BITEM-PG-1;6;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;Error404-PG-3;1;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;BITEM-PG-2;20;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;Error404-PG-3;11;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;WasedaR2C2-PO-4;5;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+1;Error404-PG-3;17;The common subtitle word among Spider-Man: Homecoming, Spider-Man: Far From Home, and Spider-Man: No Way Home is "Home".
+</D0061>
+<D0062>Jyn Erso’s nickname in Rogue One is “Stardust.”;100
+1;BITEM-PG-1;1;Jyn Erso's nickname in Rogue One is "Stardust."
+1;BITEM-PG-1;2;Jyn Erso's nickname in Rogue One is "Stardust."
+1;BITEM-PG-1;3;Jyn Erso's nickname in Rogue One is "Stardust."
+1;hit-u-PO-1;4;Jyn Erso's nickname in Rogue One is "Stardust."
+</D0062>
+<D0063>The Empire deployed All Terrain Armored Transport (AT-AT) walkers: four-legged, 22.5-meter-tall heavily armored assault vehicles armed with heavy laser cannons to attack Echo Base on Hoth.;80
+1;BITEM-PG-1;1;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;BITEM-PG-1;2;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;WaterlooClarke-PO-2;19;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;WaterlooClarke-PO-2;9;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;BITEM-PG-2;3;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;Error404-PO-2;3;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;WaterlooClarke-PO-1;20;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;hit-u-PO-2;5;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;WasedaR2C2-PO-2;14;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+1;hit-u-PO-2;3;The Empire deployed All Terrain Armored Transport (AT-AT) walkers to attack Echo Base on Hoth.
+2;Error404-PO-2;3;All Terrain Armored Transport (AT-AT) walkers have four legs.
+3;WaterlooClarke-PO-2;9;All Terrain Armored Transport (AT-AT) walkers are 22.5 meters tall.
+4;BITEM-PG-2;2;All Terrain Armored Transport (AT-AT) walkers are heavily armored assault vehicles.
+4;BITEM-PG-2;3;All Terrain Armored Transport (AT-AT) walkers are heavily armored assault vehicles.
+4;hit-u-PO-2;5;All Terrain Armored Transport (AT-AT) walkers are heavily armored assault vehicles.
+</D0063>
+<D0064>Rogue One: A Star Wars Story earned $1.056 billion worldwide on a ~$200 million production budget, garnered 84% critic approval on Rotten Tomatoes and a Metacritic score of 65. Solo: A Star Wars Story earned $393.2 million worldwide on a $275–300 million budget, garnered 69% critic approval on Rotten Tomatoes and a Metacritic score of 63. Rogue One outgrossed Solo by over $660 million, carried a lower budget and achieved higher critical ratings, making Rogue One more successful.;10
+1;BITEM-PG-1;2;Rogue One: A Star Wars Story grossed $1.059 billion worldwide.
+2;BITEM-PG-1;1;Solo: A Star Wars Story earned $393.2 million worldwide.
+2;WaterlooClarke-PO-1;3;Solo: A Star Wars Story earned $393.2 million worldwide.
+3;WaterlooClarke-PO-2;13;Solo: A Star Wars Story holds a Metacritic score of 62 out of 100, based on 54 critic reviews.
+4;WaterlooClarke-PO-1;3;Rogue One: A Star Wars Story was more successful than Solo: A Star Wars Story.
+</D0064>
+<D0065>Rogue One: A Star Wars Story, the highest-grossing Star Wars spinoff, features Donnie Yen as Chirrut Îmwe and Jiang Wen as Baze Malbus. Both characters are fatally shot by Imperial stormtroopers during the Battle of Scarif.;10
+1;BITEM-PG-1;3;Rogue One: A Star Wars Story features Donnie Yen as Chirrut Îmwe.
+2;Error404-PG-3;1;Rogue One: A Star Wars Story features Jiang Wen as Baze Malbus.
+3;BITEM-PG-1;1;Chirrut Îmwe is killed by an explosion caused by an Imperial death trooper during the Battle of Scarif.
+3;BITEM-PG-1;6;Chirrut Îmwe is killed by an explosion caused by an Imperial death trooper during the Battle of Scarif.
+4;BITEM-PG-1;1;Baze Malbus is killed by a C-25 fragmentation grenade after charging Imperial death troopers during the Battle of Scarif.
+</D0065>

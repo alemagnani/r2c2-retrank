@@ -1,0 +1,347 @@
+- generic [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - region "Notifications (F8)":
+      - list
+    - generic [ref=f1e5]:
+      - button "Skip to main content" [ref=f1e6] [cursor=pointer]
+      - banner [ref=f1e8]:
+        - link "Home" [ref=f1e10] [cursor=pointer]:
+          - /url: /
+          - img "Company Logo" [ref=f1e11]
+        - generic [ref=f1e13]:
+          - link "Sign up" [ref=f1e14] [cursor=pointer]:
+            - /url: https://waseda.account.box.com/pricing
+          - link "Log in" [ref=f1e15] [cursor=pointer]:
+            - /url: https://waseda.account.box.com/login?redirect_url=%2Fv%2Fr2c2officialresults%2Ffolder%2F372287930267&utm_campaign=asset-login-ribbon&utm_medium=Collaboration&utm_source_link=link
+      - main "OfficialResults" [ref=f1e16]:
+        - generic [ref=f1e18]:
+          - generic [ref=f1e19]:
+            - navigation "Breadcrumb" [ref=f1e21]:
+              - list [ref=f1e22]:
+                - listitem [ref=f1e23]:
+                  - link "OfficialResults" [ref=f1e24] [cursor=pointer]:
+                    - /url: /v/r2c2officialresults/folder/387653324947
+                - listitem [ref=f1e25]:
+                  - heading "ACruns" [level=1] [ref=f1e28]
+            - generic [ref=f1e29]:
+              - generic [ref=f1e30]:
+                - button "1 of 2" [ref=f1e32] [cursor=pointer]
+                - generic [ref=f1e34]:
+                  - button "Previous Page" [disabled]
+                  - link "Next Page" [ref=f1e35] [cursor=pointer]:
+                    - /url: /v/r2c2officialresults/folder/372287930267?page=2
+              - button "Download" [active] [ref=f1e37] [cursor=pointer]
+          - generic [ref=f1e40]:
+            - generic [ref=f1e42]:
+              - generic [ref=f1e45]:
+                - generic:
+                  - generic:
+                    - grid:
+                      - rowgroup:
+                        - row "Type Name, including supplementary info Resize Name column Updated Resize Updated column Size View selector Toggle sidebar" [ref=f1e46]:
+                          - columnheader "Type"
+                          - columnheader "Name, including supplementary info":
+                            - link "Sort by Name" [ref=f1e48] [cursor=pointer]:
+                              - /url: /v/r2c2officialresults/folder/372287930267?sortColumn=name&sortDirection=ASC
+                              - generic [ref=f1e49]: NAME
+                          - generic:
+                            - separator "Resize Name column":
+                              - generic [ref=f1e51]: Use Left and Right Arrow keys to resize.
+                          - columnheader "Updated" [ref=f1e52]:
+                            - link "Sort by Updated" [ref=f1e53] [cursor=pointer]:
+                              - /url: /v/r2c2officialresults/folder/372287930267?sortColumn=date&sortDirection=ASC
+                              - generic [ref=f1e54]: UPDATED
+                          - generic:
+                            - separator "Resize Updated column":
+                              - generic [ref=f1e56]: Use Left and Right Arrow keys to resize.
+                          - columnheader "Size" [ref=f1e57]:
+                            - link "Sort by Size" [ref=f1e58] [cursor=pointer]:
+                              - /url: /v/r2c2officialresults/folder/372287930267?sortColumn=size&sortDirection=ASC
+                              - generic [ref=f1e59]: SIZE
+                          - generic [ref=f1e61]:
+                            - button "View selector" [ref=f1e62] [cursor=pointer]
+                            - button "Toggle sidebar" [ref=f1e63] [cursor=pointer]
+                      - rowgroup "grid" [ref=f1e65]:
+                        - generic [ref=f1e66]:
+                          - row [ref=f1e67] [cursor=pointer]:
+                            - generic [ref=f1e68]:
+                              - gridcell [ref=f1e69]:
+                                - img "File" [ref=f1e70]
+                              - gridcell [ref=f1e73]:
+                                - link "Error404-AC-1" [ref=f1e80]:
+                                  - /url: /v/r2c2officialresults/file/2232289960486
+                              - gridcell [ref=f1e81]
+                              - gridcell "May 16, 2026 by 酒井 哲也" [ref=f1e82]
+                              - gridcell [ref=f1e85]
+                              - gridcell "64 KB" [ref=f1e86]
+                              - gridcell
+                          - row [ref=f1e87] [cursor=pointer]:
+                            - generic [ref=f1e88]:
+                              - gridcell [ref=f1e89]:
+                                - img "File" [ref=f1e90]
+                              - gridcell [ref=f1e93]:
+                                - link "Error404-AC-3" [ref=f1e100]:
+                                  - /url: /v/r2c2officialresults/file/2232290728469
+                              - gridcell [ref=f1e101]
+                              - gridcell "May 16, 2026 by 酒井 哲也" [ref=f1e102]
+                              - gridcell [ref=f1e105]
+                              - gridcell "81.3 KB" [ref=f1e106]
+                              - gridcell
+                          - row [ref=f1e107] [cursor=pointer]:
+                            - generic [ref=f1e108]:
+                              - gridcell [ref=f1e109]:
+                                - img "File" [ref=f1e110]
+                              - gridcell [ref=f1e113]:
+                                - link "Error404-AC-2" [ref=f1e120]:
+                                  - /url: /v/r2c2officialresults/file/2232286813859
+                              - gridcell [ref=f1e121]
+                              - gridcell "May 16, 2026 by 酒井 哲也" [ref=f1e122]
+                              - gridcell [ref=f1e125]
+                              - gridcell "91.5 KB" [ref=f1e126]
+                              - gridcell
+                          - row [ref=f1e127] [cursor=pointer]:
+                            - generic [ref=f1e128]:
+                              - gridcell [ref=f1e129]:
+                                - img "File" [ref=f1e130]
+                              - gridcell [ref=f1e133]:
+                                - link "hit-u-AC-2" [ref=f1e140]:
+                                  - /url: /v/r2c2officialresults/file/2230582203921
+                              - gridcell [ref=f1e141]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e142]
+                              - gridcell [ref=f1e145]
+                              - gridcell "88.5 KB" [ref=f1e146]
+                              - gridcell
+                          - row [ref=f1e147] [cursor=pointer]:
+                            - generic [ref=f1e148]:
+                              - gridcell [ref=f1e149]:
+                                - img "File" [ref=f1e150]
+                              - gridcell [ref=f1e153]:
+                                - link "hit-u-AC-1" [ref=f1e160]:
+                                  - /url: /v/r2c2officialresults/file/2230578513365
+                              - gridcell [ref=f1e161]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e162]
+                              - gridcell [ref=f1e165]
+                              - gridcell "89.1 KB" [ref=f1e166]
+                              - gridcell
+                          - row [ref=f1e167] [cursor=pointer]:
+                            - generic [ref=f1e168]:
+                              - gridcell [ref=f1e169]:
+                                - img "File" [ref=f1e170]
+                              - gridcell [ref=f1e173]:
+                                - link "hit-u-AC-3" [ref=f1e180]:
+                                  - /url: /v/r2c2officialresults/file/2230577406661
+                              - gridcell [ref=f1e181]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e182]
+                              - gridcell [ref=f1e185]
+                              - gridcell "72.9 KB" [ref=f1e186]
+                              - gridcell
+                          - row [ref=f1e187] [cursor=pointer]:
+                            - generic [ref=f1e188]:
+                              - gridcell [ref=f1e189]:
+                                - img "File" [ref=f1e190]
+                              - gridcell [ref=f1e193]:
+                                - link "hit-u-AC-4" [ref=f1e200]:
+                                  - /url: /v/r2c2officialresults/file/2230576705964
+                              - gridcell [ref=f1e201]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e202]
+                              - gridcell [ref=f1e205]
+                              - gridcell "72.9 KB" [ref=f1e206]
+                              - gridcell
+                          - row [ref=f1e207] [cursor=pointer]:
+                            - generic [ref=f1e208]:
+                              - gridcell [ref=f1e209]:
+                                - img "File" [ref=f1e210]
+                              - gridcell [ref=f1e213]:
+                                - link "slr2c2-AC-4" [ref=f1e220]:
+                                  - /url: /v/r2c2officialresults/file/2230604704298
+                              - gridcell [ref=f1e221]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e222]
+                              - gridcell [ref=f1e225]
+                              - gridcell "60.9 KB" [ref=f1e226]
+                              - gridcell
+                          - row [ref=f1e227] [cursor=pointer]:
+                            - generic [ref=f1e228]:
+                              - gridcell [ref=f1e229]:
+                                - img "File" [ref=f1e230]
+                              - gridcell [ref=f1e233]:
+                                - link "slr2c2-AC-2" [ref=f1e240]:
+                                  - /url: /v/r2c2officialresults/file/2230580852987
+                              - gridcell [ref=f1e241]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e242]
+                              - gridcell [ref=f1e245]
+                              - gridcell "104.3 KB" [ref=f1e246]
+                              - gridcell
+                          - row [ref=f1e247] [cursor=pointer]:
+                            - generic [ref=f1e248]:
+                              - gridcell [ref=f1e249]:
+                                - img "File" [ref=f1e250]
+                              - gridcell [ref=f1e253]:
+                                - link "slr2c2-AC-1" [ref=f1e260]:
+                                  - /url: /v/r2c2officialresults/file/2230579453373
+                              - gridcell [ref=f1e261]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e262]
+                              - gridcell [ref=f1e265]
+                              - gridcell "104.6 KB" [ref=f1e266]
+                              - gridcell
+                          - row [ref=f1e267] [cursor=pointer]:
+                            - generic [ref=f1e268]:
+                              - gridcell [ref=f1e269]:
+                                - img "File" [ref=f1e270]
+                              - gridcell [ref=f1e273]:
+                                - link "slr2c2-AC-3" [ref=f1e280]:
+                                  - /url: /v/r2c2officialresults/file/2230577204529
+                              - gridcell [ref=f1e281]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e282]
+                              - gridcell [ref=f1e285]
+                              - gridcell "61 KB" [ref=f1e286]
+                              - gridcell
+                          - row [ref=f1e287] [cursor=pointer]:
+                            - generic [ref=f1e288]:
+                              - gridcell [ref=f1e289]:
+                                - img "File" [ref=f1e290]
+                              - gridcell [ref=f1e293]:
+                                - link "BITEM-AC-4" [ref=f1e300]:
+                                  - /url: /v/r2c2officialresults/file/2230449357319
+                              - gridcell [ref=f1e301]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e302]
+                              - gridcell [ref=f1e305]
+                              - gridcell "30.6 KB" [ref=f1e306]
+                              - gridcell
+                          - row [ref=f1e307] [cursor=pointer]:
+                            - generic [ref=f1e308]:
+                              - gridcell [ref=f1e309]:
+                                - img "File" [ref=f1e310]
+                              - gridcell [ref=f1e313]:
+                                - link "BITEM-AC-3" [ref=f1e320]:
+                                  - /url: /v/r2c2officialresults/file/2230449088233
+                              - gridcell [ref=f1e321]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e322]
+                              - gridcell [ref=f1e325]
+                              - gridcell "30.6 KB" [ref=f1e326]
+                              - gridcell
+                          - row [ref=f1e327] [cursor=pointer]:
+                            - generic [ref=f1e328]:
+                              - gridcell [ref=f1e329]:
+                                - img "File" [ref=f1e330]
+                              - gridcell [ref=f1e333]:
+                                - link "BITEM-AC-2" [ref=f1e340]:
+                                  - /url: /v/r2c2officialresults/file/2230448735477
+                              - gridcell [ref=f1e341]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e342]
+                              - gridcell [ref=f1e345]
+                              - gridcell "30.6 KB" [ref=f1e346]
+                              - gridcell
+                          - row [ref=f1e347] [cursor=pointer]:
+                            - generic [ref=f1e348]:
+                              - gridcell [ref=f1e349]:
+                                - img "File" [ref=f1e350]
+                              - gridcell [ref=f1e353]:
+                                - link "BITEM-AC-1" [ref=f1e360]:
+                                  - /url: /v/r2c2officialresults/file/2230445159934
+                              - gridcell [ref=f1e361]
+                              - gridcell "May 14, 2026 by 酒井 哲也" [ref=f1e362]
+                              - gridcell [ref=f1e365]
+                              - gridcell "16.9 KB" [ref=f1e366]
+                              - gridcell
+                          - row [ref=f1e367] [cursor=pointer]:
+                            - generic [ref=f1e368]:
+                              - gridcell [ref=f1e369]:
+                                - img "File" [ref=f1e370]
+                              - gridcell [ref=f1e373]:
+                                - link "WaterlooClarke-AC-2" [ref=f1e380]:
+                                  - /url: /v/r2c2officialresults/file/2226681818364
+                              - gridcell [ref=f1e381]
+                              - gridcell "May 11, 2026 by 酒井 哲也" [ref=f1e382]
+                              - gridcell [ref=f1e385]
+                              - gridcell "71.1 KB" [ref=f1e386]
+                              - gridcell
+                          - row [ref=f1e387] [cursor=pointer]:
+                            - generic [ref=f1e388]:
+                              - gridcell [ref=f1e389]:
+                                - img "File" [ref=f1e390]
+                              - gridcell [ref=f1e393]:
+                                - link "WaterlooClarke-AC-1" [ref=f1e400]:
+                                  - /url: /v/r2c2officialresults/file/2226681806364
+                              - gridcell [ref=f1e401]
+                              - gridcell "May 11, 2026 by 酒井 哲也" [ref=f1e402]
+                              - gridcell [ref=f1e405]
+                              - gridcell "27.1 KB" [ref=f1e406]
+                              - gridcell
+                          - row [ref=f1e407] [cursor=pointer]:
+                            - generic [ref=f1e408]:
+                              - gridcell [ref=f1e409]:
+                                - img "File" [ref=f1e410]
+                              - gridcell [ref=f1e414]:
+                                - link "retrank-AC-2.txt" [ref=f1e421]:
+                                  - /url: /v/r2c2officialresults/file/2225759757538
+                              - gridcell [ref=f1e422]
+                              - gridcell "May 10, 2026 by 酒井 哲也" [ref=f1e423]
+                              - gridcell [ref=f1e426]
+                              - gridcell "23.2 KB" [ref=f1e427]
+                              - gridcell
+                          - row [ref=f1e428] [cursor=pointer]:
+                            - generic [ref=f1e429]:
+                              - gridcell [ref=f1e430]:
+                                - img "File" [ref=f1e431]
+                              - gridcell [ref=f1e435]:
+                                - link "retrank-AC-3.txt" [ref=f1e442]:
+                                  - /url: /v/r2c2officialresults/file/2225787129305
+                              - gridcell [ref=f1e443]
+                              - gridcell "May 10, 2026 by 酒井 哲也" [ref=f1e444]
+                              - gridcell [ref=f1e447]
+                              - gridcell "24 KB" [ref=f1e448]
+                              - gridcell
+                          - row [ref=f1e449] [cursor=pointer]:
+                            - generic [ref=f1e450]:
+                              - gridcell [ref=f1e451]:
+                                - img "File" [ref=f1e452]
+                              - gridcell [ref=f1e456]:
+                                - link "retrank-AC-4.txt" [ref=f1e463]:
+                                  - /url: /v/r2c2officialresults/file/2225767300080
+                              - gridcell [ref=f1e464]
+                              - gridcell "May 10, 2026 by 酒井 哲也" [ref=f1e465]
+                              - gridcell [ref=f1e468]
+                              - gridcell "23.1 KB" [ref=f1e469]
+                              - gridcell
+              - generic [ref=f1e470]:
+                - button "1 of 2" [ref=f1e472] [cursor=pointer]
+                - generic [ref=f1e474]:
+                  - button "Previous Page" [disabled]
+                  - link "Next Page" [ref=f1e475] [cursor=pointer]:
+                    - /url: /v/r2c2officialresults/folder/372287930267?page=2
+            - generic [ref=f1e477]:
+              - generic: Sharing and details updated for folder "ACruns"
+              - complementary "Details sidebar" [ref=f1e479]:
+                - generic [ref=f1e480]:
+                  - tablist [ref=f1e482]:
+                    - tab "Details" [selected] [ref=f1e483] [cursor=pointer]
+                  - tabpanel "Details" [ref=f1e485]:
+                    - generic [ref=f1e486]:
+                      - generic [ref=f1e487]:
+                        - heading "Folder Properties" [level=2] [ref=f1e489]
+                        - generic [ref=f1e490]:
+                          - term [ref=f1e491]: Owner
+                          - definition [ref=f1e492]: 学内管理者
+                          - term [ref=f1e493]: Enterprise Owner
+                          - definition [ref=f1e494]: Waseda University
+                          - term [ref=f1e495]: Created
+                          - definition [ref=f1e496]: Mar 21, 2026, 7:42 PM
+                          - term [ref=f1e497]: Modified
+                          - definition [ref=f1e498]: May 16, 2026, 3:44 AM
+                          - term [ref=f1e499]: Size
+                          - definition [ref=f1e500]:
+                            - generic [ref=f1e501]:
+                              - generic [ref=f1e502]: 1.3 MB
+                              - generic [ref=f1e503]: 25 Files
+                          - term [ref=f1e504]: Location
+                          - definition [ref=f1e505]:
+                            - navigation "Location" [ref=f1e506]:
+                              - list [ref=f1e507]:
+                                - listitem [ref=f1e508]:
+                                  - generic [ref=f1e509]: ACruns
+                      - separator [ref=f1e510]
+      - button [ref=f1e511] [cursor=pointer]:
+        - generic [ref=f1e512]: Drop files on this page to upload them into this folder.
+  - generic [ref=f1e515]:
+    - generic [ref=f1e518]: Your download will begin shortly.
+    - button "Clear Notification" [ref=f1e519] [cursor=pointer]

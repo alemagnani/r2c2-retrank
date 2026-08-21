@@ -1,0 +1,26 @@
+,n,R_O,R_U,HMR,avconf,accuracy,OB,#PR runs used,PR runs used
+retrank-AC-1.official,64,0.95,1,0.9744,0.9555,0.9531,0.0023,2,"BITEM-PG-1,BITEM-PG-2"
+retrank-AC-2.official,64,0.95,0.9756,0.9626,0.9322,0.9531,-0.0209,2,"BITEM-PG-1,BITEM-PG-2"
+retrank-AC-3.official,64,0.85,0.9639,0.9034,0.9384,0.9688,-0.0303,2,"BITEM-PG-1,BITEM-PG-2"
+retrank-AC-4.official,64,0.79,0.9623,0.8677,0.88,0.8906,-0.0106,10,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-3,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-2"
+WaterlooClarke-AC-2.official,64,0.6917,0.8452,0.7608,0.7445,0.8125,-0.068,17,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-4,WasedaR2C2-PO-2,WasedaR2C2-PO-4,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-1,hit-u-PO-2,hit-u-PO-3,hit-u-PO-4,retrank-PG-1,retrank-PG-2"
+ORG-AC-3.official,64,0.625,0.9681,0.7596,0.7086,0.5625,0.1461,2,"ORG-PO-3,ORG-PO-4"
+slr2c2-AC-4.official,64,0.6097,0.9059,0.7288,0.6642,0.5312,0.133,20,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-3,ORG-PO-4,WasedaR2C2-PO-1,WasedaR2C2-PO-2,WasedaR2C2-PO-3,WasedaR2C2-PO-4,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-1,hit-u-PO-2,hit-u-PO-3,hit-u-PO-4,retrank-PG-1,retrank-PG-3"
+slr2c2-AC-1.official,64,0.5734,0.8997,0.7005,0.6853,0.5469,0.1384,20,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-3,ORG-PO-4,WasedaR2C2-PO-1,WasedaR2C2-PO-3,WasedaR2C2-PO-4,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-1,hit-u-PO-2,hit-u-PO-3,hit-u-PO-4,retrank-PG-1,retrank-PG-3,retrank-PG-4"
+WaterlooClarke-AC-1.official,64,0.575,0.8858,0.6973,0.857,0.9375,-0.0805,11,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-4,WaterlooClarke-PO-1,hit-u-PO-1,hit-u-PO-4,retrank-PG-3"
+slr2c2-AC-2.official,64,0.5343,0.9059,0.6722,0.6995,0.5312,0.1683,20,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-3,ORG-PO-4,WasedaR2C2-PO-1,WasedaR2C2-PO-3,WasedaR2C2-PO-4,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-1,hit-u-PO-2,hit-u-PO-3,hit-u-PO-4,retrank-PG-1,retrank-PG-3,retrank-PG-4"
+slr2c2-AC-3.official,64,0.5014,0.8571,0.6327,0.6947,0.5469,0.1478,20,"BITEM-PG-1,BITEM-PG-2,Error404-PG-3,Error404-PG-4,Error404-PO-1,Error404-PO-2,ORG-PO-3,ORG-PO-4,WasedaR2C2-PO-1,WasedaR2C2-PO-2,WasedaR2C2-PO-3,WasedaR2C2-PO-4,WaterlooClarke-PO-1,WaterlooClarke-PO-2,hit-u-PO-1,hit-u-PO-2,hit-u-PO-3,hit-u-PO-4,retrank-PG-1,retrank-PG-3"
+Error404-AC-3.official,64,0.36,0.9218,0.5178,0.8337,0.6875,0.1462,2,"BITEM-PG-1,Error404-PG-4"
+BITEM-AC-2.official,64,0.346,0.8483,0.4915,0.8331,0.9219,-0.0887,1,BITEM-PG-2
+Error404-AC-1.official,56,0.3343,0.8948,0.4867,0.8375,0.75,0.0875,1,Error404-PG-4
+ORG-AC-4.official,64,0.2853,0.984,0.4423,0.9125,0.7344,0.1781,2,"ORG-PO-3,ORG-PO-4"
+BITEM-AC-4.official,64,0.2471,0.9904,0.3956,0.9644,0.8906,0.0737,1,BITEM-PG-2
+BITEM-AC-3.official,64,0.2471,0.9904,0.3956,0.9644,0.8906,0.0737,1,BITEM-PG-2
+ORG-AC-2.official,64,0.2316,0.9711,0.374,0.9109,0.7031,0.2078,2,"ORG-PO-3,ORG-PO-4"
+BITEM-AC-1.official,64,0.1633,0.8102,0.2719,0.8127,0.9062,-0.0936,1,BITEM-PG-1
+hit-u-AC-1.official,64,0.8385,0.1035,0.1843,0.1153,0.7969,-0.6816,1,hit-u-PO-4
+ORG-AC-1.official,64,0.0933,0.9029,0.1692,0.9047,0.5312,0.3734,2,"ORG-PO-3,ORG-PO-4"
+hit-u-AC-3.official,64,0.9642,0.0696,0.1299,0.0633,0.8125,-0.7492,1,hit-u-PO-4
+hit-u-AC-2.official,64,0.9642,0.0696,0.1299,0.0633,0.8125,-0.7492,1,hit-u-PO-4
+Error404-AC-2.official,63,0.0533,0.9127,0.1008,0.9143,0.9524,-0.0381,2,"BITEM-PG-1,Error404-PG-4"
+hit-u-AC-4.official,64,0.9925,0.0185,0.0362,0.0164,0.8125,-0.7961,1,hit-u-PO-4
