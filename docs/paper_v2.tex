@@ -30,11 +30,12 @@ We report \textbf{retrank}'s submission to the NTCIR-19 R2C2 Answering-with-Conf
 (AC) subtask, scored by the Harmonic Mean of Rewards (\HMR), which jointly penalises
 overconfidence on wrong answers ($\RO$) and underconfidence on right ones ($\RU$),
 alongside Accuracy and Mean Nugget Precision (\MNP). \textbf{Under official scoring our
-four runs took the top four \HMR{} positions among 25 runs from 7 teams (best 0.974,
-main system 0.963, vs.\ 0.761 for the strongest other run); retrank's \emph{weakest} run
-(0.868) beats every other team's \emph{best}. retrank also ranks first on Accuracy (0.969)
-and \MNP{} (0.840, sweeping the top four), the \MNP{} lead significant ($\alpha{=}0.05$)
-over every team but BITEM (randomised Tukey HSD~\cite{sakai-sigtest}, $B{=}5000$).} Our thesis is that AC is a \emph{calibration}
+four runs obtained the four highest \HMR{} scores among the 25 runs from 7 teams (ours
+$0.868$--$0.974$; the next-highest submitted run scored 0.761). retrank also placed first
+on Accuracy (0.969) and \MNP{} (0.840), the \MNP{} lead significant ($\alpha{=}0.05$)
+over every team but BITEM (randomised Tukey HSD~\cite{sakai-sigtest}, $B{=}5000$).} We read
+this as evidence for a specific design emphasis on calibration, not as a shortcoming of the
+other systems --- several retrieved or answered very well. Our thesis is that AC is a \emph{calibration}
 problem disguised as a QA problem: a comparably accurate competitor (BITEM) matched our
 accuracy (0.92) at half our \HMR{} (0.49), so the gap is primarily confidence discipline
 rather than answer quality. We locate the win in \emph{high accuracy paired with confidence
@@ -74,11 +75,13 @@ and diffident \emph{when it is wrong}. \HMR{} is not a QA metric; it is a calibr
 metric --- what the organisers term system \emph{modesty}~\cite{modesty,brevrag}. This
 distinction turns out to be most of the story.
 
-\paragraph{Result.} Under official scoring, retrank's four runs occupy the top four \HMR{}
-positions among all 25 runs from 7 teams. Our best run reaches \HMR{} $0.974$ and our main
-system $0.963$; the strongest non-retrank run reaches $0.761$. \emph{Our weakest run
-($0.868$) outscores every other team's best.} retrank also ranks first on Accuracy
-($0.969$) and \MNP{} ($0.840$), sweeping the top four positions on \MNP{} as well as \HMR.
+\paragraph{Result.} Under official scoring, retrank's four runs obtained the four highest
+\HMR{} scores among the 25 runs from 7 teams: our best run reaches \HMR{} $0.974$ and our
+main system $0.963$, with the next-highest submitted run at $0.761$. retrank also placed
+first on Accuracy ($0.969$) and \MNP{} ($0.840$). We read this as evidence for a particular
+design emphasis --- calibration --- rather than a shortcoming of the other systems, several
+of which retrieved or answered very well (\S\ref{sec:pool}); the R2C2 field as a whole
+made the cross-team pooling and the comparisons in this paper possible.
 
 \paragraph{Thesis.} High accuracy is necessary but not sufficient in R2C2: what separated
 retrank from similarly accurate competitors was knowing when it had answered well. The cleanest evidence is a single comparison: team BITEM reached
@@ -180,7 +183,7 @@ first on all three.
 
 \begin{table}[t]
 \caption{Best run per team, official metrics (7 teams; higher is better). retrank is first
-on all three and sweeps the top four on \HMR{} and \MNP.}
+on all three metrics.}
 \label{tab:standing}
 \small
 \begin{tabular}{lccc}
@@ -206,7 +209,7 @@ $\RU$ stays high ($\ge0.96$) while $\RO$ --- and hence \HMR{} --- varies with th
 
 \begin{table}[t]
 \caption{retrank's four official runs. The calibration layer keeps $\RU$ high across all
-four; \HMR{} tracks $\RO$, and even the weakest (AC-4) exceeds the field's best ($0.761$).}
+four; \HMR{} tracks $\RO$, and our four runs span $0.868$--$0.974$.}
 \label{tab:retrankruns}
 \centering\small
 \begin{tabular}{llcccc}
@@ -226,7 +229,8 @@ AC-4 & 6-team pool & 0.79 & 0.962 & 0.891 & 0.868 \\
 Most of the field splits cleanly into two calibration failure modes (Table~\ref{tab:failure}).
 \emph{Overconfident} systems (ORG, slr2c2) answer at $\sim\!0.9$ confidence but are only
 $\sim\!0.53$ accurate, so confident-wrong answers collapse $\RO$ (ORG's best-accuracy-style
-run: confidence $0.90$, accuracy $0.53$, $\RO=0.09$). The lone \emph{sandbagger} (hit-u)
+run: confidence $0.90$, accuracy $0.53$, $\RO=0.09$). The lone deeply \emph{under-confident}
+system (hit-u)
 reports near-zero confidence everywhere --- average confidence $0.016$ --- and although it
 is $0.81$ accurate, this collapses $\RU$ to $0.02$ and \HMR{} to $0.036$. retrank is the
 team whose \emph{average confidence tracks its accuracy most tightly} (best run AC-1:
@@ -246,7 +250,7 @@ reported confidence vs.\ empirical accuracy per bin. Confidence tracks accuracy
 \label{fig:reliability}
 \end{figure}
 
-We stress that we did \emph{not} win by being modest~\cite{modesty}. Our winning runs answer $\sim\!95\%$
+We note that our result does not come from simply being modest~\cite{modesty}. Our runs answer $\sim\!95\%$
 of topics correctly at high confidence; the always-refuse strategy that also scores high
 \HMR{} does so at near-zero accuracy, whereas we reach top \HMR{} \emph{with} the field's
 best accuracy. The $2\times$ \HMR{} gap over BITEM at comparable accuracy (Table~1)
@@ -273,7 +277,7 @@ strategy --- which is exactly what the thesis predicts.
 
 \begin{table}[t]
 \caption{The two failure modes. $\RO$ collapses under overconfidence (low accuracy at high
-confidence); $\RU$ collapses under sandbagging (near-zero confidence). retrank keeps both
+confidence); $\RU$ collapses under systematic under-confidence (near-zero confidence). retrank keeps both
 high. (Representative official runs.)}
 \label{tab:failure}
 \small
@@ -283,7 +287,7 @@ Run & mode & conf. & acc. & $\RO$ & $\RU$ \\
 \midrule
 retrank-AC-1  & calibrated     & 0.956 & 0.953 & 0.95 & 1.00 \\
 ORG-AC-1      & overconfident  & 0.905 & 0.531 & 0.09 & 0.90 \\
-hit-u-AC-4    & sandbagging    & 0.016 & 0.813 & 0.99 & 0.02 \\
+hit-u-AC-4    & under-confident & 0.016 & 0.813 & 0.99 & 0.02 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -462,7 +466,7 @@ vs.\ official $0.73$), so a gain measured inside that unreliable regime cannot b
 we exclude it from the summary. Across the other four teams our layer improves \HMR{} for
 three and the mean gain is $+0.065$, concentrated on the \emph{overconfident} systems
 (Error404 $+0.14$, BITEM $+0.13$) with essentially no change for the already-calibrated
-WaterlooClarke ($+0.01$). The lone regression is the sandbagger hit-u ($-0.02$): our layer
+WaterlooClarke ($+0.01$). The lone regression is the under-confident hit-u ($-0.02$): our layer
 only \emph{suppresses} overconfidence, so it cannot help a system that is already
 under-confident --- exactly the asymmetry the $\RO$ bottleneck predicts. Baselines differ
 slightly from Table~\ref{tab:heldout} because the two lightweight evaluators use different
@@ -479,7 +483,7 @@ pipeline remains unproven.
 \centering\small
 \caption{Calibration transfer: holding each competitor's \emph{answers} fixed and replacing
 only their confidence with our verifier-capped layer. Our layer raises \HMR{} for the
-overconfident teams (via $\RO$) and cannot help the sandbagger (hit-u). slr2c2 is quarantined
+overconfident teams (via $\RO$) and cannot help the under-confident hit-u. slr2c2 is quarantined
 (our self-evaluator mis-scores it; see text). Scored under our self-evaluator, not the
 official judge; $\Delta$\HMR{} is computed from unrounded values.}
 \label{tab:transfer}
@@ -491,7 +495,7 @@ slr2c2-AC-4         & 0.68 & 0.243 & 0.619 & \textbf{$+$0.376} \\
 Error404-AC-3       & 0.71 & 0.553 & 0.697 & $+$0.144 \\
 BITEM-AC-2          & 0.92 & 0.599 & 0.725 & $+$0.125 \\
 WaterlooClarke-AC-2 & 0.83 & 0.820 & 0.827 & $+$0.007 \\
-hit-u-AC-1 (sandbag)& 0.81 & 0.197 & 0.179 & $-$0.018 \\
+hit-u-AC-1 (under-conf.)& 0.81 & 0.197 & 0.179 & $-$0.018 \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -778,7 +782,7 @@ voting is a discrete analogue of self-consistency~\cite{selfconsistency}.
 \section{Conclusion}
 R2C2's Answering-with-Confidence subtask is a calibration problem wearing a QA costume. The
 teams whose confidence did not track their accuracy
-fell into one of two failure modes and lost, sometimes despite excellent retrieval or
+scored lower on \HMR, sometimes despite excellent retrieval or
 competitive accuracy. retrank treated it as calibration from the start: an answer-first
 pipeline whose confidence comes from an independent verifier, winning first place on all
 three official metrics, with all four of its runs above every non-retrank run on \HMR.
