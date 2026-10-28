@@ -6,6 +6,13 @@
 \usepackage{booktabs}
 \usepackage{amsmath}
 
+%% Camera-ready typesetting: allow a little extra interword stretch before TeX
+%% resorts to an overfull line. The long \item[...] labels in the pipeline
+%% description cannot hyphenate, which produced visible margin overflow.
+\emergencystretch=1.5em
+\hyphenpenalty=1000
+\tolerance=2000
+
 \newcommand{\HMR}{\textsc{HMR}}
 \newcommand{\MNP}{\textsc{MNP}}
 \newcommand{\RO}{R_{\mathrm{O}}}
@@ -17,10 +24,8 @@
 \subtitle{Answering with Confidence as a Calibration Problem, and Why an LLM-Judged Win Still Means Something}
 
 \author{Alessandro Magnani}
-%% AFFILIATION PENDING EMPLOYER APPROVAL.
-%%   If/when the employer approves, swap the line below for the institutional affiliation.
-%%   Default (needs no approval): Independent Researcher (active below).
 \affiliation{\institution{Independent Researcher}\country{USA}}
+%% ===========================================================================
 \email{ale.magnani@gmail.com}
 
 \renewcommand{\shortauthors}{Magnani}
@@ -152,8 +157,8 @@ stages operationally so the calibration layer can be reproduced.
     ``supports-the-answer'' scoring); keep top 30.
   \item[Stage 2 --- Targeted nuggets.] Emit 3--8 atomic claims supporting the candidate,
     each citing one passage.
-  \item[Stage 3 --- Bogus filter.] Entailment-check every $(\text{passage},\text{nugget})$
-    pair; drop unsupported nuggets (this drives \MNP).
+  \item[Stage 3 --- Bogus filter.] Entailment-check every passage--nugget pair;
+    drop unsupported nuggets (this drives \MNP).
   \item[Stage 4 --- Independent verifier.] A separate call derives an answer using
     \emph{only} the entailed nuggets (no passages) and compares it to the candidate,
     yielding \texttt{match\_score}$\in\{0,1,2\}$.
@@ -532,6 +537,7 @@ paired-bootstrap CI ($^\ast$ excludes zero). Direction consistent (3/3) but only
 is individually significant --- the accurate GPT-5.6 variants have too few errors to power the
 test. $\Delta\HMR{}$ is computed from unrounded values. Model ids as exposed on the account.}
 \label{tab:gptswap}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lcccc}
 \toprule
 Answer/verifier model & Acc & \HMR{} off & \HMR{} on & $\Delta$\HMR{} [95\% CI] \\
@@ -542,7 +548,7 @@ gpt-4.1-mini   & 0.923 & 0.399 & 0.899 & $+$0.500 [$+$0.10,$+$0.81]$^\ast$ \\
 \midrule
 mean           & --- & --- & --- & $+$0.265 \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 \subsection{A No-LLM Lower Bound}
@@ -643,6 +649,7 @@ $\approx0.52$ plateau; \HMR{} peaks at a two-model committee as calibration degr
 Committee rows are self-evaluated ($n{=}65$); the LLM pipeline row is official ($n{=}64$;
 our self-eval agrees with official to $0.0004$, \S\ref{sec:judge}), shown for reference.}
 \label{tab:nollm}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{lccc}
 \toprule
 System & Accuracy & \HMR & margin AUC \\
@@ -654,7 +661,7 @@ Committee-5 (+BERT,+TinyRoBERTa) & 0.523 & 0.644 & 0.736 \\
 \midrule
 LLM pipeline (retrank-AC-2) & 0.953 & 0.963 & --- \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 \begin{table}[t]
@@ -662,6 +669,7 @@ LLM pipeline (retrank-AC-2) & 0.953 & 0.963 & --- \\
 \caption{Non-LLM technique sweep (self-evaluated surrogate, $n{=}65$). Confidence is
 recovered cheaply; variance-based uncertainty fails; accuracy needs scale.}
 \label{tab:sweep}
+\resizebox{\columnwidth}{!}{%
 \begin{tabular}{llc}
 \toprule
 Technique & Metric & Result \\
@@ -675,7 +683,7 @@ Last-layer Laplace & \emph{untested} & pred.\ $\approx$0.5 \\
 Conformal abstention & --- & coverage knob \\
 Small generative reader (flan-t5) & Accuracy & 0.48 ($<$0.52) \\
 \bottomrule
-\end{tabular}
+\end{tabular}}
 \end{table}
 
 \section{What Did Not Work}
@@ -735,13 +743,33 @@ We are deliberately conservative about what the result does and does not show.
     suggestive (answer-conditional refinement, CIs cross zero) or preliminary
     (answer-first vs.\ nugget-first, 20 topics); we mark them as such rather than
     headlining them.
+  \item \textbf{The confidence signal is coarse, and that is now the binding
+    constraint.} Our rule (\S\ref{sec:repro}) caps a self-reported confidence at one of
+    three levels ($5$, $25$, $60$) according to a three-valued
+    \texttt{match\_score}. Because $\RU$ is already close to saturation, the remaining
+    \HMR{} headroom lies almost entirely in $\RO$, and therefore in separating a small
+    number of near-boundary topics in the \emph{upper tail} of the confidence
+    distribution --- precisely the region a three-level cap cannot resolve. We report
+    discriminative AUC pooled over all topics (Table~\ref{tab:sweep}) but
+    \emph{not} restricted to the high-confidence region, which is the quantity that
+    would actually predict further $\RO$ gains. A finer-grained verifier score, and
+    discrimination reported conditional on high confidence, are the natural next
+    measurements.
+  \item \textbf{The verifier is not independent of the generator.} Stage 4 re-derives an
+    answer from the entailed nuggets, but with the same model family as the generator, so
+    the two views share failure modes and their agreement carries less independent
+    information than its form suggests. Drawing the verification signal from a different
+    model family, or from a different view of the evidence, would make agreement more
+    informative --- and would test whether the calibration gain we attribute to
+    \emph{separating} verification from generation is in fact limited by their residual
+    correlation.
 \end{itemize}
 
 \section{Reproducibility}
 \label{sec:repro}
 We release code and data; the operational specifics are:
 \textbf{Pool.} BITEM-PG-1 $+$ BITEM-PG-2, deduplicated by \texttt{(doc\_id, 64-char prefix)},
-re-ranked by \texttt{cross-encoder/ms-marco-MiniLM-L-12-v2}, capped at 50 passages.
+re-ranked by \texttt{cross-encoder/\allowbreak ms-marco-\allowbreak MiniLM-L-12-v2}, capped at 50 passages.
 \textbf{Models.} Claude Sonnet 4.6 at all stages of the submitted runs; Haiku 4.5 / Opus 4.7
 for the tier ablations; the self-evaluator is Sonnet 4.6 with Opus 4.7 cross-validation.
 \textbf{Verifier (Stage 4).} A separate call re-derives an answer from the \emph{entailed
@@ -800,8 +828,8 @@ participant result from a fully general method claim.
 \bibitem{sakai-hmr} T.~Sakai. Evaluating System Responses Based on Overconfidence and Underconfidence. In {\em Proc.\ EVIA / NTCIR-19}, 2025.
 \bibitem{sakai-sigtest} T.~Sakai. {\em Laboratory Experiments in Information Retrieval: Sample Sizes, Effect Sizes, and Statistical Power}. Springer, 2018.
 \bibitem{sakai-reform} T.~Sakai. Statistical Reform in Information Retrieval? {\em SIGIR Forum}, 48(1):3--12, 2014.
-\bibitem{brevrag} T.~Sakai and S.~Tao. BREV-RAG: Beyond Relevance-based EValuation of RAG Systems. In {\em SIGIR-AP (Workshop)}, 2025.
-\bibitem{modesty} S.~Tao and T.~Sakai. Evaluating the Modesty of RAG Systems at the NTCIR-19 R2C2 Task: Potential Challenges. In {\em SIGIR-AP BREV-RAG Workshop}, 2025.
+\bibitem{brevrag} T.~Sakai, S.~Tao, Z.~Dou, J.~Wang, H.~Shi, N.~Chen, and A.~Keyaki. BREV-RAG: Beyond Relevance-based EValuation of RAG Systems: A SIGIR-AP 2025 Workshop Proposal. In {\em Proc.\ SIGIR-AP}, 2025. doi:10.1145/3767695.3769523.
+\bibitem{modesty} T.~Sakai, S.~Tao, A.~Ishikawa, H.~Fang, Z.~Zhao, Y.~Zhou, N.~Chen, and Y.-I.~Song. Evaluating the Modesty of RAG Systems at the NTCIR-19 R2C2 Task: Potential Challenges. In {\em Proc.\ BREV-RAG@SIGIR-AP}, pages 5--21, 2025.
 \bibitem{kamath2020} A.~Kamath, R.~Jia, and P.~Liang. Selective Question Answering under Domain Shift. In {\em ACL}, 2020.
 \bibitem{guo2017} C.~Guo, G.~Pleiss, Y.~Sun, and K.~Q. Weinberger. On Calibration of Modern Neural Networks. In {\em ICML}, 2017.
 \bibitem{gal2016} Y.~Gal and Z.~Ghahramani. Dropout as a Bayesian Approximation. In {\em ICML}, 2016.
