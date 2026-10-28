@@ -31,3 +31,10 @@ docs/*.toc
 
 # Backup files
 *.bak
+docs/poster/preview*.png
+docs/poster/*.aux
+docs/poster/*.log
+docs/poster/*.nav
+docs/poster/*.out
+docs/poster/*.snm
+docs/poster/*.toc

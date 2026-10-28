@@ -1,0 +1,261 @@
+%% NTCIR-19 R2C2 poster --- team retrank
+%% A0 PORTRAIT (841 x 1189 mm). PDF with embedded fonts (pdflatex does this for Type1).
+%% Required upload name: NTCIR19-R2C2-MagnaniA-poster.pdf  (by 27 Nov 2026 AoE, hard)
+\documentclass[final]{beamer}
+\usepackage[size=a0,orientation=portrait,scale=1.52]{beamerposter}
+\usetheme{default}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{positioning,arrows.meta}
+\usepackage{xcolor}
+
+%% ---- palette: restrained, high contrast, prints well ----
+\definecolor{ink}{HTML}{14213D}
+\definecolor{accent}{HTML}{BC4749}
+\definecolor{good}{HTML}{2A6F4E}
+\definecolor{panel}{HTML}{F2F3F5}
+\definecolor{rule}{HTML}{C8CCD4}
+
+\setbeamercolor{background canvas}{bg=white}
+\setbeamercolor{block title}{fg=white,bg=ink}
+\setbeamercolor{block body}{fg=black,bg=panel}
+\setbeamerfont{block title}{size=\Large,series=\bfseries}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{caption}{\insertcaption}
+\setbeamertemplate{itemize item}{\color{ink}$\blacktriangleright$}
+
+\newcommand{\HMR}{\textsc{HMR}}
+\newcommand{\MNP}{\textsc{MNP}}
+\newcommand{\RO}{R_{\mathrm{O}}}
+\newcommand{\RU}{R_{\mathrm{U}}}
+\newcommand{\hero}[1]{{\fontsize{64}{70}\selectfont\bfseries\color{ink}#1}}
+
+\begin{document}
+\begin{frame}[t]
+
+%% ============================ HEADER ============================
+\begin{beamercolorbox}[wd=\paperwidth,sep=1.2cm]{block title}
+\centering
+{\fontsize{80}{92}\selectfont\bfseries Answering with Confidence is a Calibration Problem}\\[0.5cm]
+{\fontsize{46}{54}\selectfont retrank at the NTCIR-19 R2C2 Task}\\[0.8cm]
+{\fontsize{36}{42}\selectfont Alessandro Magnani \quad\textbar\quad Independent Researcher \quad\textbar\quad Team \textbf{retrank} \quad\textbar\quad Subtasks: PR, AC}
+\end{beamercolorbox}
+\vspace{1.2cm}
+
+\begin{columns}[t]
+
+%% ============================ COLUMN 1 ============================
+\begin{column}{.315\paperwidth}
+
+\begin{block}{The result}
+\centering
+\begin{tabular}{ccc}
+\hero{1st} & \hero{1st} & \hero{1st}\\[0.1cm]
+{\Large\bfseries 0.974} & {\Large\bfseries 0.969} & {\Large\bfseries 0.840}\\[0.1cm]
+{\large\HMR} & {\large Accuracy} & {\large\MNP}\\
+\end{tabular}
+
+\vspace{0.7cm}
+{\large Our \textbf{four} runs took the \textbf{four highest \HMR{} scores}
+among 25 runs from 7 teams. Next-best submitted run: \textbf{0.761}.}
+\end{block}
+
+\begin{block}{The thesis}
+{\large
+\HMR{} is \emph{not} a QA metric. It is a \textbf{calibration} metric --- the organisers'
+notion of \emph{modesty}: be confident when right, diffident when wrong.
+
+\vspace{0.6cm}
+\centering
+\begin{tikzpicture}
+\node[draw=rule,fill=white,line width=2pt,rounded corners,inner sep=14pt,text width=0.80\columnwidth] {
+\centering\large
+\textbf{BITEM}\; accuracy \textbf{0.92} \;$\to$\; \HMR{} \textbf{0.49}\\[0.25cm]
+\textbf{retrank}\; accuracy \textbf{0.95} \;$\to$\; \HMR{} \textbf{0.96}\\[0.35cm]
+\color{accent}\bfseries Comparable answers. Twice the \HMR.};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+The gap is \textbf{confidence discipline}, not answer quality.
+}
+\end{block}
+
+\begin{block}{Decompose \HMR: the bottleneck is $\RO$}
+{\large
+$\HMR = \mathrm{harmonic\ mean}(\RO,\RU)$ --- a harmonic mean, so \textbf{the
+smaller term dominates}.
+
+\vspace{0.4cm}
+\begin{itemize}
+  \item $\RO$ --- penalises \textbf{over}confidence on wrong answers
+  \item $\RU$ --- penalises \textbf{under}confidence on right ones
+\end{itemize}
+
+\vspace{0.5cm}
+Most of the field collapses on \emph{one} of the two:
+}
+\vspace{0.4cm}
+\centering\normalsize
+\begin{tabular}{lcccc}
+\toprule
+Run & conf. & acc. & $\RO$ & $\RU$\\
+\midrule
+\textbf{retrank} \emph{calibrated} & 0.956 & 0.953 & \color{good}\textbf{0.95} & \color{good}\textbf{1.00}\\
+ORG \emph{overconfident} & 0.905 & 0.531 & \color{accent}\textbf{0.09} & 0.90\\
+hit-u \emph{under-conf.} & 0.016 & 0.813 & 0.99 & \color{accent}\textbf{0.02}\\
+\bottomrule
+\end{tabular}
+\end{block}
+
+\begin{block}{It is the method, not the pool}
+{\large
+Our winning runs use \textbf{BITEM's passages}. Our own retrieval ranked
+\textbf{last of 22} on nDCG@20 (0.09--0.11 vs.\ 0.44 top).
+
+\vspace{0.5cm}
+\centering
+\begin{tikzpicture}
+\node[draw=rule,fill=white,line width=2pt,rounded corners,inner sep=14pt,text width=0.80\columnwidth]{
+\centering\large
+Retrieval (PR) vs.\ answering (AC) standing:\\[0.3cm]
+{\fontsize{52}{58}\selectfont\bfseries\color{accent}$\rho_s \approx -0.94$}\\[0.3cm]
+The best retriever was not the best answerer.};
+\end{tikzpicture}
+}
+\end{block}
+
+
+\end{column}
+
+%% ============================ COLUMN 2 ============================
+\begin{column}{.315\paperwidth}
+
+\begin{block}{Method: answer first, then verify}
+{\large Confidence is set by an \textbf{independent verifier}, never by the
+generator's self-report. That is the whole lever.\par}
+\vspace{0.6cm}
+\centering
+\begin{tikzpicture}[node distance=1.0cm,
+  stage/.style={draw=rule,fill=white,line width=1.5pt,rounded corners,
+                text width=0.80\columnwidth,inner sep=12pt,font=\large},
+  key/.style={draw=accent,fill=accent!8,line width=3pt,rounded corners,
+              text width=0.80\columnwidth,inner sep=12pt,font=\large}]
+\node[stage] (s0) {\textbf{0. Pool} \;--\; cross-encoder rerank over other teams' PR runs, cap 50};
+\node[stage,below=of s0] (s1) {\textbf{1. Candidate answer} \;--\; generator proposes early};
+\node[stage,below=of s1] (s2) {\textbf{2--3. Nuggets + filter} \;--\; atomic claims, entailment-checked (drives \MNP)};
+\node[key,below=of s2]   (s4) {\textbf{4. Independent verifier} \;--\; re-derives the answer from the \emph{entailed nuggets only}, compares};
+\node[key,below=of s4]   (s5) {\textbf{5. Confidence cap} \;--\; verifier disagrees $\Rightarrow$ cap at 25; partial $\Rightarrow$ 60; agrees $\Rightarrow$ unchanged};
+\draw[-{Latex[length=8mm]},line width=2.5pt,color=ink] (s0)--(s1);
+\draw[-{Latex[length=8mm]},line width=2.5pt,color=ink] (s1)--(s2);
+\draw[-{Latex[length=8mm]},line width=2.5pt,color=ink] (s2)--(s4);
+\draw[-{Latex[length=8mm]},line width=2.5pt,color=ink] (s4)--(s5);
+\end{tikzpicture}
+\end{block}
+
+\begin{block}{Official standing (best run per team)}
+\centering\normalsize
+\begin{tabular}{lccc}
+\toprule
+Team & Best \HMR & Best Acc & Best \MNP\\
+\midrule
+\textbf{retrank} & \color{good}\textbf{0.974} & \color{good}\textbf{0.969} & \color{good}\textbf{0.840}\\
+WaterlooClarke & 0.761 & 0.938 & 0.686\\
+ORG (organisers) & 0.760 & 0.734 & 0.538\\
+slr2c2 & 0.729 & 0.547 & 0.173\\
+Error404 & 0.518 & 0.952 & 0.470\\
+BITEM & 0.492 & 0.922 & 0.781\\
+hit-u & 0.184 & 0.813 & 0.477\\
+\bottomrule
+\end{tabular}
+\end{block}
+
+\begin{block}{Four runs, one calibration layer}
+\centering\normalsize
+\begin{tabular}{llcccc}
+\toprule
+Run & role & $\RO$ & $\RU$ & Acc & \HMR\\
+\midrule
+AC-1 & saturation & 0.95 & 1.00 & 0.953 & \textbf{0.974}\\
+AC-2 & main system & 0.95 & 0.976 & 0.953 & 0.963\\
+AC-3 & accuracy hedge & 0.85 & 0.964 & \textbf{0.969} & 0.903\\
+AC-4 & judge hedge & --- & --- & --- & 0.868\\
+\bottomrule
+\end{tabular}
+
+\vspace{0.4cm}
+{\large $\RU \ge 0.96$ throughout --- \HMR{} tracks $\RO$. The layer is what holds $\RU$ up.}
+\end{block}
+
+\end{column}
+
+%% ============================ COLUMN 3 ============================
+\begin{column}{.315\paperwidth}
+
+\begin{block}{The layer transfers to other teams}
+{\large Hold each competitor's \emph{answers} fixed; replace only their confidence
+with our verifier-capped layer:}
+\vspace{0.4cm}
+\centering\normalsize
+\begin{tabular}{lccc}
+\toprule
+Team run & \HMR{} orig & $+$layer & $\Delta$\\
+\midrule
+slr2c2-AC-4 & 0.243 & 0.619 & \color{good}\textbf{$+$0.376}\\
+Error404-AC-3 & 0.553 & 0.697 & \color{good}$+$0.144\\
+BITEM-AC-2 & 0.599 & 0.725 & \color{good}$+$0.125\\
+WaterlooClarke-AC-2 & 0.820 & 0.827 & $+$0.007\\
+hit-u (under-conf.) & 0.197 & 0.179 & $-$0.018\\
+\bottomrule
+\end{tabular}
+
+\vspace{0.4cm}
+{\large It lifts the \emph{overconfident} teams via $\RO$, and --- correctly --- cannot
+help the already under-confident one.}
+\end{block}
+
+\begin{block}{``You just used a strong LLM''}
+{\large
+All R2C2 ground truth is LLM-generated, so we tested the objection rather than
+asserting against it:
+\begin{itemize}
+  \item Self-evaluator matches \emph{official} \HMR{} to \textbf{0.0004} in-sample
+  \item \textbf{Base-model swap:} pipeline on three GPT models reproduces the
+        calibration gain (\textbf{3/3} positive $\Delta\HMR$)
+  \item \textbf{Cheapest tier} (all-Haiku) stays in the field-leading range
+  \item \textbf{No-LLM floor:} confidence is cheap (AUC 0.80); accuracy is not (0.52)
+\end{itemize}
+\vspace{0.3cm}
+Residual caveat: these use a surrogate judge, not the official Qwen$+$GPT ensemble.
+}
+\end{block}
+
+\begin{block}{Where the headroom is}
+{\large
+$\RU$ is \textbf{saturated}; all remaining \HMR{} lives in $\RO$ --- i.e.\ in separating
+near-boundary topics in the \textbf{upper tail} of the confidence distribution.
+
+\vspace{0.4cm}
+Two limits we name:
+\begin{itemize}
+  \item Confidence is capped at \textbf{three levels} (5/25/60) --- too coarse to resolve that tail
+  \item The verifier shares the generator's \textbf{model family}, so their agreement is
+        less independent than it looks
+\end{itemize}
+}
+\end{block}
+
+\end{column}
+\end{columns}
+
+\vspace{1.0cm}
+\begin{beamercolorbox}[wd=\paperwidth,sep=28pt]{block title}
+\centering{\fontsize{44}{52}\selectfont\bfseries
+High accuracy is necessary, not sufficient.\\[0.3cm]
+What separated retrank was knowing when it had answered well.}
+\end{beamercolorbox}
+
+\end{frame}
+\end{document}
