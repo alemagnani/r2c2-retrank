@@ -137,8 +137,8 @@ BITEM. The claim is only that PR standing did not transfer to AC.
 \begin{column}{.315\paperwidth}
 
 \begin{block}{Method: answer first, then verify}
-{\large Confidence is set by an \textbf{independent verifier}, never by the
-generator's self-report. That is the whole lever.\par}
+{\large Confidence is \textbf{anchored to an independent verifier}, not the
+generator's self-report. That is the key lever.\par}
 \vspace{0.6cm}
 \centering
 \begin{tikzpicture}[node distance=1.0cm,
@@ -209,7 +209,7 @@ Team run & \HMR{} orig & $+$layer & $\Delta$\\
 Error404-AC-3 & 0.553 & 0.697 & \color{good}\textbf{$+$0.144}\\
 BITEM-AC-2 & 0.599 & 0.725 & \color{good}$+$0.125\\
 WaterlooClarke-AC-2 & 0.820 & 0.827 & $+$0.007\\
-hit-u (under-conf.) & 0.197 & 0.179 & $-$0.018\\
+hit-u-AC-1 (under-conf.) & 0.197 & 0.179 & $-$0.018\\
 \midrule
 \color{gray}slr2c2-AC-4$^\dagger$ & \color{gray}0.243 & \color{gray}0.619 & \color{gray}$+$0.376\\
 \bottomrule
@@ -228,12 +228,12 @@ $^\dagger$Quarantined: the run our evaluator mis-scores worst.\par}
 All R2C2 ground truth is LLM-generated, so we tested the objection rather than
 asserting against it:
 \begin{itemize}
-  \item Self-evaluator matches \emph{official} \HMR{} to \textbf{0.0004} in-sample;
+  \item On our two main runs, self-evaluator matches \emph{official} \HMR{} to \textbf{0.0004} (in-sample);
         held out on 5 competitor runs it is only weak ($\rho{=}0.60$)
   \item \textbf{Base-model swap:} streamlined pipeline on three GPT models reproduces
         the calibration gain (\textbf{3/3} positive, 1 significant)
-  \item \textbf{Cheapest tier} (all-Haiku) stays near the top of the field
-        ($\approx$0.79 vs.\ 0.761) --- not parity
+  \item \textbf{Cheapest tier} (all-Haiku) estimated at $\approx$0.79 (self-eval), in the competitive range of the
+        next-best 0.761 --- not parity
   \item \textbf{No-LLM floor:} confidence is cheap (AUC 0.80); accuracy is not (0.52)
 \end{itemize}
 \vspace{0.3cm}
@@ -243,7 +243,7 @@ Residual caveat: these use a surrogate judge, not the official Qwen$+$GPT ensemb
 
 \begin{block}{Where the headroom is}
 {\large
-$\RU$ is \textbf{saturated}; all remaining \HMR{} lives in $\RO$ --- i.e.\ in separating
+$\RU$ is \textbf{near saturation}; almost all remaining \HMR{} headroom lies in $\RO$ --- i.e.\ in separating
 near-boundary topics in the \textbf{upper tail} of the confidence distribution.
 
 \vspace{0.4cm}

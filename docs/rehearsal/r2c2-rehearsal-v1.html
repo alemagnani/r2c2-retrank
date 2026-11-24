@@ -1,0 +1,733 @@
+<title>R2C2 Rehearsal Pack</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+
+<style>
+/* Layout: a speaker's script — mono timing rail at the left of each beat,
+   content kept to a readable measure, four hash-routed sections. */
+:root{
+  --paper:#f2f4f7;
+  --card:#ffffff;
+  --ink:#16233c;
+  --ink-soft:#44546f;
+  --muted:#6b7a92;
+  --rule:#d7dde6;
+  --rail:#16233c;
+  --warn:#8d3a1e;
+  --warn-bg:#fbeee9;
+  --good:#1d5a3e;
+  --good-bg:#e8f2ec;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#10151f;
+    --card:#19202d;
+    --ink:#e6ecf5;
+    --ink-soft:#b3c0d4;
+    --muted:#8494ab;
+    --rule:#2b3545;
+    --rail:#8fa6c9;
+    --warn:#eda184;
+    --warn-bg:#2d1b14;
+    --good:#8ed3ad;
+    --good-bg:#12271d;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#10151f;
+  --card:#19202d;
+  --ink:#e6ecf5;
+  --ink-soft:#b3c0d4;
+  --muted:#8494ab;
+  --rule:#2b3545;
+  --rail:#8fa6c9;
+  --warn:#eda184;
+  --warn-bg:#2d1b14;
+  --good:#8ed3ad;
+  --good-bg:#12271d;
+  color-scheme:dark;
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--serif);
+  font-size:1.0625rem;
+  line-height:1.6;
+  margin:0;
+}
+.wrap{
+  max-width:52rem;
+  margin:0 auto;
+  padding-left:max(16px,env(safe-area-inset-left,0px));
+  padding-right:max(16px,env(safe-area-inset-right,0px));
+  padding-block:0 4rem;
+}
+
+/* ---------- header ---------- */
+header{padding-block:2.25rem 1.25rem;border-bottom:1px solid var(--rule)}
+h1{
+  font-family:var(--sans);
+  font-weight:700;
+  font-size:clamp(1.5rem,4.5vw,2.1rem);
+  line-height:1.15;
+  letter-spacing:-.02em;
+  margin:0 0 .5rem;
+  text-wrap:balance;
+}
+.slot{
+  font-family:var(--mono);
+  font-size:.78rem;
+  color:var(--muted);
+  display:flex;
+  flex-wrap:wrap;
+  gap:.35rem .9rem;
+  margin-top:.75rem;
+}
+.slot b{color:var(--ink-soft);font-weight:500}
+
+/* ---------- thesis ---------- */
+.thesis{
+  margin-top:1.5rem;
+  padding:1.25rem 1.4rem;
+  background:var(--card);
+  border-left:3px solid var(--rail);
+  font-size:1.2rem;
+  line-height:1.45;
+  font-weight:500;
+}
+.thesis span{display:block;font-family:var(--sans);font-size:.7rem;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);margin-bottom:.5rem;font-weight:600}
+
+/* ---------- tabs ---------- */
+nav{
+  position:sticky;
+  top:env(safe-area-inset-top,0px);
+  background:var(--paper);
+  z-index:5;
+  display:flex;
+  gap:.3rem;
+  flex-wrap:wrap;
+  padding-block:.7rem;
+  border-bottom:1px solid var(--rule);
+  margin-bottom:2rem;
+}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--paper);z-index:10}
+nav button{
+  font-family:var(--sans);
+  font-size:.82rem;
+  font-weight:600;
+  letter-spacing:.01em;
+  color:var(--muted);
+  background:none;
+  border:1px solid transparent;
+  border-radius:3px;
+  padding:.4rem .7rem;
+  cursor:pointer;
+}
+nav button:hover{color:var(--ink)}
+nav button[aria-selected="true"]{background:var(--rail);color:var(--paper);border-color:var(--rail)}
+nav button:focus-visible{outline:2px solid var(--rail);outline-offset:2px}
+
+/* ---------- beats ---------- */
+h2{
+  font-family:var(--sans);
+  font-size:.74rem;
+  letter-spacing:.13em;
+  text-transform:uppercase;
+  color:var(--muted);
+  font-weight:600;
+  margin:2.75rem 0 1rem;
+  padding-bottom:.45rem;
+  border-bottom:1px solid var(--rule);
+}
+h2:first-child{margin-top:0}
+.beat{
+  display:grid;
+  grid-template-columns:4.1rem 1fr;
+  gap:0 1.1rem;
+  padding-block:1.35rem;
+  border-bottom:1px solid var(--rule);
+}
+.beat:last-child{border-bottom:none}
+.mark{
+  font-family:var(--mono);
+  font-size:.82rem;
+  font-weight:500;
+  color:var(--rail);
+  padding-top:.2rem;
+  font-variant-numeric:tabular-nums;
+}
+.mark small{display:block;font-size:.66rem;color:var(--muted);margin-top:.15rem;letter-spacing:.02em}
+.beat h3{
+  font-family:var(--sans);
+  font-size:1.03rem;
+  font-weight:600;
+  margin:0 0 .5rem;
+  line-height:1.3;
+  text-wrap:balance;
+}
+.line{
+  font-size:1.08rem;
+  font-style:italic;
+  color:var(--ink);
+  margin:0 0 .75rem;
+  padding-left:.8rem;
+  border-left:2px solid var(--rule);
+}
+.beat ul{margin:.5rem 0 0;padding-left:1.1rem}
+.beat li{margin-bottom:.4rem}
+.beat li::marker{color:var(--muted)}
+.beat p{margin:.5rem 0 0}
+@media (max-width:560px){
+  .beat{grid-template-columns:1fr;gap:.4rem}
+  .mark{padding-top:0;display:flex;gap:.6rem;align-items:baseline}
+  .mark small{margin-top:0}
+}
+
+/* ---------- flags ---------- */
+.flag{
+  margin-top:.8rem;
+  padding:.65rem .85rem;
+  border-radius:3px;
+  font-size:.95rem;
+  line-height:1.5;
+}
+.flag b{font-family:var(--sans);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;display:block;margin-bottom:.25rem;font-weight:700}
+.careful{background:var(--warn-bg);color:var(--warn)}
+.careful b{color:var(--warn)}
+.land{background:var(--good-bg);color:var(--good)}
+.land b{color:var(--good)}
+.flag .n{font-family:var(--mono);font-weight:600;font-variant-numeric:tabular-nums}
+
+/* ---------- tables ---------- */
+.scroll{overflow-x:auto;margin:1rem 0;border:1px solid var(--rule);background:var(--card)}
+table{border-collapse:collapse;width:100%;font-size:.9rem;min-width:30rem}
+th,td{padding:.5rem .7rem;text-align:left;border-bottom:1px solid var(--rule)}
+th{font-family:var(--sans);font-size:.7rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);font-weight:600}
+td.num,th.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:.86rem}
+tr:last-child td{border-bottom:none}
+tr.us td{font-weight:600}
+tr.us td:first-child::before{content:"▸ ";color:var(--rail)}
+
+/* ---------- qa ---------- */
+.qa{padding-block:1.3rem;border-bottom:1px solid var(--rule)}
+.qa:last-child{border-bottom:none}
+.qa h3{
+  font-family:var(--sans);
+  font-size:1rem;
+  font-weight:600;
+  margin:0 0 .6rem;
+  line-height:1.35;
+}
+.qa h3::before{content:"Q ";font-family:var(--mono);color:var(--muted);font-weight:500}
+.qa p{margin:.5rem 0}
+.qa p:first-of-type::before{content:"A ";font-family:var(--mono);color:var(--muted);font-weight:500}
+
+/* ---------- depth cards ---------- */
+.depth{background:var(--card);border:1px solid var(--rule);padding:1.1rem 1.25rem;margin-bottom:1.1rem}
+.depth h3{font-family:var(--sans);font-size:.74rem;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 .6rem}
+.depth p{margin:0 0 .6rem}
+.depth p:last-child{margin-bottom:0}
+
+/* ---------- panel map ---------- */
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:1rem;margin:1.2rem 0}
+.col{background:var(--card);border:1px solid var(--rule);padding:1rem;min-width:0}
+.col h4{font-family:var(--mono);font-size:.74rem;color:var(--rail);margin:0 0 .6rem;letter-spacing:.04em;font-weight:600}
+.col ol{margin:0;padding-left:1.15rem;font-size:.95rem}
+.col li{margin-bottom:.55rem}
+.col li::marker{color:var(--muted);font-family:var(--mono);font-size:.8rem}
+
+em.t{font-style:normal;font-family:var(--mono);font-size:.92em;font-weight:500;font-variant-numeric:tabular-nums}
+.foot{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--rule);font-size:.85rem;color:var(--muted)}
+</style>
+
+<div class="wrap">
+
+<header>
+  <h1>R2C2 Rehearsal Pack</h1>
+  <div class="slot">
+    <span><b>Wed 9 Dec</b> · 13:20–14:20 · Room 2</span>
+    <span><b>12 min</b> (10 talk + 2 Q&amp;A)</span>
+    <span><b>4th of 4</b> — BITEM immediately before you</span>
+    <span>Poster upload <b>27 Nov AoE</b></span>
+  </div>
+  <div class="thesis">
+    <span>The whole talk in one sentence</span>
+    High accuracy is necessary but not sufficient in R2C2. What separated retrank from
+    similarly accurate competitors was knowing when it had answered well.
+  </div>
+</header>
+
+<nav role="tablist">
+  <button role="tab" data-view="talk" aria-selected="true">The 10-minute talk</button>
+  <button role="tab" data-view="poster" aria-selected="false">At the poster</button>
+  <button role="tab" data-view="numbers" aria-selected="false">Numbers cold</button>
+  <button role="tab" data-view="qa" aria-selected="false">Q&amp;A</button>
+</nav>
+
+<!-- ===================== TALK ===================== -->
+<section id="view-talk">
+
+<h2>Eleven beats, paced to ten minutes</h2>
+
+<div class="beat">
+  <div class="mark">0:20<small>slide 1</small></div>
+  <div>
+    <h3>Title</h3>
+    <p class="line">"retrank at R2C2. One idea runs through this: answering with confidence is a calibration problem, not a QA problem."</p>
+    <ul>
+      <li>No outline slide. You have ten minutes and one argument — start it.</li>
+      <li>Don't read the affiliation or the metric list aloud; they're on the slide.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">1:20<small>slide 2</small></div>
+  <div>
+    <h3>HMR is not a QA metric</h3>
+    <p class="line">"Before any results — what HMR actually measures, because everything after this is that decomposition."</p>
+    <ul>
+      <li>HMR is the <em>harmonic</em> mean of two rewards: <em class="t">R_O</em> penalises confident wrong answers, <em class="t">R_U</em> penalises needless diffidence on right ones.</li>
+      <li>Because it's harmonic, <strong>the smaller term dominates</strong>. Collapse either and HMR collapses.</li>
+      <li>The organisers call this property <em>modesty</em> — be confident when right, diffident when wrong.</li>
+    </ul>
+    <div class="flag land"><b>Why this goes first</b>
+      You're fourth of four. By 14:03 the room has heard three R2C2 talks and is saturated with leaderboards. Giving the metric a meaning first is what makes your numbers an argument instead of a fourth table.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">2:00<small>slide 3</small></div>
+  <div>
+    <h3>The result</h3>
+    <p class="line">"Our four runs took the four highest HMR scores among the 25 runs from 7 teams."</p>
+    <ul>
+      <li>Ours span <em class="t">0.868–0.974</em>. Next-highest submitted run: <em class="t">0.761</em>.</li>
+      <li>Also first on Accuracy <em class="t">0.969</em> and MNP <em class="t">0.840</em>.</li>
+      <li>MNP lead significant at α=0.05 over every team <em>but BITEM</em> (randomised Tukey HSD, B=5000).</li>
+    </ul>
+    <div class="flag careful"><b>Careful</b>
+      Say "evidence for a design emphasis on calibration," not "we beat everyone." Several teams retrieved or answered very well, and the paper says so. Forty seconds here, then move — the result is credibility, not the argument.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">3:30<small>slide 4</small></div>
+  <div>
+    <h3>The thesis, in one comparison</h3>
+    <p class="line">"BITEM — whose talk you just heard — reached accuracy 0.92 against our 0.95. Comparable answers. Their HMR was 0.49 against our 0.96. Half."</p>
+    <ul>
+      <li>Open by naming their talk. They present immediately before you, on the same problem from another angle. Acknowledging it turns an awkward comparison into a generous one.</li>
+      <li>Make the overconfidence concrete: their confidences span 0–100, mean <em class="t">83.5</em>, <strong>median 97</strong>, and <strong>46% of answers carry confidence 100</strong>.</li>
+      <li>They're only wrong on ~8% of topics — but near-maximal confidence on those collapses <em class="t">R_O</em> to <em class="t">0.35</em>.</li>
+      <li>So it is not a degenerate strategy or a flat distribution. It's genuine, systematic overconfidence — exactly what the thesis predicts.</li>
+    </ul>
+    <div class="flag land"><b>Land this</b>
+      Two systems of comparable answer quality, a 2× gap in HMR. On this comparison the difference is confidence discipline, not answer quality. This is the heart of the talk — spend the 90 seconds.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">4:45<small>slide 5</small></div>
+  <div>
+    <h3>Two failure modes</h3>
+    <p class="line">"Most of the field collapses on one of the two rewards, and which one tells you what went wrong."</p>
+    <ul>
+      <li><strong>Overconfident</strong> (ORG, slr2c2): answer at ~0.9 confidence but only ~0.53 accurate. ORG-AC-1 is the example on the slide: <em class="t">R_O = 0.09</em>.</li>
+      <li><strong>Under-confident</strong> (hit-u): average confidence <em class="t">0.016</em> while 0.81 accurate → <em class="t">R_U = 0.02</em>, HMR <em class="t">0.036</em>.</li>
+      <li><strong>retrank</strong>: confidence <em class="t">0.956</em> vs accuracy <em class="t">0.953</em> — calibration error <em class="t">+0.003</em>, and the reliability diagram tracks per bin, not just in the mean.</li>
+      <li>The <em class="t">R_O</em> bottleneck: across 16 dev configs <em class="t">R_U ∈ [0.79, 0.98]</em> but <em class="t">R_O ∈ [0.45, 0.95]</em>. Official runs: <em class="t">R_U ∈ [0.96, 1.00]</em>, <em class="t">R_O ∈ [0.79, 0.95]</em>.</li>
+    </ul>
+    <div class="flag land"><b>The transferable lesson — say it slowly</b>
+      Engineer to suppress confident errors, not to make correct answers more confident. For confidence-scored RAG the problem is asymmetric.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">6:00<small>slide 6</small></div>
+  <div>
+    <h3>Method: answer first, then verify</h3>
+    <p class="line">"Confidence is set by an independent verifier, never by the generator's self-report. That is the whole lever."</p>
+    <ul>
+      <li>Pool other teams' PR passages → cross-encoder rerank → cap 50.</li>
+      <li>Candidate answer proposed <em>early</em>, then used to focus everything downstream.</li>
+      <li>Answer-conditional re-rank → targeted nuggets (3–8 atomic claims) → entailment filter that drops unsupported nuggets (this is what drives MNP).</li>
+      <li><strong>Stage 4</strong>: a separate call re-derives the answer from the <em>entailed nuggets only</em> — no passages — and compares to the candidate.</li>
+      <li><strong>Stage 5</strong>: that comparison caps the confidence.</li>
+      <li>Tuned on <strong>val250</strong> — 248 synthetic topics drawn from ~15,000 across 50 challenge types over 559 movies. The 65 official topics were never used to pick a threshold.</li>
+    </ul>
+    <div class="flag careful"><b>If asked for the exact rule</b>
+      No entailed nuggets or empty answer → refuse at 5. Otherwise cap self-confidence at <span class="n">25</span> if match_score=0, <span class="n">60</span> if =1, leave unchanged if =2. It's on a backup slide.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">6:45<small>slide 7</small></div>
+  <div>
+    <h3>Four runs, one layer</h3>
+    <p class="line">"Four deliberately different bets, not four near-duplicates."</p>
+    <ul>
+      <li>AC-1 saturation <em class="t">0.974</em> · AC-2 main system <em class="t">0.963</em> · AC-3 accuracy hedge <em class="t">0.903</em> (highest accuracy of <em>any</em> run at 0.969) · AC-4 six-team pool <em class="t">0.868</em>.</li>
+      <li>All four share the calibration layer, so <em class="t">R_U ≥ 0.96</em> throughout and HMR tracks <em class="t">R_O</em>.</li>
+    </ul>
+    <p>Forty-five seconds. This slide exists to show the layer is what holds <em class="t">R_U</em> up across very different designs.</p>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">7:30<small>slide 8</small></div>
+  <div>
+    <h3>It is the method, not the pool</h3>
+    <p class="line">"Our winning runs use BITEM's passages. Our own retrieval ranked last of 22."</p>
+    <ul>
+      <li>Our PR runs: nDCG@20 of <em class="t">0.09–0.11</em> against <em class="t">0.44</em> for the top run.</li>
+      <li>PR and AC standing are strongly anti-correlated across the six teams with both: Spearman <em class="t">ρ_s ≈ −0.94</em>.</li>
+      <li>Supporting evidence: adding weaker passages to the strong pool <em>lowered</em> HMR from <em class="t">0.963</em> to <em class="t">0.868</em>. Dilution, not enrichment.</li>
+    </ul>
+    <div class="flag careful"><b>Say the hedge out loud. It's printed on the slide now, but say it anyway</b>
+      PR is re-scored by how often AC systems cited each passage, and our AC preferentially cited BITEM's passages. So the inversion is <em>partly mechanical</em>. Do not claim retrieval was useless. The defensible claim is the weaker one: phase-1 standing did not transfer to phase-2.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">8:40<small>slide 9</small></div>
+  <div>
+    <h3>The layer transfers to other teams' systems</h3>
+    <p class="line">"Hold each competitor's answers fixed. Replace only their confidence with ours. Re-score."</p>
+    <ul>
+      <li>Error404 <em class="t">+0.144</em> · BITEM <em class="t">+0.125</em> · WaterlooClarke <em class="t">+0.007</em> · hit-u <em class="t">−0.018</em>. Mean <em class="t">+0.065</em> across the four.</li>
+      <li>It lifts the <em>overconfident</em> teams through <em class="t">R_O</em>, and <strong>correctly cannot help</strong> the already-under-confident one — exactly the asymmetry the <em class="t">R_O</em> bottleneck predicts.</li>
+      <li>We <strong>quarantine slr2c2</strong>: it shows the largest gain (<em class="t">+0.376</em>) but it is precisely the run our self-evaluator mis-scores worst (self 0.286 vs official 0.729). A gain measured inside that regime can't be trusted.</li>
+    </ul>
+    <div class="flag careful"><b>Two things to state unprompted</b>
+      Scored under <em>our</em> self-evaluator — the official judge cannot be re-run. And volunteer the slr2c2 quarantine before anyone asks; offering the number you threw out is what makes the four you kept credible. Expect most of your Q&amp;A from this slide.
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">9:25<small>slide 10</small></div>
+  <div>
+    <h3>"You just used a strong LLM"</h3>
+    <p class="line">"Every team used LLMs — the task presumes it. So the question isn't permission, it's validity and attribution. We tested the objection rather than asserting against it."</p>
+    <ul>
+      <li><strong>Different judge families.</strong> Official labels are Qwen-3.5 + GPT-5.5; we tuned against Claude. Our self-evaluator matches official HMR on our two main runs to <em class="t">0.0004</em> — but say "in-sample" in the same breath.</li>
+      <li><strong>Held out</strong>, on five competitor runs we never tuned against: <em class="t">ρ=0.60</em>, n=5, p≈0.35, MAE <em class="t">0.12</em>. Weak signal that orders the extremes — not demonstrated validity.</li>
+      <li><strong>Scaling up doesn't help.</strong> All-Opus regressed HMR by <em class="t">0.176</em>, concentrated in <em class="t">R_O</em> (−0.27), not accuracy (−0.05).</li>
+      <li><strong>Base-model swap:</strong> streamlined pipeline on three GPT models under a fixed GPT judge — 3/3 positive, mean <em class="t">+0.265</em>, though only gpt-4.1-mini is individually significant.</li>
+      <li><strong>No-LLM floor:</strong> confidence is cheap (AUC <em class="t">0.80</em> for the three-model committee, as on the slide; up to 0.85 with two). Accuracy is not (<em class="t">0.52</em>).</li>
+    </ul>
+    <div class="flag careful"><b>The claim is one-directional — keep it that way</b>
+      Subtracting the all-Haiku penalty from the main system leaves an estimated HMR ≈<span class="n">0.79</span> (self-evaluated) against the best non-retrank run's <span class="n">0.761</span>. This is an estimate, not a submitted run. That 0.03 margin is <em>smaller</em> than our judge's held-out error of 0.12, so you are <strong>not</strong> claiming parity. Say only: "a far cheaper model keeps the pipeline near the top of the field, so the margin isn't bought by model strength."
+    </div>
+  </div>
+</div>
+
+<div class="beat">
+  <div class="mark">10:00<small>slide 11</small></div>
+  <div>
+    <h3>Where the headroom is, and close</h3>
+    <p class="line">"R_U is saturated. Everything left lives in R_O — and we can name what's blocking it."</p>
+    <ul>
+      <li>Our confidence is capped at <strong>three levels</strong> (5 / 25 / 60) — too coarse to resolve the near-boundary topics in the upper tail, which is exactly where the remaining <em class="t">R_O</em> lives.</li>
+      <li>The verifier shares the generator's model family, so its agreement is less independent than its form suggests.</li>
+    </ul>
+    <div class="flag land"><b>Close on the thesis — don't close on "thank you"</b>
+      "High accuracy is necessary, not sufficient. What separated retrank was knowing when it had answered well."
+    </div>
+  </div>
+</div>
+
+<h2>Backup slides you have</h2>
+<div class="beat">
+  <div class="mark">—</div>
+  <div>
+    <ul>
+      <li>Full official standing, with the Tukey HSD note.</li>
+      <li>The exact Stage-5 confidence rule.</li>
+      <li>The limitations list.</li>
+      <li>Know where these are in the deck so you can jump without scrolling.</li>
+    </ul>
+  </div>
+</div>
+
+</section>
+
+<!-- ===================== POSTER ===================== -->
+<section id="view-poster" hidden>
+
+<h2>Three depths — pick by how the person is standing</h2>
+
+<div class="depth">
+  <h3>30 seconds — they're walking past</h3>
+  <p>"We won the answering subtask on all three metrics, but the interesting part is why. HMR is a calibration metric, not a QA metric. One team matched our accuracy and scored half our HMR. The difference is a confidence layer set by an independent verifier — and it transfers: bolted onto other teams' answers it raises their HMR too."</p>
+</div>
+
+<div class="depth">
+  <h3>2 minutes — they've stopped</h3>
+  <p>Result → the BITEM comparison → the two failure modes → how the layer works → transfer. Point at the BITEM box in column 1 while you say "comparable answers, twice the HMR," then move to the pipeline in column 2 and put your finger on the two red stages.</p>
+  <p>End on transfer in column 3. That's the panel that converts interest into a conversation.</p>
+</div>
+
+<div class="depth">
+  <h3>5 minutes — they're asking questions</h3>
+  <p>Add the pipeline detail, "method not pool," and the judge-robustness work. If they're a methods person, go to the R_O bottleneck and the asymmetric engineering lesson. If they're a task person, go to "method, not pool" and the dilution result.</p>
+</div>
+
+<h2>Panel-by-panel, as laid out</h2>
+<div class="cols">
+  <div class="col">
+    <h4>COLUMN 1 — the argument</h4>
+    <ol>
+      <li><strong>1st / 1st / 1st.</strong> Establish credibility in five seconds, then leave it.</li>
+      <li><strong>The thesis.</strong> HMR is a calibration metric. This is your hook — put your hand here first, not on the result.</li>
+      <li><strong>BITEM box.</strong> 0.92 vs 0.95 accuracy; 0.49 vs 0.96 HMR. "Comparable answers. Twice the HMR."</li>
+      <li><strong>Decompose HMR.</strong> R_O and R_U; most of the field collapses on one.</li>
+      <li><strong>Method not pool.</strong> ρ_s ≈ −0.94, and our retrieval ranked last of 22. Point to the "partly mechanical" line under the box before anyone else does.</li>
+    </ol>
+  </div>
+  <div class="col">
+    <h4>COLUMN 2 — what we built</h4>
+    <ol>
+      <li><strong>The pipeline.</strong> Five stages; the two in red are the whole contribution.</li>
+      <li><strong>Official standing.</strong> Best run per team. For people who want to see the field.</li>
+      <li><strong>Four runs.</strong> R_U ≥ 0.96 throughout — the layer is what holds it up.</li>
+    </ol>
+  </div>
+  <div class="col">
+    <h4>COLUMN 3 — the defence</h4>
+    <ol>
+      <li><strong>Transfer table.</strong> Lead with the mean, +0.065 over four teams: +0.144 Error404, +0.125 BITEM. slr2c2 (+0.376) is greyed out below the rule as quarantined. Don't lead with it.</li>
+      <li><strong>"You just used a strong LLM."</strong> Four bullets of evidence, with the surrogate-judge caveat printed on the poster.</li>
+      <li><strong>Where the headroom is.</strong> Good place to end — it invites collaboration rather than closing the topic.</li>
+    </ol>
+  </div>
+</div>
+
+<div class="flag land"><b>Poster-specific advice</b>
+  People arrive mid-thought, so lead with the BITEM box rather than the 1st/1st/1st. The result panel earns you the next thirty seconds; the BITEM box is what makes them want them.
+</div>
+
+<div class="flag careful"><b>With BITEM in the room</b>
+  Your sharpest result is a comparison that names another team's weakness, and they're at this conference. Frame it as a property of the metric, not a failure of their system: "they built a strong answer engine — HMR just doesn't reward that alone." You also used their passages and your poster says so. Lead with that credit if they come by.
+</div>
+
+</section>
+
+<!-- ===================== NUMBERS ===================== -->
+<section id="view-numbers" hidden>
+
+<h2>Official standing — best run per team</h2>
+<div class="scroll"><table>
+<thead><tr><th>Team</th><th class="num">Best HMR</th><th class="num">Best Acc</th><th class="num">Best MNP</th></tr></thead>
+<tbody>
+<tr class="us"><td>retrank</td><td class="num">0.974</td><td class="num">0.969</td><td class="num">0.840</td></tr>
+<tr><td>WaterlooClarke</td><td class="num">0.761</td><td class="num">0.938</td><td class="num">0.686</td></tr>
+<tr><td>ORG (organisers)</td><td class="num">0.760</td><td class="num">0.734</td><td class="num">0.538</td></tr>
+<tr><td>slr2c2</td><td class="num">0.729</td><td class="num">0.547</td><td class="num">0.173</td></tr>
+<tr><td>Error404</td><td class="num">0.518</td><td class="num">0.952</td><td class="num">0.470</td></tr>
+<tr><td>BITEM</td><td class="num">0.492</td><td class="num">0.922</td><td class="num">0.781</td></tr>
+<tr><td>hit-u</td><td class="num">0.184</td><td class="num">0.813</td><td class="num">0.477</td></tr>
+</tbody></table></div>
+
+<h2>Our four runs</h2>
+<div class="scroll"><table>
+<thead><tr><th>Run</th><th>Role</th><th class="num">R_O</th><th class="num">R_U</th><th class="num">Acc</th><th class="num">HMR</th></tr></thead>
+<tbody>
+<tr><td>AC-1</td><td>saturation</td><td class="num">0.95</td><td class="num">1.00</td><td class="num">0.953</td><td class="num">0.974</td></tr>
+<tr><td>AC-2</td><td>main system</td><td class="num">0.95</td><td class="num">0.976</td><td class="num">0.953</td><td class="num">0.963</td></tr>
+<tr><td>AC-3</td><td>accuracy hedge</td><td class="num">0.85</td><td class="num">0.964</td><td class="num">0.969</td><td class="num">0.903</td></tr>
+<tr><td>AC-4</td><td>6-team pool</td><td class="num">0.79</td><td class="num">0.962</td><td class="num">0.891</td><td class="num">0.868</td></tr>
+</tbody></table></div>
+
+<h2>The two failure modes</h2>
+<div class="scroll"><table>
+<thead><tr><th>Run</th><th>Mode</th><th class="num">Conf</th><th class="num">Acc</th><th class="num">R_O</th><th class="num">R_U</th></tr></thead>
+<tbody>
+<tr class="us"><td>retrank-AC-1</td><td>calibrated</td><td class="num">0.956</td><td class="num">0.953</td><td class="num">0.95</td><td class="num">1.00</td></tr>
+<tr><td>ORG-AC-1</td><td>overconfident</td><td class="num">0.905</td><td class="num">0.531</td><td class="num">0.09</td><td class="num">0.90</td></tr>
+<tr><td>hit-u-AC-4</td><td>under-confident</td><td class="num">0.016</td><td class="num">0.813</td><td class="num">0.99</td><td class="num">0.02</td></tr>
+</tbody></table></div>
+
+<h2>Calibration transfer (our self-evaluator, not the official judge)</h2>
+<div class="scroll"><table>
+<thead><tr><th>Team run</th><th class="num">Acc</th><th class="num">HMR orig</th><th class="num">+layer</th><th class="num">Δ</th></tr></thead>
+<tbody>
+<tr><td>slr2c2-AC-4 <em>(quarantined)</em></td><td class="num">0.68</td><td class="num">0.243</td><td class="num">0.619</td><td class="num">+0.376</td></tr>
+<tr><td>Error404-AC-3</td><td class="num">0.71</td><td class="num">0.553</td><td class="num">0.697</td><td class="num">+0.144</td></tr>
+<tr><td>BITEM-AC-2</td><td class="num">0.92</td><td class="num">0.599</td><td class="num">0.725</td><td class="num">+0.125</td></tr>
+<tr><td>WaterlooClarke-AC-2</td><td class="num">0.83</td><td class="num">0.820</td><td class="num">0.827</td><td class="num">+0.007</td></tr>
+<tr><td>hit-u-AC-1 (under-conf.)</td><td class="num">0.81</td><td class="num">0.197</td><td class="num">0.179</td><td class="num">−0.018</td></tr>
+</tbody></table></div>
+
+<h2>Held-out judge check — the weak one, know it precisely</h2>
+<div class="scroll"><table>
+<thead><tr><th>Competitor run</th><th class="num">Our self-eval</th><th class="num">Official</th></tr></thead>
+<tbody>
+<tr><td>WaterlooClarke-AC-2</td><td class="num">0.750</td><td class="num">0.761</td></tr>
+<tr><td>hit-u-AC-1</td><td class="num">0.187</td><td class="num">0.184</td></tr>
+<tr><td>Error404-AC-3</td><td class="num">0.504</td><td class="num">0.518</td></tr>
+<tr><td>BITEM-AC-2</td><td class="num">0.621</td><td class="num">0.492</td></tr>
+<tr><td>slr2c2-AC-4 <em>(the big miss)</em></td><td class="num">0.286</td><td class="num">0.729</td></tr>
+</tbody></table></div>
+<p>ρ=0.60 on n=5, permutation p≈0.35, MAE 0.12. <strong>Not significant.</strong> Describe it as a diagnostic that orders the extremes.</p>
+
+<h2>Base-model swap on GPT (fixed GPT-5.5 judge)</h2>
+<div class="scroll"><table>
+<thead><tr><th>Model</th><th class="num">Acc</th><th class="num">HMR off</th><th class="num">HMR on</th><th class="num">Δ [95% CI]</th></tr></thead>
+<tbody>
+<tr><td>gpt-5.6-sol</td><td class="num">0.939</td><td class="num">0.444</td><td class="num">0.599</td><td class="num">+0.156 [−0.03,+0.63]</td></tr>
+<tr><td>gpt-5.6-luna</td><td class="num">0.954</td><td class="num">0.577</td><td class="num">0.717</td><td class="num">+0.140 [−0.04,+0.49]</td></tr>
+<tr><td>gpt-4.1-mini</td><td class="num">0.923</td><td class="num">0.399</td><td class="num">0.899</td><td class="num">+0.500 [+0.10,+0.81] *</td></tr>
+</tbody></table></div>
+<p>3/3 positive; only gpt-4.1-mini individually significant. The GPT-5.6 variants are ≥93% accurate, so they have only 3–4 errors to recalibrate — underpowered, not null.</p>
+
+<h2>No-LLM lower bound</h2>
+<div class="scroll"><table>
+<thead><tr><th>System</th><th class="num">Accuracy</th><th class="num">HMR</th><th class="num">Margin AUC</th></tr></thead>
+<tbody>
+<tr><td>Committee-1 (RoBERTa)</td><td class="num">0.415</td><td class="num">0.629</td><td class="num">0.849</td></tr>
+<tr><td>Committee-2 (+ELECTRA)</td><td class="num">0.462</td><td class="num">0.677</td><td class="num">0.85</td></tr>
+<tr><td>Committee-3 (+MiniLM)</td><td class="num">0.523</td><td class="num">0.659</td><td class="num">0.766</td></tr>
+<tr><td>Committee-5</td><td class="num">0.523</td><td class="num">0.644</td><td class="num">0.736</td></tr>
+<tr class="us"><td>LLM pipeline (AC-2)</td><td class="num">0.953</td><td class="num">0.963</td><td class="num">—</td></tr>
+</tbody></table></div>
+<p>The one-liner: a <em>calibrated but inaccurate</em> committee (HMR 0.66, Acc 0.52) draws level with the <em>accurate but overconfident</em> BITEM (HMR 0.62 under the same judge, Acc 0.92). The thesis in miniature.</p>
+
+<h2>Four things that didn't work</h2>
+<div class="beat">
+  <div class="mark">—</div>
+  <div>
+    <ul>
+      <li><strong>Scaling up.</strong> All-Opus −0.176 HMR, almost entirely R_O (−0.27), not accuracy (−0.05).</li>
+      <li><strong>Scaling down.</strong> All-Haiku −0.170. The useful configuration is <em>selective</em> tiering: strong model at the candidate-answer stage (−0.13 when downgraded), cheap downstream (verifier only −0.05).</li>
+      <li><strong>Naive multi-team pooling.</strong> 0.963 → 0.868. Dilution, not enrichment.</li>
+      <li><strong>Per-topic oracle pool selection.</strong> Also lowered HMR — verifier agreement is a good <em>ranking</em> signal but a biased <em>selection</em> criterion, favouring confidently-wrong candidates on hard topics.</li>
+    </ul>
+  </div>
+</div>
+
+</section>
+
+<!-- ===================== QA ===================== -->
+<section id="view-qa" hidden>
+
+<h2>What they'll actually ask</h2>
+
+<div class="qa">
+  <h3>Isn't HMR gameable? Couldn't you just refuse everything?</h3>
+  <p>In principle yes — an always-refuse strategy does score high HMR. But it does so at near-zero accuracy. We reach top HMR <em>with</em> the field's best accuracy: about 95% of topics answered correctly at high confidence. That's the distinction between being calibrated and being merely modest.</p>
+</div>
+
+<div class="qa">
+  <h3>Your judge is Claude and you tuned against Claude. Isn't that circular?</h3>
+  <p>The official labels come from Qwen-3.5 and GPT-5.5 — different families, so agreement isn't self-agreement. Our self-evaluator matches official HMR on our two main runs to 0.0004, but those are runs we tuned against, so that's corroborating, not held out.</p>
+  <p>The honest held-out number is weak: five competitor runs, ρ=0.60 on n=5, p≈0.35, MAE 0.12, with one large miss on slr2c2. We call it a diagnostic that orders the extremes, not demonstrated validity. It's in the Limitations.</p>
+</div>
+
+<div class="qa">
+  <h3>You won because you had a stronger model.</h3>
+  <p>If raw capability drove it, scaling up should help — it doesn't. All-Opus regressed HMR by 0.176, and the drop is in R_O (−0.27), not accuracy (−0.05): Opus answers nearly as well but its confidence stops separating right from wrong, and post-hoc recalibration doesn't recover it.</p>
+  <p>Subtracting the all-Haiku penalty from our main system leaves about 0.79 under our self-evaluator, against the best non-retrank run's 0.761. That's an estimate, not a submitted run, and I'm not claiming parity — that 0.03 gap is smaller than our judge's own held-out error. Only that a far cheaper model keeps the pipeline near the top of the field.</p>
+</div>
+
+<div class="qa">
+  <h3>You used BITEM's passages. Isn't the result partly theirs?</h3>
+  <p>The task explicitly permits pooling from any team's PR run, and yes — our winning runs ride on their retrieval, which we say prominently in both the paper and the poster. Our own PR ranked last of 22. The claim is specifically that the <em>answering layer</em> is what we contributed; the pool was a competitor's, and credit for it is theirs.</p>
+</div>
+
+<div class="qa">
+  <h3>Is the ρ_s ≈ −0.94 PR/AC inversion a real finding?</h3>
+  <p>Partly mechanical, and I'd rather say so than defend it. PR is re-scored by how often AC systems cited each passage, and our AC preferentially cited BITEM's passages, so the inversion is partly an artefact of citation choices. The defensible claim is weaker: phase-1 standing did not transfer to phase-2.</p>
+</div>
+
+<div class="qa">
+  <h3>Why is the transfer experiment scored under your own judge?</h3>
+  <p>Because the official Qwen+GPT judge can't be re-run on new outputs. Within the experiment the judge is fixed, so the ON/OFF pair shares correctness labels and the delta is clean — but the absolute level is a surrogate number, and shared Claude-family agreement between our verifier and self-evaluator could still flatter the layer. That residual is stated in the paper.</p>
+</div>
+
+<div class="qa">
+  <h3>Three confidence levels seems crude.</h3>
+  <p>It is, and it's now the binding constraint. Because R_U is saturated, all remaining headroom is in R_O — which means separating near-boundary topics in the <em>upper tail</em> of the confidence distribution, exactly the region a three-level cap can't resolve. A finer-grained verifier score is the obvious next measurement.</p>
+</div>
+
+<div class="qa">
+  <h3>Is the verifier really independent of the generator?</h3>
+  <p>No, and that's in the Limitations. It re-derives the answer from a different view of the evidence — entailed nuggets only, no passages — but it's the same model family, so the two share failure modes and their agreement carries less information than its form suggests. Drawing verification from a different family would test whether the gain I'm attributing to separation is limited by their residual correlation.</p>
+</div>
+
+<div class="qa">
+  <h3>n=64 is small. How much of this is noise?</h3>
+  <p>A fair amount, and we grade accordingly rather than headlining weak results. A power analysis puts the minimum detectable accuracy difference at n=65 with 80% power at about 0.15. Findings are labelled robust, suggestive, or preliminary in the paper; the ablation CIs that cross zero are marked as crossing zero.</p>
+</div>
+
+<div class="qa">
+  <h3>Did you try proper uncertainty estimation?</h3>
+  <p>Yes, in the no-LLM arm, and every variance-based estimator failed: MC-dropout AUC 0.53, deep-ensemble score dispersion 0.51 — both near chance. What worked was the point estimate: the answerability margin reaches AUC 0.85. The useful signal is the estimate, not its spread. We'd predict a last-layer Laplace approximation behaves like the others since it targets the same posterior-predictive variance, but we didn't run it and say so.</p>
+</div>
+
+<h2>Phrases to keep exactly as written</h2>
+<div class="beat">
+  <div class="mark">—</div>
+  <div>
+    <p>The paper is scrupulous about what it does and doesn't claim. Under questioning it's easy to round these up — don't.</p>
+    <ul>
+      <li>"evidence for a design emphasis on calibration" — <strong>not</strong> "we beat everyone"</li>
+      <li>"stays in the competitive range of the field-leading team" — <strong>not</strong> "matches it on Haiku"</li>
+      <li>"phase-1 standing did not transfer to phase-2" — <strong>not</strong> "retrieval doesn't matter"</li>
+      <li>"under our self-evaluator" — attach this to every transfer number, every time</li>
+      <li>"direction is consistent, 3/3 positive, but underpowered" — <strong>not</strong> "the GPT swap confirms it"</li>
+      <li>"naive model substitution without re-tuning" — <strong>not</strong> "Opus is worse"</li>
+    </ul>
+  </div>
+</div>
+
+</section>
+
+<div class="foot">
+  Every number here is from <span style="font-family:var(--mono);font-size:.9em">docs/retrank-NTCIR19-R2C2.tex</span> (camera-ready). Official metrics are over 64 topics; self-evaluated surrogate experiments over 65.
+</div>
+
+</div>
+
+<script>
+(function(){
+  var views=["talk","poster","numbers","qa"];
+  var tabs=Array.prototype.slice.call(document.querySelectorAll('nav button'));
+  function show(v){
+    if(views.indexOf(v)<0)v="talk";
+    views.forEach(function(n){
+      var el=document.getElementById("view-"+n);
+      if(el)el.hidden=(n!==v);
+    });
+    tabs.forEach(function(b){
+      b.setAttribute("aria-selected",String(b.dataset.view===v));
+    });
+  }
+  tabs.forEach(function(b){
+    b.addEventListener("click",function(){
+      location.hash=b.dataset.view;
+      show(b.dataset.view);
+      window.scrollTo(0,0);
+    });
+  });
+  window.addEventListener("hashchange",function(){
+    show(location.hash.replace(/^#/,""));
+  });
+  show(location.hash.replace(/^#/,"")||"talk");
+})();
+</script>

@@ -164,9 +164,9 @@ hit-u-AC-4 & under-confident & 0.016 & 0.813 & 0.99 & \hl{0.02}\\
 \end{tikzpicture}
 
 \vspace{0.6em}
-{\large Confidence comes from the \hl{verifier}, never from the generator's self-report.}
+{\large Confidence is anchored to the \hl{verifier}, not the generator's self-report.}
 \end{frame}
-\note{6:00. The red boxes are the contribution. Everything above them is standard.}
+\note{6:00. The red boxes are the key confidence mechanism; stages 3--5 form the calibration layer. Self-confidence still passes through when the verifier fully agrees.}
 
 %% ---------------------------------------------------------------- 6:00 -- 6:45
 \begin{frame}{Four runs, one calibration layer}
@@ -220,7 +220,7 @@ The claim is only that PR standing did not transfer to AC.\par}
 \end{frame}
 \note{7:30. Genuine thanks here, it is not filler -- we won on someone else's passages.}
 
-%% ---------------------------------------------------------------- 7:30 -- 8:40
+%% ---------------------------------------------------------------- 7:30 -- 8:25
 \begin{frame}{The layer transfers to other teams' systems}
 \centering\vspace{0.2em}
 {\small Hold each competitor's \emph{answers} fixed; replace only their confidence
@@ -248,35 +248,35 @@ hit-u-AC-1 \emph{(under-conf.)} & 0.81 & 0.197 & 0.179 & $-$0.018\\
         $^\dagger$Quarantined: the run it mis-scores worst}
 \end{itemize}
 \end{frame}
-\note{8:40. The slide the room cares about. Expect the Q&A to come from here.}
+\note{8:25. The slide the room cares about. Expect the Q&A to come from here.}
 
-%% ---------------------------------------------------------------- 8:40 -- 9:25
+%% ---------------------------------------------------------------- 8:25 -- 9:25
 \begin{frame}{``You just used a strong LLM''}
 All R2C2 ground truth is LLM-generated, so we tested the objection rather than
 asserting against it:
 \vspace{0.6em}
 \begin{itemize}\setlength\itemsep{0.45em}
-  \item Self-evaluator matches the \emph{official} \HMR{} to \textbf{0.0004} in-sample;
+  \item On our two main runs, self-evaluator matches the \emph{official} \HMR{} to \textbf{0.0004} (in-sample);
         held out on 5 competitor runs it is only weak ($\rho{=}0.60$)
   \item \textbf{Base-model swap:} streamlined pipeline on three GPT models reproduces
         the calibration gain --- \gd{3/3} positive, 1 significant
-  \item \textbf{Cheapest tier} (all-Haiku) stays near the top of the field
-        ($\approx$0.79 vs.\ 0.761) --- not parity
+  \item \textbf{Cheapest tier} (all-Haiku) estimated at $\approx$0.79 (self-eval), in the
+        competitive range of the next-best 0.761 --- not parity
   \item \textbf{No-LLM floor:} confidence is recoverable cheaply (AUC 0.80);
         \emph{accuracy} is not (0.52)
 \end{itemize}
 \vspace{0.5em}
 {\small Residual caveat: these use a surrogate judge, not the official Qwen$+$GPT ensemble.}
 \end{frame}
-\note{9:25. Say the caveat out loud -- it buys credibility and pre-empts the question.}
+\note{9:25. Sixty seconds. Say three things: tuned-vs-held-out judge, GPT 3/3 with one significant, the surrogate caveat. Opus and no-LLM details are for Q\&A.}
 
 %% ---------------------------------------------------------------- 9:25 -- 10:00
 \begin{frame}{Where the headroom is}
 \begin{itemize}\setlength\itemsep{0.5em}
-  \item $\RU$ is \textbf{saturated}. All remaining \HMR{} lives in $\RO$ --- in separating
+  \item $\RU$ is \textbf{near saturation}. Almost all remaining \HMR{} headroom lies in $\RO$ --- in separating
         near-boundary topics in the \hl{upper tail} of the confidence distribution
-  \item Our confidence has only \textbf{three levels} (5 / 25 / 60) --- too coarse to
-        resolve that tail
+  \item A three-valued verifier score caps confidence at \textbf{5 / 25 / 60} --- too
+        coarse to resolve that tail
   \item The verifier shares the generator's \textbf{model family}, so their agreement is
         less independent than its form suggests
 \end{itemize}
@@ -315,6 +315,14 @@ hit-u & 0.184 & 0.813 & 0.477\\
 (randomised Tukey HSD, $B{=}5000$).}
 \end{frame}
 
+\begin{frame}{Backup: reliability, not just the mean}
+\centering
+\includegraphics[height=0.70\textheight]{../figures/fig_reliability.pdf}
+\par\vspace{0.3em}
+{\small Mean confidence 0.956 vs.\ accuracy 0.953 could hide poor per-bin reliability;
+this diagram is the per-bin check (main system AC-2 highlighted).}
+\end{frame}
+
 \begin{frame}{Backup: the exact confidence rule}
 \begin{itemize}\setlength\itemsep{0.5em}
   \item Verifier emits \texttt{match\_score} $\in\{0,1,2\}$ by re-deriving the answer
@@ -338,7 +346,8 @@ the 65 official topics were never used for tuning.}
   \item Transfer and base-model swap are scored by a \textbf{surrogate judge}
   \item Model-tier ablations hold prompts fixed --- they measure naive substitution,
         not model capability
-  \item $n=64$ topics
+  \item $n=64$ topics. Significance is reported only for the \MNP{} lead; the \HMR{}
+        and Accuracy leads and the $+$0.065 transfer mean are point estimates
 \end{itemize}
 \end{frame}
 
