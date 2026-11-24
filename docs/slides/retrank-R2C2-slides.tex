@@ -178,7 +178,7 @@ Run & role & $\RO$ & $\RU$ & Acc & \HMR\\
 AC-1 & saturation & 0.95 & 1.00 & 0.953 & \gd{0.974}\\
 AC-2 & main system & 0.95 & 0.976 & 0.953 & 0.963\\
 AC-3 & accuracy hedge & 0.85 & 0.964 & \textbf{0.969} & 0.903\\
-AC-4 & judge hedge & --- & --- & --- & 0.868\\
+AC-4 & 6-team pool & 0.79 & 0.962 & 0.891 & 0.868\\
 \bottomrule
 \end{tabular}
 
@@ -213,6 +213,9 @@ The best retriever was not\\the best answerer.
 \end{column}
 \end{columns}
 \vspace{0.6em}
+{\small Partly mechanical: PR is re-scored by AC citations, and we cited BITEM.
+The claim is only that PR standing did not transfer to AC.\par}
+\vspace{0.3em}
 \centering{\large Cross-team pooling is what made this measurable --- thank you to the field.}
 \end{frame}
 \note{7:30. Genuine thanks here, it is not filler -- we won on someone else's passages.}
@@ -228,19 +231,21 @@ with our verifier-capped layer.}
 \toprule
 Team run & Acc & \HMR{} orig & $+$layer & $\Delta$\HMR\\
 \midrule
-slr2c2-AC-4 & 0.68 & 0.243 & 0.619 & \gd{$+$0.376}\\
 Error404-AC-3 & 0.71 & 0.553 & 0.697 & \gd{$+$0.144}\\
 BITEM-AC-2 & 0.92 & 0.599 & 0.725 & \gd{$+$0.125}\\
 WaterlooClarke-AC-2 & 0.83 & 0.820 & 0.827 & $+$0.007\\
 hit-u-AC-1 \emph{(under-conf.)} & 0.81 & 0.197 & 0.179 & $-$0.018\\
+\midrule
+\color{gray}slr2c2-AC-4$^\dagger$ & \color{gray}0.68 & \color{gray}0.243 & \color{gray}0.619 & \color{gray}$+$0.376\\
 \bottomrule
 \end{tabular}
 
 \vspace{0.8em}
 \begin{itemize}
-  \item Lifts the \textbf{overconfident} teams, via $\RO$ --- as predicted
+  \item Mean \textbf{$+$0.065} over the four; lifts the \textbf{overconfident} teams, via $\RO$
   \item Correctly \textbf{cannot} help the already under-confident one
-  \item {\small Scored by our self-evaluator, not the official judge}
+  \item {\small Scored by our self-evaluator, not the official judge.
+        $^\dagger$Quarantined: the run it mis-scores worst}
 \end{itemize}
 \end{frame}
 \note{8:40. The slide the room cares about. Expect the Q&A to come from here.}
@@ -251,10 +256,12 @@ All R2C2 ground truth is LLM-generated, so we tested the objection rather than
 asserting against it:
 \vspace{0.6em}
 \begin{itemize}\setlength\itemsep{0.45em}
-  \item Self-evaluator matches the \emph{official} \HMR{} to \textbf{0.0004} in-sample
-  \item \textbf{Base-model swap:} the pipeline on three GPT models reproduces the
-        calibration gain --- \gd{3/3} positive $\Delta\HMR$
-  \item \textbf{Cheapest tier} (all-Haiku) stays in the field-leading range
+  \item Self-evaluator matches the \emph{official} \HMR{} to \textbf{0.0004} in-sample;
+        held out on 5 competitor runs it is only weak ($\rho{=}0.60$)
+  \item \textbf{Base-model swap:} streamlined pipeline on three GPT models reproduces
+        the calibration gain --- \gd{3/3} positive, 1 significant
+  \item \textbf{Cheapest tier} (all-Haiku) stays near the top of the field
+        ($\approx$0.79 vs.\ 0.761) --- not parity
   \item \textbf{No-LLM floor:} confidence is recoverable cheaply (AUC 0.80);
         \emph{accuracy} is not (0.52)
 \end{itemize}
