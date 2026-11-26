@@ -197,7 +197,7 @@ AC-4 & 6-team pool & 0.79 & 0.962 & 0.891 & 0.868\\
 %% ============================ COLUMN 3 ============================
 \begin{column}{.315\paperwidth}
 
-\begin{block}{The layer transfers to other teams}
+\begin{block}{Our layer on other teams' answers}
 {\large Hold each competitor's \emph{answers} fixed; replace only their confidence
 with our verifier-capped layer:}
 \vspace{0.4cm}
@@ -216,7 +216,7 @@ hit-u-AC-1 (under-conf.) & 0.197 & 0.179 & $-$0.018\\
 \end{tabular}
 
 \vspace{0.4cm}
-{\large Mean \textbf{$+$0.065} over the four. It lifts the \emph{overconfident} teams via
+{\large Mean \textbf{$+$0.065} over the four (no CI). It lifts the \emph{overconfident} teams via
 $\RO$, and --- correctly --- cannot help the already under-confident one.\par}
 \vspace{0.2cm}
 {\normalsize Scored under our self-evaluator (the official judge cannot be re-run).
@@ -229,7 +229,7 @@ All R2C2 ground truth is LLM-generated, so we tested the objection rather than
 asserting against it:
 \begin{itemize}
   \item On our two main runs, self-evaluator matches \emph{official} \HMR{} to \textbf{0.0004} (in-sample);
-        held out on 5 competitor runs it is only weak ($\rho{=}0.60$)
+        held out on 5 competitor runs: weak, n.s.\ ($\rho{=}0.60$, $p{\approx}0.35$)
   \item \textbf{Base-model swap:} streamlined pipeline on three GPT models reproduces
         the calibration gain (\textbf{3/3} positive, 1 significant)
   \item \textbf{Cheapest tier} (all-Haiku) estimated at $\approx$0.79 (self-eval), in the competitive range of the
@@ -249,7 +249,7 @@ near-boundary topics in the \textbf{upper tail} of the confidence distribution.
 \vspace{0.4cm}
 Two limits we name:
 \begin{itemize}
-  \item Confidence is capped at \textbf{three levels} (5/25/60) --- too coarse to resolve that tail
+  \item The verifier allows only \textbf{cap 25 / cap 60 / unchanged} (refuse at 5) --- too coarse for that tail
   \item The verifier shares the generator's \textbf{model family}, so their agreement is
         less independent than it looks
 \end{itemize}

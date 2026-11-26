@@ -205,7 +205,7 @@ AC-4 & 6-team pool & 0.79 & 0.962 & 0.891 & 0.868\\
 \end{column}
 \begin{column}{0.44\textwidth}
 \centering
-\begin{block}{}
+\begin{block}{PR vs.\ AC standing}
 \centering
 {\fontsize{30}{36}\selectfont\bfseries\color{accent}$\rho_s \approx -0.94$}\\[0.4em]
 The best retriever was not\\the best answerer.
@@ -221,7 +221,7 @@ The claim is only that PR standing did not transfer to AC.\par}
 \note{7:30. Genuine thanks here, it is not filler -- we won on someone else's passages.}
 
 %% ---------------------------------------------------------------- 7:30 -- 8:25
-\begin{frame}{The layer transfers to other teams' systems}
+\begin{frame}{Our layer on other teams' answers}
 \centering\vspace{0.2em}
 {\small Hold each competitor's \emph{answers} fixed; replace only their confidence
 with our verifier-capped layer.}
@@ -275,8 +275,8 @@ asserting against it:
 \begin{itemize}\setlength\itemsep{0.5em}
   \item $\RU$ is \textbf{near saturation}. Almost all remaining \HMR{} headroom lies in $\RO$ --- in separating
         near-boundary topics in the \hl{upper tail} of the confidence distribution
-  \item A three-valued verifier score caps confidence at \textbf{5 / 25 / 60} --- too
-        coarse to resolve that tail
+  \item A three-valued verifier score gives only \textbf{cap at 25 / cap at 60 / unchanged}
+        (refuse at 5) --- too coarse to resolve that tail
   \item The verifier shares the generator's \textbf{model family}, so their agreement is
         less independent than its form suggests
 \end{itemize}
@@ -319,8 +319,8 @@ hit-u & 0.184 & 0.813 & 0.477\\
 \centering
 \includegraphics[height=0.70\textheight]{../figures/fig_reliability.pdf}
 \par\vspace{0.3em}
-{\small Mean confidence 0.956 vs.\ accuracy 0.953 could hide poor per-bin reliability;
-this diagram is the per-bin check (main system AC-2 highlighted).}
+{\small For AC-1, mean confidence 0.956 vs.\ accuracy 0.953 could hide poor per-bin reliability;
+this diagram checks all submitted runs per bin (main system AC-2 highlighted).}
 \end{frame}
 
 \begin{frame}{Backup: the exact confidence rule}
