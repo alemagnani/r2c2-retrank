@@ -266,8 +266,8 @@ em.t{font-style:normal;font-family:var(--mono);font-size:.92em;font-weight:500;f
     <span>Poster upload <b>27 Nov AoE</b></span>
   </div>
   <div class="slot dl">
-    <span>Download: <a href="NTCIR19-R2C2-MagnaniA-poster.pdf" download>Poster PDF (A0, print-ready)</a></span>
-    <span><a href="retrank-R2C2-slides.pdf" download>Slides PDF (16:9, 16 pp)</a></span>
+    <span>Download: <a href="NTCIR19-R2C2-MagnaniA-poster.pdf" target="_blank" rel="noopener" data-save>Poster PDF (A0, print-ready)</a></span>
+    <span><a href="retrank-R2C2-slides.pdf" target="_blank" rel="noopener" data-save>Slides PDF (16:9, 16 pp)</a></span>
   </div>
   <div class="thesis">
     <span>The whole talk in one sentence</span>
@@ -909,5 +909,27 @@ em.t{font-style:normal;font-family:var(--mono);font-size:.92em;font-weight:500;f
     show(location.hash.replace(/^#/,""));
   });
   show(location.hash.replace(/^#/,"")||"paper");
+})();
+
+/* PDF links: save through the downloads capability when the viewer offers it;
+   otherwise the plain link opens the file in a new tab. */
+(function(){
+  var dl=null;
+  if(window.claude&&window.claude.use){
+    window.claude.use("downloads").then(function(d){dl=d;}).catch(function(){});
+  }
+  document.querySelectorAll("a[data-save]").forEach(function(a){
+    a.addEventListener("click",function(e){
+      if(!dl)return;
+      e.preventDefault();
+      var name=a.getAttribute("href");
+      fetch(name).then(function(r){if(!r.ok)throw new Error(r.status);return r.blob();})
+        .then(function(b){
+          return dl.save({filename:name,data:b}).catch(function(err){
+            if(err&&err.code!=="declined"&&err.code!=="rate_limited")window.open(name,"_blank","noopener");
+          });
+        },function(){window.open(name,"_blank","noopener");});
+    });
+  });
 })();
 </script>
